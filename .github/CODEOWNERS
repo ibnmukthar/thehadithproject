@@ -1,0 +1,7 @@
+# Every change needs review from a maintainer before it can be merged.
+# Narrator records, verdicts and site copy are the project's substance;
+# add scholars' handles to these lines as the editorial board forms.
+*                 @ibnmukthar
+/src/data/        @ibnmukthar
+/src/app/         @ibnmukthar
+/docs/            @ibnmukthar
