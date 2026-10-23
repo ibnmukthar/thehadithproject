@@ -1,5 +1,7 @@
 # Deploying
 
+**Current state (23 October 2026):** the site is live at https://thehadithproject.com and https://www.thehadithproject.com, served by the Cloudflare Worker `thehadithproject` (account "Muhammad.cetor@gmail.com's Account", zone `thehadithproject.com`) with static assets uploaded through the Cloudflare API. The two custom domains are attached to the Worker; the zone's MX and SPF records for email forwarding were left untouched. A preview also exists at https://thehadithproject.muhammad-cetor.workers.dev. To redeploy after a change: `npx wrangler login` once, then `NODE_ENV=production pnpm deploy`.
+
 The site is a fully static export (`next.config.ts` sets `output: "export"`), so it can be served from any static host. The recommended target is Cloudflare, because the domain can live on Cloudflare DNS, static requests are free and served from the edge, `public/_headers` sets content types for the JSON API and the OpenGraph image, and the later phases of the project (a real API, the reply bot, dataset downloads) fit Workers, D1 and R2 without moving.
 
 ## Option 1 (recommended): Cloudflare Workers with static assets, connected to GitHub

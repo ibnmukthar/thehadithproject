@@ -1,9 +1,14 @@
 {
   "name": "thehadithproject",
+  "account_id": "5dad8ad0128f4b7be8947b5d2e8f038d",
   "compatibility_date": "2026-10-01",
   "assets": {
     "directory": "./out",
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
-  }
+  },
+  "routes": [
+    { "pattern": "thehadithproject.com", "custom_domain": true },
+    { "pattern": "www.thehadithproject.com", "custom_domain": true }
+  ]
 }
