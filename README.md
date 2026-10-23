@@ -15,7 +15,7 @@ This repository holds the public site and the prototype dataset. The thinking be
   - *Seek knowledge even in China* (al-Khatib, al-Rihla 1): weak, with the critics' words on the narrator who carries it, and the separate, better-attested sentence it is usually attached to.
 - **Narrator records** quoting Ibn Hajar's Taqrib and the earlier critics, with sources.
 - **Three depths** of the same page: reader, student, researcher.
-- **Visualisations**: the isnad as a vertical chain with transmission formulae and fan-out; lifespans on a hijri axis showing teacher–student overlap.
+- **Visualisations**: the isnad as a vertical chain with transmission formulae and fan-out; lifespans on a hijri axis showing teacher–student overlap; for the two contested hadith, the competing routes side by side, aligned by generation, with the faulty link flagged and shared narrators tinted. Every diagram has a table view.
 - **Reference cards**: what a link unfurls into when pasted into a feed.
 - **A static JSON API** under `/api/v0/` with the same records the pages render.
 

@@ -44,7 +44,7 @@ export function Conditions() {
           </span>
           <div className="pl-7 md:pl-0 text-left md:text-center">
             <div className="sans font-semibold text-ink text-[0.98rem]">{c.title}</div>
-            <div className="arabic text-ink-2 text-[1.15rem] leading-snug text-left md:text-center" style={{ direction: "rtl" }}>{c.ar}</div>
+            <div lang="ar" dir="rtl" className="arabic text-ink-2 text-[1.15rem] leading-snug text-left md:text-center" style={{ direction: "rtl" }}>{c.ar}</div>
             <p className="small text-ink-2 mt-2" style={{ maxWidth: "none" }}>{c.what}</p>
             <p className="tiny text-muted mt-2" style={{ maxWidth: "none" }}>{c.modern}</p>
           </div>

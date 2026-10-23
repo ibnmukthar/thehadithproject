@@ -61,7 +61,7 @@ export function BandChip({ band, showAr = true, size = "md" }: { band: Band; sho
     >
       <Glyph glyph={b.glyph} color={b.color} size={size === "sm" ? 11 : 13} />
       <span className="font-medium">{b.label}</span>
-      {showAr && <span className="arabic text-[1.05em] leading-none text-ink-2">{b.labelAr}</span>}
+      {showAr && <span lang="ar" className="arabic text-[1.05em] leading-none text-ink-2">{b.labelAr}</span>}
     </span>
   );
 }
@@ -76,7 +76,7 @@ export function HadithChip({ band, label, size = "md" }: { band: HadithBand; lab
     >
       <Glyph glyph={b.glyph} color={b.color} size={size === "sm" ? 11 : size === "lg" ? 15 : 13} />
       <span className="font-medium">{label ?? b.label}</span>
-      <span className="arabic text-[1.05em] leading-none text-ink-2">{b.labelAr}</span>
+      <span lang="ar" className="arabic text-[1.05em] leading-none text-ink-2">{b.labelAr}</span>
     </span>
   );
 }

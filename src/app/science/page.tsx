@@ -71,7 +71,7 @@ export default function SciencePage() {
               <span className="text-muted">{r.n}</span>
               <span><RankGlyph band={r.band} /></span>
               <span>
-                <span className="arabic text-[1.15rem] text-ink mr-3" style={{ direction: "rtl" }}>{r.ar}</span>
+                <span lang="ar" className="arabic text-[1.15rem] text-ink mr-3" style={{ direction: "rtl" }}>{r.ar}</span>
                 <span className="text-ink-2">{r.en}</span>
               </span>
             </li>
@@ -112,6 +112,29 @@ export default function SciencePage() {
         </p>
       </Section>
 
+      <section className="mt-14 border-t border-hairline pt-8 max-w-[70ch]">
+        <details className="group">
+          <summary className="cursor-pointer text-ink-2 small">A side note on testimony, and on whether it can be counted</summary>
+          <div className="mt-5 grid gap-4 text-ink-2 [&>p]:max-w-none">
+            <p>
+              Most of what anyone knows, they know because someone told them. History, science, the news, the verdict of a court, your own date of birth: all testimony. Philosophers have argued about how such knowledge is justified since Hume, who held that we trust witnesses only because experience shows testimony and fact usually agree, and Thomas Reid, who answered that trust in what others tell us is an original principle of the mind, limited by experience rather than built from it. C. A. J. Coady's <em>Testimony</em> (1992) opened the contemporary debate. The scholars of hadith were not working on a strange problem; they were working on the general problem, earlier and more systematically than anyone.
+            </p>
+            <p>
+              The founders of probability met the same two questions. Laplace, in his <em>Philosophical Essay on Probabilities</em> (1814), works the case of a fact passed down a chain of twenty witnesses, each with nine chances in ten of speaking truly: it arrives with a probability below one in eight, fading, he says, like light through a series of panes of glass, and he adds that historians had not paid this degradation enough attention. In his chapter on testimonies he shows the opposite effect: two independent witnesses who agree make a fact nearly certain, but only, he is careful to say, if they have no secret agreement. Condorcet had tried in 1784 to measure a historian's credibility as an error rate, and a colleague objected that this was a usurpation of criticism by arithmetic.
+            </p>
+            <p>
+              Both questions are the daily business of the hadith critic. The first is why the discipline prized a short chain with few links and devoted a chapter of its manuals to "high" and "low" chains, and why every added narrator is examined rather than assumed. The second is the whole theory of corroboration. Al-Khatib al-Baghdadi (d. 463 AH) defines the mass-transmitted report (mutawatir) not by a count but by the impossibility of collusion among its transmitters; Ibn Hajar says there is no sense in fixing a number, and lists the numbers people had proposed; al-Ghazali says the threshold at which accumulating reports turn into certain knowledge is known to God and not to us, as we know bread satisfies without knowing the least quantity that would. His description of the process is almost Laplace's: the first report stirs a supposition, the second and third confirm it, and it keeps strengthening until it is necessary knowledge.
+            </p>
+            <p>
+              Here the parallel should stop, and the discipline is wiser than the arithmetic. The critics never assigned a number to a narrator, because reliability is not a fixed fraction: it varies by teacher, by period, and by whether a man narrated from his book or his memory. A naive multiplication would make every long chain worthless and every heap of weak routes strong; the critics did neither. They read a chain person by person, and they admitted corroboration only when the routes were genuinely independent and their weakness light, which is exactly what the two contested examples on this site show. They also kept the registers apart: certainty from mass transmission is a matter of settled custom, not calculation, and most hadith are single-narrator reports that yield probable knowledge, which the law treats as sufficient to act on. That is graded confidence, stated explicitly, seven centuries before anyone had a theory of it. We are not aware of a peer-reviewed probabilistic model of chain corroboration, and the best-known modern use of probability language in this field (Hallaq, 1999) uses it informally. This project uses arithmetic for nothing more than it should: counting routes, checking dates, and drawing where routes converge. The judgement stays with the scholars.
+            </p>
+            <p className="tiny text-muted" style={{ maxWidth: "none" }}>
+              Sources: <a className="link" href="https://plato.stanford.edu/entries/testimony-episprob/" rel="noopener">Stanford Encyclopedia of Philosophy, "Epistemological Problems of Testimony"</a>; Hume, <a className="link" href="https://davidhume.org/texts/e/10" rel="noopener">Enquiry, section X</a>; Reid, Inquiry (1764) VI.24; Coady, Testimony (Oxford, 1992); Laplace, <a className="link" href="https://www.gutenberg.org/ebooks/58881" rel="noopener">A Philosophical Essay on Probabilities</a>, ch. III and XI; Condorcet, "Application des principes…", Histoire de l'Académie 1784; al-Khatib al-Baghdadi, <a className="link" href="https://shamela.ws/book/13055" rel="noopener">al-Kifaya</a>, on the division of reports; al-Ghazali, al-Mustasfa, on the least number that yields necessary knowledge; Ibn Hajar, <a className="link" href="https://shamela.ws/book/1565" rel="noopener">Nuzhat al-Nazar</a>, on the mutawatir; W. Hallaq, <a className="link" href="https://doi.org/10.2307/1596086" rel="noopener">"The Authenticity of Prophetic Hadith: A Pseudo-Problem"</a>, Studia Islamica 89 (1999).
+            </p>
+          </div>
+        </details>
+      </section>
+
       <Section title="What this means online">
         <p>
           When someone cites a hadith, the useful reply is not “that's fake” or “that's sahih”. It is the chain, the narrators, and who graded it. That reply used to require a library. <Link href="/" className="link">It should require a link.</Link>
@@ -149,7 +172,7 @@ function Grade({ glyph, color, title, ar, body }: { glyph: "solid" | "half" | "h
     <li className="grid grid-cols-[1.5rem_1fr] gap-3">
       <span className="pt-1.5"><Glyph glyph={glyph} color={color} size={15} /></span>
       <div>
-        <div className="text-[1.15rem] text-ink">{title} <span className="arabic text-ink-2 text-[1.2rem]">{ar}</span></div>
+        <div className="text-[1.15rem] text-ink">{title} <span lang="ar" className="arabic text-ink-2 text-[1.2rem]">{ar}</span></div>
         <p className="small text-ink-2 mt-1">{body}</p>
       </div>
     </li>

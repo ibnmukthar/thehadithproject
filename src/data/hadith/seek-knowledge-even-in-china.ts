@@ -78,6 +78,61 @@ export const seekKnowledgeEvenInChina: Hadith = {
       body: "Why can many weak routes lift the obligation sentence but not the China clause? Because corroboration requires independent routes whose weakness is mild, not routes that all return to the same abandoned narrator or to liars. Al-Albani, who accepts the first sentence, rejects the second for exactly this reason.",
     },
   ],
+  comparison: {
+    title: "Every route, and where each one fails",
+    intro: "Corroboration only counts when the routes are independent and their weakness is light. Lay the routes side by side and the reason the critics refused to let them support each other is plain.",
+    routes: [
+      {
+        label: "Abu Atika from Anas",
+        verdict: "Weak",
+        band: "daif",
+        nodes: [
+          { name: "Anas ibn Malik", band: "sahabi" },
+          { name: "Abu Atika", band: "matruk", flag: "abandoned; “objectionable in hadith”, says al-Bukhari" },
+          { name: "al-Hasan ibn Atiyya", band: "saduq" },
+          { name: "al-Khatib, al-Bayhaqi, Ibn Adi, al-Uqayli and others", band: "thiqa" },
+        ],
+        note: "The only route that does not pass through a known liar. It fails on one man, and al-Uqayli's remark that the words “even in China” are preserved from no one else is the whole story.",
+      },
+      {
+        label: "Al-Zuhri from Anas, through Ya'qub ibn Ishaq al-Asqalani",
+        verdict: "Fabricated",
+        band: "mawdu",
+        nodes: [
+          { name: "Anas ibn Malik", band: "sahabi" },
+          { name: "al-Zuhri", band: "thiqa" },
+          { name: "Sufyan ibn Uyaynah", band: "thiqa" },
+          { name: "Ubayd ibn Muhammad al-Firyabi" },
+          { name: "Ya'qub ibn Ishaq al-Asqalani", band: "matruk", flag: "“a liar”, says al-Dhahabi" },
+        ],
+        note: "In Ibn Abd al-Barr's Jami'. A chain of famous, reliable names with a liar at the bottom: the textbook shape of a forgery, which is why a chain is read from the bottom up.",
+      },
+      {
+        label: "Abu Hurayra, through al-Juwaybari",
+        verdict: "Fabricated",
+        band: "mawdu",
+        nodes: [
+          { name: "Abu Hurayra", band: "sahabi" },
+          { name: "Abu Salama", band: "thiqa" },
+          { name: "Muhammad ibn Amr", band: "saduq" },
+          { name: "al-Fadl ibn Musa", band: "thiqa" },
+          { name: "Ahmad ibn Abdullah al-Juwaybari", band: "matruk", flag: "a known fabricator" },
+        ],
+        note: "Ibn Adi: “from al-Juwaybari's fabrications”. Two fabricated routes do not corroborate a weak one; they confirm that the saying was in circulation and that people wanted it to be a hadith.",
+      },
+      {
+        label: "The obligation sentence on its own",
+        verdict: "Hasan by its routes",
+        band: "hasan",
+        nodes: [
+          { name: "Anas, and several other Companions", band: "sahabi" },
+          { name: "some twenty Successors from Anas alone", band: "thiqa" },
+          { name: "dozens of routes, none sound by itself" },
+        ],
+        note: "“Seeking knowledge is an obligation on every Muslim” is a different case: many routes, each with a light weakness, through different people. That is what corroboration can repair, and al-Mizzi, al-Suyuti and al-Albani accepted it on that basis.",
+      },
+    ],
+  },
   context:
     "The obligation sentence is itself the subject of a celebrated disagreement. Ahmad, Ishaq ibn Rahawayh, al-Bazzar and Ibn al-Jawzi held that none of its chains is sound, and Ishaq said the obligation is real even if the report is not. Al-Mizzi, al-Suyuti and al-Albani accepted it on the strength of its many routes, and al-Iraqi reports that some imams graded its routes sound; Ibn al-Salah had used it as his example of a report famous among people but not sound. Al-Sakhawi also warned that the addition “and every Muslim woman” appears in none of its routes.",
   vocabulary: [

@@ -19,7 +19,7 @@ export function ModeToggle({ mode, onChange }: { mode: Mode; onChange: (m: Mode)
             role="radio"
             aria-checked={mode === m.id}
             onClick={() => onChange(m.id)}
-            className={`px-3.5 py-1.5 text-[0.88rem] rounded-[4px] transition-colors ${mode === m.id ? "bg-page text-ink shadow-[0_0_0_1px_var(--hairline-strong)] font-medium" : "text-ink-2 hover:text-ink"}`}
+            className={`px-3.5 py-2.5 sm:py-1.5 min-h-[44px] sm:min-h-0 text-[0.88rem] rounded-[4px] transition-colors ${mode === m.id ? "bg-page text-ink shadow-[0_0_0_1px_var(--hairline-strong)] font-medium" : "text-ink-2 hover:text-ink"}`}
           >
             {m.label}
           </button>

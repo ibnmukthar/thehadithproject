@@ -77,6 +77,51 @@ export const leavingWhatDoesNotConcern: Hadith = {
       body: "This is hadith 12 of al-Nawawi's Forty, and one of four hadith Abu Dawud said would suffice a person for their religion. Its standing is real and its chain is contested. A record that could not hold both facts at once would be lying about one of them.",
     },
   ],
+  comparison: {
+    title: "Two shapes of one report",
+    intro: "Al-Zuhri's students carried this report in two shapes, and the whole dispute is about which is the preserved one. The critics then asked whether the other routes from other Companions are independent enough to count as witnesses.",
+    routes: [
+      {
+        label: "The connected chain: al-Awza'i from Qurra",
+        verdict: "Disputed",
+        band: "disputed",
+        nodes: [
+          { name: "Abu Hurayra", band: "sahabi" },
+          { name: "Abu Salama", band: "thiqa" },
+          { name: "al-Zuhri", band: "thiqa" },
+          { name: "Qurra ibn Abd al-Rahman", band: "saduq", flag: "truthful, but has objectionable reports; most critics say he erred here" },
+          { name: "al-Awza'i", band: "thiqa" },
+          { name: "his students, then al-Tirmidhi and Ibn Majah", band: "thiqa" },
+        ],
+        note: "Hasan to al-Nawawi, because every other narrator is reliable; an error of Qurra's to al-Bukhari, al-Daraqutni, Ibn Rajab and Ibn Hajar, because al-Zuhri's stronger students did not carry it this way.",
+      },
+      {
+        label: "The mursal: Malik and most of al-Zuhri's students",
+        verdict: "Mursal",
+        band: "note",
+        nodes: [
+          { name: "no Companion named", band: "gap", flag: "the gap that makes it mursal" },
+          { name: "Ali ibn al-Husayn", band: "thiqa" },
+          { name: "al-Zuhri", band: "thiqa" },
+          { name: "Malik, Ma'mar, Yunus, Ibrahim ibn Sa'd", band: "thiqa" },
+        ],
+        note: "In the Muwatta and at al-Tirmidhi 2318. Held to be the preserved form by Ahmad, Ibn Ma'in, al-Bukhari, al-Tirmidhi, al-Daraqutni and Ibn Rajab: sound as far as Ali ibn al-Husayn, but with the Companion missing it cannot stand as a Prophetic report on its own.",
+      },
+      {
+        label: "A witness from another Companion: al-Husayn ibn Ali",
+        verdict: "Weak witness",
+        band: "daif",
+        nodes: [
+          { name: "al-Husayn ibn Ali", band: "sahabi" },
+          { name: "Ali ibn al-Husayn", band: "thiqa" },
+          { name: "al-Zuhri", band: "thiqa" },
+          { name: "Abdullah ibn Umar al-Umari", band: "daif", flag: "weak; “not a memoriser”, says Ibn Rajab" },
+          { name: "Musa ibn Dawud, then Ahmad", band: "saduq" },
+        ],
+        note: "Musnad Ahmad 1737. Al-Arna'ut counts this and the other routes as witnesses that lift the text to hasan; Ibn Rajab replies that this one is only the mursal with a Companion wrongly added by a weak narrator, and that the rest are all weak. Whether a witness is independent is the hinge of the whole argument.",
+      },
+    ],
+  },
   context:
     "Abu Dawud, compiler of the Sunan, is reported by al-Khatib al-Baghdadi to have said that four hadith suffice a person for their religion: “Actions are by intentions”, this one, “A believer is not a believer until he is content for his brother with what he is content with for himself”, and “The lawful is clear and the unlawful is clear”. Ibn Abi Zayd al-Qayrawani separately named it, as Ibn al-Salah reports, among four hadith from which all good manners branch.",
   vocabulary: [

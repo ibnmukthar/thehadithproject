@@ -1,6 +1,6 @@
 "use client";
 
-import { useId, useState } from "react";
+import { useEffect, useId, useRef, useState } from "react";
 import type { Hadith, Narration, Narrator } from "@/data/types";
 import { BANDS } from "@/lib/bands";
 
@@ -14,6 +14,7 @@ interface Props {
   showSigha?: boolean;
   width?: number;
   step?: number;
+  tableView?: boolean;
 }
 
 /**
@@ -21,9 +22,24 @@ interface Props {
  * Each node is a narrator; each edge carries the transmission formula used
  * in the book (حدثنا, أخبرني, سمعت, عن…), which is itself evidence.
  */
-export function IsnadGraph({ narration, narrators, fanOut, animate = false, selectedId = null, onSelect, showSigha = true, width = 460, step = 74 }: Props) {
+export function IsnadGraph({ narration, narrators, fanOut, animate = false, selectedId = null, onSelect, showSigha = true, width: widthProp = 460, step = 74, tableView = false }: Props) {
   const uid = useId();
   const [hover, setHover] = useState<string | null>(null);
+  const boxRef = useRef<HTMLDivElement>(null);
+  const [boxW, setBoxW] = useState<number | null>(null);
+  useEffect(() => {
+    const el = boxRef.current;
+    if (!el || typeof ResizeObserver === "undefined") return;
+    const ro = new ResizeObserver((entries) => {
+      for (const e of entries) setBoxW(Math.round(e.contentRect.width));
+    });
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
+  // Draw at the container's width when it is narrower than the design width,
+  // so labels keep their real size on phones instead of scaling down.
+  const width = boxW && boxW > 0 ? Math.min(widthProp, Math.max(300, boxW)) : widthProp;
+  const narrow = width < 440;
   // chain is compiler-first; render Prophet first (top)
   const ids = ["prophet", ...[...narration.chain].reverse()];
   const n = ids.length;
@@ -35,7 +51,7 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
   const linkByPair = new Map<string, Narration["links"][number]>();
   for (const l of narration.links) linkByPair.set(`${l.from}->${l.to}`, l);
 
-  const fanLevel = fanOut ? ids.indexOf(fanOut.afterId) : -1;
+  const fanLevel = fanOut && !narrow ? ids.indexOf(fanOut.afterId) : -1;
   const fanCount = fanOut ? fanOut.named.length + 1 : 0;
   const fanXStart = 290;
   const fanXEnd = width - 24;
@@ -43,11 +59,12 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
   const delay = (i: number) => (animate ? `${0.15 + (n - 1 - i) * 0.22}s` : "0s");
 
   return (
+    <div ref={boxRef} style={{ maxWidth: widthProp }}>
     <svg
       viewBox={`0 0 ${width} ${height}`}
       width="100%"
       role="group"
-      aria-label={`Chain of narration for ${narration.cite}`}
+      aria-label={`Chain of narration for ${narration.cite}: ${ids.length} people from the Prophet to the compiler`}
       className="select-none"
       style={{ maxWidth: width, overflow: "visible" }}
       onMouseLeave={() => setHover(null)}
@@ -58,7 +75,8 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
         </marker>
       </defs>
 
-      {/* edges */}
+      {/* edges (decorative for assistive tech; the formula is folded into each node's label) */}
+      <g aria-hidden="true">
       {ids.slice(1).map((id, k) => {
         const i = k + 1;
         const a = pos(i - 1);
@@ -81,10 +99,10 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
             />
             {showSigha && link && (
               <g className={animate ? "fade-in" : undefined} style={animate ? { animationDelay: delay(i) } : undefined}>
-                <text x={x0 + 26} y={(a.y + b.y) / 2 + 1} className="arabic" fontSize="15" fill="var(--ink-2)" style={{ direction: "rtl" }} textAnchor="start">
+                <text x={x0 + 26} y={(a.y + b.y) / 2 + 1} lang="ar" className="arabic" fontSize="15" fill="var(--ink-2)" style={{ direction: "rtl" }} textAnchor="end">
                   {link.sighaAr}
                 </text>
-                <text x={x0 + 26} y={(a.y + b.y) / 2 + 15} fontSize="10.5" fill="var(--muted)" fontFamily="var(--font-sans)">
+                <text x={x0 + 26} y={(a.y + b.y) / 2 + 15} fontSize="11.5" fill="var(--muted)" fontFamily="var(--font-sans)">
                   {link.sighaEn}
                   {link.kind === "sama" || link.kind === "ikhbar" ? "  · explicit hearing" : link.kind === "an" ? "  · unspecified (ʿan)" : ""}
                 </text>
@@ -93,10 +111,11 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
           </g>
         );
       })}
+      </g>
 
       {/* fan-out: where a single narrator's students multiply */}
       {fanOut && fanLevel >= 0 && (
-        <g className={animate ? "fade-in" : undefined} style={animate ? { animationDelay: `${0.15 + (n - 1 - fanLevel) * 0.22 + 0.5}s` } : undefined}>
+        <g aria-hidden="true" className={animate ? "fade-in" : undefined} style={animate ? { animationDelay: `${0.15 + (n - 1 - fanLevel) * 0.22 + 0.5}s` } : undefined}>
           {Array.from({ length: fanCount }).map((_, j) => {
             const src = pos(fanLevel);
             const x = fanXStart + ((fanXEnd - fanXStart) * j) / Math.max(1, fanCount - 1);
@@ -108,8 +127,8 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
                 <path
                   d={`M ${src.x} ${src.y + 14} C ${src.x} ${src.y + 40}, ${x - 40} ${y}, ${x} ${y - 7}`}
                   fill="none"
-                  stroke="var(--hairline-strong)"
-                  strokeWidth="1.1"
+                  stroke="var(--muted)"
+                  strokeWidth="1.5"
                   strokeDasharray={isMore ? "3 3" : undefined}
                 />
                 <circle cx={x} cy={y} r={isMore ? 6 : 5} fill={isMore ? "none" : "var(--lapis-tint-2)"} stroke={isMore ? "var(--muted)" : "var(--lapis)"} strokeWidth="1.2" strokeDasharray={isMore ? "2 2" : undefined}>
@@ -124,13 +143,11 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
               </g>
             );
           })}
-          <text x={fanXStart} y={pos(fanLevel).y + step * 0.58 + 26} fontSize="10.5" fill="var(--muted)" fontFamily="var(--font-sans)">
-            {fanOut.named.slice(0, 3).join(", ")}… and {fanOut.headline}
-          </text>
         </g>
       )}
 
       {/* nodes */}
+      <g role="list" aria-label={`Narrators in order, from the Prophet ﷺ down to the compiler`}>
       {ids.map((id, i) => {
         const p = pos(i);
         const nr = id === "prophet" ? null : narrators[id];
@@ -138,49 +155,90 @@ export function IsnadGraph({ narration, narrators, fanOut, animate = false, sele
         const b = BANDS[band];
         const active = hover === id || selectedId === id;
         const label = id === "prophet" ? "The Prophet Muhammad ﷺ" : nr?.short ?? id;
-        const meta =
+        const metaFull =
           id === "prophet"
             ? "d. 11 AH, Madinah"
             : nr
               ? `${nr.died ? `d. ${nr.died} AH` : nr.diedNote ?? "death year not recorded"}${nr.region ? ` · ${nr.region}` : ""}`
               : "";
+        const metaMax = Math.max(24, Math.floor((width - 70) / 6));
+        const meta = metaFull.length > metaMax ? metaFull.slice(0, metaMax - 1).trimEnd() + "…" : metaFull;
+        const link = i > 0 ? linkByPair.get(`${ids[i - 1]}->${id}`) : null;
+        const teacherLabel = i > 0 ? (ids[i - 1] === "prophet" ? "the Prophet ﷺ" : narrators[ids[i - 1]]?.short ?? ids[i - 1]) : null;
+        const kindNote = link ? (link.kind === "sama" || link.kind === "ikhbar" ? ", explicit hearing" : link.kind === "an" ? ", formula unspecified" : "") : "";
+        const fullLabel = `${label}, ${b.label}${metaFull ? `, ${metaFull}` : ""}${link ? `; received it from ${teacherLabel} with “${link.sighaEn}” (${link.sighaAr})${kindNote}` : ""}`;
+        const interactive = Boolean(onSelect) && id !== "prophet";
         return (
-          <g
-            key={id}
-            transform={`translate(${p.x}, ${p.y})`}
-            className={animate ? "pop-node" : undefined}
-            style={{ cursor: onSelect && id !== "prophet" ? "pointer" : "default", ...(animate ? { animationDelay: delay(i) } : {}) }}
-            role={onSelect && id !== "prophet" ? "button" : undefined}
-            tabIndex={onSelect && id !== "prophet" ? 0 : undefined}
-            aria-label={`${label}, ${b.label}`}
-            onMouseEnter={() => setHover(id)}
-            onFocus={() => setHover(id)}
-            onBlur={() => setHover(null)}
-            onClick={() => onSelect && id !== "prophet" && onSelect(selectedId === id ? null : id)}
-            onKeyDown={(e) => {
-              if ((e.key === "Enter" || e.key === " ") && onSelect && id !== "prophet") {
-                e.preventDefault();
-                onSelect(selectedId === id ? null : id);
-              }
-            }}
-          >
-            {active && <circle r="20" fill="var(--lapis-tint)" />}
-            <NodeGlyph band={band} />
-            <text x="26" y="-1" fontSize="13.5" fontFamily="var(--font-sans)" fontWeight={active ? 600 : 500} fill="var(--ink)">
-              {label}
-            </text>
-            <text x="26" y="14" fontSize="10.5" fontFamily="var(--font-sans)" fill="var(--muted)">
-              {meta}
-            </text>
-            {nr && nr.band !== "sahabi" && (
-              <text x={26 + label.length * 7.4 + 8} y="-1" fontSize="10.5" fontFamily="var(--font-sans)" fill={b.color} fontWeight={600}>
-                {b.label}
+          <g key={id} transform={`translate(${p.x}, ${p.y})`} role="listitem" aria-label={fullLabel}>
+            <g
+              className={`${animate ? "pop-node" : ""} ${interactive ? "node-btn" : ""}`.trim() || undefined}
+              style={{ cursor: interactive ? "pointer" : "default", ...(animate ? { animationDelay: delay(i) } : {}) }}
+              role={interactive ? "button" : undefined}
+              tabIndex={interactive ? 0 : undefined}
+              aria-label={interactive ? `Open the record of ${label}` : undefined}
+              aria-pressed={interactive ? selectedId === id : undefined}
+              onMouseEnter={() => setHover(id)}
+              onFocus={() => setHover(id)}
+              onBlur={() => setHover(null)}
+              onClick={() => interactive && onSelect && onSelect(selectedId === id ? null : id)}
+              onKeyDown={(e) => {
+                if ((e.key === "Enter" || e.key === " ") && interactive && onSelect) {
+                  e.preventDefault();
+                  onSelect(selectedId === id ? null : id);
+                }
+              }}
+            >
+              {/* enlarged hit target */}
+              <rect x={-20} y={-22} width={Math.min(width - p.x - 4, 26 + label.length * 7.4 + 90)} height={44} fill="transparent" />
+              {active && <circle r="20" fill="var(--lapis-tint)" />}
+              <circle className="focus-ring" r="19" fill="none" stroke="var(--lapis)" strokeWidth="2" opacity={0} />
+              <NodeGlyph band={band} />
+              <text x="26" y="-1" fontSize="13.5" fontFamily="var(--font-sans)" fontWeight={active ? 600 : 500} fill="var(--ink)">
+                {label}
               </text>
-            )}
+              <text x="26" y="15" fontSize="11.5" fontFamily="var(--font-sans)" fill="var(--muted)">
+                {meta}
+              </text>
+              {nr && nr.band !== "sahabi" && (
+                <text x={26 + label.length * 7.4 + 8} y="-1" fontSize="11" fontFamily="var(--font-sans)" fill={b.color} fontWeight={600}>
+                  {b.label}
+                </text>
+              )}
+            </g>
           </g>
         );
       })}
+      </g>
     </svg>
+    {fanOut && (
+      <p className="tiny text-ink-2 mt-1">{fanOut.named.slice(0, 3).join(", ")}… and {fanOut.headline} carried it onward from {narrators[fanOut.afterId]?.short ?? fanOut.afterId}.</p>
+    )}
+    {tableView && (
+      <details className="small mt-3">
+        <summary className="cursor-pointer text-ink-2">View this chain as a table</summary>
+        <table className="data mt-2">
+          <thead>
+            <tr><th>Narrator</th><th>Standing</th><th>Died</th><th>Received it with</th></tr>
+          </thead>
+          <tbody>
+            {ids.map((id, i) => {
+              const nr = id === "prophet" ? null : narrators[id];
+              const b = BANDS[id === "prophet" ? "prophet" : nr?.band ?? "unknown"];
+              const link = i > 0 ? linkByPair.get(`${ids[i - 1]}->${id}`) : null;
+              return (
+                <tr key={id}>
+                  <td>{id === "prophet" ? "The Prophet Muhammad ﷺ" : nr?.name ?? id}</td>
+                  <td>{b.label}</td>
+                  <td>{id === "prophet" ? "11 AH" : nr?.died ? `${nr.died} AH` : nr?.diedNote ?? "not recorded"}</td>
+                  <td>{link ? `${link.sighaEn} (${link.sighaAr})` : "source"}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </details>
+    )}
+    </div>
   );
 }
 

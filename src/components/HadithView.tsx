@@ -11,6 +11,7 @@ import { VerdictTable } from "./VerdictTable";
 import { ModeToggle, type Mode } from "./ModeToggle";
 import { HadithChip, BandLegend } from "./GradeMark";
 import { HADITH_BANDS } from "@/lib/bands";
+import { RouteComparison } from "./RouteComparison";
 
 interface Props {
   hadith: Hadith;
@@ -42,6 +43,16 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
   const selectedNarrator = selected ? narrators[selected] : null;
   const showChain = mode !== "layman";
   const researcher = mode === "researcher";
+  const narratorList = (
+    <ul className="grid gap-1.5 small">
+      {chainNarrators.map((n) => (
+        <li key={n.id}>
+          <button type="button" onClick={() => setSelected(n.id)} aria-pressed={selected === n.id} className={`link text-left inline-flex items-center min-h-6 ${selected === n.id ? "font-semibold" : ""}`}>{n.short}</button>
+          <span className="text-muted"> · {n.taqrib?.en ?? (n.band === "sahabi" ? "Companion" : "")}</span>
+        </li>
+      ))}
+    </ul>
+  );
 
   return (
     <div className="grid gap-8">
@@ -49,7 +60,11 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
           {!embedded && <div className="small text-muted mb-1">{p.collection} · {p.number}</div>}
-          <h2 className="text-[1.6rem] sm:text-[2rem] leading-tight">{hadith.title}</h2>
+          {embedded ? (
+            <h2 className="text-[1.6rem] sm:text-[2rem] leading-tight">{hadith.title}</h2>
+          ) : (
+            <h1 className="text-[1.6rem] sm:text-[2.2rem] leading-tight">{hadith.title}</h1>
+          )}
         </div>
         <ModeToggle mode={mode} onChange={setMode} />
       </div>
@@ -57,9 +72,9 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       {/* text */}
       <div className="grid gap-6 lg:grid-cols-[1.1fr_1fr]">
         <div>
-          <p className="arabic text-[1.75rem] sm:text-[2rem] leading-[1.9] text-ink" style={{ maxWidth: "none" }}>{p.matnAr}</p>
+          <p lang="ar" dir="rtl" className="arabic text-[1.6rem] sm:text-[2rem] leading-[1.9] text-ink" style={{ maxWidth: "none" }}>{p.matnAr}</p>
           {researcher && (
-            <p className="arabic text-[1.15rem] text-ink-2 mt-3 leading-[1.9]" style={{ maxWidth: "none" }}>{p.isnadAr}</p>
+            <p lang="ar" dir="rtl" className="arabic text-[1.15rem] text-ink-2 mt-3 leading-[1.9]" style={{ maxWidth: "none" }}>{p.isnadAr}</p>
           )}
         </div>
         <div className="grid gap-4 content-start">
@@ -93,7 +108,7 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       {showChain && (
         <section className="rule pt-8">
           <div className="flex flex-wrap items-baseline justify-between gap-3 mb-2">
-            <h3>The chain, person by person</h3>
+            <SectionHeading embedded={embedded}>The chain, person by person</SectionHeading>
             <BandLegend bands={["thiqa", "saduq", "daif", "matruk", "unknown", "sahabi"]} />
           </div>
           <p className="small text-ink-2 mb-6">
@@ -110,21 +125,21 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
               showSigha={researcher}
               step={researcher ? 86 : 70}
               width={researcher && hadith.fanOut ? 520 : 460}
+              tableView
             />
             <div>
               {selectedNarrator ? (
-                <NarratorCard narrator={selectedNarrator} showArabicQuotes={researcher} />
+                <div className="grid gap-4">
+                  <NarratorCard narrator={selectedNarrator} showArabicQuotes={researcher} />
+                  <div className="rounded-[var(--radius-lg)] border border-dashed border-hairline-strong p-4">
+                    <div className="tiny text-muted mb-2">Others in this chain</div>
+                    {narratorList}
+                  </div>
+                </div>
               ) : (
                 <div className="rounded-[var(--radius-lg)] border border-dashed border-hairline-strong p-5 text-ink-2">
                   <p className="small">Select a narrator to open their record: dates, teachers, and what the critics wrote, with the source for each line.</p>
-                  <ul className="mt-4 grid gap-1.5 small">
-                    {chainNarrators.map((n) => (
-                      <li key={n.id}>
-                        <button type="button" onClick={() => setSelected(n.id)} className="link text-left">{n.short}</button>
-                        <span className="text-muted"> · {n.taqrib?.en ?? (n.band === "sahabi" ? "Companion" : "")}</span>
-                      </li>
-                    ))}
-                  </ul>
+                  <div className="mt-4">{narratorList}</div>
                 </div>
               )}
             </div>
@@ -137,10 +152,13 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
         </section>
       )}
 
+      {/* competing routes */}
+      {showChain && hadith.comparison && <RouteComparison comparison={hadith.comparison} headingLevel={embedded ? 3 : 2} />}
+
       {/* lifespans */}
       {researcher && (
         <section className="rule pt-8">
-          <h3 className="mb-1">Did these people overlap?</h3>
+          <SectionHeading embedded={embedded} className="mb-1">Did these people overlap?</SectionHeading>
           <p className="small text-ink-2 mb-5">
             Continuity is a condition, not an assumption. Each dotted drop marks a teacher's death year falling inside the student's lifetime; where a birth year is recorded the student's age at that moment is shown. Scholars also checked whether the two actually met, a stricter test (al-Bukhari required proof of meeting; Muslim accepted proven contemporaneity with the possibility of meeting).
           </p>
@@ -151,7 +169,7 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       {/* verdicts */}
       {showChain && (
         <section className="rule pt-8">
-          <h3 className="mb-1">Who graded it, and why</h3>
+          <SectionHeading embedded={embedded} className="mb-1">Who graded it, and why</SectionHeading>
           <p className="small text-ink-2 mb-5">We do not grade hadith. Each line is a named scholar's verdict, where they gave it, and the reason they gave. Disagreement is shown, not resolved.</p>
           <VerdictTable verdicts={hadith.verdicts} showArabic={researcher} />
         </section>
@@ -160,7 +178,7 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       {/* lessons */}
       {showChain && hadith.lessons.length > 0 && (
         <section className="rule pt-8">
-          <h3 className="mb-4">What this chain teaches about the method</h3>
+          <SectionHeading embedded={embedded} className="mb-4">What this chain teaches about the method</SectionHeading>
           <div className="grid gap-5 md:grid-cols-2">
             {hadith.lessons.map((l) => (
               <div key={l.title}>
@@ -175,12 +193,12 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       {/* other narrations */}
       {researcher && hadith.also.length > 0 && (
         <section className="rule pt-8">
-          <h3 className="mb-1">The same report elsewhere</h3>
+          <SectionHeading embedded={embedded} className="mb-1">The same report elsewhere</SectionHeading>
           <p className="small text-ink-2 mb-4">Parallel narrations (takhrij). Corroboration across independent chains is how weak links are shored up, and how anomalies are caught.</p>
           <ul className="grid gap-2 sm:grid-cols-2 small">
             {hadith.also.map((a) => (
               <li key={a.cite} className="flex gap-2">
-                <span className="mono text-muted whitespace-nowrap">{a.cite}</span>
+                <span className="mono text-muted break-all shrink-0 max-w-[45%]">{a.cite}</span>
                 <span>
                   {a.url ? <a className="link" href={a.url} rel="noopener">{a.label}</a> : a.label}
                   {a.note ? <span className="text-muted"> · {a.note}</span> : null}
@@ -194,11 +212,11 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       {/* vocabulary */}
       {mode === "student" && hadith.vocabulary && hadith.vocabulary.length > 0 && (
         <section className="rule pt-8">
-          <h3 className="mb-4">Terms used here</h3>
+          <SectionHeading embedded={embedded} className="mb-4">Terms used here</SectionHeading>
           <dl className="grid gap-x-8 gap-y-3 sm:grid-cols-2 small">
             {hadith.vocabulary.map((v) => (
               <div key={v.term}>
-                <dt className="font-semibold text-ink">{v.term} <span className="arabic text-[1.1rem] text-ink-2">{v.ar}</span></dt>
+                <dt className="font-semibold text-ink">{v.term} <span lang="ar" className="arabic text-[1.1rem] text-ink-2">{v.ar}</span></dt>
                 <dd className="text-ink-2">{v.meaning}</dd>
               </div>
             ))}
@@ -209,13 +227,13 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       {/* identifiers */}
       {researcher && (
         <section className="rule pt-8">
-          <h3 className="mb-1">Reference and fingerprint</h3>
+          <SectionHeading embedded={embedded} className="mb-1">Reference and fingerprint</SectionHeading>
           <p className="small text-ink-2 mb-4">The cite names a collection and a declared canonical numbering. The fingerprint is a checksum of the Arabic text with vowel marks and orthographic variants normalised, so a quoted text can be checked against the record regardless of edition.</p>
-          <dl className="sans text-[0.9rem] grid grid-cols-[auto_1fr] gap-x-6 gap-y-1.5">
-            <dt className="text-muted">Canonical cite</dt><dd className="mono">thp:{p.cite}</dd>
+          <dl className="sans text-[0.9rem] grid grid-cols-[auto_minmax(0,1fr)] gap-x-6 gap-y-1.5">
+            <dt className="text-muted">Canonical cite</dt><dd className="mono break-all">thp:{p.cite}</dd>
             <dt className="text-muted">Numbering</dt><dd>{p.numbering}</dd>
-            <dt className="text-muted">Text fingerprint</dt><dd className="mono">sha256:{fingerprint}</dd>
-            <dt className="text-muted">Machine-readable</dt><dd><Link className="link" href={`/api/v0/hadith/${hadith.slug}.json`}>/api/v0/hadith/{hadith.slug}.json</Link></dd>
+            <dt className="text-muted">Text fingerprint</dt><dd className="mono break-all">sha256:{fingerprint}</dd>
+            <dt className="text-muted">Machine-readable</dt><dd className="break-all"><Link className="link" href={`/api/v0/hadith/${hadith.slug}.json`}>/api/v0/hadith/{hadith.slug}.json</Link></dd>
           </dl>
         </section>
       )}
@@ -227,4 +245,8 @@ export function HadithView({ hadith, narrators, fingerprint, initialMode = "stud
       )}
     </div>
   );
+}
+
+function SectionHeading({ embedded, children, className = "" }: { embedded: boolean; children: React.ReactNode; className?: string }) {
+  return embedded ? <h3 className={className}>{children}</h3> : <h2 className={`text-[1.4rem] ${className}`}>{children}</h2>;
 }

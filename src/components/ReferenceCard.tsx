@@ -26,7 +26,7 @@ export function ReferenceCard({ hadith, narrators, url }: { hadith: Hadith; narr
             <Wordmark />
             <HadithChip band={hadith.status.band} label={hadith.status.label} size="sm" />
           </div>
-          <p className="arabic text-[1.45rem] leading-[1.8] text-ink" style={{ maxWidth: "none" }}>{p.matnAr}</p>
+          <p lang="ar" dir="rtl" className="arabic text-[1.45rem] leading-[1.8] text-ink" style={{ maxWidth: "none" }}>{p.matnAr}</p>
           <p className="text-[0.98rem] text-ink-2" style={{ maxWidth: "none" }}>{p.matnEn}</p>
           <div className="small text-ink-2">{p.collection}, {p.number}</div>
           <ChainStrip narration={p} narrators={narrators} dense />

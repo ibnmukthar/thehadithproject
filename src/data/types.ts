@@ -78,6 +78,24 @@ export interface ScholarVerdict {
   url?: string;
 }
 
+export interface RouteNode {
+  name: string;
+  band?: Band | "gap";
+  flag?: string; // why this node is the problem, if it is
+}
+
+export interface RouteComparison {
+  title: string;
+  intro: string;
+  routes: {
+    label: string;
+    verdict: string;
+    band: "sahih" | "hasan" | "daif" | "mawdu" | "disputed" | "note";
+    nodes: RouteNode[]; // from the Prophet ﷺ downward
+    note: string;
+  }[];
+}
+
 export interface Hadith {
   slug: string;
   title: string;
@@ -99,6 +117,7 @@ export interface Hadith {
     source: string;
   };
   lessons: { title: string; body: string }[];
+  comparison?: RouteComparison;
   context?: string;
   vocabulary?: { term: string; ar: string; meaning: string }[];
   sources: { label: string; url: string }[];

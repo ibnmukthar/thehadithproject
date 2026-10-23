@@ -4,7 +4,7 @@ import { HadithChip } from "./GradeMark";
 export function VerdictTable({ verdicts, showArabic = false }: { verdicts: ScholarVerdict[]; showArabic?: boolean }) {
   return (
     <div className="overflow-x-auto">
-      <table className="data">
+      <table className="data stack">
         <thead>
           <tr>
             <th>Scholar</th>
@@ -16,19 +16,19 @@ export function VerdictTable({ verdicts, showArabic = false }: { verdicts: Schol
         <tbody>
           {verdicts.map((v, i) => (
             <tr key={i}>
-              <td className="whitespace-nowrap">
+              <td className="whitespace-nowrap" data-label="Scholar">
                 <div className="font-medium text-ink">{v.scholar}</div>
                 <div className="tiny text-muted">{typeof v.died === "number" ? `d. ${v.died} AH` : v.died ?? ""}</div>
               </td>
-              <td className="min-w-[9rem]">
+              <td className="min-w-[9rem]" data-label="Verdict">
                 <HadithChip band={v.band} label={v.grade} size="sm" />
                 {v.scope && <div className="tiny text-muted mt-1">{v.scope}</div>}
               </td>
-              <td className="min-w-[10rem]">{v.url ? <a className="link" href={v.url} rel="noopener">{v.source}</a> : v.source}</td>
-              <td className="min-w-[16rem]">
+              <td className="min-w-[10rem]" data-label="Where">{v.url ? <a className="link" href={v.url} rel="noopener">{v.source}</a> : v.source}</td>
+              <td className="min-w-[16rem]" data-label="Reason given">
                 <div>{v.reason}</div>
                 {showArabic && v.quoteAr && (
-                  <div className="arabic text-[1.1rem] text-ink-2 mt-1" style={{ direction: "rtl", textAlign: "right" }}>{v.quoteAr}</div>
+                  <div lang="ar" dir="rtl" className="arabic text-[1.1rem] text-ink-2 mt-1" style={{ direction: "rtl", textAlign: "right" }}>{v.quoteAr}</div>
                 )}
               </td>
             </tr>

@@ -10,7 +10,7 @@ export function SiteFooter() {
           <p className="small text-ink-2 mt-3 max-w-[36ch]">
             Open infrastructure for hadith and its sciences. Built in public, reviewed by scholars, free to use and build on.
           </p>
-          <p className="arabic text-ink-2 mt-3 text-lg">مَن كذب عليَّ متعمدًا فليتبوأ مقعده من النار</p>
+          <p lang="ar" dir="rtl" className="arabic text-ink-2 mt-3 text-lg">مَن كذب عليَّ متعمدًا فليتبوأ مقعده من النار</p>
           <p className="tiny text-muted">Sahih al-Bukhari 110, Sahih Muslim 3 (introduction). The warning that started the science.</p>
         </div>
         <FooterCol
