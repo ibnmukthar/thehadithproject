@@ -1,0 +1,177 @@
+{
+  "id": "abis-ibn-rabia",
+  "name": "Abis ibn Rabi'a al-Nakha'i",
+  "nameAr": "عابس بن ربيعة النخعي الكوفي",
+  "short": "Abis ibn Rabi'a",
+  "shortAr": "عابس بن ربيعة",
+  "nisbas": [
+    {
+      "ar": "النخعي",
+      "en": "al-Nakha'i, of the tribe of al-Nakha' (a branch of Madhhij)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi, of Kufa",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Rabi'a",
+  "orthography": {
+    "spelled": "Abis: with a pointed ba carrying a kasra, then an unpointed sin (عابِس).",
+    "homographs": [
+      "Abis ibn Rabi'a al-Ghutayfi, a Companion who was present at the conquest of Egypt; the Taqrib (entry 3053) says whoever merged the two erred"
+    ],
+    "source": "Taqrib al-Tahdhib, entries 3052 and 3053"
+  },
+  "died": null,
+  "diedNote": "No year of death is recorded in the rijal works; the Shamela record places it between 81 and 90 AH without naming an authority",
+  "region": "Kufa",
+  "tabaqa": 2,
+  "taqrib": {
+    "ar": "ثقة مخضرم، من الثانية",
+    "en": "Reliable; a mukhadram (lived in both the pre-Islamic period and Islam without meeting the Prophet ﷺ); of the second generation.",
+    "number": "3052",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Mukhadram; eyewitness of Umar at the Black Stone",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "3030"
+  },
+  "teachers": [
+    {
+      "id": "umar-ibn-al-khattab",
+      "name": "Umar ibn al-Khattab",
+      "nameAr": "عمر بن الخطاب",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "Sahih al-Bukhari 1597 and the parallels; Abu Dawud: 'a pre-Islamic man who heard from Umar' (Tahdhib al-Kamal 13/472)"
+    },
+    {
+      "name": "A'isha",
+      "nameAr": "عائشة",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Jami' al-Tirmidhi 1511"
+    }
+  ],
+  "students": [
+    {
+      "id": "ibrahim-al-nakhai",
+      "name": "Ibrahim al-Nakha'i",
+      "nameAr": "إبراهيم النخعي",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "Sahih al-Bukhari 1597 and the parallels"
+    },
+    {
+      "name": "Abu Ishaq al-Sabi'i",
+      "nameAr": "أبو إسحاق السبيعي",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Jami' al-Tirmidhi 1511"
+    },
+    {
+      "name": "Abd al-Rahman ibn Abis, his son",
+      "nameAr": "عبد الرحمن بن عابس",
+      "sigla": [
+        "م"
+      ],
+      "source": "Sahih Muslim (Book of Zuhd), Abd al-Rahman from his father from A'isha; Shamela narrator record 3030"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 13/472",
+      "url": "https://shamela.ws/narrator/3030"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "هو من مذحج، وكان ثقة، له أحاديث يسيرة",
+      "en": "He is of Madhhij; he was reliable and had a small number of hadith. Ibn Sa'd placed him in the first class of the Kufans.",
+      "source": "Tahdhib al-Kamal 13/472",
+      "url": "https://shamela.ws/narrator/3030"
+    },
+    {
+      "critic": "Abu Dawud al-Sijistani",
+      "criticDied": 275,
+      "via": "al-Ajurri",
+      "ar": "جاهلي سمع من عمر",
+      "en": "A man of the pre-Islamic period who heard from Umar.",
+      "source": "Tahdhib al-Kamal 13/472",
+      "url": "https://shamela.ws/narrator/3030"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "ذكره في الثقات",
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 13/472",
+      "url": "https://shamela.ws/narrator/3030"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Counted among the Companions by some",
+      "detail": "Abu Nu'aym al-Isbahani, Ibn Manda and others listed an Abis ibn Rabi'a among the Companions; Ibn Hajar's Taqrib treats that man as a separate person, Abis ibn Rabi'a al-Ghutayfi, who was at the conquest of Egypt, and warns against merging the two. This narrator is the Kufan mukhadram who heard Umar but did not meet the Prophet ﷺ."
+    }
+  ],
+  "bio": "A Kufan of al-Nakha' old enough to have lived before Islam, who heard Umar and A'isha but never met the Prophet ﷺ, which is what makes him a mukhadram. He saw Umar kiss the Black Stone and reported the caliph's words, and the parallel versions in Muslim, al-Nasa'i and al-Tirmidhi preserve his own framing: 'I saw Umar'. His younger kinsman Ibrahim al-Nakha'i carried the report on, so two men of al-Nakha' stand side by side in the chain.",
+  "provenance": [
+    {
+      "field": "name, family, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3030, drawing on Tahdhib al-Kamal 13/472, Tahdhib al-Tahdhib 2/250 and Ikmal Tahdhib al-Kamal 7/98"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz, orthography",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entries 3052 and 3053 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3030"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 1597 and the parallels; Jami' al-Tirmidhi 1511"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entries 3052–3053 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3030"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

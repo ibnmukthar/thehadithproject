@@ -59,6 +59,8 @@ The fingerprint does three jobs. It lets anyone check that a quoted text matches
 
 A family is identified by a short opaque id, `thp:h:<id>`, with a human-readable slug alias for URLs (`/h/actions-by-intentions/`). Families are created and bounded by editors following the takhrij literature, and every family page lists its member narrations with the reason they belong (same Companion and Successor; same event in different wording; a shahid from another Companion, which belongs to the family but is flagged as an independent witness).
 
+For the six books and their appended works the family key is not invented: al-Mizzi's Tuhfat al-Ashraf numbers every hadith (by Companion, then by the narrator from the Companion) from 1 to 19,626, and that numbering is fixed in the standard edition, carried by the digitised texts and already printed as a cross-reference in modern editions of the Sunan. A family of the six books therefore carries `family: "tuhfa:<entry>"`, with Ibn Hajar's corrections (al-Nukat al-Ziraf) applied and recorded. Three caveats, documented in `docs/research/rijal-entry-structure.md`: one entry bundles every place the hadith occurs, so per-collection cites stay on each narration; coverage stops at the six plus appendages (Ibn Hajar's Ithaf al-Mahara extends the method to ten more works); and the kitab/bab references in the printed Tuhfa are the editor's, not al-Mizzi's.
+
 ### 3.4 Narrator
 
 A narrator is `thp:r:<id>`, opaque, with a crosswalk to the identifiers already in use: the entry number in Tahdhib al-Kamal, the Taqrib entry number, the muslimscholars.info id that two existing datasets already key on, sunnah.com narrator ids, and library authority ids where a narrator is also an author. Name forms are many-to-one: every spelling, kunya, nisba and laqab found in the chains points at one record, and the record lists them.
@@ -195,7 +197,7 @@ Nobody has built: an edition-independent identifier; an open structured narrator
 
 The data is the project. These are the ways people will meet it.
 
-1. **The website**, with three depths of the same record: reader, student, researcher.
+1. **The website**, with two views of the same record: a reader's view (text, meaning, standing) and a researcher's view (the four discussions a hadith is studied under: where it is recorded, who carried it and what the chain shows, who graded it, what it means), each section opening and closing and remembering the visitor's choice.
 2. **The reference card.** A link that unfurls, wherever it is pasted, into the text, the source, the chain and the verdicts. This is the argument-ender, and it is the single most important product for the public conversation.
 3. **A browser extension** that recognises hadith cites (Bukhari 1, Sahih Muslim 1907, an Arabic text) on any page and annotates them with the card.
 4. **A reply bot** that, when invoked, answers a cited hadith with its card and nothing else. No argument, no opinion, the record.
@@ -211,7 +213,9 @@ Machines may not: grade a hadith; grade a narrator; summarise a narrator's stand
 
 ## 12. The road
 
-**Now: prototype.** Three hadith, one of each kind, with every link examined; sixteen narrator records with the critics quoted; the identifier scheme and fingerprint; reader, student and researcher depths; reference cards; a static JSON API; and this blueprint.
+**Done: prototype.** Three hadith, one of each kind, with every link examined; narrator records with the critics quoted; the identifier scheme and fingerprint; reader and researcher views; reference cards; a static JSON API; and this blueprint.
+
+**Now: foundation, phase 2** (plan in `docs/plans/phase-2.md`). The record moved out of code into validated JSON files, one per narrator, studied hadith and collection book, so that a contribution is a file change anyone can read. Sahih al-Bukhari in full with the standard numbering, a text fingerprint and a machine-parsed chain per narration, labelled as machine output until reviewed. Narrator records in the shape of the classical entry (see `docs/research/rijal-entry-structure.md`). The four discussions of a hadith class as the skeleton of every studied hadith, with the subtleties of the chain computed from the records. New visualisations: the journey map, the corroboration tree, the narrator network. A correction link on every line, a sign-off block on every record, and a pull-request guard that refuses changes to the substance of the record without a named reviewer's approval.
 
 **Foundation, the first year.** The six canonical collections in Arabic with a published numbering crosswalk. A record for every narrator of the six books and their appended works, built from the Tahdhib literature with the Taqrib rank, the Tahrir revision where it differs, and the critics' words, each with a page reference. Chains parsed for every narration, with the parser's proposals reviewed by people. Verdicts: inclusion in the two Sahihs; al-Tirmidhi's own; the labels of al-Albani, al-Arna'ut, Ahmad Shakir and Zubair Ali Za'i; reasons entered from the books for the most-cited hadith first. An editorial board, a reviewer process and a public change log. Measures of success: the share of narrations with reviewed chains; the share of narrators with sourced verdicts; the time it takes a stranger to verify a cited hadith (target: under ten seconds); the number of corrections received and the time to resolve them.
 

@@ -1,0 +1,124 @@
+{
+  "id": "amr-ibn-khalid",
+  "name": "Amr ibn Khalid al-Harrani",
+  "nameAr": "عمرو بن خالد بن فروخ بن سعيد التميمي الحنظلي، ويقال الخزاعي، أبو الحسن الجزري الحراني، نزيل مصر",
+  "short": "Amr ibn Khalid",
+  "shortAr": "عمرو بن خالد",
+  "kunya": "Abu al-Hasan",
+  "kunyaAr": "أبو الحسن",
+  "nisbas": [
+    { "ar": "التميمي الحنظلي، ويقال الخزاعي", "en": "al-Tamimi al-Hanzali; some said al-Khuza'i (disputed)", "kind": "tribal" },
+    { "ar": "الحراني الجزري", "en": "al-Harrani, al-Jazari (from Harran in the Jazirah)", "kind": "geographic" },
+    { "ar": "المصري", "en": "al-Misri (settled in Egypt)", "kind": "geographic" }
+  ],
+  "fatherName": "Khalid",
+  "orthography": {
+    "spelled": "Amr with fathah on the ayn (عَمرو); Ibn Hajar: \"whoever read it with dammah (Umar) corrupted it\".",
+    "homographs": ["Umar ibn Khalid"],
+    "source": "Fath al-Bari 1/56, on hadith 12"
+  },
+  "died": 229,
+  "diedNote": "229, in Egypt (Taqrib); 230 is also reported (Shamela record).",
+  "deathVariants": [
+    { "year": 229, "authority": "Ibn Hajar, Taqrib", "source": "Taqrib 5020" },
+    { "year": 230, "authority": "another report", "source": "Shamela narrator record 4820" }
+  ],
+  "region": "Harran, then Egypt",
+  "origin": "Harran (al-Jazirah)",
+  "residence": ["Harran", "Egypt"],
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "5020",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari; used by al-Bukhari and Ibn Majah only",
+  "rumuz": ["خ", "ق"],
+  "external": { "shamela": "4820", "tahdhibKamal": "21/601 (no. 4356)" },
+  "teachers": [
+    { "id": "al-layth-ibn-sad", "name": "al-Layth ibn Sa'd", "nameAr": "الليث بن سعد", "sigla": ["خ"], "source": "Tahdhib al-Kamal 21/602" },
+    { "name": "Zuhayr ibn Mu'awiyah", "nameAr": "زهير بن معاوية", "sigla": ["خ"], "source": "Tahdhib al-Kamal 21/601" },
+    { "name": "Hammad ibn Salamah", "nameAr": "حماد بن سلمة", "sigla": ["عخ"], "source": "Tahdhib al-Kamal 21/601" },
+    { "name": "Bakr ibn Mudar", "nameAr": "بكر بن مضر", "sigla": ["بخ"], "source": "Tahdhib al-Kamal 21/601" },
+    { "name": "Isma'il ibn Ayyash", "nameAr": "إسماعيل بن عياش", "source": "Tahdhib al-Kamal 21/601" },
+    { "name": "Abdullah ibn Lahi'ah", "nameAr": "عبد الله بن لهيعة", "sigla": ["ق"], "source": "Tahdhib al-Kamal 21/602" }
+  ],
+  "students": [
+    { "id": "al-bukhari", "name": "al-Bukhari", "nameAr": "البخاري", "source": "Tahdhib al-Kamal 21/602" },
+    { "name": "his sons Abu Ulathah Muhammad and Abu Khaythamah Ali", "nameAr": "ابناه محمد وعلي", "source": "Tahdhib al-Kamal 21/601" },
+    { "name": "Ahmad ibn Mansur al-Ramadi", "nameAr": "أحمد بن منصور الرمادي", "source": "Tahdhib al-Kamal 21/602" },
+    { "name": "Ibrahim ibn Abdullah ibn al-Junayd", "nameAr": "إبراهيم بن عبد الله بن الجنيد", "source": "Tahdhib al-Kamal 21/602" }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "مصري، ثبت، ثقة",
+      "en": "An Egyptian, firm, reliable.",
+      "source": "Tahdhib al-Kamal 21/601; Tahdhib al-Tahdhib 3/266",
+      "url": "https://shamela.ws/narrator/4820"
+    },
+    {
+      "critic": "al-Daraqutni",
+      "criticDied": 385,
+      "via": "al-Hakim",
+      "ar": "ثقة حجة",
+      "en": "Reliable, a proof.",
+      "source": "Tahdhib al-Tahdhib 3/266; Ikmal Tahdhib al-Kamal 10/160",
+      "url": "https://shamela.ws/narrator/4820"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "al-Jarh wa al-Ta'dil 6/230; Tahdhib al-Kamal 21/601",
+      "url": "https://shamela.ws/narrator/4820"
+    },
+    {
+      "critic": "Maslamah ibn Qasim",
+      "criticDied": 353,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib 3/266 (from his al-Silah)",
+      "url": "https://shamela.ws/narrator/4820"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Tahdhib 3/266",
+      "url": "https://shamela.ws/narrator/4820"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Taqrib al-Tahdhib, entry 5020",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمرو_بفتح_أوله"
+    }
+  ],
+  "dhahabi": { "ar": "قال العجلي: ثقة ثبت", "en": "Quotes al-Ijli: reliable, firm.", "source": "al-Kashif 3/511" },
+  "flags": [
+    { "label": "Disputed tribe", "detail": "Tamim (Hanzalah) according to most, Khuza'ah according to some (Taqrib; Tahdhib al-Kamal). The disagreement is about lineage, not identity." },
+    { "label": "Homonyms", "detail": "Not Amr ibn Khalid al-Qurashi al-Kufi, resident of Wasit, discarded and accused of lying by Waki' (Taqrib 5021), nor Amr ibn Khalid Abu Hafs al-A'sha (Taqrib 5022)." }
+  ],
+  "bio": "A hadith scholar from Harran who settled in Egypt and died there in 229; al-Bukhari heard him in several places (the Zahrat al-Muta'allimin counts twenty-three hadith), and Ibn Majah is the only other of the six to use him. Counted an Egyptian by residence, which is what makes the chain of hadith 12 Egyptian from top to bottom. His sons Muhammad and Ali transmitted from him, and his copying for Abu Salih al-Harrani is recorded.",
+  "provenance": [
+    { "field": "nameAr, nisbas, teachers, students", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 21/601–602 (no. 4356), Shamela book 3722 pages 11249–11250" },
+    { "field": "taqrib, tabaqa, rumuz, died", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 5020–5022" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 3/266 and al-Jarh wa al-Ta'dil 6/230, as collected on the Shamela narrator record 4820" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 3/511" },
+    { "field": "orthography", "layer": "specialist", "ref": "Ibn Hajar, Fath al-Bari 1/56" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 5020 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمرو_بفتح_أوله" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/4820" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 21/601 (Shamela)", "url": "https://shamela.ws/book/3722/11249" },
+    { "label": "Ibn Hajar, Fath al-Bari 1/56 on hadith 12 (Shamela)", "url": "https://shamela.ws/book/1673/542" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

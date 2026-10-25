@@ -1,0 +1,166 @@
+{
+  "id": "ismail-ibn-ulayyah",
+  "name": "Isma'il ibn Ibrahim, Ibn Ulayyah",
+  "nameAr": "إسماعيل بن إبراهيم بن مقسم الأسدي مولاهم، أبو بشر، البصري، المعروف بابن علية",
+  "short": "Ibn Ulayyah",
+  "shortAr": "ابن علية",
+  "kunya": "Abu Bishr",
+  "kunyaAr": "أبو بشر",
+  "laqab": {
+    "ar": "ابن علية",
+    "en": "Ibn Ulayyah: Ulayyah was his mother (al-Khatib records a claim that she was his grandmother)"
+  },
+  "nisbas": [
+    {
+      "ar": "الأسدي",
+      "en": "al-Asadi (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Banu Asad (their client)",
+  "fatherName": "Ibrahim",
+  "born": 110,
+  "bornNote": "110 AH (Shamela record)",
+  "died": 193,
+  "diedNote": "193 AH, aged 83 (Taqrib); 194 also given",
+  "region": "Basra, later Baghdad",
+  "tabaqa": 8,
+  "taqrib": {
+    "ar": "ثقة حافظ",
+    "en": "Reliable, a hadith master.",
+    "number": "416",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/634"
+  },
+  "teachers": [
+    {
+      "id": "abd-al-aziz-ibn-suhayb",
+      "name": "Abd al-Aziz ibn Suhayb",
+      "nameAr": "عبد العزيز بن صهيب",
+      "source": "Sahih al-Bukhari 15; Sahih Muslim 44a"
+    }
+  ],
+  "students": [
+    {
+      "id": "yaqub-ibn-ibrahim-al-dawraqi",
+      "name": "Ya'qub ibn Ibrahim al-Dawraqi",
+      "nameAr": "يعقوب الدورقي",
+      "source": "Sahih al-Bukhari 15"
+    },
+    {
+      "name": "Zuhayr ibn Harb",
+      "nameAr": "زهير بن حرب",
+      "source": "Sahih Muslim 44a"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Shu'bah ibn al-Hajjaj",
+      "criticDied": 160,
+      "via": "Ali ibn al-Ja'd; Yunus ibn Bukayr",
+      "ar": "إسماعيل ابن علية ريحانة الفقهاء … ابن علية سيد المحدثين",
+      "en": "Isma'il ibn Ulayyah is the fragrant flower of the jurists; Ibn Ulayyah is the master of the hadith scholars.",
+      "source": "Tahdhib al-Tahdhib 1/140",
+      "url": "https://shamela.ws/narrator/634"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "his son Abdullah",
+      "ar": "إليه المنتهى في التثبت بالبصرة",
+      "en": "With him ends the line of verification in Basra.",
+      "source": "Tahdhib al-Tahdhib 1/140",
+      "url": "https://shamela.ws/narrator/634"
+    },
+    {
+      "critic": "Ali ibn al-Madini",
+      "criticDied": 234,
+      "ar": "ما أقول إن أحدا أثبت في الحديث من ابن علية",
+      "en": "I do not say that anyone is firmer in hadith than Ibn Ulayyah.",
+      "source": "Tahdhib al-Tahdhib 1/140",
+      "url": "https://shamela.ws/narrator/634"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ishaq ibn Mansur",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 2/153",
+      "url": "https://shamela.ws/narrator/634"
+    }
+  ],
+  "dhahabi": {
+    "ar": "إمام حجة",
+    "en": "An imam, a proof.",
+    "source": "al-Kashif 2/111"
+  },
+  "flags": [
+    {
+      "label": "Attributed to his mother",
+      "detail": "Ibn Hajar lists him in Hady al-Sari among those referred to by other than the father's name: “Ibn Ulayyah: Isma'il ibn Ibrahim ibn Miqsam; Ulayyah is his mother, or, it is said, his grandmother.” Al-Bukhari writes “Ibn Ulayyah” in hadith 15; Muslim 44a writes “Isma'il ibn Ulayyah”."
+    }
+  ],
+  "bio": "The Basran whom Ahmad named the end-point of verification in his city and Ibn al-Madini ranked second to none in precision; a client of Banu Asad known by his mother's name. He served over the alms of Basra and later over grievances in Baghdad. In hadith 15 he carries Abd al-Aziz ibn Suhayb's version, whose wording in Muslim differs from the Qatadah wording al-Bukhari printed.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 416"
+    },
+    {
+      "field": "born",
+      "layer": "modern",
+      "ref": "Shamela narrator record 634"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 416"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 1/140; al-Jarh wa al-Ta'dil 2/153"
+    },
+    {
+      "field": "laqab",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 7, those mentioned by the name of a father, grandfather or the like"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 2/111"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 416 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/634"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 7: those referred to by a father's or other relative's name (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/فصل_فيمن_ذكر_باسم_أبيه_أو_جده_أو_نحو_ذلك"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,46 @@
+name: Report a correction
+description: A line on the site is wrong, imprecise or unsourced. No account with GitHub is needed beyond signing in.
+title: "Correction: "
+labels: ["correction", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Every report is read by a reviewer and answered here, in public. Please give the source you are checking against: a book, edition and page, or a link to the text.
+  - type: input
+    id: record
+    attributes:
+      label: Record
+      description: The page or record the line is on (prefilled when you arrive from the site).
+      placeholder: "thp:bukhari:1 · narrator sufyan-ibn-uyaynah"
+    validations:
+      required: true
+  - type: textarea
+    id: line
+    attributes:
+      label: The line as it stands
+      description: Copy the line you are correcting.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Book, edition, volume and page, or a link to the text. A scan or photo is welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Why the current line is wrong, in a sentence or two.
+  - type: input
+    id: name
+    attributes:
+      label: Your name, for the credit (optional)

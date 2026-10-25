@@ -1,0 +1,242 @@
+{
+  "id": "sufyan-al-thawri",
+  "name": "Sufyan ibn Sa'id al-Thawri",
+  "nameAr": "سفيان بن سعيد بن مسروق الثوري الكوفي",
+  "short": "Sufyan al-Thawri",
+  "shortAr": "سفيان الثوري",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "laqab": {
+    "ar": "أمير المؤمنين في الحديث",
+    "en": "Commander of the Faithful in hadith"
+  },
+  "nisbas": [
+    {
+      "ar": "الثوري",
+      "en": "al-Thawri, of Thawr ibn Abd Manat",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi, of Kufa",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Sa'id",
+  "born": 97,
+  "bornNote": "Reckoned from the Taqrib (died 161 aged 64); the rijal works give 95, 96 or 97",
+  "died": 161,
+  "diedNote": "161 AH in Basra, where he had gone into hiding (Taqrib); other reports give 159, 160 or 162",
+  "deathVariants": [
+    {
+      "year": 161,
+      "authority": "Taqrib al-Tahdhib",
+      "source": "Taqrib al-Tahdhib 2445"
+    },
+    {
+      "year": "159, 160 or 162",
+      "authority": "other reports collected in the rijal works",
+      "source": "Shamela narrator record 2472"
+    }
+  ],
+  "region": "Kufa",
+  "residence": [
+    "Kufa",
+    "Makkah",
+    "Basra"
+  ],
+  "tabaqa": 7,
+  "taqrib": {
+    "ar": "ثقة حافظ فقيه عابد إمام حجة، من رؤوس الطبقة السابعة، وكان ربما دلس",
+    "en": "Reliable, a hadith master, jurist and worshipper, an imam and a proof; one of the heads of the seventh generation. He would sometimes use the ambiguous formula.",
+    "number": "2445",
+    "rank": 1
+  },
+  "band": "thiqa",
+  "role": "Imam of Kufa; one of the two Sufyans",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "2472"
+  },
+  "teachers": [
+    {
+      "id": "al-amash",
+      "name": "al-A'mash",
+      "nameAr": "الأعمش",
+      "sigla": [
+        "خ",
+        "د"
+      ],
+      "source": "Sahih al-Bukhari 1597; Sunan Abi Dawud 1873"
+    },
+    {
+      "name": "Sa'id ibn Masruq, his father",
+      "nameAr": "سعيد بن مسروق",
+      "source": "Taqrib al-Tahdhib 2393"
+    },
+    {
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "id": "hammad-ibn-zayd",
+      "source": "reciprocal of the entry in hammad-ibn-zayd's record (Tahdhib al-Tahdhib: 'and al-Thawri, who is older than he')"
+    },
+    {
+      "name": "Isma'il ibn Abi Khalid",
+      "nameAr": "إسماعيل بن أبي خالد",
+      "id": "ismail-ibn-abi-khalid",
+      "source": "reciprocal of the entry in ismail-ibn-abi-khalid's record (Tahdhib al-Tahdhib ('the two Sufyans'))"
+    }
+  ],
+  "students": [
+    {
+      "id": "muhammad-ibn-kathir",
+      "name": "Muhammad ibn Kathir al-Abdi",
+      "nameAr": "محمد بن كثير",
+      "sigla": [
+        "خ",
+        "د"
+      ],
+      "source": "Sahih al-Bukhari 1597; Sunan Abi Dawud 1873"
+    },
+    {
+      "id": "abdullah-ibn-al-mubarak",
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "عبد الله بن المبارك",
+      "source": "Shamela narrator record 2472 (companions named: Ibn al-Mubarak, Waki', Abu Ishaq al-Fazari, Ibn Mahdi)"
+    },
+    {
+      "name": "Waki' ibn al-Jarrah",
+      "nameAr": "وكيع بن الجراح",
+      "sigla": [
+        "م",
+        "س"
+      ],
+      "source": "Sahih Muslim 1271; Sunan al-Nasa'i"
+    },
+    {
+      "name": "Yahya al-Qattan",
+      "nameAr": "يحيى القطان",
+      "id": "yahya-ibn-said-al-qattan",
+      "source": "reciprocal of the entry in yahya-ibn-said-al-qattan's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Shu'ba, Sufyan ibn Uyaynah, Abu Asim al-Nabil and Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "سفيان أمير المؤمنين في الحديث",
+      "en": "Sufyan is the Commander of the Faithful in hadith.",
+      "source": "Tahdhib al-Kamal 11/154; Tahdhib al-Tahdhib 2/56",
+      "url": "https://shamela.ws/narrator/2472"
+    },
+    {
+      "critic": "Yahya ibn Sa'id al-Qattan",
+      "criticDied": 198,
+      "ar": "ما رأيت أحدا أحفظ من سفيان الثوري",
+      "en": "I have seen no one with a better memory than Sufyan al-Thawri.",
+      "source": "al-Jarh wa al-Ta'dil 4/222",
+      "url": "https://shamela.ws/narrator/2472"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "سفيان فقيه حافظ زاهد، إمام أهل العراق، وأتقن أصحاب أبي إسحاق، وهو أحفظ من شعبة، وإذا اختلف الثوري وشعبة فالثوري",
+      "en": "Sufyan is a jurist, a hadith master and an ascetic, the imam of the people of Iraq, the most precise of Abu Ishaq's students; he has a better memory than Shu'ba, and when al-Thawri and Shu'ba differ, al-Thawri is preferred. He also named him the firmest of al-A'mash's students.",
+      "source": "al-Jarh wa al-Ta'dil 4/222",
+      "url": "https://shamela.ws/narrator/2472"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ibn Abi Khaythama",
+      "ar": "لم يكن أحد أعلم بحديث أبي إسحاق من الثوري، وكان يدلس، ولم يكن أحد أعلم بحديث الأعمش من الثوري",
+      "en": "No one knew Abu Ishaq's hadith better than al-Thawri, and he would use the ambiguous formula; and no one knew al-A'mash's hadith better than al-Thawri.",
+      "source": "al-Jarh wa al-Ta'dil 4/222",
+      "url": "https://shamela.ws/narrator/2472"
+    },
+    {
+      "critic": "al-Bukhari",
+      "criticDied": 256,
+      "ar": "ما أقل تدليسه",
+      "en": "How little his tadlis is.",
+      "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis, entry 51",
+      "url": "https://shamela.ws/book/1186"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "ar": "ما رأيت أحفظ للحديث من الثوري",
+      "en": "I have seen no one with a better memory for hadith than al-Thawri.",
+      "source": "Tahdhib al-Kamal 16/5",
+      "url": "https://shamela.ws/narrator/3875"
+    }
+  ],
+  "dhahabi": {
+    "ar": "أحد الأعلام علما وزهدا",
+    "en": "One of the leading authorities in learning and asceticism.",
+    "source": "al-Kashif 2/505"
+  },
+  "tadlis": {
+    "rank": 2,
+    "type": "tadlis al-isnad",
+    "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Tabaqat al-Mudallisin), entry 51, second rank: described as a mudallis by al-Nasa'i and others; al-Bukhari: how little his tadlis is",
+    "note": "The second rank holds those whose ambiguous formula the imams tolerated because of their standing and because they rarely used it, or used it only over reliable narrators. Here he says 'from al-A'mash'. The class notes report finding no route in which Sufyan states explicit hearing of this hadith; this record does not verify that search. Ibn Hajar notes that Sufyan also carries Umar's words by a second chain, through Ibrahim ibn Abd al-A'la from Suwayd ibn Ghafla, which Muslim records (1271)."
+  },
+  "bio": "The imam of Kufa in the generation of Malik and Shu'ba, called the Commander of the Faithful in hadith by his own peers; Ibn Mahdi and Yahya al-Qattan, who knew every master of the age, said they had met no one with a better memory. He fled the Abbasid court to Makkah and then Basra, where he died in hiding in 161 AH. The critics note that he occasionally used the ambiguous formula, but al-Bukhari remarked how rarely, and Ibn Hajar places him in the tolerated second rank.",
+  "provenance": [
+    {
+      "field": "name, kunya, laqab, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 2472, drawing on Tahdhib al-Kamal 11/154 and Tahdhib al-Tahdhib 2/56"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 2445 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 2472 (al-Jarh wa al-Ta'dil 4/222; Tahdhib al-Kamal 11/154; Tahdhib al-Tahdhib 2/56)"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 2/505, as quoted on the Shamela record"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Ta'rif Ahl al-Taqdis, entry 51 (second rank); Hammad al-Ansari's summary (Shamela 22949/10)"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 1597, Sunan Abi Dawud 1873 and Sahih Muslim 1271"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2445 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2472"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Shamela)",
+      "url": "https://shamela.ws/book/1186"
+    },
+    {
+      "label": "Ibn Hajar's ranks of mudallisin, as summarised by Hammad al-Ansari (Shamela)",
+      "url": "https://shamela.ws/book/22949/10"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

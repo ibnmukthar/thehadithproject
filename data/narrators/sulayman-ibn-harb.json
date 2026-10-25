@@ -1,0 +1,285 @@
+{
+  "id": "sulayman-ibn-harb",
+  "name": "Sulayman ibn Harb",
+  "nameAr": "سليمان بن حرب بن بجيل الأزدي الواشحي البصري",
+  "short": "Sulayman ibn Harb",
+  "shortAr": "سليمان بن حرب",
+  "kunya": "Abu Ayyub",
+  "kunyaAr": "أبو أيوب",
+  "nisbas": [
+    {
+      "ar": "الأزدي",
+      "en": "al-Azdi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الواشحي",
+      "en": "al-Washihi (a clan of al-Azd; Ibn Hajar spells it: dotted shin, then undotted ha)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Harb",
+  "born": 140,
+  "bornNote": "Safar 140 AH, by his own statement as al-Bukhari reports it (al-Dhahabi, Siyar).",
+  "died": 224,
+  "diedNote": "Rabi' al-Akhir 224 AH, in Basra, aged eighty (Ibn Sa'd and others; the Taqrib).",
+  "deathVariants": [
+    {
+      "year": 224,
+      "authority": "Ibn Sa'd and others; Ibn Hajar, Taqrib",
+      "source": "Siyar A'lam al-Nubala' (Wikisource); Taqrib al-Tahdhib, entry 2545"
+    },
+    {
+      "year": "222, 223 or 227",
+      "authority": "variants listed in the Shamela narrator record",
+      "source": "https://shamela.ws/narrator/2587"
+    }
+  ],
+  "region": "Basra",
+  "residence": [
+    "Basra",
+    "Makkah (as judge, 214–219 AH)"
+  ],
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة إمام حافظ من التاسعة، مات سنة أربع وعشرين وله ثمانون سنة",
+    "en": "Reliable, an imam, a hadith master; of the ninth generation; died in 224 aged eighty.",
+    "number": "2545",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari; judge of Makkah",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/2587"
+  },
+  "teachers": [
+    {
+      "id": "hammad-ibn-zayd",
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 3688; Tahdhib al-Tahdhib, entry on Hammad ibn Zayd (students); al-Dhahabi, Siyar: 'when Shu'bah died I sat with Hammad ibn Zayd for nineteen years until he died'"
+    },
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj",
+      "nameAr": "شعبة بن الحجاج",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    },
+    {
+      "name": "Hammad ibn Salamah",
+      "nameAr": "حماد بن سلمة",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    },
+    {
+      "name": "Jarir ibn Hazim",
+      "nameAr": "جرير بن حازم",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    },
+    {
+      "name": "Hawshab ibn Aqil",
+      "nameAr": "حوشب بن عقيل",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    },
+    {
+      "name": "Sulayman ibn al-Mughirah",
+      "nameAr": "سليمان بن المغيرة",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-bukhari",
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 3688; al-Dhahabi, Siyar"
+    },
+    {
+      "name": "Abu Dawud al-Sijistani",
+      "nameAr": "أبو داود",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    },
+    {
+      "id": "al-humaydi",
+      "name": "al-Humaydi",
+      "nameAr": "الحميدي",
+      "source": "al-Dhahabi, Siyar: 'and al-Humaydi, who died before him'"
+    },
+    {
+      "id": "yahya-ibn-said-al-qattan",
+      "name": "Yahya ibn Sa'id al-Qattan",
+      "nameAr": "يحيى بن سعيد القطان",
+      "source": "al-Dhahabi, Siyar: 'and, among the earlier men, Yahya ibn Sa'id al-Qattan and Ahmad ibn Hanbal'"
+    },
+    {
+      "name": "Ahmad ibn Hanbal",
+      "nameAr": "أحمد بن حنبل",
+      "source": "al-Dhahabi, Siyar; Tahdhib al-Tahdhib 2/88 (via Shamela): 'we wrote from Sulayman ibn Harb while Ibn Uyaynah was alive'"
+    },
+    {
+      "name": "Amr ibn Ali al-Fallas",
+      "nameAr": "عمرو بن علي الفلاس",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    },
+    {
+      "name": "Muhammad ibn Yahya al-Dhuhli",
+      "nameAr": "محمد بن يحيى الذهلي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    },
+    {
+      "name": "Abu Zur'a al-Razi",
+      "nameAr": "أبو زرعة الرازي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "سليمان بن حرب إمام من الأئمة، كان لا يدلس، ويتكلم في الرجال وفي الفقه",
+      "en": "Sulayman ibn Harb is an imam among the imams; he did not use the ambiguous formula, and he spoke on narrators and on law.",
+      "source": "al-Jarh wa al-Ta'dil 4/108; Tahdhib al-Kamal 11/384",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "كان سليمان بن حرب قلّ من يرضى من المشايخ، فإذا رأيته قد روى عن شيخ فاعلم أنه ثقة",
+      "en": "Sulayman ibn Harb was satisfied with few teachers; when you see him narrating from a man, know that the man is reliable.",
+      "source": "Tahdhib al-Tahdhib 2/88; Tahdhib al-Kamal 11/384",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "Ya'qub ibn Shaybah",
+      "criticDied": 262,
+      "ar": "حدثنا سليمان بن حرب، وكان ثقة ثبتا صاحب حفظ",
+      "en": "Sulayman ibn Harb narrated to us; he was reliable, firm, a man of memory.",
+      "source": "Tahdhib al-Kamal 11/384; Siyar A'lam al-Nubala'",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة مأمون",
+      "en": "Reliable, trustworthy.",
+      "source": "Tahdhib al-Kamal 11/384",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة كثير الحديث، وقد ولي قضاء مكة ثم عزل فرجع إلى البصرة",
+      "en": "He was reliable and prolific; he held the judgeship of Makkah, was removed, and returned to Basra.",
+      "source": "Tahdhib al-Tahdhib 2/88",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "Ibn Khirash",
+      "criticDied": 283,
+      "ar": "كان ثقة",
+      "en": "He was reliable.",
+      "source": "Tahdhib al-Kamal 11/384",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "Ibn Qani'",
+      "criticDied": 351,
+      "ar": "ثقة مأمون",
+      "en": "Reliable, trustworthy.",
+      "source": "Tahdhib al-Tahdhib 2/88",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "Yahya ibn Aktham",
+      "criticDied": 242,
+      "via": "describing the Basran shaykhs to the caliph al-Ma'mun",
+      "ar": "هو ثقة حافظ للحديث عاقل في نهاية الستر والصيانة",
+      "en": "He is reliable, a memoriser of hadith, sensible, of the utmost probity and self-restraint.",
+      "source": "Tahdhib al-Tahdhib 2/88; Siyar A'lam al-Nubala'",
+      "url": "https://ar.wikisource.org/wiki/سير_أعلام_النبلاء/سليمان_بن_حرب"
+    },
+    {
+      "critic": "Abu Dawud al-Sijistani",
+      "criticDied": 275,
+      "ar": "كان سليمان بن حرب يحدث بالحديث ثم يحدث به كأنه ليس ذاك",
+      "en": "Sulayman ibn Harb would narrate a hadith, then narrate it again as if it were not the same (a note on his narrating by sense).",
+      "source": "Tahdhib al-Tahdhib 2/88; Siyar A'lam al-Nubala'",
+      "url": "https://ar.wikisource.org/wiki/سير_أعلام_النبلاء/سليمان_بن_حرب"
+    },
+    {
+      "critic": "al-Khatib al-Baghdadi",
+      "criticDied": 463,
+      "ar": "كان يروي على المعنى فيغير ألفاظه",
+      "en": "He narrated according to the sense, so his wording would change.",
+      "source": "Tahdhib al-Tahdhib 2/88",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed in al-Thiqat.",
+      "source": "Tahdhib al-Tahdhib 2/88",
+      "url": "https://shamela.ws/narrator/2587"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Narrated by sense",
+      "detail": "Abu Dawud and al-Khatib record that he transmitted the meaning rather than the fixed wording, so the same report could come out in different words. The critics who note it still rank him among the firmest; it is a reason to compare his wording with other students of Hammad ibn Zayd, not a reason to doubt the report."
+    }
+  ],
+  "bio": "A Basran of al-Azd, born in 140, who began seeking hadith in 158, attended Shu'bah until Shu'bah died and then sat with Hammad ibn Zayd for nineteen years. Al-Ma'mun appointed him judge of Makkah; al-Khatib dates the appointment to 214 and his removal to 219, after which he returned to Basra. He narrated from memory and was known for accepting few teachers, so that Abu Hatim took his narrating from a man as itself a sign of that man's reliability. Al-Bukhari, Abu Dawud, al-Humaydi and Ahmad ibn Hanbal are among his students. He died in Basra in Rabi' al-Akhir 224.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya, nisbas, tabaqa, taqrib, died, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 2545 (Wikisource)"
+    },
+    {
+      "field": "born, residence, teachers, students, bio",
+      "layer": "modern",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala', entry on Sulayman ibn Harb (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 2/88 and Tahdhib al-Kamal 11/384 as quoted in the Shamela narrator record"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "modern",
+      "ref": "Shamela narrator record 2587"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2545 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2587"
+    },
+    {
+      "label": "al-Dhahabi, Siyar A'lam al-Nubala', Sulayman ibn Harb (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/سير_أعلام_النبلاء/سليمان_بن_حرب"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

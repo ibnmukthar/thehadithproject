@@ -1,0 +1,181 @@
+{
+  "id": "abu-hurayra",
+  "name": "Abu Hurayra",
+  "nameAr": "أبو هريرة الدوسي رضي الله عنه",
+  "short": "Abu Hurayra",
+  "shortAr": "أبو هريرة",
+  "kunyaAr": "أبو هريرة",
+  "kunyaVariants": [
+    "Abu al-Aswad (said to have been his kunya before Islam)"
+  ],
+  "nisbas": [
+    {
+      "ar": "الدوسي",
+      "en": "al-Dawsi (Daws of al-Azd)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "اليماني",
+      "en": "al-Yamani",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Sakhr (on the preferred view that his name was Abd al-Rahman ibn Sakhr; name and patronymic are much disputed)",
+  "died": 58,
+  "diedNote": "died 57–59 AH",
+  "deathVariants": [
+    {
+      "year": 57,
+      "authority": "the Taqrib's first date; Hisham ibn Urwa, per Shamela's record",
+      "source": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء; Shamela narrator record, https://shamela.ws/narrator/3320"
+    },
+    {
+      "year": 58,
+      "authority": "\"it is said\" (Taqrib)",
+      "source": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء"
+    },
+    {
+      "year": 59,
+      "authority": "\"it is said\" (Taqrib); al-Waqidi: 59, aged 78 (Khulasa)",
+      "source": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء; al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462"
+    }
+  ],
+  "region": "Madinah",
+  "tabaqa": 1,
+  "band": "sahabi",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "3320",
+    "sunnah": "4396"
+  },
+  "teachers": [
+    {
+      "id": "umar-ibn-al-khattab",
+      "name": "Umar ibn al-Khattab",
+      "nameAr": "عمر بن الخطاب",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (Umar's entry lists him among those who narrated from Umar)"
+    }
+  ],
+  "students": [
+    {
+      "id": "abu-salama",
+      "name": "Abu Salama ibn Abd al-Rahman",
+      "nameAr": "أبو سلمة بن عبد الرحمن",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (Abu Salama's entry)"
+    },
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462"
+    },
+    {
+      "name": "Ibrahim ibn Hunayn",
+      "nameAr": "إبراهيم بن حنين",
+      "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462"
+    },
+    {
+      "name": "Busr ibn Sa'id",
+      "nameAr": "بسر بن سعيد",
+      "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462"
+    },
+    {
+      "name": "Salim",
+      "nameAr": "سالم",
+      "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462"
+    },
+    {
+      "name": "Sa'id ibn al-Musayyab",
+      "nameAr": "ابن المسيب",
+      "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462 (\"and in all some eight hundred reliable men\")"
+    },
+    {
+      "name": "Humayd ibn Abd al-Rahman",
+      "nameAr": "حميد بن عبد الرحمن",
+      "id": "humayd-ibn-abd-al-rahman",
+      "source": "reciprocal of the entry in humayd-ibn-abd-al-rahman's record (Tahdhib al-Tahdhib 1/497)"
+    },
+    {
+      "name": "Qays ibn Abi Hazim",
+      "nameAr": "قيس بن أبي حازم",
+      "id": "qays-ibn-abi-hazim",
+      "source": "reciprocal of the entry in qays-ibn-abi-hazim's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "verdicts": [],
+  "companionCounts": {
+    "total": 5374,
+    "agreed": 325,
+    "bukhariOnly": 79,
+    "muslimOnly": 93,
+    "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462 («له خمسة آلاف وثلثمائة وأربعة وسبعون حديثا، اتفقا على ثلثمائة وخمسة وعشرين، وانفرد خ بتسعة وسبعين وم بثلاثة وتسعين»)"
+  },
+  "bio": "The most prolific narrator among the Companions. The question here is not his reliability but whether this particular report really reached him by this route.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء"
+    },
+    {
+      "field": "kunyaVariants",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/3320 (ويقال كانت كنيته في الجاهلية: أبو الأسود)"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء (the Taqrib lists the disputed names and prefers Abd al-Rahman ibn Sakhr as the view of \"many\")"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء; Shamela narrator record, https://shamela.ws/narrator/3320; al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8426, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الهاء"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/3320"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 4396, linked from the isnad at https://sunnah.com/tirmidhi:2317"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462; Tahdhib al-Tahdhib (Hyderabad ed.) 12/114, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 462 (entry of Abu Hurayra), https://shamela.ws/book/5858/462"
+    }
+  ],
+  "sources": [],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "abdan",
+  "name": "Abdullah ibn Uthman ibn Jabala (Abdan)",
+  "nameAr": "عبد الله بن عثمان بن جبلة بن أبي رَوّاد العتكي الأزدي مولاهم المروزي",
+  "short": "Abdan",
+  "shortAr": "عبدان",
+  "kunya": "Abu Abd al-Rahman",
+  "kunyaAr": "أبو عبد الرحمن",
+  "laqab": {
+    "ar": "عبدان",
+    "en": "Abdan (a pet form of Abdullah)"
+  },
+  "nisbas": [
+    {
+      "ar": "العتكي مولاهم",
+      "en": "al-Ataki (as a client of al-Atik)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الأزدي مولاهم",
+      "en": "al-Azdi (as a client of al-Azd)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المروزي",
+      "en": "al-Marwazi, of Marw",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "al-Azd, the house of al-Muhallab ibn Abi Sufra",
+  "fatherName": "Uthman",
+  "born": 140,
+  "bornNote": "140 or 145 AH",
+  "died": 221,
+  "diedNote": "Sha'ban 221 AH (Taqrib); also said 220 or 222",
+  "deathVariants": [
+    {
+      "year": 221,
+      "authority": "Taqrib al-Tahdhib; al-Hakim (Tarikh Naysabur)",
+      "source": "Taqrib al-Tahdhib 3465; Ikmal Tahdhib al-Kamal 8/57"
+    },
+    {
+      "year": 220,
+      "authority": "a minority report",
+      "source": "Shamela narrator record 3784"
+    },
+    {
+      "year": 222,
+      "authority": "a minority report",
+      "source": "Shamela narrator record 3784"
+    }
+  ],
+  "region": "Marw",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة حافظ",
+    "en": "Reliable, a hadith master.",
+    "number": "3465",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari; the chief transmitter of Ibn al-Mubarak's books",
+  "rumuz": [
+    "خ",
+    "م",
+    "د",
+    "ت",
+    "س"
+  ],
+  "external": {
+    "shamela": "3784"
+  },
+  "teachers": [
+    {
+      "id": "abdullah-ibn-al-mubarak",
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "عبد الله بن المبارك",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6, 3554"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-bukhari",
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6, 3554"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Raja' Muhammad ibn Hamdawayh",
+      "criticDied": 306,
+      "ar": "رأيته يخضب، وهو ثقة مأمون",
+      "en": "I saw him dye his hair; he is reliable and trustworthy.",
+      "source": "Tahdhib al-Tahdhib 2/382",
+      "url": "https://shamela.ws/narrator/3784"
+    },
+    {
+      "critic": "al-Hakim",
+      "criticDied": 405,
+      "ar": "كان إمام أهل الحديث ببلده، ولاه عبد الله بن طاهر قضاء الجوزجان فاحتال حتى أعفي",
+      "en": "He was the imam of the hadith scholars of his land. Abdullah ibn Tahir appointed him judge of Juzjan, and he contrived until he was excused.",
+      "source": "Tahdhib al-Tahdhib 2/382",
+      "url": "https://shamela.ws/narrator/3784"
+    },
+    {
+      "critic": "Ahmad ibn Abda al-Amuli",
+      "criticDied": 250,
+      "ar": "تصدق عبدان بن عثمان في حياته بألف ألف درهم، وكتب كتب عبد الله بن المبارك بقلم واحد",
+      "en": "Abdan gave a million dirhams in charity during his lifetime, and he copied out Ibn al-Mubarak's books with a single pen.",
+      "source": "Tahdhib al-Kamal 15/276",
+      "url": "https://shamela.ws/narrator/3784"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "ذكره في الثقات",
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Tahdhib 2/382",
+      "url": "https://shamela.ws/narrator/3784"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ",
+    "en": "The hadith master.",
+    "source": "al-Kashif 3/151"
+  },
+  "bio": "Abdan is the pet name by which Abdullah ibn Uthman of Marw is always known; a reader who does not recognise it may fail to match him with his full name. A wealthy client of the Azd who gave a million dirhams in charity, he was Ibn al-Mubarak's closest transmitter and copied out his books himself. Al-Bukhari heard a great deal from him; of the six compilers only Ibn Majah has nothing through him.",
+  "provenance": [
+    {
+      "field": "name, laqab, kunya, mawla status, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3784, drawing on Tahdhib al-Kamal 15/276, Tahdhib al-Tahdhib 2/382 and Ikmal Tahdhib al-Kamal 8/57"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3465 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3784"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 6 and 3554"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3465 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_بقية_أسماء_الآباء_فيمن_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3784"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

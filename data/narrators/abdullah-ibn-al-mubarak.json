@@ -1,0 +1,206 @@
+{
+  "id": "abdullah-ibn-al-mubarak",
+  "name": "Abdullah ibn al-Mubarak",
+  "nameAr": "عبد الله بن المبارك بن واضح الحنظلي التميمي مولاهم المروزي",
+  "short": "Ibn al-Mubarak",
+  "shortAr": "ابن المبارك",
+  "kunya": "Abu Abd al-Rahman",
+  "kunyaAr": "أبو عبد الرحمن",
+  "nisbas": [
+    {
+      "ar": "الحنظلي مولاهم",
+      "en": "al-Hanzali (as a client of Banu Hanzala)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "التميمي مولاهم",
+      "en": "al-Tamimi (as a client of Tamim)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المروزي",
+      "en": "al-Marwazi, of Marw",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Banu Hanzala of Tamim",
+  "fatherName": "al-Mubarak",
+  "born": 118,
+  "bornNote": "118 or 119 AH",
+  "died": 181,
+  "diedNote": "181 AH aged 63, at Hit on the Euphrates on his way back from a campaign (Taqrib; Shamela record); also said 182",
+  "region": "Marw",
+  "tabaqa": 8,
+  "taqrib": {
+    "ar": "ثقة ثبت فقيه عالم جواد مجاهد، جمعت فيه خصال الخير",
+    "en": "Reliable and firm, a jurist and scholar, generous, a fighter in God's cause; every good quality was gathered in him.",
+    "number": "3570",
+    "rank": 1
+  },
+  "band": "thiqa",
+  "role": "Imam of Khurasan; hadith master, jurist, ascetic and author",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "3875"
+  },
+  "teachers": [
+    {
+      "id": "yunus-ibn-yazid",
+      "name": "Yunus ibn Yazid al-Ayli",
+      "nameAr": "يونس بن يزيد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6, 3116, 3220, 3554"
+    },
+    {
+      "id": "mamar-ibn-rashid",
+      "name": "Ma'mar ibn Rashid",
+      "nameAr": "معمر بن راشد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6, 3220"
+    },
+    {
+      "id": "sufyan-al-thawri",
+      "name": "Sufyan al-Thawri",
+      "nameAr": "سفيان الثوري",
+      "source": "Shamela narrator record 2472 names Ibn al-Mubarak among Sufyan's companions; Tahdhib al-Kamal 16/5 (Ibn Mahdi's comparison of the two)"
+    },
+    {
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "id": "hammad-ibn-zayd",
+      "source": "reciprocal of the entry in hammad-ibn-zayd's record (Tahdhib al-Tahdhib)"
+    },
+    {
+      "name": "Isma'il ibn Abi Khalid",
+      "nameAr": "إسماعيل بن أبي خالد",
+      "id": "ismail-ibn-abi-khalid",
+      "source": "reciprocal of the entry in ismail-ibn-abi-khalid's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "students": [
+    {
+      "id": "abdan",
+      "name": "Abdan",
+      "nameAr": "عبدان",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6, 3554"
+    },
+    {
+      "id": "bishr-ibn-muhammad",
+      "name": "Bishr ibn Muhammad al-Sakhtiyani",
+      "nameAr": "بشر بن محمد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6"
+    },
+    {
+      "name": "Hibban ibn Musa",
+      "nameAr": "حبان بن موسى",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 3116"
+    },
+    {
+      "name": "Muhammad ibn Muqatil",
+      "nameAr": "محمد بن مقاتل",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 3220"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "عبد الله بن المبارك ثقة إمام",
+      "en": "Reliable, an imam.",
+      "source": "al-Jarh wa al-Ta'dil 5/179",
+      "url": "https://shamela.ws/narrator/3875"
+    },
+    {
+      "critic": "Abu Ishaq al-Fazari",
+      "criticDied": 185,
+      "ar": "ابن المبارك إمام المسلمين",
+      "en": "Ibn al-Mubarak is the imam of the Muslims.",
+      "source": "al-Jarh wa al-Ta'dil 5/179",
+      "url": "https://shamela.ws/narrator/3875"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "ar": "ما رأت عيناي مثل أربعة: ما رأيت أحفظ للحديث من الثوري، ولا أشد تقشفا من شعبة، ولا أعقل من مالك بن أنس، ولا أنصح للأمة من عبد الله بن المبارك",
+      "en": "My eyes have not seen the like of four men: none with a better memory for hadith than al-Thawri, none more austere than Shu'ba, none wiser than Malik ibn Anas, and none more sincerely devoted to the community than Abdullah ibn al-Mubarak.",
+      "source": "Tahdhib al-Kamal 16/5",
+      "url": "https://shamela.ws/narrator/3875"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "كان فيه خصال لم تجتمع في أحد من أهل العلم في زمانه في الأرض كلها",
+      "en": "He had qualities that were not combined in any other scholar of his age anywhere on earth.",
+      "source": "al-Thiqat 7/7; Tahdhib al-Tahdhib 2/415",
+      "url": "https://shamela.ws/narrator/3875"
+    },
+    {
+      "critic": "al-Hakim",
+      "criticDied": 405,
+      "ar": "هو إمام عصره في الآفاق، وأولاهم بذلك علما وزهدا وشجاعة وسخاء",
+      "en": "He is the imam of his age throughout the lands, and the most deserving of that title in learning, asceticism, courage and generosity.",
+      "source": "Tahdhib al-Tahdhib 2/415",
+      "url": "https://shamela.ws/narrator/3875"
+    }
+  ],
+  "dhahabi": {
+    "ar": "شيخ خراسان",
+    "en": "The shaykh of Khurasan.",
+    "source": "al-Kashif, as quoted on the Shamela narrator record"
+  },
+  "bio": "The great scholar of Marw, a merchant who spent his wealth on students and campaigns, and the author of some of the earliest books of hadith and asceticism. He travelled widely and heard from Yunus ibn Yazid and Ma'mar, the two main carriers of al-Zuhri's hadith, which is why he can join their reports in a single chain. He died at Hit in 181 AH returning from the frontier. Abdan and Bishr ibn Muhammad, al-Bukhari's two teachers in this hadith, were both his students in Marw.",
+  "provenance": [
+    {
+      "field": "name, kunya, mawla status, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3875, drawing on Tahdhib al-Kamal 16/5 and Tahdhib al-Tahdhib 2/415"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3570 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3875"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 6, 3116, 3220, 3554"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3570 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_بقية_أسماء_الآباء_فيمن_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3875"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

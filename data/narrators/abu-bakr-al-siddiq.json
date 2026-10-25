@@ -1,0 +1,121 @@
+{
+  "id": "abu-bakr-al-siddiq",
+  "name": "Abu Bakr al-Siddiq",
+  "nameAr": "عبد الله بن عثمان بن عامر بن عمرو بن كعب بن سعد بن تيم بن مرة التيمي، أبو بكر بن أبي قحافة، الصديق، رضي الله عنه",
+  "short": "Abu Bakr al-Siddiq",
+  "shortAr": "أبو بكر الصديق",
+  "kunya": "Abu Bakr",
+  "kunyaAr": "أبو بكر",
+  "laqab": {
+    "ar": "الصديق",
+    "en": "al-Siddiq; also Atiq"
+  },
+  "nisbas": [
+    {
+      "ar": "التيمي",
+      "en": "al-Taymi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi",
+      "kind": "tribal"
+    }
+  ],
+  "fatherName": "Uthman (Abu Quhafah)",
+  "bornNote": "two years and six months after the Year of the Elephant (al-Isabah, as given on the Shamela record)",
+  "died": 13,
+  "diedNote": "Jumada al-Ula 13 AH, aged 63 (Taqrib)",
+  "region": "Makkah, then Madinah",
+  "tabaqa": 1,
+  "band": "sahabi",
+  "role": "First caliph; the Prophet's companion in the cave",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/3783"
+  },
+  "students": [
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Sahih al-Bukhari 4663; Sahih Muslim 2381"
+    }
+  ],
+  "verdicts": [],
+  "companionCounts": {
+    "total": 142,
+    "agreed": 6,
+    "bukhariOnly": 11,
+    "muslimOnly": 1,
+    "inBukhari": 22,
+    "source": "Totals: al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 206 (142 hadith; 6 agreed upon; 11 in al-Bukhari alone; 1 in Muslim alone). In al-Bukhari: Ibn Hajar, Hady al-Sari, ch. 10 (22)"
+  },
+  "flags": [
+    {
+      "label": "Names and titles",
+      "detail": "Ibn Hajar surveys the explanations of Atiq (his original name; freedom from blemish in lineage; precedence in good; his beauty; his mother's prayer at his birth; the Prophet's good tidings that Allah freed him from the Fire, supported by Aishah's hadith in al-Tirmidhi and Ibn al-Zubayr's in al-Bazzar, which adds that his name before that was Abdullah ibn Uthman) and of al-Siddiq (his being first to affirm the Prophet ﷺ; or so named from the morning of the Night Journey; Ali swore that Allah sent the name down from heaven). Uthman is Abu Quhafah's name without dispute, as the kunya Abu Bakr is undisputed (Fath al-Bari on 3653)."
+    }
+  ],
+  "bio": "The first adult man to believe and the Prophet's companion in the migration and the cave, named the second of the two in al-Tawbah 9:40. He became the first caliph and died in 13 AH. His lineage meets the Prophet's at Murrah ibn Ka'b. He is known by his kunya, as was his father, Abu Quhafah; his own name was Abdullah. In hadith 4663 a Companion narrates from him: Anas reports Abu Bakr's own account of the cave.",
+  "provenance": [
+    {
+      "field": "nameAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3467"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3467"
+    },
+    {
+      "field": "bornNote",
+      "layer": "isaba",
+      "ref": "al-Isabah, as given on the Shamela record"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 10"
+    },
+    {
+      "field": "flags",
+      "layer": "specialist",
+      "ref": "Fath al-Bari on 3653 (opening of the merits of Abu Bakr)"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "Khulasat Tadhhib Tahdhib al-Kamal, p. 206"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3467 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_بقية_أسماء_الآباء_فيمن_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3783"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 10: the count of each Companion's hadith (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_العاشر/ذكر_عدة_ما_لكل_صحابي_في_صحيح_البخاري"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 3653 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/6636/"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 206 (Shamela)",
+      "url": "https://shamela.ws/book/5858/206"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

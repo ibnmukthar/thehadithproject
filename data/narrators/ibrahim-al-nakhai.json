@@ -1,0 +1,199 @@
+{
+  "id": "ibrahim-al-nakhai",
+  "name": "Ibrahim ibn Yazid al-Nakha'i",
+  "nameAr": "إبراهيم بن يزيد بن قيس بن الأسود النخعي الكوفي",
+  "short": "Ibrahim al-Nakha'i",
+  "shortAr": "إبراهيم النخعي",
+  "kunya": "Abu Imran",
+  "kunyaAr": "أبو عمران",
+  "nisbas": [
+    {
+      "ar": "النخعي",
+      "en": "al-Nakha'i, of the tribe of al-Nakha' (a branch of Madhhij)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi, of Kufa",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Yazid",
+  "born": 50,
+  "bornNote": "Ibn Hibban gives 50 AH; the Taqrib says he died aged about fifty, which would put his birth around 46; another report gives 38",
+  "died": 96,
+  "diedNote": "96 AH aged about fifty (Taqrib), four months after al-Hajjaj, from whom he was hiding; also said 94 or 95",
+  "deathVariants": [
+    {
+      "year": 96,
+      "authority": "Taqrib al-Tahdhib",
+      "source": "Taqrib al-Tahdhib 270"
+    },
+    {
+      "year": "94 or 95",
+      "authority": "other reports collected in the rijal works",
+      "source": "Shamela narrator record 128"
+    }
+  ],
+  "region": "Kufa",
+  "tabaqa": 5,
+  "taqrib": {
+    "ar": "الفقيه، ثقة إلا أنه يرسل كثيرا",
+    "en": "The jurist. Reliable, except that he frequently transmits without naming his source (irsal).",
+    "number": "270",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "The jurist of Kufa among the Successors; mufti of Kufa with al-Sha'bi",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "128"
+  },
+  "teachers": [
+    {
+      "id": "abis-ibn-rabia",
+      "name": "Abis ibn Rabi'a",
+      "nameAr": "عابس بن ربيعة",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "Sahih al-Bukhari 1597; Sahih Muslim 1270; Sunan Abi Dawud 1873; Jami' al-Tirmidhi 860; Sunan al-Nasa'i 2937"
+    },
+    {
+      "name": "al-Aswad ibn Yazid, his maternal uncle",
+      "nameAr": "الأسود بن يزيد",
+      "source": "Shamela narrator record 128"
+    },
+    {
+      "name": "Abd al-Rahman ibn Yazid, his maternal uncle",
+      "nameAr": "عبد الرحمن بن يزيد",
+      "source": "Shamela narrator record 128"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-amash",
+      "name": "al-A'mash",
+      "nameAr": "الأعمش",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "Sahih al-Bukhari 1597 and the parallels"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Zur'a al-Razi",
+      "criticDied": 264,
+      "ar": "إبراهيم النخعي علم من أعلام أهل الإسلام، وفقيه من فقهائهم",
+      "en": "Ibrahim al-Nakha'i is one of the landmarks of Islam and one of its jurists.",
+      "source": "al-Jarh wa al-Ta'dil 2/144",
+      "url": "https://shamela.ws/narrator/128"
+    },
+    {
+      "critic": "Abu Zur'a al-Razi",
+      "criticDied": 264,
+      "ar": "النخعي عن علي مرسل، وعن سعيد مرسل",
+      "en": "Al-Nakha'i from Ali is mursal, and from Sa'd is mursal.",
+      "source": "Tahdhib al-Tahdhib 1/92",
+      "url": "https://shamela.ws/narrator/128"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "لم يحدث عن أحد من أصحاب النبي ﷺ وقد أدرك منهم جماعة، ورأى عائشة رؤيا، وكان مفتي أهل الكوفة هو والشعبي في زمانهما، وكان رجلا صالحا فقيها متوقيا قليل التكلف",
+      "en": "He did not narrate from any Companion of the Prophet ﷺ, although he lived in the time of a number of them, and he saw A'isha. He and al-Sha'bi were the muftis of Kufa in their day; he was a righteous man, a jurist, cautious and unaffected.",
+      "source": "Tahdhib al-Kamal 2/233",
+      "url": "https://shamela.ws/narrator/128"
+    },
+    {
+      "critic": "al-A'mash",
+      "criticDied": 148,
+      "ar": "ما رأيت أحدا أردد لحديث لم يسمعه من إبراهيم",
+      "en": "I have seen no one more careful to turn away a report he had not heard than Ibrahim.",
+      "source": "Ikmal Tahdhib al-Kamal 1/313",
+      "url": "https://shamela.ws/narrator/128"
+    },
+    {
+      "critic": "Isma'il ibn Abi Khalid",
+      "criticDied": 146,
+      "ar": "كان الشعبي وأبو الضحى وإبراهيم وأصحابنا يجتمعون في المسجد فيتذاكرون الحديث، فإذا جاءهم شيء ليس فيه رواية رموا أبصارهم إلى إبراهيم",
+      "en": "Al-Sha'bi, Abu al-Duha, Ibrahim and our companions would gather in the mosque to review hadith, and when a question came for which there was no transmitted report, they turned their eyes to Ibrahim.",
+      "source": "al-Jarh wa al-Ta'dil 2/144",
+      "url": "https://shamela.ws/narrator/128"
+    }
+  ],
+  "dhahabi": {
+    "ar": "كان عجبا في الورع والخير، متوقيا للشهرة، رأسا في العلم",
+    "en": "He was a wonder of scrupulousness and goodness, avoided fame, and was a leading figure in knowledge.",
+    "source": "al-Kashif, as quoted on the Shamela narrator record"
+  },
+  "tadlis": {
+    "rank": 2,
+    "type": "irsal and tadlis",
+    "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Tabaqat al-Mudallisin), entry 35, second rank: al-Hakim mentions that he used the ambiguous formula; Abu Hatim says he met no Companion except A'isha and did not hear from her, and he transmitted mursal a great deal, especially from Ibn Mas'ud",
+    "note": "His place among the mudallisun is a by-product of his mursal reports: he gave the rulings of Ibn Mas'ud and others without naming the intermediary. Here he names his source, Abis ibn Rabi'a, who heard Umar directly, so the irsal question does not arise in this chain."
+  },
+  "flags": [
+    {
+      "label": "Frequent irsal",
+      "detail": "The Taqrib's one reservation. Ibrahim habitually reported the rulings of Ibn Mas'ud and others without naming the Companion's student between them; the critics debated whether such reports should be accepted. It is a feature of his mursal reports, not of chains like this one where he names Abis."
+    }
+  ],
+  "bio": "The jurist of Kufa in the generation after the Companions' students, nephew of al-Aswad and Abd al-Rahman ibn Yazid and heir to the legal tradition of Ibn Mas'ud's circle. His companions turned to him when no transmitted report settled a question, and his school passed through Hammad to Abu Hanifa. He spent his last years hiding from al-Hajjaj and died in 96 AH, soon after him. Critics prize him and accept his connected chains while treating his frequent mursal reports with care.",
+  "provenance": [
+    {
+      "field": "name, kunya, family, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 128, drawing on Tahdhib al-Kamal 2/233, Tahdhib al-Tahdhib 1/92 and Ikmal Tahdhib al-Kamal 1/313"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 270 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 128"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Ta'rif Ahl al-Taqdis, entry 35 (second rank)"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 1597 and the parallels in Muslim, Abu Dawud, al-Tirmidhi and al-Nasa'i"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 270 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_إبراهيم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/128"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Shamela)",
+      "url": "https://shamela.ws/book/1186"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

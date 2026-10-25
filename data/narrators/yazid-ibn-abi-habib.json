@@ -1,0 +1,146 @@
+{
+  "id": "yazid-ibn-abi-habib",
+  "name": "Yazid ibn Abi Habib",
+  "nameAr": "يزيد بن أبي حبيب (واسم أبيه سويد) الأزدي مولاهم، أبو رجاء المصري",
+  "short": "Yazid ibn Abi Habib",
+  "shortAr": "يزيد بن أبي حبيب",
+  "kunya": "Abu Raja'",
+  "kunyaAr": "أبو رجاء",
+  "nisbas": [
+    { "ar": "الأزدي مولاهم", "en": "al-Azdi (by clientage; disputed)", "kind": "tribal" },
+    { "ar": "المصري", "en": "al-Misri", "kind": "geographic" }
+  ],
+  "mawla": "Sharik ibn al-Tufayl al-Azdi, an ally of Banu Malik ibn Hisl of Amir ibn Lu'ayy (al-Mizzi); Ibn Sa'd makes him a mawla of Banu Amir ibn Lu'ayy of Quraysh; the Taqrib says his clientage is disputed",
+  "fatherName": "Suwayd",
+  "born": 53,
+  "bornNote": "53 (Shamela record); al-Mizzi reports that he lived to over seventy-five, and the Taqrib that he died approaching eighty, which agrees.",
+  "died": 128,
+  "diedNote": "128, approaching eighty (Ibn Sa'd; Taqrib).",
+  "region": "Egypt",
+  "tabaqa": 5,
+  "taqrib": {
+    "ar": "ثقة فقيه، وكان يرسل",
+    "en": "Reliable, a jurist; he would narrate in the disconnected form.",
+    "number": "7701",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Mufti of Egypt in his time (Ibn Yunus)",
+  "rumuz": ["ع"],
+  "external": { "shamela": "7035", "tahdhibKamal": "32/102 (no. 6975)" },
+  "teachers": [
+    { "id": "abu-al-khayr-marthad", "name": "Abu al-Khayr Marthad ibn Abdullah al-Yazani", "nameAr": "أبو الخير مرثد بن عبد الله اليزني", "sigla": ["ع"], "source": "Tahdhib al-Kamal 32/104" },
+    { "name": "Ata' ibn Abi Rabah", "nameAr": "عطاء بن أبي رباح", "sigla": ["ع"], "source": "Tahdhib al-Kamal 32/104" },
+    { "name": "Irak ibn Malik", "nameAr": "عراك بن مالك", "sigla": ["خ", "م", "د", "س"], "source": "Tahdhib al-Kamal 32/104" },
+    { "name": "Abd al-Rahman ibn Shumasah al-Mahri", "nameAr": "عبد الرحمن بن شماسة", "sigla": ["م", "د", "ت", "ق"], "source": "Tahdhib al-Kamal 32/104" },
+    { "name": "Ibn Shihab al-Zuhri, by correspondence", "nameAr": "محمد بن مسلم بن شهاب الزهري", "sigla": ["م"], "source": "Tahdhib al-Kamal 32/104 (فيما كتب إليه); Abu Dawud: he did not hear from al-Zuhri" }
+  ],
+  "students": [
+    { "id": "al-layth-ibn-sad", "name": "al-Layth ibn Sa'd", "nameAr": "الليث بن سعد", "sigla": ["ع"], "source": "Tahdhib al-Kamal 24/259 (in al-Layth's entry)" },
+    { "name": "Amr ibn al-Harith, Muslim's second route", "nameAr": "عمرو بن الحارث", "source": "Sahih Muslim 40; al-Nawawi, Sharh Muslim 2/11" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Zur'ah al-Razi",
+      "criticDied": 264,
+      "ar": "مصري ثقة",
+      "en": "An Egyptian, reliable.",
+      "source": "al-Jarh wa al-Ta'dil 9/267",
+      "url": "https://shamela.ws/narrator/7035"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "يزيد بن أبي حبيب عن عقبة بن عامر مرسل",
+      "en": "Yazid ibn Abi Habib's narration from Uqbah ibn Amir is disconnected (mursal).",
+      "source": "Tahdhib al-Tahdhib 4/408",
+      "url": "https://shamela.ws/narrator/7035"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "مصري تابعي ثقة",
+      "en": "An Egyptian, a Successor, reliable.",
+      "source": "Tahdhib al-Tahdhib 4/408",
+      "url": "https://shamela.ws/narrator/7035"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة كثير الحديث، مات سنة ثمان وعشرين ومائة",
+      "en": "He was reliable and prolific; he died in 128.",
+      "source": "Tahdhib al-Kamal 32/106 (al-Tabaqat 7/513)",
+      "url": "https://shamela.ws/book/3722/17221"
+    },
+    {
+      "critic": "al-Layth ibn Sa'd",
+      "criticDied": 175,
+      "ar": "يزيد بن أبي حبيب سيدنا وعالمنا",
+      "en": "Yazid ibn Abi Habib is our master and our scholar.",
+      "source": "Tahdhib al-Kamal 32/102; Tahdhib al-Tahdhib 4/408",
+      "url": "https://shamela.ws/narrator/7035"
+    },
+    {
+      "critic": "Ibn Yunus",
+      "criticDied": 347,
+      "ar": "كان مفتي أهل مصر في أيامه، وكان حليما عاقلا، وكان أول من أظهر العلم بمصر والكلام في الحلال والحرام ومسائل، وقيل إنهم كانوا قبل ذلك يتحدثون بالفتن والملاحم والترغيب في الخير",
+      "en": "He was the mufti of Egypt in his day, forbearing and intelligent, and the first to make learning public in Egypt and to speak of the lawful and unlawful and of legal questions; before that, it is said, they spoke of tribulations, apocalyptic battles and exhortation.",
+      "source": "Tahdhib al-Kamal 32/102; Tahdhib al-Tahdhib 4/408; quoted by al-Nawawi, Sharh Muslim 2/11",
+      "url": "https://shamela.ws/narrator/7035"
+    },
+    {
+      "critic": "Abu Dawud",
+      "criticDied": 275,
+      "via": "al-Ajurri",
+      "ar": "لم يسمع من الزهري",
+      "en": "He did not hear from al-Zuhri.",
+      "source": "Tahdhib al-Kamal 32/102",
+      "url": "https://shamela.ws/narrator/7035"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 32/102",
+      "url": "https://shamela.ws/narrator/7035"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة فقيه وكان يرسل",
+      "en": "Reliable, a jurist; he would narrate in the disconnected form.",
+      "source": "Taqrib al-Tahdhib, entry 7701",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    }
+  ],
+  "dhahabi": {
+    "ar": "وكان حبشيا ثقة، من العلماء الحكماء الأتقياء",
+    "en": "He was Abyssinian, reliable, one of the learned, the wise and the God-fearing.",
+    "source": "al-Kashif 4/510"
+  },
+  "notHeardFrom": [
+    { "name": "Uqbah ibn Amir al-Juhani", "authority": "Abu Hatim al-Razi", "source": "Tahdhib al-Tahdhib 4/408" },
+    { "name": "Ibn Shihab al-Zuhri", "authority": "Abu Dawud", "source": "Tahdhib al-Kamal 32/102", "counter": "Al-Mizzi lists al-Zuhri among his teachers with the gloss \"by correspondence\" (فيما كتب إليه), so the link is epistolary rather than heard." },
+    { "name": "Ibn Umar and any Companion", "authority": "al-Daraqutni", "source": "al-Daraqutni, al-Ilal 4/98, as cited in the editor's note to Tahdhib al-Kamal 32/106" }
+  ],
+  "flags": [
+    { "label": "Irsal", "detail": "The Taqrib's \"he would narrate in the disconnected form\" rests on Abu Hatim (from Uqbah ibn Amir), Abu Dawud (from al-Zuhri), Ibn Bukayr (from Ibn Shihab and Nafi') and al-Daraqutni (from Ibn Umar and every Companion). In hadith 12 his shaykh is Abu al-Khayr, a fellow Egyptian Successor from whom his hearing is not questioned." },
+    { "label": "Disputed clientage", "detail": "Al-Mizzi: a mawla of Sharik ibn al-Tufayl al-Azdi; or his father was a mawla of a woman of Banu Hisl and his mother a mawlah of Tujib; Ibn Sa'd: a mawla of Banu Amir ibn Lu'ayy. The Taqrib simply records the disagreement." }
+  ],
+  "bio": "The man who, in Ibn Yunus's account, turned Egyptian learning from stories of tribulations and battles to the law of the lawful and the unlawful, and was the mufti of Egypt in his day; al-Layth, his student, called him \"our master and our scholar\", and al-Dhahabi notes he was Abyssinian. His own teacher Abu al-Khayr had held the fatwa of Egypt before him and al-Layth after him, which is the succession of three muftis in one chain. The critics' only reservation is irsal: he narrated from Companions and from al-Zuhri whom he had not heard.",
+  "provenance": [
+    { "field": "nameAr, fatherName, mawla, teachers, verdicts", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 32/102–106 (no. 6975), Shamela book 3722 pages 17217–17221" },
+    { "field": "taqrib, tabaqa, rumuz, died", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 7701" },
+    { "field": "verdicts, notHeardFrom", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 4/408, as collected on the Shamela narrator record 7035" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 4/510" },
+    { "field": "born", "layer": "modern", "ref": "Shamela narrator record 7035 (53 AH)" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 7701 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/7035" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 32/102 (Shamela)", "url": "https://shamela.ws/book/3722/17217" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 32/106, death (Shamela)", "url": "https://shamela.ws/book/3722/17221" },
+    { "label": "al-Nawawi, al-Minhaj Sharh Sahih Muslim 2/11 (Shamela)", "url": "https://shamela.ws/book/1711/255" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "ubaydullah-ibn-abdullah-ibn-utba",
+  "name": "Ubaydullah ibn Abdullah ibn Utba ibn Mas'ud",
+  "nameAr": "عبيد الله بن عبد الله بن عتبة بن مسعود الهذلي المدني",
+  "short": "Ubaydullah ibn Abdullah",
+  "shortAr": "عبيد الله بن عبد الله",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "kunyaVariants": [
+    "Abu al-Abbas"
+  ],
+  "nisbas": [
+    {
+      "ar": "الهذلي",
+      "en": "al-Hudhali, of Hudhayl (allies of Banu Zuhra)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المدني",
+      "en": "al-Madani, of Madinah",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abdullah",
+  "died": 94,
+  "diedNote": "94 AH, or 98; other dates are also given",
+  "deathVariants": [
+    {
+      "year": 94,
+      "authority": "al-Bukhari: he died before Ali ibn al-Husayn (94 or 95)",
+      "source": "Shamela narrator record 4184"
+    },
+    {
+      "year": 98,
+      "authority": "Ibn Numayr and others",
+      "source": "Shamela narrator record 4184"
+    },
+    {
+      "year": 99,
+      "authority": "Ibn al-Madini",
+      "source": "Shamela narrator record 4184"
+    }
+  ],
+  "region": "Madinah",
+  "tabaqa": 3,
+  "taqrib": {
+    "ar": "ثقة فقيه ثبت",
+    "en": "Reliable, a jurist, firm.",
+    "number": "4309",
+    "rank": 1
+  },
+  "band": "thiqa",
+  "role": "One of the Seven Jurists of Madinah; teacher of Umar ibn Abd al-Aziz and of al-Zuhri",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "4184"
+  },
+  "teachers": [
+    {
+      "id": "ibn-abbas",
+      "name": "Abdullah ibn Abbas",
+      "nameAr": "عبد الله بن عباس",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 6; Sahih Muslim 2308"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-zuhri",
+      "name": "al-Zuhri (Ibn Shihab)",
+      "nameAr": "الزهري",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 6; Sahih Muslim 2308"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Zur'a al-Razi",
+      "criticDied": 264,
+      "ar": "مديني ثقة مأمون إمام",
+      "en": "A Madinan, reliable, trustworthy, an imam.",
+      "source": "al-Jarh wa al-Ta'dil 5/319",
+      "url": "https://shamela.ws/narrator/4184"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "كان أحد فقهاء المدينة، تابعي ثقة، رجل صالح، جامع للعلم، وهو معلم عمر بن عبد العزيز",
+      "en": "One of the jurists of Madinah, a reliable Successor, a righteous man who gathered knowledge; he was the teacher of Umar ibn Abd al-Aziz.",
+      "source": "Tahdhib al-Tahdhib 3/15",
+      "url": "https://shamela.ws/narrator/4184"
+    },
+    {
+      "critic": "al-Zuhri",
+      "criticDied": 125,
+      "ar": "ما جالست أحدا من العلماء إلا وأرى أني قد أتيت على ما عنده، وقد كنت اختلفت إلى عروة حتى ما كنت أسمع منه إلا معادا، ما خلا عبيد الله بن عتبة، فإنه لم آته إلا وجدت عنده علما طريفا",
+      "en": "I never sat with a scholar without feeling I had exhausted what he had; I kept going to Urwa until I heard nothing from him but repetition; except Ubaydullah ibn Utba, for I never came to him without finding fresh knowledge.",
+      "source": "Tahdhib al-Tahdhib 3/15",
+      "url": "https://shamela.ws/narrator/4184"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "من سادات التابعين، وكان يعد من الفقهاء السبعة",
+      "en": "One of the masters among the Successors; he was counted among the Seven Jurists.",
+      "source": "al-Thiqat 5/63",
+      "url": "https://shamela.ws/narrator/4184"
+    },
+    {
+      "critic": "Ibn Abd al-Barr",
+      "criticDied": 463,
+      "ar": "كان أحد الفقهاء العشرة ثم السبعة الذين تدور عليهم الفتوى، وكان عالما فاضلا مقدما في الفقه، تقيا شاعرا محسنا",
+      "en": "He was one of the ten, then of the seven jurists on whom legal opinion in Madinah turned; a learned and virtuous man, foremost in jurisprudence, devout, and a fine poet.",
+      "source": "Tahdhib al-Tahdhib 3/15",
+      "url": "https://shamela.ws/narrator/4184"
+    }
+  ],
+  "dhahabi": {
+    "ar": "كان من بحور العلم",
+    "en": "He was one of the oceans of knowledge.",
+    "source": "al-Kashif, as quoted on the Shamela narrator record"
+  },
+  "flags": [
+    {
+      "label": "Blind",
+      "detail": "Al-Ijli and al-Waqidi note that he had lost his sight. It bears on nothing in this chain; the record notes it because the rijal works do."
+    }
+  ],
+  "bio": "A grand-nephew of Abdullah ibn Mas'ud and one of the Seven Jurists of Madinah, the group whose legal opinions the city followed in the generation after the Companions. He taught Umar ibn Abd al-Aziz, and al-Zuhri said he was the only scholar he never exhausted. His kunya Abu Abdullah matches his father's name, one of the name-patterns Ibn Hajar lists for students to notice.",
+  "provenance": [
+    {
+      "field": "name, kunyas, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 4184, drawing on Tahdhib al-Kamal 19/73 and Tahdhib al-Tahdhib 3/15"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4309 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 4184"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chain of Sahih al-Bukhari 6 and Sahih Muslim 2308"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 4309 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبيد_الله_مصغر"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/4184"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

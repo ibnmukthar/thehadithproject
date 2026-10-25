@@ -1,0 +1,145 @@
+{
+  "id": "yazid-ibn-harun",
+  "name": "Yazid ibn Harun al-Wasiti",
+  "nameAr": "يزيد بن هارون بن زاذان السلمي مولاهم، أبو خالد، الواسطي",
+  "short": "Yazid ibn Harun",
+  "shortAr": "يزيد بن هارون",
+  "kunya": "Abu Khalid",
+  "kunyaAr": "أبو خالد",
+  "nisbas": [
+    {
+      "ar": "السلمي",
+      "en": "al-Sulami (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الواسطي",
+      "en": "al-Wasiti",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Banu Sulaym (their client)",
+  "fatherName": "Harun",
+  "born": 118,
+  "bornNote": "117 or 118 AH (Shamela record, from Tahdhib al-Kamal)",
+  "died": 206,
+  "diedNote": "206 AH, nearly ninety (Taqrib); died in Wasit",
+  "region": "Wasit",
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة متقن عابد",
+    "en": "Reliable, precise, devout.",
+    "number": "7789",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/7130"
+  },
+  "teachers": [
+    {
+      "id": "al-awwam-ibn-hawshab",
+      "name": "al-Awwam ibn Hawshab",
+      "nameAr": "العوام بن حوشب",
+      "source": "Sahih al-Bukhari 2996"
+    }
+  ],
+  "students": [
+    {
+      "id": "matar-ibn-al-fadl",
+      "name": "Matar ibn al-Fadl",
+      "nameAr": "مطر بن الفضل",
+      "source": "Sahih al-Bukhari 2996"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "al-Fadl ibn Ziyad",
+      "ar": "صاحب صلاة، حافظ متقن للحديث، صرامة وحسن مذهب",
+      "en": "A man of prayer, a memoriser precise in hadith, with firmness and a sound way.",
+      "source": "Tahdhib al-Tahdhib 4/431",
+      "url": "https://shamela.ws/narrator/7130"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "ثقة إمام صدوق، لا يسأل عن مثله",
+      "en": "Reliable, an imam, truthful; one does not ask about the likes of him.",
+      "source": "Tahdhib al-Kamal 32/261",
+      "url": "https://shamela.ws/narrator/7130"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "ثقة ثبت في الحديث، وكان متعبدا",
+      "en": "Reliable and firm in hadith; a devout worshipper.",
+      "source": "Tahdhib al-Tahdhib 4/431",
+      "url": "https://shamela.ws/narrator/7130"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "أحد الثقات الأثبات المشاهير، أدركه البخاري بالسن لكن مات قبل أن يرحل",
+      "en": "One of the famous, reliable and firm narrators; al-Bukhari was alive in his time but he died before al-Bukhari travelled, so al-Bukhari took from his senior students.",
+      "source": "Hady al-Sari, ch. 9, letter ya'",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الياء"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Late blindness",
+      "detail": "Ibn Abi Khaythamah reports from his father that after Yazid lost his sight, when asked about a hadith he did not recognise he would have his slave-girl check it in his book, and this was held against him. Ibn Hajar answers that the early critics guarded against even slight laxity, and that this entails neither weakness nor softening; all six compilers relied on him (Hady al-Sari, ch. 9)."
+    }
+  ],
+  "bio": "The leading hadith scholar of Wasit in the generation after Shu'bah, remembered as much for his worship as for his memory. He lived almost ninety years, and al-Bukhari, who was a boy when he died, reached him through his students. In this chain he is the Wasiti student of a Wasiti shaykh, al-Awwam ibn Hawshab.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7789"
+    },
+    {
+      "field": "born",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 32/261 (via Shamela)"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7789"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 4/431"
+    },
+    {
+      "field": "flags",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 9"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7789 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/7130"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 9, letter ya' (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الياء"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

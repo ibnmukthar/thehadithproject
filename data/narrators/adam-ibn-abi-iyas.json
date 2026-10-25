@@ -1,0 +1,119 @@
+{
+  "id": "adam-ibn-abi-iyas",
+  "name": "Adam ibn Abi Iyas al-Asqalani",
+  "nameAr": "آدم بن أبي إياس عبد الرحمن العسقلاني، أبو الحسن، أصله خراساني، نشأ ببغداد",
+  "short": "Adam ibn Abi Iyas",
+  "shortAr": "آدم بن أبي إياس",
+  "kunya": "Abu al-Hasan",
+  "kunyaAr": "أبو الحسن",
+  "nisbas": [
+    {
+      "ar": "العسقلاني",
+      "en": "al-Asqalani",
+      "kind": "geographic"
+    },
+    {
+      "ar": "الخراساني",
+      "en": "al-Khurasani (by origin)",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abd al-Rahman (Abu Iyas)",
+  "died": 221,
+  "diedNote": "221 AH (Taqrib); 220 also given (Shamela record)",
+  "region": "Asqalan",
+  "origin": "Khurasan; raised in Baghdad",
+  "residence": [
+    "Baghdad",
+    "Asqalan"
+  ],
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة عابد",
+    "en": "Reliable, devout.",
+    "number": "132",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari",
+  "rumuz": [
+    "خ",
+    "خد",
+    "ت",
+    "س",
+    "ق"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/3"
+  },
+  "teachers": [
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj",
+      "nameAr": "شعبة",
+      "source": "Sahih al-Bukhari 15 (second chain)"
+    }
+  ],
+  "students": [
+    {
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "source": "Sahih al-Bukhari 15 (second chain)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "ثقة مأمون متعبد، من خيار عباد الله",
+      "en": "Reliable, trustworthy, a devout worshipper, one of the best of Allah's servants.",
+      "source": "Tahdhib al-Tahdhib 1/101",
+      "url": "https://shamela.ws/narrator/3"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "ثقة، ربما حدث عن قوم ضعفاء",
+      "en": "Reliable; he sometimes narrated from weak people.",
+      "source": "Tahdhib al-Tahdhib 1/101; Tahdhib al-Kamal 2/301",
+      "url": "https://shamela.ws/narrator/3"
+    }
+  ],
+  "bio": "Of Khurasani origin, raised in Baghdad and settled in Asqalan on the Syrian coast, where he died. A devout man praised by Abu Hatim, he heard Shu'bah in Basra and is al-Bukhari's shaykh in the second chain of hadith 15. Muslim and Ibn Majah did not use him.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 132"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 132"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 1/101"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 132 (خ خد ت س ق)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 132 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_بقية_حرف_الألف_إلى_إبراهيم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

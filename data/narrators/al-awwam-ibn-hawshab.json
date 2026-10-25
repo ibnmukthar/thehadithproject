@@ -1,0 +1,154 @@
+{
+  "id": "al-awwam-ibn-hawshab",
+  "name": "al-Awwam ibn Hawshab",
+  "nameAr": "العوام بن حوشب بن يزيد الشيباني، أبو عيسى، الواسطي",
+  "short": "al-Awwam ibn Hawshab",
+  "shortAr": "العوام بن حوشب",
+  "kunya": "Abu Isa",
+  "kunyaAr": "أبو عيسى",
+  "nisbas": [
+    {
+      "ar": "الشيباني",
+      "en": "al-Shaybani",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الواسطي",
+      "en": "al-Wasiti",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Hawshab",
+  "orthography": {
+    "spelled": "Hawshab: ha' without a dot, then shin, on the pattern of Ja'far",
+    "source": "Ibn Hajar, Fath al-Bari on hadith 2996"
+  },
+  "died": 148,
+  "region": "Wasit",
+  "tabaqa": 6,
+  "taqrib": {
+    "ar": "ثقة ثبت فاضل",
+    "en": "Reliable, firm, virtuous.",
+    "number": "5211",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/4949"
+  },
+  "teachers": [
+    {
+      "id": "ibrahim-al-saksaki",
+      "name": "Ibrahim ibn Abd al-Rahman al-Saksaki",
+      "nameAr": "إبراهيم السكسكي",
+      "source": "Sahih al-Bukhari 2996"
+    }
+  ],
+  "students": [
+    {
+      "id": "yazid-ibn-harun",
+      "name": "Yazid ibn Harun",
+      "nameAr": "يزيد بن هارون",
+      "source": "Sahih al-Bukhari 2996"
+    },
+    {
+      "name": "Hushaym ibn Bashir",
+      "nameAr": "هشيم بن بشير",
+      "source": "Sunan Abi Dawud 3091; al-Isma'ili's Mustakhraj as cited in Fath al-Bari on 2996"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ishaq ibn Mansur",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 22/427",
+      "url": "https://shamela.ws/narrator/4949"
+    },
+    {
+      "critic": "Abu Zur'ah al-Razi",
+      "criticDied": 264,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 7/22",
+      "url": "https://shamela.ws/narrator/4949"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "شيباني من أنفسهم، ثقة صاحب سنة، ثبت صالح",
+      "en": "A Shaybani by descent; reliable, a man of the Sunnah, firm and righteous.",
+      "source": "Tahdhib al-Tahdhib 3/334",
+      "url": "https://shamela.ws/narrator/4949"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة",
+      "en": "He was reliable.",
+      "source": "Tahdhib al-Tahdhib 3/334",
+      "url": "https://shamela.ws/narrator/4949"
+    }
+  ],
+  "dhahabi": {
+    "ar": "وثقوه",
+    "en": "They declared him reliable.",
+    "source": "al-Kashif, as given on the Shamela record"
+  },
+  "flags": [
+    {
+      "label": "Named without nasab in hadith 2996",
+      "detail": "Al-Bukhari writes only “al-Awwam”. Ibn Hajar identifies him as Ibn Hawshab in Fath al-Bari; the Hady al-Sari discussion of hadith 2996 treats him as the narrator who alone carried the report as a connected, Prophetic hadith (musnad), against Mis'ar, who stopped it at Abu Burdah."
+    },
+    {
+      "label": "Tribal Shaybani, not a client",
+      "detail": "Al-Ijli: a Shaybani “of themselves” (by descent); his father served in al-Hajjaj's police (Tahdhib al-Tahdhib 3/334)."
+    }
+  ],
+  "bio": "A Wasiti of the sixth generation, praised by Ibn Ma'in, Abu Zur'ah, al-Ijli and Ibn Sa'd, and used by all six compilers. He is the hinge of hadith 2996: al-Daraqutni noted that he alone gave the report a connected chain to the Prophet ﷺ, and Ibn Hajar defended him on the strength of the travel story that frames the report.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5211"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5211"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 3/334; al-Jarh wa al-Ta'dil 7/22"
+    },
+    {
+      "field": "orthography",
+      "layer": "specialist",
+      "ref": "Fath al-Bari on 2996"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 5211 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمير_مصغر_وعميرة_بفتح_أوله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/4949"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 2996 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/5450/"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

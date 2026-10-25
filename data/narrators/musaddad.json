@@ -1,0 +1,291 @@
+{
+  "id": "musaddad",
+  "name": "Musaddad ibn Musarhad",
+  "nameAr": "مسدد بن مسرهد بن مسربل بن مستورد الأسدي البصري",
+  "short": "Musaddad",
+  "shortAr": "مسدد",
+  "kunya": "Abu al-Hasan",
+  "kunyaAr": "أبو الحسن",
+  "laqab": {
+    "ar": "مسدد",
+    "en": "'Musaddad' is said to be a laqab: his name is also given as Abd al-Malik ibn Abd al-Aziz (Taqrib)"
+  },
+  "nisbas": [
+    {
+      "ar": "الأسدي",
+      "en": "al-Asadi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Musarhad",
+  "born": 150,
+  "bornNote": "About 150 AH, as the Shamela record estimates; no early source fetched gives a year.",
+  "died": 228,
+  "diedNote": "228 AH (al-Bukhari and others); Ibn Qani': at the start of Ramadan.",
+  "region": "Basra",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة حافظ، يقال إنه أول من صنف المسند بالبصرة، من العاشرة، مات سنة ثمان وعشرين، ويقال اسمه عبد الملك بن عبد العزيز ومسدد لقب",
+    "en": "Reliable, a hadith master; said to be the first to compile a Musnad in Basra; of the tenth generation; died in 228. It is said his name was Abd al-Malik ibn Abd al-Aziz and Musaddad a laqab.",
+    "number": "6598",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari and Abu Dawud; said to be the first Basran to compile a Musnad",
+  "rumuz": [
+    "خ",
+    "د",
+    "ت",
+    "س"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/6085"
+  },
+  "teachers": [
+    {
+      "id": "yahya-ibn-said-al-qattan",
+      "name": "Yahya ibn Sa'id al-Qattan",
+      "nameAr": "يحيى بن سعيد القطان",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57 and 2715; Tahdhib al-Tahdhib ('al-Qattan')"
+    },
+    {
+      "id": "hammad-ibn-zayd",
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abdullah ibn Yahya ibn Abi Kathir",
+      "nameAr": "عبد الله بن يحيى بن أبي كثير",
+      "source": "Tahdhib al-Tahdhib (first teacher named)"
+    },
+    {
+      "name": "Hushaym ibn Bashir",
+      "nameAr": "هشيم بن بشير",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "hushaym-ibn-bashir"
+    },
+    {
+      "name": "Yazid ibn Zuray'",
+      "nameAr": "يزيد بن زريع",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Isma'il ibn Ulayyah",
+      "nameAr": "إسماعيل بن علية",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Awanah",
+      "nameAr": "أبو عوانة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Bishr ibn al-Mufaddal",
+      "nameAr": "بشر بن المفضل",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Khalid ibn Abdullah al-Wasiti",
+      "nameAr": "خالد بن عبد الله الواسطي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Waki' ibn al-Jarrah",
+      "nameAr": "وكيع",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-bukhari",
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57; Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Dawud al-Sijistani",
+      "nameAr": "أبو داود",
+      "sigla": [
+        "د"
+      ],
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Zur'a al-Razi",
+      "nameAr": "أبو زرعة الرازي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Hatim al-Razi",
+      "nameAr": "أبو حاتم الرازي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Muhammad ibn Yahya al-Dhuhli",
+      "nameAr": "محمد بن يحيى الذهلي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ya'qub ibn Shaybah",
+      "nameAr": "يعقوب بن شيبة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Isma'il ibn Ishaq al-Qadi",
+      "nameAr": "إسماعيل بن إسحاق القاضي",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ja'far ibn Abi Uthman, who asked him from whom to write in Basra",
+      "ar": "اكتب عن مسدد فإنه ثقة ثقة",
+      "en": "Write from Musaddad, for he is reliable, reliable.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203; Tahdhib al-Kamal 27/443",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Muhammad ibn Harun al-Fallas",
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Zur'a",
+      "ar": "مسدد صدوق، فما كتبت عنه فلا تعده",
+      "en": "Musaddad is truthful; whatever you wrote from him, do not go back over it.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203; al-Jarh wa al-Ta'dil 8/438",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Yahya ibn Sa'id al-Qattan",
+      "criticDied": 198,
+      "via": "Yahya ibn Ma'in",
+      "ar": "لو أتيت مسددا فحدثته في بيته لكان يستأهل",
+      "en": "If I went to Musaddad and narrated to him in his own house, he would deserve it.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203; al-Jarh wa al-Ta'dil 8/438",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "مسدد بن مسرهد بن مسربل بن مستورد الأسدي البصري ثقة، كان يملي علي حتى أضجر",
+      "en": "Musaddad ibn Musarhad ibn Musarbal ibn Mustawrid al-Asadi al-Basri is reliable; he would dictate to me until I grew weary.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 8/438; Tahdhib al-Tahdhib",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "via": "Abu Amr ibn Hakim, on Musaddad's hadith from Yahya ibn Sa'id from Ubaydullah from Nafi' from Ibn Umar",
+      "ar": "كأنها الدنانير، ثم قال: كأنك سمعتها من في النبي صلى الله عليه وسلم",
+      "en": "They are like gold dinars; then he said: as if you heard them from the Prophet's own mouth.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Ibn Qani'",
+      "criticDied": 351,
+      "ar": "كان ثقة",
+      "en": "He was reliable.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed in al-Thiqat.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "critic": "Ibn Adi",
+      "criticDied": 365,
+      "ar": "يقال إنه أول من صنف المسند بالبصرة",
+      "en": "It is said he was the first to compile a Musnad in Basra.",
+      "source": "Tahdhib al-Tahdhib, letter mim, entry 203",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    }
+  ],
+  "flags": [
+    {
+      "label": "A lineage like a charm",
+      "detail": "Al-Ijli reports that Abu Nu'aym al-Fadl ibn Dukayn would ask him to recite Musaddad's genealogy (Musaddad ibn Musarhad ibn Musarbal ibn Mustawrid) and say: 'Ahmad, this is a charm against the scorpion's sting.' Al-Bukhari named the great-grandfather Mar'abal; Ibn Hajar rejects Mansur al-Khalidi's far longer version as unsupported."
+    },
+    {
+      "label": "Not used by Muslim or Ibn Majah",
+      "detail": "His sigla are خ د ت س: al-Bukhari and Abu Dawud heard from him directly; al-Tirmidhi and al-Nasa'i reach him through intermediaries (Tahdhib al-Tahdhib). Muslim and Ibn Majah do not narrate from him."
+    }
+  ],
+  "bio": "A Basran hadith master, one of al-Bukhari's and Abu Dawud's shaykhs, said to be the first in Basra to arrange hadith as a Musnad. Ibn Ma'in, al-Nasa'i, Abu Hatim, al-Ijli and Ibn Qani' call him reliable, and Ibn Ma'in told a student that he was the man to write from in Basra. Ahmad's 'truthful' sits beside these. He died in 228.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya, laqab, tabaqa, taqrib, died, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 6598 (Wikisource)"
+    },
+    {
+      "field": "teachers, students, verdicts, flags",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter mim, entry 203 (Wikisource)"
+    },
+    {
+      "field": "born",
+      "layer": "modern",
+      "ref": "Shamela narrator record 6085 ('about 150')"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 6598 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_بقية_حرف_الميم_على_الترتيب"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, letter mim, entry 203 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/بقية_حرف_الميم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6085"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

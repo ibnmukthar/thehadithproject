@@ -1,0 +1,163 @@
+{
+  "id": "abu-asim-al-nabil",
+  "name": "Abu Asim al-Nabil, al-Dahhak ibn Makhlad",
+  "nameAr": "الضحاك بن مخلد بن الضحاك بن مسلم الشيباني، أبو عاصم النبيل البصري",
+  "short": "Abu Asim al-Nabil",
+  "shortAr": "أبو عاصم النبيل",
+  "kunya": "Abu Asim",
+  "kunyaAr": "أبو عاصم",
+  "laqab": { "ar": "النبيل", "en": "al-Nabil (the noble, the discerning)" },
+  "nisbas": [
+    { "ar": "الشيباني", "en": "al-Shaybani", "kind": "tribal" },
+    { "ar": "البصري", "en": "al-Basri", "kind": "geographic" }
+  ],
+  "fatherName": "Makhlad",
+  "born": 122,
+  "bornNote": "He said: \"I was born in Rabi' al-Awwal 122\"; Khalifah ibn Khayyat: 121. He also said his mother was born in 110, so she was twelve at his birth (Tahdhib al-Kamal 13/287, from Amr ibn Ali).",
+  "died": 212,
+  "diedNote": "Dhu al-Hijjah 212, in Basra (Ibn Sa'd, Khalifah, Abu Dawud and others); Jabir ibn Kurdi: 211. Amr ibn Ali: aged ninety years and four months.",
+  "deathVariants": [
+    { "year": 212, "authority": "Ibn Sa'd, Khalifah ibn Khayyat, Abu Dawud, al-Kudaymi and others", "source": "Tahdhib al-Kamal 13/287" },
+    { "year": 211, "authority": "Jabir ibn Kurdi", "source": "Tahdhib al-Kamal 13/287" },
+    { "year": 214, "authority": "the book al-Zuhd, as cited by Mughaltay", "source": "Ikmal Tahdhib al-Kamal 7/25 (via Shamela narrator record)" }
+  ],
+  "region": "Basra",
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة ثبت",
+    "en": "Reliable and firm.",
+    "number": "2977",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari; one of the shaykhs of his three-link chains",
+  "rumuz": ["ع"],
+  "external": { "shamela": "2956", "tahdhibKamal": "13/281 (no. 2927)" },
+  "teachers": [
+    { "id": "yazid-ibn-abi-ubayd", "name": "Yazid ibn Abi Ubayd", "nameAr": "يزيد بن أبي عبيد", "sigla": ["خ", "م", "د"], "source": "Tahdhib al-Kamal 13/283" },
+    { "name": "Jarir ibn Hazim", "nameAr": "جرير بن حازم", "sigla": ["خ"], "source": "Tahdhib al-Kamal 13/282; Jarir also narrated from him (13/284: وهو من شيوخه)" },
+    { "name": "Sufyan al-Thawri", "nameAr": "سفيان الثوري", "sigla": ["خ", "م", "ت"], "source": "Tahdhib al-Kamal 13/282" },
+    { "name": "Shu'bah ibn al-Hajjaj", "nameAr": "شعبة بن الحجاج", "sigla": ["خ"], "source": "Tahdhib al-Kamal 13/282" },
+    { "name": "Ibn Jurayj", "nameAr": "عبد الملك بن جريج", "sigla": ["ع"], "source": "Tahdhib al-Kamal 13/283" },
+    { "name": "Malik ibn Anas", "nameAr": "مالك بن أنس", "sigla": ["خ"], "source": "Tahdhib al-Kamal 13/283" }
+  ],
+  "students": [
+    { "id": "al-bukhari", "name": "al-Bukhari", "nameAr": "البخاري", "source": "Tahdhib al-Kamal 13/283" },
+    { "name": "Ahmad ibn Hanbal", "nameAr": "أحمد بن حنبل", "source": "Tahdhib al-Kamal 13/284" },
+    { "name": "Ali ibn al-Madini", "nameAr": "علي بن المديني", "sigla": ["خ"], "source": "Tahdhib al-Kamal 13/285" },
+    { "name": "Jarir ibn Hazim (d. 170), one of his own teachers", "nameAr": "جرير بن حازم", "source": "Tahdhib al-Kamal 13/284 (وهو من شيوخه)" },
+    { "name": "Muhammad ibn Hibban ibn al-Azhar al-Bahili (d. 301), the last to narrate from him", "nameAr": "محمد بن حبان بن الأزهر", "source": "Tahdhib al-Kamal 13/285 (وهو آخر من حدث عنه); al-Khatib, Tarikh Baghdad, entry on Muhammad ibn Hibban" },
+    { "name": "Muhammad ibn Bashshar Bundar", "nameAr": "محمد بن بشار بندار", "sigla": ["م", "د", "ت", "ق"], "source": "Tahdhib al-Kamal 13/285" },
+    { "name": "Abu Musa Muhammad ibn al-Muthanna", "nameAr": "محمد بن المثنى", "sigla": ["خ", "م", "د", "ت", "س"], "source": "Tahdhib al-Kamal 13/285" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Uthman al-Darimi",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 4/463; Tahdhib al-Kamal 13/285",
+      "url": "https://shamela.ws/narrator/2956"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق، وهو أحب إلي من روح بن عبادة",
+      "en": "Truthful; I prefer him to Rawh ibn Ubadah.",
+      "source": "al-Jarh wa al-Ta'dil 4/463; Tahdhib al-Kamal 13/286",
+      "url": "https://shamela.ws/narrator/2956"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "ثقة، كثير الحديث، وكان له فقه",
+      "en": "Reliable, prolific, and he had jurisprudence.",
+      "source": "Tahdhib al-Kamal 13/286; Tahdhib al-Tahdhib 2/225",
+      "url": "https://shamela.ws/book/3722/6668"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة فقيها",
+      "en": "He was reliable and a jurist.",
+      "source": "Tahdhib al-Kamal 13/287 (al-Tabaqat 7/295); Tahdhib al-Tahdhib 2/225",
+      "url": "https://shamela.ws/narrator/2956"
+    },
+    {
+      "critic": "Umar ibn Shabbah",
+      "criticDied": 262,
+      "ar": "حدثنا أبو عاصم النبيل، والله ما رأيت مثله",
+      "en": "Abu Asim al-Nabil narrated to us; by God, I never saw his like.",
+      "source": "Tahdhib al-Kamal 13/286",
+      "url": "https://shamela.ws/book/3722/6668"
+    },
+    {
+      "critic": "Abu Dawud",
+      "criticDied": 275,
+      "via": "al-Ajurri",
+      "ar": "كان يحفظ قدر ألف حديث من جيد حديثه، وكان فيه مزاح",
+      "en": "He had about a thousand of his best hadith by heart, and there was humour in him.",
+      "source": "Tahdhib al-Kamal 13/286; Tahdhib al-Tahdhib 2/225",
+      "url": "https://shamela.ws/narrator/2956"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Hamdan ibn Ali al-Warraq",
+      "ar": "تسمعون مني ومثل أبي عاصم في الحياة؟ اخرجوا إليه",
+      "en": "Asked to teach in 213: \"You would hear from me while the like of Abu Asim is alive? Go out to him.\"",
+      "source": "Tahdhib al-Kamal 13/286; Tahdhib al-Tahdhib 2/225",
+      "url": "https://shamela.ws/narrator/2956"
+    },
+    {
+      "critic": "al-Khalili",
+      "criticDied": 446,
+      "ar": "متفق عليه زهدا وعلما وديانة وإتقانا",
+      "en": "Agreed upon in asceticism, learning, religion and precision.",
+      "source": "Tahdhib al-Kamal 13/287; Tahdhib al-Tahdhib 2/225",
+      "url": "https://shamela.ws/narrator/2956"
+    },
+    {
+      "critic": "Abu Asim himself",
+      "criticDied": 212,
+      "via": "Muhammad ibn Isa al-Zajjaj",
+      "ar": "كل شيء حدثتك حدثوني به، وما دلست حديثا قط، وإني لأرجم من يدلس",
+      "en": "Everything I narrated to you they narrated to me; I never once used the ambiguous formula, and I would stone anyone who does.",
+      "source": "Tahdhib al-Kamal 13/286; Tahdhib al-Tahdhib 2/225",
+      "url": "https://shamela.ws/book/3722/6668"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة ثبت",
+      "en": "Reliable and firm.",
+      "source": "Taqrib al-Tahdhib, entry 2977",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الضاد_المعجمة"
+    }
+  ],
+  "dhahabi": {
+    "ar": "قال عمر بن شبة: والله ما رأيت مثله، وقال أبو عاصم: ما دلست قط",
+    "en": "Quotes Umar ibn Shabbah, \"by God, I never saw his like\", and Abu Asim's own \"I never used the ambiguous formula\".",
+    "source": "al-Kashif 3/34"
+  },
+  "bio": "A Basran hadith master, born in 122 to a mother of twelve, who lived to ninety and became one of al-Bukhari's most senior shaykhs; al-Bukhari's three-link chains from Salamah ibn al-Akwa' run through him and through al-Makki ibn Ibrahim. Known everywhere by his kunya and his laqab al-Nabil rather than by his name, al-Dahhak ibn Makhlad. His clientage is disputed: some made him a mawla of Banu Shayban, others of their own stock, and Qa'nab ibn al-Muharrar a mawla of Banu Dhuhl. Ibn Hajar lists him in Hady al-Sari among the men of the Sahih known by a laqab. He is a textbook case of al-Khatib's \"the earlier and the later\" (al-sabiq wa al-lahiq): his teacher Jarir ibn Hazim (d. 170) also narrated from him, and his last student, Muhammad ibn Hibban ibn al-Azhar, died in 301.",
+  "provenance": [
+    { "field": "nameAr, nisbas, mawla (disputed), teachers, students, born, died, deathVariants", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 13/281–287 (no. 2927), Shamela book 3722 pages 6663–6670" },
+    { "field": "taqrib, tabaqa, rumuz", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 2977" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 2/225, as collected on the Shamela narrator record 2956" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 3/34" },
+    { "field": "laqab", "layer": "specialist", "ref": "Ibn Hajar, Hady al-Sari, fasl 7, section on those mentioned by a laqab" },
+    { "field": "sabiq/lahiq note", "layer": "class-notes", "ref": "class notes on Bukhari 2295, citing al-Khatib; death dates verified from the Taqrib (Jarir, 911) and Tarikh Baghdad (Muhammad ibn Hibban)" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 2977 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الضاد_المعجمة" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/2956" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 13/281 (Shamela)", "url": "https://shamela.ws/book/3722/6663" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 13/285, students (Shamela)", "url": "https://shamela.ws/book/3722/6667" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 13/287, dates (Shamela)", "url": "https://shamela.ws/book/3722/6670" },
+    { "label": "Ibn Hajar, Hady al-Sari, fasl 7: those mentioned by a laqab (Wikisource)", "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/الفصل_الرابع_فيمن_يذكر_بلقب_ونحوه" },
+    { "label": "al-Khatib, Tarikh Baghdad, entry on Muhammad ibn Hibban ibn al-Azhar (Hawramani transcription)", "url": "https://hadithtransmitters.hawramani.com/محمد-بن-حبان-بن-الأزهر-أبو-بكر-البصري/" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

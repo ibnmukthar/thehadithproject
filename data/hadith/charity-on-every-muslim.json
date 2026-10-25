@@ -1,0 +1,322 @@
+{
+  "slug": "charity-on-every-muslim",
+  "title": "Charity is due from every Muslim",
+  "titleAr": "على كل مسلم صدقة",
+  "takeaway": "Every Muslim owes charity. Asked about the one who has nothing, the Prophet ﷺ widens the word step by step: work with your hands, benefit yourself and give; help someone in distress; enjoin what is good; and if none of that, hold back from harm, for that too is charity. Abu Musa's grandson Sa'id narrates it from his father from his grandfather.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: al-Bukhari records it twice and Muslim once, all through Shu'bah from Sa'id ibn Abi Burdah; al-Nasa'i has it with explicit hearing at the father's link."
+  },
+  "primary": {
+    "cite": "bukhari:6022",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "6022",
+    "bookChapter": "Book of Manners, chapter 'every good deed is charity'",
+    "chain": [
+      "al-bukhari",
+      "adam-ibn-abi-iyas",
+      "shuba-ibn-al-hajjaj",
+      "said-ibn-abi-burdah",
+      "abu-burdah-ibn-abi-musa",
+      "abu-musa-al-ashari"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "abu-musa-al-ashari",
+        "sighaAr": "قال: قال النبي ﷺ",
+        "sighaEn": "he said: the Prophet ﷺ said",
+        "kind": "qala"
+      },
+      {
+        "from": "abu-musa-al-ashari",
+        "to": "abu-burdah-ibn-abi-musa",
+        "sighaAr": "عن جده",
+        "sighaEn": "from his grandfather",
+        "kind": "an",
+        "note": "'His grandfather' is Sa'id's grandfather Abu Musa, Abu Burdah's father; Ibn Hajar: 'that is, Ibn Abi Musa al-Ash'ari, stated explicitly in Abu Awanah's Sahih'. Al-Nasa'i 2538 has Sa'id say 'I heard my father narrating from Abu Musa'."
+      },
+      {
+        "from": "abu-burdah-ibn-abi-musa",
+        "to": "said-ibn-abi-burdah",
+        "sighaAr": "عن أبيه",
+        "sighaEn": "from his father",
+        "kind": "an",
+        "note": "Al-Nasa'i's route has 'I heard my father'."
+      },
+      {
+        "from": "said-ibn-abi-burdah",
+        "to": "shuba-ibn-al-hajjaj",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama",
+        "note": "In al-Nasa'i 2538: 'Ibn Abi Burdah informed me'."
+      },
+      {
+        "from": "shuba-ibn-al-hajjaj",
+        "to": "adam-ibn-abi-iyas",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "adam-ibn-abi-iyas",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى الأَشْعَرِيِّ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "matnAr": "عَلَى كُلِّ مُسْلِمٍ صَدَقَةٌ. قَالُوا فَإِنْ لَمْ يَجِدْ قَالَ فَيَعْمَلُ بِيَدَيْهِ فَيَنْفَعُ نَفْسَهُ وَيَتَصَدَّقُ. قَالُوا فَإِنْ لَمْ يَسْتَطِعْ أَوْ لَمْ يَفْعَلْ قَالَ فَيُعِينُ ذَا الْحَاجَةِ الْمَلْهُوفَ. قَالُوا فَإِنْ لَمْ يَفْعَلْ قَالَ فَيَأْمُرُ بِالْخَيْرِ. أَوْ قَالَ بِالْمَعْرُوفِ. قَالَ فَإِنْ لَمْ يَفْعَلْ قَالَ فَيُمْسِكُ عَنِ الشَّرِّ، فَإِنَّهُ لَهُ صَدَقَةٌ",
+    "matnEn": "“Charity is due from every Muslim.” They said: And if he finds nothing? He said: “Then he works with his hands, benefits himself and gives in charity.” They said: And if he cannot, or does not? He said: “Then he helps the one in need who is in distress.” They said: And if he does not? He said: “Then he enjoins what is good”, or he said, “what is right.” He said: And if he does not? He said: “Then he holds back from evil, for that is charity for him.”",
+    "url": "https://sunnah.com/bukhari:6022"
+  },
+  "also": [
+    {
+      "cite": "bukhari:1445",
+      "label": "Sahih al-Bukhari 1445",
+      "note": "Book of Zakah, chapter 'charity is due from every Muslim; whoever finds nothing should act well'",
+      "url": "https://sunnah.com/bukhari:1445",
+      "chainNote": "Muslim ibn Ibrahim → Shu'bah → Sa'id ibn Abi Burdah → his father → his grandfather → the Prophet ﷺ: the same chain from Shu'bah upward.",
+      "wordingNote": "'O Prophet of God, what of one who finds nothing?'; 'and if he finds nothing?' twice more; the last answer runs the two final clauses together: 'then let him act well and hold back from evil, for that is charity for him' (fa-innaha, feminine)."
+    },
+    {
+      "cite": "muslim:1008a",
+      "label": "Sahih Muslim 1008a",
+      "note": "Book of Zakah",
+      "url": "https://sunnah.com/muslim:1008a",
+      "chainNote": "Abu Bakr ibn Abi Shaybah → Abu Usamah → Shu'bah → Sa'id → his father → his grandfather → the Prophet ﷺ.",
+      "wordingNote": "The questions are impersonal ('it was said: what if he does not find?'); 'what if he cannot?' twice, then 'what if he does not?'; 'he enjoins what is right, or what is good'; 'he holds back from evil, for it is charity'."
+    },
+    {
+      "cite": "muslim:1008b",
+      "label": "Sahih Muslim 1008b",
+      "note": "Book of Zakah",
+      "url": "https://sunnah.com/muslim:1008b",
+      "chainNote": "Muhammad ibn al-Muthanna → Abd al-Rahman ibn Mahdi → Shu'bah, 'with this chain'."
+    },
+    {
+      "cite": "nasai:2538",
+      "label": "Sunan al-Nasa'i 2538",
+      "note": "Book of Zakah",
+      "url": "https://sunnah.com/nasai:2538",
+      "chainNote": "Muhammad ibn Abd al-A'la → Khalid → Shu'bah: 'Ibn Abi Burdah informed me, saying: I heard my father narrating from Abu Musa, from the Prophet ﷺ': explicit hearing where al-Bukhari has 'from his father'.",
+      "wordingNote": "'What if he does not find it?'; 'what if he does not?' three times; the last answer 'then it is charity'."
+    },
+    {
+      "cite": "tayalisi",
+      "label": "Musnad Abi Dawud al-Tayalisi",
+      "note": "From Shu'bah. Ibn Hajar: al-Tayalisi adds 'and forbids what is wrong'. The class notes give it as no. 497 and say it also adds 'every day'; the number was not confirmed, and Ibn Hajar attributes 'every day' to Abu Hurayra's hadith, not al-Tayalisi's.",
+      "chainNote": "al-Tayalisi → Shu'bah."
+    },
+    {
+      "cite": "adab",
+      "label": "al-Adab al-Mufrad",
+      "note": "Recorded by al-Bukhari in al-Adab al-Mufrad according to the class notes (no. 225 there); not confirmed against the text."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 6022, 1445",
+      "reason": "Recorded it twice, through two of Shu'bah's students (Adam ibn Abi Iyas, Muslim ibn Ibrahim), under zakah and under manners; the Zakah heading is built from its words.",
+      "url": "https://sunnah.com/bukhari:6022"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 1008",
+      "reason": "Included in the Book of Zakah through Abu Usamah and Ibn Mahdi from Shu'bah.",
+      "url": "https://sunnah.com/muslim:1008a"
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "A son from his father from his grandfather: Ibn Hajar notes that al-Ala'i compiled a large volume on those who narrate from their fathers from their grandfathers from the Prophet ﷺ, sorting the cases by whether 'his grandfather' refers back to the narrator or to his father; Ibn Hajar abridged it, added many entries, and records that the longest such run passes through fourteen fathers in succession.",
+      "source": "Ibn Hajar, Nuzhat al-Nazar fi Tawdih Nukhbat al-Fikar, on riwayat al-aba' an al-abna' and its converse"
+    },
+    {
+      "kind": "scholar",
+      "text": "Whose grandfather? 'Sa'id ibn Abi Burdah ibn Abi Musa al-Ash'ari, from his father, from his grandfather': the grandfather is Sa'id's, that is Abu Musa, as Abu Awanah's Sahih states explicitly. Sa'id heard nothing from Abu Musa directly (Ibn Abi Hatim, al-Marasil), so the chain is read as three generations, each link one step, and al-Nasa'i's version spells it out: 'I heard my father narrating from Abu Musa'.",
+      "source": "Ibn Hajar, Fath al-Bari, on 1445; Ibn Abi Hatim, al-Marasil, as quoted in Tahdhib al-Tahdhib, entry on Sa'id ibn Abi Burdah; Sunan al-Nasa'i 2538"
+    },
+    {
+      "kind": "scholar",
+      "text": "The three Adams of the six books, as the Taqrib lists them in sequence: Adam ibn Abi Iyas al-Asqalani (entry 132), the only Adam among al-Bukhari's teachers and so named bare; Adam ibn Sulayman al-Qurashi al-Kufi (133), in Muslim, al-Tirmidhi and al-Nasa'i; and Adam ibn Ali al-Ijli (134), in al-Bukhari and al-Nasa'i.",
+      "source": "Ibn Hajar, Taqrib al-Tahdhib, entries 132–134"
+    },
+    {
+      "kind": "scholar",
+      "text": "Adam ibn Abi Iyas was, in Ahmad's words, one of the six or seven who recorded Shu'bah's hadith precisely and 'held an established place with Shu'bah'; Ibn Sa'd: he heard a great deal from Shu'bah, sound hearing. Every route of this hadith in the Sahihayn and al-Nasa'i passes through Shu'bah.",
+      "source": "Ahmad ibn Hanbal and Ibn Sa'd, as quoted in Tahdhib al-Kamal 2/301 and Tahdhib al-Tahdhib 1/101 (Shamela narrator record 3)"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "Drawn from Ibn Hajar's commentary on the Zakah version (1445), where he discusses the wording in detail, and on the chapter 'every good deed is charity'. The teacher's twenty-two lessons are not reproduced until a reviewer has checked them.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari, Book of Zakah, on 1445",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "'Charity is due from every Muslim' is an emphatic recommendation, or something broader; the construction admits both obligation and recommendation, as in 'six things are due from a Muslim to a Muslim', which includes matters recommended by agreement. Abu Hurayra's hadith adds 'every day'; Muslim's hadith of Abu Dharr has 'every joint of each of you owes a charity each morning', and A'isha's puts the joints at three hundred and sixty.",
+        "url": "https://www.islamweb.net/ar/library/content/52/2669/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Zakah, on 1445",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The questioners understood 'charity' as a gift of property, so they asked about the man who has nothing; the Prophet ﷺ showed them that charity is broader, even helping the distressed or enjoining good. 'The distressed' (al-malhuf) is anyone calling for help, whether wronged or helpless. 'Then let him act well': in the Manners version 'enjoin what is good, or what is right', and al-Tayalisi's Musnad from Shu'bah adds 'and forbid what is wrong'.",
+        "url": "https://www.islamweb.net/ar/library/content/52/2669/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Zakah, on 1445",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The Zakah wording seems to put enjoining good and holding back from evil on one level; the Manners and Muslim versions, 'and if he does not? then he holds back from evil', are the sounder sequence, and holding back is the last rung. The feminine 'fa-innaha' refers to the good deed, the holding back; the Manners version's masculine 'fa-innahu lahu' means the holding back is charity for the one who holds back.",
+        "url": "https://www.islamweb.net/ar/library/content/52/2669/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Zakah, on 1445 (quoting al-Zayn ibn al-Munayyir)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Ibn al-Munayyir: the chapter heading is a label taken from part of the hadith for brevity; the reward for holding back comes to one who intends nearness to God by it, not to mere abstention; holding back one's harm from another is charity to that person, and from oneself is charity to oneself; and 'if he finds nothing' is not a ranking but an illustration of what remains open to one who cannot do a given deed, so whoever can do them all should.",
+        "url": "https://www.islamweb.net/ar/library/content/52/2669/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Zakah, on 1445 (quoting Ibn Abi Jamrah)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Ibn Abi Jamrah orders the hadith: charity first; failing that, work that benefits oneself; failing that, helping the distressed; then good deeds generally; then prayer (the two rak'as of duha in Abu Dharr's hadith); and last of all leaving evil, which is a consolation for one who cannot perform the recommended acts through no choice of his own.",
+        "url": "https://www.islamweb.net/ar/library/content/52/2669/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Manners, chapter 'every good deed is charity'",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Ibn Battal: every good act or word is recorded as charity, and Abu Musa's hadith adds that holding back from evil is charity. Al-Raghib: the good deed (ma'ruf) is what law and reason both recognise as good. Ibn Abi Jamrah: with intention the reward is certain, without it uncertain. 'Charity is due from every Muslim' here means in noble character, and is not an obligation by agreement.",
+        "url": "https://www.islamweb.net/ar/library/index.php?page=bookcontents&ID=3371&bk_no=52&idfrom=11002&idto=11005"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Rulings run on the usual case: 'charity is due from every Muslim' is addressed to all, though some Muslims are the ones who receive the charity others are told to give.",
+        "source": "Ibn Hajar, Fath al-Bari, on 1445"
+      },
+      {
+        "text": "A general statement may be taken back to the scholar for its scope: the Companions asked, and the Prophet ﷺ explained and particularised.",
+        "source": "Ibn Hajar, Fath al-Bari, on 1445"
+      },
+      {
+        "text": "Earning a living is a virtue, because it enables one to help others; and one begins with oneself, 'oneself' meaning the person and those he must maintain.",
+        "source": "Ibn Hajar, Fath al-Bari, on 1445"
+      },
+      {
+        "text": "Good deeds take the place of charity in reward, especially for one who cannot give; for one who can, giving is better than deeds whose benefit stops at himself.",
+        "source": "Ibn Hajar, Fath al-Bari, on 1445"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "term": "Sadaqa",
+      "ar": "صدقة",
+      "meaning": "Charity: in origin a voluntary gift, used in this hadith for every good act and even for restraint from harm."
+    },
+    {
+      "term": "al-Malhuf",
+      "ar": "الملهوف",
+      "meaning": "The distressed one calling for help, whether wronged or simply unable (Ibn Hajar)."
+    },
+    {
+      "term": "Ma'ruf",
+      "ar": "المعروف",
+      "meaning": "What is recognised as good by both revelation and reason (al-Raghib, via Ibn Hajar)."
+    },
+    {
+      "term": "An abihi an jaddihi",
+      "ar": "عن أبيه عن جده",
+      "meaning": "'From his father, from his grandfather': a family chain whose pronouns must be resolved; here the grandfather is the narrator's own grandfather, Abu Musa."
+    },
+    {
+      "term": "Riwayat al-abna' an al-aba'",
+      "ar": "رواية الأبناء عن الآباء",
+      "meaning": "Sons narrating from fathers, a class of chain the specialists catalogued; al-Ala'i's volume on those who narrate from father from grandfather is the standard work."
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Resolve the pronouns",
+      "body": "'From his father, from his grandfather' is only a chain once each 'his' is pinned to a person. Here the grandfather is Sa'id's, Abu Musa, and the specialists record that Sa'id never heard from him directly, so the report must have come through Abu Burdah. Al-Nasa'i's version, with Sa'id saying 'I heard my father narrating from Abu Musa', confirms the reading from inside the transmission itself."
+    },
+    {
+      "title": "Family chains are a known class",
+      "body": "A son from his father from his grandfather is common enough that al-Ala'i devoted a volume to it and Ibn Hajar abridged and extended it. Such chains are prized when the family is reliable, as this one is, and scrutinised because a family tradition can also carry a family's errors; the critics check each generation as they would any stranger."
+    },
+    {
+      "title": "One trunk, many branches",
+      "body": "Every route in the two Sahihs and al-Nasa'i runs through Shu'bah. Al-Bukhari takes him through Adam and through Muslim ibn Ibrahim, Muslim through Abu Usamah and Ibn Mahdi, al-Nasa'i through Khalid. Shu'bah is the point at which this report becomes widely attested, and the differences in wording below him are the ordinary variation of students repeating one teacher."
+    },
+    {
+      "title": "Read the variants for the order",
+      "body": "The Zakah version seems to put 'enjoin good' and 'hold back from evil' on one level; the Manners version and Muslim's separate them with another 'and if he does not?'. Ibn Hajar uses the comparison to fix the sequence and the gender of a pronoun. The variants are not noise; they are the evidence."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 10,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 6022 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:6022"
+    },
+    {
+      "label": "Sahih al-Bukhari 1445 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:1445"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari, Book of Zakah, chapter 'charity is due from every Muslim' (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/2669/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari, Book of Manners, chapter 'every good deed is charity' (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/index.php?page=bookcontents&ID=3371&bk_no=52&idfrom=11002&idto=11005"
+    },
+    {
+      "label": "Ibn Hajar, Nuzhat al-Nazar (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/نزهة_النظر_في_توضيح_نخبة_الفكر_في_مصطلح_أهل_الأثر"
+    },
+    {
+      "label": "Sahih Muslim 1008 (sunnah.com)",
+      "url": "https://sunnah.com/muslim:1008a"
+    },
+    {
+      "label": "Sunan al-Nasa'i 2538 (sunnah.com)",
+      "url": "https://sunnah.com/nasai:2538"
+    },
+    {
+      "label": "Taqrib al-Tahdhib, entries 132–134 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_بقية_حرف_الألف_إلى_إبراهيم"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, entry on Sa'id ibn Abi Burdah (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

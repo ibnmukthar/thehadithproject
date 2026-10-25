@@ -1,0 +1,198 @@
+{
+  "id": "al-hasan-ibn-atiyya",
+  "name": "al-Hasan ibn Atiyya ibn Najih al-Qurashi",
+  "nameAr": "أبو علي الحسن بن عطية بن نجيح القرشي الكوفي البزّاز",
+  "short": "al-Hasan ibn Atiyya",
+  "shortAr": "الحسن بن عطية",
+  "kunya": "Abu Ali",
+  "kunyaAr": "أبو علي",
+  "nisbas": [
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البزاز",
+      "en": "al-Bazzaz (cloth merchant)",
+      "kind": "other"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Atiyya",
+  "died": 211,
+  "diedNote": "died 211 AH or thereabouts",
+  "region": "Kufa",
+  "tabaqa": 9,
+  "band": "saduq",
+  "taqrib": {
+    "ar": "صدوق",
+    "en": "Truthful.",
+    "number": "1257",
+    "rank": 4
+  },
+  "rumuz": [
+    "ت"
+  ],
+  "external": {
+    "shamela": "1426",
+    "sunnah": "1278"
+  },
+  "teachers": [
+    {
+      "id": "abu-atika",
+      "name": "Abu Atika Tarif ibn Salman",
+      "nameAr": "أبو عاتكة",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (al-Tirmidhi transmits one hadith through him, on kohl while fasting; Jami' 726)"
+    },
+    {
+      "name": "al-Hasan ibn Salih ibn Hayy",
+      "nameAr": "الحسن بن صالح",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ali ibn Salih ibn Hayy",
+      "nameAr": "علي بن صالح",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ya'qub al-Qummi",
+      "nameAr": "يعقوب القمي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Hamza al-Zayyat",
+      "nameAr": "حمزة الزيات",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Isra'il ibn Yunus",
+      "nameAr": "إسرائيل بن يونس",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-hasan-ibn-ali-ibn-affan",
+      "name": "al-Hasan ibn Ali ibn Affan al-Amiri",
+      "nameAr": "الحسن بن علي بن عفان",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Muhammad ibn Ali ibn Affan",
+      "nameAr": "محمد بن علي بن عفان",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Muhammad ibn Isma'il al-Bukhari (in al-Tarikh)",
+      "nameAr": "البخاري في التاريخ",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ya'qub ibn Sufyan al-Fasawi",
+      "nameAr": "يعقوب بن سفيان",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abd al-A'la ibn Wasil",
+      "nameAr": "عبد الأعلى بن واصل",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu Kurayb",
+      "nameAr": "أبو كريب",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu Zur'a al-Razi",
+      "nameAr": "أبو زرعة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu Hatim al-Razi",
+      "nameAr": "أبو حاتم",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Adi",
+      "criticDied": 365,
+      "ar": "قوله ولو بالصين ما أعلم يرويه غير الحسن بن عطية عن أبي عاتكة عن أنس",
+      "en": "On this report: “the words ‘even in China’, I know of no one transmitting them except al-Hasan ibn Atiyya from Abu Atika from Anas.”",
+      "source": "al-Kamil fi al-Du'afa",
+      "url": "https://hadithtransmitters.hawramani.com/طريف-بن-سلمان-أبو-عاتكة/"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Critics' lines still to be transcribed",
+      "detail": "The narrator record on sunnah.com lists al-Dhahabi's “no harm in him”, Abu Hatim's “truthful” and a weakening by Abu al-Fath al-Azdi alongside Ibn Hajar's “truthful”; we have not yet entered those lines from the books themselves. Every critic who discussed this report placed the fault one link below, on Abu Atika, except Ibn al-Jawzi, who also faulted al-Hasan while misquoting Abu Hatim. Al-Tirmidhi transmits one hadith through him (726, on kohl while fasting), also from Abu Atika."
+    }
+  ],
+  "bio": "A Kufan cloth-merchant and transmitter, the student through whom the “even in China” wording reached the later books.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 1257, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حبان_بالكسر"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 1257, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حبان_بالكسر"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 1257, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حبان_بالكسر"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 1257, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حبان_بالكسر"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 1257, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حبان_بالكسر (صدوق = rank 4)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/1426"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 1278, linked from the isnad at https://sunnah.com/tirmidhi:726"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Narrator record (sunnah.com)",
+      "url": "https://sunnah.com/narrator/1278"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

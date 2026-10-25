@@ -1,0 +1,261 @@
+{
+  "id": "al-humaydi",
+  "name": "Abdullah ibn al-Zubayr al-Humaydi",
+  "nameAr": "عبد الله بن الزبير بن عيسى القرشي الأسدي الحُمَيدي",
+  "short": "al-Humaydi",
+  "shortAr": "الحميدي",
+  "kunya": "Abu Bakr",
+  "kunyaAr": "أبو بكر",
+  "nisbas": [
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الأسدي",
+      "en": "al-Asadi (Asad ibn Abd al-Uzza of Quraysh)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الحميدي",
+      "en": "al-Humaydi (to his ancestor Humayd)",
+      "kind": "other"
+    },
+    {
+      "ar": "المكي",
+      "en": "al-Makki",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "al-Zubayr",
+  "died": 219,
+  "deathVariants": [
+    {
+      "year": 219,
+      "authority": "Ibn Sa'd and al-Bukhari (died in Makkah)",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "year": 220,
+      "authority": "\"others\" per Ibn Hajar; the Taqrib reads \"219, or it is said after it\"",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 3320, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    }
+  ],
+  "region": "Makkah",
+  "tabaqa": 10,
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari; author of a Musnad",
+  "taqrib": {
+    "ar": "ثقة حافظ فقيه، أجلّ أصحاب ابن عيينة",
+    "en": "Reliable, a hadith master and jurist; the most eminent of Ibn Uyaynah's students.",
+    "number": "3320",
+    "rank": 2
+  },
+  "rumuz": [
+    "خ",
+    "م",
+    "د",
+    "ت",
+    "س",
+    "فق"
+  ],
+  "external": {
+    "shamela": "3654",
+    "sunnah": "4698"
+  },
+  "teachers": [
+    {
+      "id": "sufyan-ibn-uyaynah",
+      "name": "Sufyan ibn Uyaynah",
+      "nameAr": "سفيان بن عيينة",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ibrahim ibn Sa'd",
+      "nameAr": "إبراهيم بن سعد",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Muhammad ibn Idris al-Shafi'i",
+      "nameAr": "محمد بن إدريس الشافعي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "al-Walid ibn Muslim",
+      "nameAr": "الوليد بن مسلم",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Waki' ibn al-Jarrah",
+      "nameAr": "وكيع",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Marwan ibn Mu'awiya al-Fazari",
+      "nameAr": "مروان بن معاوية",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abd al-Aziz ibn Abi Hazim",
+      "nameAr": "عبد العزيز بن أبي حازم",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abd al-Aziz al-Darawardi",
+      "nameAr": "الدراوردي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Sulayman ibn Harb",
+      "nameAr": "سليمان بن حرب",
+      "id": "sulayman-ibn-harb",
+      "source": "reciprocal of the entry in sulayman-ibn-harb's record (al-Dhahabi, Siyar: 'and al-Humaydi, who died before him')"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-bukhari",
+      "name": "Muhammad ibn Isma'il al-Bukhari",
+      "nameAr": "محمد بن إسماعيل البخاري",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Salama ibn Shabib",
+      "nameAr": "سلمة بن شبيب",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Muhammad ibn Yahya al-Dhuhli",
+      "nameAr": "محمد بن يحيى الذهلي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu Zur'a al-Razi",
+      "nameAr": "أبو زرعة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu Hatim al-Razi",
+      "nameAr": "أبو حاتم",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ya'qub ibn Sufyan al-Fasawi",
+      "nameAr": "يعقوب بن سفيان",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Bishr ibn Musa al-Asadi",
+      "nameAr": "بشر بن موسى",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "ثقة إمام",
+      "en": "Reliable, an imam.",
+      "source": "al-Jarh wa al-Ta'dil 5/56",
+      "url": "https://shamela.ws/narrator/3654"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "أثبت الناس في ابن عيينة الحميدي، وهو رئيس أصحاب ابن عيينة",
+      "en": "The firmest of all people in Ibn Uyaynah is al-Humaydi; he is the chief of Ibn Uyaynah's companions.",
+      "source": "al-Jarh wa al-Ta'dil 5/56",
+      "url": "https://shamela.ws/narrator/3654"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "الحميدي عندنا إمام",
+      "en": "Al-Humaydi is, to us, an imam.",
+      "source": "Tahdhib al-Tahdhib 2/334",
+      "url": "https://shamela.ws/narrator/3654"
+    },
+    {
+      "critic": "al-Hakim",
+      "criticDied": 405,
+      "ar": "كان البخاري إذا وجد الحديث عند الحميدي لا يعدوه إلى غيره",
+      "en": "When al-Bukhari found a hadith with al-Humaydi he would not pass him over for anyone else.",
+      "source": "quoted in the Taqrib, entry 3320",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    }
+  ],
+  "bio": "A Makkan scholar of the Quraysh who accompanied Sufyan ibn Uyaynah for many years and studied alongside al-Shafi'i, following him to Egypt and returning to Makkah after his death. Al-Bukhari opened his Sahih with a hadith from him.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3320, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3320, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3320, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3320, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3320, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله (ثقة حافظ فقيه = rank 2, praise reinforced)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/3654"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 4698, linked from the isnad at https://sunnah.com/bukhari:1"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3320 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3654"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "sayyar-abu-al-hakam",
+  "name": "Sayyar Abu al-Hakam",
+  "nameAr": "سيار بن أبي سيار (واسمه وردان) العنزي، أبو الحكم الواسطي",
+  "short": "Sayyar Abu al-Hakam",
+  "shortAr": "سيار أبو الحكم",
+  "kunya": "Abu al-Hakam",
+  "kunyaAr": "أبو الحكم",
+  "nisbas": [
+    { "ar": "العنزي", "en": "al-Anazi (of Anazah ibn Asad ibn Rabi'ah; with nun and zay)", "kind": "tribal" },
+    { "ar": "الواسطي", "en": "al-Wasiti (some said al-Basri)", "kind": "geographic" }
+  ],
+  "fatherName": "Wardan",
+  "orthography": {
+    "spelled": "Sayyar: sin, then a doubled ya', then ra' (Ibn Hajar, Fath 1/436); al-Anazi with nun and zay (Taqrib). His father is known as Abu Sayyar; his name was Wardan, or Ward, or otherwise.",
+    "homographs": ["Sayyar Abu Hamzah al-Kufi, the one who actually narrates from Tariq ibn Shihab (Taqrib 2719)", "Sayyar the Syrian Successor who narrates from Abu Umamah (Fath 1/436)"],
+    "source": "Taqrib al-Tahdhib 2718–2719; Fath al-Bari 1/436"
+  },
+  "died": 122,
+  "diedNote": "122, in Wasit (Taqrib; Shamela record).",
+  "region": "Wasit",
+  "tabaqa": 6,
+  "taqrib": {
+    "ar": "ثقة، وليس هو الذي يروي عن طارق ابن شهاب",
+    "en": "Reliable; and he is not the one who narrates from Tariq ibn Shihab.",
+    "number": "2718",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "rumuz": ["ع"],
+  "external": { "shamela": "2717", "tahdhibKamal": "12/313" },
+  "teachers": [
+    { "id": "yazid-ibn-suhayb-al-faqir", "name": "Yazid al-Faqir", "nameAr": "يزيد الفقير", "sigla": ["خ", "م", "س"], "source": "Tahdhib al-Kamal 12/314" },
+    { "name": "Amir al-Sha'bi", "nameAr": "عامر الشعبي", "sigla": ["خ", "م", "د", "س"], "source": "Tahdhib al-Kamal 12/314" },
+    { "name": "Thabit al-Bunani", "nameAr": "ثابت البناني", "sigla": ["خ", "م", "ت", "سي"], "source": "Tahdhib al-Kamal 12/314" },
+    { "name": "Abu Burdah ibn Abi Musa al-Ash'ari", "nameAr": "أبو بردة بن أبي موسى", "source": "Tahdhib al-Kamal 12/314" }
+  ],
+  "students": [
+    { "id": "hushaym-ibn-bashir", "name": "Hushaym ibn Bashir", "nameAr": "هشيم بن بشير", "sigla": ["خ", "م", "س"], "source": "Tahdhib al-Kamal 12/314" },
+    { "name": "Shu'bah ibn al-Hajjaj", "nameAr": "شعبة بن الحجاج", "sigla": ["خ", "م", "ت", "س"], "source": "Tahdhib al-Kamal 12/314" },
+    { "name": "Qurrah ibn Khalid", "nameAr": "قرة بن خالد", "sigla": ["م"], "source": "Tahdhib al-Kamal 12/314" },
+    { "name": "Sufyan al-Thawri", "nameAr": "سفيان الثوري", "source": "Tahdhib al-Kamal 12/314" },
+    { "name": "Musawir al-Warraq, his maternal brother", "nameAr": "مساور الوراق", "source": "Tahdhib al-Kamal 12/314; Taqrib 2718" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abdullah ibn Ahmad",
+      "ar": "صدوق ثقة ثبت في كل المشايخ",
+      "en": "Truthful, reliable, firm with every one of his shaykhs.",
+      "source": "Tahdhib al-Kamal 12/313; al-Jarh wa al-Ta'dil 4/254 (\"truthful, reliable\")",
+      "url": "https://shamela.ws/narrator/2717"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ishaq ibn Mansur",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 4/254; Tahdhib al-Kamal 12/313",
+      "url": "https://shamela.ws/narrator/2717"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 12/313; Tahdhib al-Tahdhib 2/142",
+      "url": "https://shamela.ws/narrator/2717"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Ikmal Tahdhib al-Kamal 6/186",
+      "url": "https://shamela.ws/narrator/2717"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat and used him in his Sahih.",
+      "source": "Ikmal Tahdhib al-Kamal 6/186",
+      "url": "https://shamela.ws/narrator/2717"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "اتفقوا على توثيق سيار، وأخرج له الأئمة الستة وغيرهم، وقد أدرك بعض الصحابة لكن لم يلق أحدا منهم فهو من كبار أتباع التابعين",
+      "en": "They agree on Sayyar's reliability and all six imams used him; he lived in the time of some Companions but met none, so he is of the senior men of the generation after the Successors.",
+      "source": "Fath al-Bari 1/436, on hadith 335",
+      "url": "https://shamela.ws/book/1673/922"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Taqrib al-Tahdhib, entry 2718",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    }
+  ],
+  "flags": [
+    { "label": "Homonym: Sayyar Abu Hamzah", "detail": "A report \"Sayyar Abu al-Hakam from Tariq ibn Shihab\" is an error for Sayyar Abu Hamzah al-Kufi; Ahmad, Ibn Ma'in and al-Daraqutni say Abu al-Hakam never narrated from Tariq, and al-Daraqutni counts al-Bukhari's statement that he heard Tariq among his slips (Tahdhib al-Tahdhib 2/142; Taqrib 2718–2719)." },
+    { "label": "Homonym: the Syrian Sayyar", "detail": "Ibn Hajar warns that another Sayyar, a Syrian Successor used by al-Tirmidhi, narrates the meaning of this very hadith from Abu Umamah, and since neither is given a nisba in the chains a careless reader might take them for one man (Fath 1/436)." },
+    { "label": "Ahmad on Hushaym's hearing", "detail": "Ahmad ibn Hanbal is reported to have said Hushaym did not hear from Sayyar (Tahdhib al-Tahdhib 4/280). The Sahihs record Hushaym saying \"Sayyar informed us\" and \"narrated to us\"; see the Hushaym record." }
+  ],
+  "bio": "A reliable Wasiti of the generation after the Successors, used by all six compilers, and the half-brother of Musawir al-Warraq. He is the link between Yazid al-Faqir and Hushaym in the hadith of the five gifts, and al-Bukhari names him once by his kunya alone (\"Sayyar, that is Abu al-Hakam\", hadith 438). Two other men called Sayyar shadow him in the books: Abu Hamzah, the real narrator from Tariq ibn Shihab, and a Syrian Successor who carries a parallel of this hadith; Ibn Hajar flags both.",
+  "provenance": [
+    { "field": "nameAr, fatherName, nisbas, teachers, students", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 12/313–314, Shamela book 3722 pages 6087–6088" },
+    { "field": "taqrib, tabaqa, rumuz, died", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 2718" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 2/142 and al-Jarh wa al-Ta'dil 4/254, as collected on the Shamela narrator record 2717" },
+    { "field": "orthography, flags (homonyms), generation", "layer": "specialist", "ref": "Ibn Hajar, Fath al-Bari 1/436" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 2718 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/2717" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 12/313 (Shamela)", "url": "https://shamela.ws/book/3722/6087" },
+    { "label": "Ibn Hajar, Fath al-Bari 1/436 on hadith 335 (Shamela)", "url": "https://shamela.ws/book/1673/922" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

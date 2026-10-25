@@ -1,0 +1,808 @@
+{
+  "id": "bukhari",
+  "nameEn": "Sahih al-Bukhari",
+  "nameAr": "صحيح البخاري",
+  "compiler": "Muhammad ibn Isma'il al-Bukhari",
+  "compilerId": "al-bukhari",
+  "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+  "total": 7580,
+  "books": [
+    {
+      "book": 1,
+      "nameAr": "كتاب بدء الوحي",
+      "nameEn": "Revelation",
+      "first": "1",
+      "last": "7",
+      "count": 7
+    },
+    {
+      "book": 2,
+      "nameAr": "كتاب الإيمان",
+      "nameEn": "Belief",
+      "first": "8",
+      "last": "58",
+      "count": 51
+    },
+    {
+      "book": 3,
+      "nameAr": "كتاب العلم",
+      "nameEn": "Knowledge",
+      "first": "59",
+      "last": "134",
+      "count": 76
+    },
+    {
+      "book": 4,
+      "nameAr": "كتاب الوضوء",
+      "nameEn": "Ablutions (Wudu')",
+      "first": "135",
+      "last": "247",
+      "count": 113
+    },
+    {
+      "book": 5,
+      "nameAr": "كتاب الغسل",
+      "nameEn": "Bathing (Ghusl)",
+      "first": "248",
+      "last": "293",
+      "count": 46
+    },
+    {
+      "book": 6,
+      "nameAr": "كتاب الحيض",
+      "nameEn": "Menstrual Periods",
+      "first": "294",
+      "last": "333",
+      "count": 40
+    },
+    {
+      "book": 7,
+      "nameAr": "كتاب التيمم",
+      "nameEn": "Rubbing hands and feet with dust (Tayammum)",
+      "first": "334",
+      "last": "348",
+      "count": 15
+    },
+    {
+      "book": 8,
+      "nameAr": "كتاب الصلاة",
+      "nameEn": "Prayers (Salat)",
+      "first": "349",
+      "last": "520",
+      "count": 173
+    },
+    {
+      "book": 9,
+      "nameAr": "كتاب مواقيت الصلاة",
+      "nameEn": "Times of the Prayers",
+      "first": "521",
+      "last": "602",
+      "count": 82
+    },
+    {
+      "book": 10,
+      "nameAr": "كتاب الأذان",
+      "nameEn": "Call to Prayers (Adhaan)",
+      "first": "603",
+      "last": "875",
+      "count": 275
+    },
+    {
+      "book": 11,
+      "nameAr": "كتاب الجمعة",
+      "nameEn": "Friday Prayer",
+      "first": "876",
+      "last": "941",
+      "count": 66
+    },
+    {
+      "book": 12,
+      "nameAr": "كتاب صلاة الخوف",
+      "nameEn": "Fear Prayer",
+      "first": "942",
+      "last": "947",
+      "count": 6
+    },
+    {
+      "book": 13,
+      "nameAr": "كتاب العيدين",
+      "nameEn": "The Two Festivals (Eids)",
+      "first": "948",
+      "last": "989",
+      "count": 42
+    },
+    {
+      "book": 14,
+      "nameAr": "كتاب الوتر",
+      "nameEn": "Witr Prayer",
+      "first": "990",
+      "last": "1004",
+      "count": 15
+    },
+    {
+      "book": 15,
+      "nameAr": "كتاب الاستسقاء",
+      "nameEn": "Invoking Allah for Rain (Istisqaa)",
+      "first": "1005",
+      "last": "1039",
+      "count": 35
+    },
+    {
+      "book": 16,
+      "nameAr": "كتاب الكسوف",
+      "nameEn": "Eclipses",
+      "first": "1040",
+      "last": "1066",
+      "count": 27
+    },
+    {
+      "book": 17,
+      "nameAr": "كتاب سجود القرآن",
+      "nameEn": "Prostration During Recital of Qur'an",
+      "first": "1067",
+      "last": "1079",
+      "count": 13
+    },
+    {
+      "book": 18,
+      "nameAr": "كتاب التقصير",
+      "nameEn": "Shortening the Prayers (At-Taqseer)",
+      "first": "1080",
+      "last": "1119",
+      "count": 40
+    },
+    {
+      "book": 19,
+      "nameAr": "كتاب التهجد",
+      "nameEn": "Prayer at Night (Tahajjud)",
+      "first": "1120",
+      "last": "1187",
+      "count": 69
+    },
+    {
+      "book": 20,
+      "nameAr": "كتاب فضل الصلاة في مسجد مكة والمدينة",
+      "nameEn": "Virtues of Prayer at Masjid Makkah and Madinah",
+      "first": "1188",
+      "last": "1197",
+      "count": 10
+    },
+    {
+      "book": 21,
+      "nameAr": "كتاب العمل في الصلاة",
+      "nameEn": "Actions while Praying",
+      "first": "1198",
+      "last": "1223",
+      "count": 27
+    },
+    {
+      "book": 22,
+      "nameAr": "كتاب السهو",
+      "nameEn": "Forgetfulness in Prayer",
+      "first": "1224",
+      "last": "1236",
+      "count": 14
+    },
+    {
+      "book": 23,
+      "nameAr": "كتاب الجنائز",
+      "nameEn": "Funerals (Al-Janaa'iz)",
+      "first": "1237",
+      "last": "1394",
+      "count": 160
+    },
+    {
+      "book": 24,
+      "nameAr": "كتاب الزكاة",
+      "nameEn": "Obligatory Charity Tax (Zakat)",
+      "first": "1395",
+      "last": "1512",
+      "count": 118
+    },
+    {
+      "book": 25,
+      "nameAr": "كتاب الحج",
+      "nameEn": "Hajj (Pilgrimage)",
+      "first": "1513",
+      "last": "1772",
+      "count": 260
+    },
+    {
+      "book": 26,
+      "nameAr": "كتاب العمرة",
+      "nameEn": "`Umrah (Minor pilgrimage)",
+      "first": "1773",
+      "last": "1805",
+      "count": 33
+    },
+    {
+      "book": 27,
+      "nameAr": "كتاب المحصر",
+      "nameEn": "Pilgrims Prevented from Completing the Pilgrimage",
+      "first": "1806",
+      "last": "1820",
+      "count": 15
+    },
+    {
+      "book": 28,
+      "nameAr": "كتاب جزاء الصيد",
+      "nameEn": "Penalty of Hunting while on Pilgrimage",
+      "first": "1821",
+      "last": "1866",
+      "count": 46
+    },
+    {
+      "book": 29,
+      "nameAr": "كتاب فضائل المدينة",
+      "nameEn": "Virtues of Madinah",
+      "first": "1867",
+      "last": "1890",
+      "count": 24
+    },
+    {
+      "book": 30,
+      "nameAr": "كتاب الصوم",
+      "nameEn": "Fasting",
+      "first": "1891",
+      "last": "2007",
+      "count": 117
+    },
+    {
+      "book": 31,
+      "nameAr": "كتاب صلاة التراويح",
+      "nameEn": "Praying at Night in Ramadaan (Taraweeh)",
+      "first": "2008",
+      "last": "2013",
+      "count": 6
+    },
+    {
+      "book": 32,
+      "nameAr": "كتاب فضل ليلة القدر",
+      "nameEn": "Virtues of the Night of Qadr",
+      "first": "2014",
+      "last": "2024",
+      "count": 11
+    },
+    {
+      "book": 33,
+      "nameAr": "كتاب الاعتكاف",
+      "nameEn": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+      "first": "2025",
+      "last": "2046",
+      "count": 22
+    },
+    {
+      "book": 34,
+      "nameAr": "كتاب البيوع",
+      "nameEn": "Sales and Trade",
+      "first": "2047",
+      "last": "2238",
+      "count": 193
+    },
+    {
+      "book": 35,
+      "nameAr": "كتاب السلم",
+      "nameEn": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+      "first": "2239",
+      "last": "2256",
+      "count": 20
+    },
+    {
+      "book": 36,
+      "nameAr": "كتاب الشفعة",
+      "nameEn": "Shuf'a",
+      "first": "2257",
+      "last": "2259",
+      "count": 3
+    },
+    {
+      "book": 37,
+      "nameAr": "كتاب الإجارة",
+      "nameEn": "Hiring",
+      "first": "2260",
+      "last": "2286",
+      "count": 27
+    },
+    {
+      "book": 38,
+      "nameAr": "كتاب الحوالات",
+      "nameEn": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+      "first": "2287",
+      "last": "2289",
+      "count": 3
+    },
+    {
+      "book": 39,
+      "nameAr": "كتاب الكفالة",
+      "nameEn": "Kafalah",
+      "first": "2290",
+      "last": "2298",
+      "count": 9
+    },
+    {
+      "book": 40,
+      "nameAr": "كتاب الوكالة",
+      "nameEn": "Representation, Authorization, Business by Proxy",
+      "first": "2299",
+      "last": "2319",
+      "count": 21
+    },
+    {
+      "book": 41,
+      "nameAr": "كتاب المزارعة",
+      "nameEn": "Agriculture",
+      "first": "2320",
+      "last": "2350",
+      "count": 31
+    },
+    {
+      "book": 42,
+      "nameAr": "كتاب المساقاة",
+      "nameEn": "Distribution of Water",
+      "first": "2351",
+      "last": "2384",
+      "count": 34
+    },
+    {
+      "book": 43,
+      "nameAr": "كتاب في الاستقراض",
+      "nameEn": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+      "first": "2385",
+      "last": "2409",
+      "count": 25
+    },
+    {
+      "book": 44,
+      "nameAr": "كتاب الخصومات",
+      "nameEn": "Khusoomaat",
+      "first": "2410",
+      "last": "2425",
+      "count": 16
+    },
+    {
+      "book": 45,
+      "nameAr": "كتاب في اللقطة",
+      "nameEn": "Lost Things Picked up by Someone (Luqatah)",
+      "first": "2426",
+      "last": "2439",
+      "count": 15
+    },
+    {
+      "book": 46,
+      "nameAr": "كتاب المظالم",
+      "nameEn": "Oppressions",
+      "first": "2440",
+      "last": "2482",
+      "count": 43
+    },
+    {
+      "book": 47,
+      "nameAr": "كتاب الشركة",
+      "nameEn": "Partnership",
+      "first": "2483",
+      "last": "2507",
+      "count": 25
+    },
+    {
+      "book": 48,
+      "nameAr": "كتاب الرهن",
+      "nameEn": "Mortgaging",
+      "first": "2508",
+      "last": "2516",
+      "count": 9
+    },
+    {
+      "book": 49,
+      "nameAr": "كتاب العتق",
+      "nameEn": "Manumission of Slaves",
+      "first": "2517",
+      "last": "2559",
+      "count": 43
+    },
+    {
+      "book": 50,
+      "nameAr": "كتاب المكاتب",
+      "nameEn": "Makaatib",
+      "first": "2560",
+      "last": "2565",
+      "count": 6
+    },
+    {
+      "book": 51,
+      "nameAr": "كتاب الهبة وفضلها والتحريض عليها",
+      "nameEn": "Gifts",
+      "first": "2566",
+      "last": "2636",
+      "count": 71
+    },
+    {
+      "book": 52,
+      "nameAr": "كتاب الشهادات",
+      "nameEn": "Witnesses",
+      "first": "2637",
+      "last": "2689",
+      "count": 53
+    },
+    {
+      "book": 53,
+      "nameAr": "كتاب الصلح",
+      "nameEn": "Peacemaking",
+      "first": "2690",
+      "last": "2710",
+      "count": 21
+    },
+    {
+      "book": 54,
+      "nameAr": "كتاب الشروط",
+      "nameEn": "Conditions",
+      "first": "2711",
+      "last": "2737",
+      "count": 27
+    },
+    {
+      "book": 55,
+      "nameAr": "كتاب الوصايا",
+      "nameEn": "Wills and Testaments (Wasaayaa)",
+      "first": "2738",
+      "last": "2781",
+      "count": 44
+    },
+    {
+      "book": 56,
+      "nameAr": "كتاب الجهاد والسير",
+      "nameEn": "Fighting for the Cause of Allah (Jihaad)",
+      "first": "2782",
+      "last": "3090",
+      "count": 309
+    },
+    {
+      "book": 57,
+      "nameAr": "كتاب فرض الخمس",
+      "nameEn": "One-fifth of Booty to the Cause of Allah (Khumus)",
+      "first": "3091",
+      "last": "3155",
+      "count": 65
+    },
+    {
+      "book": 58,
+      "nameAr": "كتاب الجزية والموادعة",
+      "nameEn": "Jizyah and Mawaada'ah",
+      "first": "3156",
+      "last": "3189",
+      "count": 34
+    },
+    {
+      "book": 59,
+      "nameAr": "كتاب بدء الخلق",
+      "nameEn": "Beginning of Creation",
+      "first": "3190",
+      "last": "3325",
+      "count": 136
+    },
+    {
+      "book": 60,
+      "nameAr": "كتاب أحاديث الأنبياء",
+      "nameEn": "Prophets",
+      "first": "3326",
+      "last": "3488",
+      "count": 163
+    },
+    {
+      "book": 61,
+      "nameAr": "كتاب المناقب",
+      "nameEn": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+      "first": "3489",
+      "last": "3648",
+      "count": 162
+    },
+    {
+      "book": 62,
+      "nameAr": "كتاب فضائل أصحاب النبي صلى الله عليه وسلم",
+      "nameEn": "Companions of the Prophet",
+      "first": "3649",
+      "last": "3775",
+      "count": 128
+    },
+    {
+      "book": 63,
+      "nameAr": "كتاب مناقب الأنصار",
+      "nameEn": "Merits of the Helpers in Madinah (Ansaar)",
+      "first": "3776",
+      "last": "3948",
+      "count": 173
+    },
+    {
+      "book": 64,
+      "nameAr": "كتاب المغازي",
+      "nameEn": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+      "first": "3949",
+      "last": "4473",
+      "count": 526
+    },
+    {
+      "book": 65,
+      "nameAr": "كتاب التفسير",
+      "nameEn": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+      "first": "4474",
+      "last": "4977",
+      "count": 506
+    },
+    {
+      "book": 66,
+      "nameAr": "كتاب فضائل القرآن",
+      "nameEn": "Virtues of the Qur'an",
+      "first": "4978",
+      "last": "5062",
+      "count": 88
+    },
+    {
+      "book": 67,
+      "nameAr": "كتاب النكاح",
+      "nameEn": "Wedlock, Marriage (Nikaah)",
+      "first": "5063",
+      "last": "5250",
+      "count": 188
+    },
+    {
+      "book": 68,
+      "nameAr": "كتاب الطلاق",
+      "nameEn": "Divorce",
+      "first": "5251",
+      "last": "5350",
+      "count": 100
+    },
+    {
+      "book": 69,
+      "nameAr": "كتاب النفقات",
+      "nameEn": "Supporting the Family",
+      "first": "5351",
+      "last": "5372",
+      "count": 22
+    },
+    {
+      "book": 70,
+      "nameAr": "كتاب الأطعمة",
+      "nameEn": "Food, Meals",
+      "first": "5373",
+      "last": "5466",
+      "count": 95
+    },
+    {
+      "book": 71,
+      "nameAr": "كتاب العقيقة",
+      "nameEn": "Sacrifice on Occasion of Birth (`Aqiqa)",
+      "first": "5467",
+      "last": "5474",
+      "count": 9
+    },
+    {
+      "book": 72,
+      "nameAr": "كتاب الذبائح والصيد",
+      "nameEn": "Hunting, Slaughtering",
+      "first": "5475",
+      "last": "5544",
+      "count": 70
+    },
+    {
+      "book": 73,
+      "nameAr": "كتاب الأضاحي",
+      "nameEn": "Al-Adha Festival Sacrifice (Adaahi)",
+      "first": "5545",
+      "last": "5574",
+      "count": 30
+    },
+    {
+      "book": 74,
+      "nameAr": "كتاب الأشربة",
+      "nameEn": "Drinks",
+      "first": "5575",
+      "last": "5639",
+      "count": 65
+    },
+    {
+      "book": 75,
+      "nameAr": "كتاب المرضى",
+      "nameEn": "Patients",
+      "first": "5640",
+      "last": "5677",
+      "count": 38
+    },
+    {
+      "book": 76,
+      "nameAr": "كتاب الطب",
+      "nameEn": "Medicine",
+      "first": "5678",
+      "last": "5782",
+      "count": 100
+    },
+    {
+      "book": 77,
+      "nameAr": "كتاب اللباس",
+      "nameEn": "Dress",
+      "first": "5783",
+      "last": "5969",
+      "count": 188
+    },
+    {
+      "book": 78,
+      "nameAr": "كتاب الأدب",
+      "nameEn": "Good Manners and Form (Al-Adab)",
+      "first": "5970",
+      "last": "6226",
+      "count": 253
+    },
+    {
+      "book": 79,
+      "nameAr": "كتاب الاستئذان",
+      "nameEn": "Asking Permission",
+      "first": "6227",
+      "last": "6303",
+      "count": 77
+    },
+    {
+      "book": 80,
+      "nameAr": "كتاب الدعوات",
+      "nameEn": "Invocations",
+      "first": "6304",
+      "last": "6411",
+      "count": 108
+    },
+    {
+      "book": 81,
+      "nameAr": "كتاب الرقاق",
+      "nameEn": "To make the Heart Tender (Ar-Riqaq)",
+      "first": "6412",
+      "last": "6593",
+      "count": 182
+    },
+    {
+      "book": 82,
+      "nameAr": "كتاب القدر",
+      "nameEn": "Divine Will (Al-Qadar)",
+      "first": "6594",
+      "last": "6620",
+      "count": 27
+    },
+    {
+      "book": 83,
+      "nameAr": "كتاب الأيمان والنذور",
+      "nameEn": "Oaths and Vows",
+      "first": "6621",
+      "last": "6707",
+      "count": 87
+    },
+    {
+      "book": 84,
+      "nameAr": "كتاب كفارات الأيمان",
+      "nameEn": "Expiation for Unfulfilled Oaths",
+      "first": "6708",
+      "last": "6722",
+      "count": 15
+    },
+    {
+      "book": 85,
+      "nameAr": "كتاب الفرائض",
+      "nameEn": "Laws of Inheritance (Al-Faraa'id)",
+      "first": "6723",
+      "last": "6771",
+      "count": 49
+    },
+    {
+      "book": 86,
+      "nameAr": "كتاب الحدود",
+      "nameEn": "Limits and Punishments set by Allah (Hudood)",
+      "first": "6772",
+      "last": "6860",
+      "count": 89
+    },
+    {
+      "book": 87,
+      "nameAr": "كتاب الديات",
+      "nameEn": "Blood Money (Ad-Diyat)",
+      "first": "6861",
+      "last": "6917",
+      "count": 59
+    },
+    {
+      "book": 88,
+      "nameAr": "كتاب استتابة المرتدين والمعاندين وقتالهم",
+      "nameEn": "Apostates",
+      "first": "6918",
+      "last": "6939",
+      "count": 22
+    },
+    {
+      "book": 89,
+      "nameAr": "كتاب الإكراه",
+      "nameEn": "(Statements made under) Coercion",
+      "first": "6940",
+      "last": "6952",
+      "count": 13
+    },
+    {
+      "book": 90,
+      "nameAr": "كتاب الحيل",
+      "nameEn": "Tricks",
+      "first": "6953",
+      "last": "6981",
+      "count": 29
+    },
+    {
+      "book": 91,
+      "nameAr": "كتاب التعبير",
+      "nameEn": "Interpretation of Dreams",
+      "first": "6982",
+      "last": "7047",
+      "count": 66
+    },
+    {
+      "book": 92,
+      "nameAr": "كتاب الفتن",
+      "nameEn": "Afflictions and the End of the World",
+      "first": "7048",
+      "last": "7136",
+      "count": 89
+    },
+    {
+      "book": 93,
+      "nameAr": "كتاب الأحكام",
+      "nameEn": "Judgments (Ahkaam)",
+      "first": "7137",
+      "last": "7225",
+      "count": 89
+    },
+    {
+      "book": 94,
+      "nameAr": "كتاب التمني",
+      "nameEn": "Wishes",
+      "first": "7226",
+      "last": "7245",
+      "count": 20
+    },
+    {
+      "book": 95,
+      "nameAr": "كتاب أخبار الآحاد",
+      "nameEn": "Accepting Information Given by a Truthful Person",
+      "first": "7246",
+      "last": "7267",
+      "count": 22
+    },
+    {
+      "book": 96,
+      "nameAr": "كتاب الاعتصام بالكتاب والسنة",
+      "nameEn": "Holding Fast to the Qur'an and Sunnah",
+      "first": "7268",
+      "last": "7370",
+      "count": 103
+    },
+    {
+      "book": 97,
+      "nameAr": "كتاب التوحيد",
+      "nameEn": "Oneness, Uniqueness of Allah (Tawheed)",
+      "first": "7371",
+      "last": "7563",
+      "count": 193
+    }
+  ],
+  "sources": [
+    {
+      "label": "Open-Hadith-Data, Sahih al-Bukhari (diacritised, with elaboration)",
+      "url": "https://raw.githubusercontent.com/mhashim6/Open-Hadith-Data/master/Sahih_Al-Bukhari/sahih_al-bukhari_ahadith_mushakkala_mufassala.utf8.csv",
+      "licence": "ODbL 1.0 (database) + DbCL 1.0 (contents)",
+      "role": "Text spine: textAr is taken from this file wherever a row could be aligned to the standard number. Its own 1–7008 numbering is kept in sources.ohd."
+    },
+    {
+      "label": "fawazahmed0/hadith-api, ara-bukhari.json (mirror of the sunnah.com Arabic text and numbering)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json",
+      "licence": "Unlicense (repository); the Arabic text itself is the public-domain text of the Sahih as published on sunnah.com",
+      "role": "Numbering and book-boundary crosswalk (the n of every record and its book), and text of last resort for the records with no aligned Open-Hadith-Data row."
+    }
+  ],
+  "notes": [
+    "7580 narrations: the standard numbering runs to 7,563, with 26 sub-numbered narrations (e.g. 402.2, shown on sunnah.com as 402b) and 9 numbers that carry no text in any source and are not emitted (5710, 5711, 5712, 5774, 5775, 6074, 6075, 6174, 6175).",
+    "Alignment of the standard numbering to Open-Hadith-Data rows: 4551 exact (60.0%), 367 prefix/containment (4.8%; 341 of them are portions cut from a row shared with a neighbouring number), 2084 fuzzy at Levenshtein ratio ≥ 0.85 on the first 200 normalised characters (27.5%), 113 fuzzy at word-trigram containment ≥ 0.7 (1.5%), 287 sharing the row of an identical preceding record (3.8%), 0 placed positionally for records whose sunnah.com text is empty (0.0%); 187 unmatched (2.5%), whose textAr comes from fawazahmed0/sunnah.com instead. 6 of the 7008 Open-Hadith-Data rows were not used.",
+    "Machine isnad/matn split proposed for 2779 records (36.7%); machine chain parsed for 7197 (94.9%), 35647 names in all, of which 6563 are linked to one of the 61 narrator records on the site. Splits and chains are labelled \"machine\": they are proposals for review, not readings of the text.",
+    "Book index and English book names follow sunnah.com (via fawazahmed0). 311 fawazahmed0 records carry book 0; they were placed by the sunnah.com table-of-contents ranges, and the two numbers that fall between books there (2384, 2516) were placed by hand from their sunnah.com pages (books 42 and 48). Arabic book names were transcribed from the sunnah.com table of contents.",
+    "Open-Hadith-Data's own numbering (1–7008) differs from the standard numbering because it merges some repeated and suspended (mu'allaq) reports; it is kept in sources.ohd for traceability."
+  ]
+}

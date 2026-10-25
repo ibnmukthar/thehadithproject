@@ -1,0 +1,244 @@
+{
+  "id": "abdullah-ibn-amr-ibn-al-as",
+  "name": "Abdullah ibn Amr ibn al-As",
+  "nameAr": "عبد الله بن عمرو بن العاص بن وائل بن هاشم بن سعيد بن سعد بن سهم القرشي السهمي رضي الله عنهما",
+  "short": "Abdullah ibn Amr",
+  "shortAr": "عبد الله بن عمرو",
+  "kunya": "Abu Muhammad",
+  "kunyaAr": "أبو محمد",
+  "kunyaVariants": [
+    "Abu Abd al-Rahman",
+    "Abu Nusayr"
+  ],
+  "nisbas": [
+    {
+      "ar": "القرشي السهمي",
+      "en": "al-Qurashi al-Sahmi",
+      "kind": "tribal"
+    }
+  ],
+  "fatherName": "Amr",
+  "orthography": {
+    "spelled": "In his nasab, Su'ayd ibn Sa'd ibn Sahm is a diminutive, with dammah on the sin and fathah on the ayn (Taqrib; al-Nawawi).",
+    "source": "Taqrib al-Tahdhib 3499; al-Nawawi, Tahdhib al-Asma' 1/281"
+  },
+  "died": 63,
+  "diedNote": "Taqrib: in Dhu al-Hijjah, on the nights of al-Harrah (63 AH) on the sounder view, at al-Ta'if on the preferable view. Other reports: 65 (Yahya ibn Bukayr, al-Waqidi, Khalifah), 67 aged 72, 68 (al-Layth), 73, 77; and the place Makkah, Egypt or Palestine.",
+  "deathVariants": [
+    {
+      "year": 63,
+      "authority": "Ahmad ibn Hanbal (\"the nights of al-Harrah\"); Ibn Hajar, Taqrib",
+      "source": "Tahdhib al-Kamal 15/362; Taqrib 3499"
+    },
+    {
+      "year": 65,
+      "authority": "Yahya ibn Bukayr; al-Waqidi; Khalifah ibn Khayyat",
+      "source": "Tahdhib al-Kamal 15/362 and editor's note"
+    },
+    {
+      "year": 68,
+      "authority": "al-Layth ibn Sa'd",
+      "source": "Tahdhib al-Kamal 15/362"
+    },
+    {
+      "year": "67, aged 72",
+      "authority": "a report in al-Mizzi",
+      "source": "Tahdhib al-Kamal 15/362"
+    }
+  ],
+  "region": "Makkah, then Syria and Egypt",
+  "residence": [
+    "Makkah",
+    "Syria",
+    "Egypt",
+    "al-Ta'if"
+  ],
+  "tabaqa": 1,
+  "taqrib": {
+    "ar": "أحد السابقين المكثرين من الصحابة وأحد العبادلة الفقهاء، مات في ذي الحجة ليالي الحرة على الأصح بالطائف على الراجح",
+    "en": "One of the early converts and prolific narrators among the Companions, and one of the four Abdullahs who were jurists; he died in Dhu al-Hijjah on the nights of al-Harrah on the sounder view, at al-Ta'if on the preferable view.",
+    "number": "3499"
+  },
+  "band": "sahabi",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "tahdhibKamal": "15/357 (no. 3450)"
+  },
+  "teachers": [
+    {
+      "name": "the Prophet ﷺ",
+      "nameAr": "النبي صلى الله عليه وسلم",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 15/358"
+    },
+    {
+      "name": "Suraqah ibn Malik ibn Ju'shum",
+      "nameAr": "سراقة بن مالك",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Kamal 15/358"
+    },
+    {
+      "name": "Abu al-Darda'",
+      "nameAr": "أبو الدرداء",
+      "source": "Tahdhib al-Kamal 15/359"
+    },
+    {
+      "name": "Abu Muwayhibah, mawla of the Prophet",
+      "nameAr": "أبو مويهبة",
+      "source": "Tahdhib al-Kamal 15/359"
+    }
+  ],
+  "students": [
+    {
+      "id": "abu-al-khayr-marthad",
+      "name": "Abu al-Khayr Marthad ibn Abdullah al-Yazani",
+      "nameAr": "أبو الخير مرثد بن عبد الله اليزني",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 15/361"
+    },
+    {
+      "name": "Masruq ibn al-Ajda'",
+      "nameAr": "مسروق بن الأجدع",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 15/361"
+    },
+    {
+      "name": "his grandson Shu'ayb ibn Muhammad, father of Amr ibn Shu'ayb",
+      "nameAr": "شعيب بن محمد بن عبد الله بن عمرو",
+      "sigla": [
+        "ر",
+        "٤"
+      ],
+      "source": "Tahdhib al-Kamal 15/359"
+    },
+    {
+      "name": "Anas ibn Malik, a Companion from a Companion",
+      "nameAr": "أنس بن مالك",
+      "source": "Tahdhib al-Kamal 15/359"
+    },
+    {
+      "name": "Amir al-Sha'bi",
+      "nameAr": "عامر الشعبي",
+      "sigla": [
+        "خ",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "Tahdhib al-Kamal 15/360"
+    },
+    {
+      "name": "Tawus ibn Kaysan",
+      "nameAr": "طاوس بن كيسان",
+      "sigla": [
+        "م",
+        "س"
+      ],
+      "source": "Tahdhib al-Kamal 15/360"
+    },
+    {
+      "name": "Sa'id ibn al-Musayyib, Urwah, Abu Salamah and Humayd ibn Abd al-Rahman, and many senior Successors",
+      "nameAr": "سعيد بن المسيب وعروة وأبو سلمة وحميد بن عبد الرحمن",
+      "source": "al-Nawawi, Tahdhib al-Asma' 1/282"
+    }
+  ],
+  "verdicts": [],
+  "companionCounts": {
+    "total": 700,
+    "agreed": 17,
+    "bukhariOnly": 8,
+    "muslimOnly": 20,
+    "inBukhari": 26,
+    "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 208, and al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/282 (700 in all; 17 agreed; 8 al-Bukhari alone; 20 Muslim alone); Ibn Hajar, Hady al-Sari, fasl 10 (26 in al-Bukhari, including repetitions)"
+  },
+  "flags": [
+    {
+      "label": "Few narrators despite much hadith",
+      "detail": "Al-Nawawi explains that although he carried a great deal, relatively little was transmitted from him because he settled in Egypt, to which few travelled, unlike Abu Hurayrah in Madinah (Tahdhib al-Asma' 1/282). Abu Hurayrah himself said no one had more hadith from the Prophet than he, except Abdullah ibn Amr, who wrote while Abu Hurayrah did not (Tahdhib al-Kamal 15/358)."
+    },
+    {
+      "label": "Age gap with his father",
+      "detail": "Only eleven years separated him from his father Amr ibn al-As (Tahdhib al-Kamal 15/358); al-Nawawi gives twelve, or eleven."
+    },
+    {
+      "label": "Shamela record",
+      "detail": "Shamela's narrator index has no working page for him (entry 3819 is blank); the Tahdhib al-Kamal pages are cited directly."
+    }
+  ],
+  "bio": "A Companion and the son of the Companion Amr ibn al-As, born only eleven years after his father and converted before him; one of the four Abdullahs (al-Abadilah) whose agreement in law carried weight, with Ibn Umar, Ibn Abbas and Ibn al-Zubayr, as Ahmad and the hadith scholars named them. He wrote hadith down, which Abu Hurayrah cited as the one reason anyone had more than he did, said he had memorised a thousand parables from the Prophet ﷺ, carried his father's banner at Yarmuk and settled in Egypt. Al-Nawawi dwells on his eminence, jurisprudence, abundant hadith, scrupulousness and devotion to prayer and fasting. He died on the nights of al-Harrah or soon after; al-Ta'if, Makkah, Egypt and Palestine are all named as the place.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya variants, teachers, students, deathVariants, age gap, Abu Hurayrah's testimony",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 15/357–362 (no. 3450), Shamela book 3722 pages 7842–7847"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz, died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3499"
+    },
+    {
+      "field": "companionCounts (total and Sahihayn split), Abadilah, Egypt explanation",
+      "layer": "modern",
+      "ref": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/267, 1/281–282; al-Minhaj Sharh Sahih Muslim 2/11"
+    },
+    {
+      "field": "companionCounts.inBukhari",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Hady al-Sari, fasl 10"
+    },
+    {
+      "field": "companionCounts; eleven years from his father",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 208, Shamela book 5858"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3499 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_بقية_أسماء_الآباء_فيمن_اسمه_عبد_الله"
+    },
+    {
+      "label": "al-Mizzi, Tahdhib al-Kamal 15/357 (Shamela)",
+      "url": "https://shamela.ws/book/3722/7842"
+    },
+    {
+      "label": "al-Mizzi, Tahdhib al-Kamal 15/361–362, students and death (Shamela)",
+      "url": "https://shamela.ws/book/3722/7846"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 208 (Shamela)",
+      "url": "https://shamela.ws/book/5858/208"
+    },
+    {
+      "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/281 (Shamela)",
+      "url": "https://shamela.ws/book/9702/281"
+    },
+    {
+      "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/282, counts (Shamela)",
+      "url": "https://shamela.ws/book/9702/282"
+    },
+    {
+      "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/267, the Abadilah (Shamela)",
+      "url": "https://shamela.ws/book/9702/267"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, fasl 10: the count for each Companion (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_العاشر/ذكر_عدة_ما_لكل_صحابي_في_صحيح_البخاري"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

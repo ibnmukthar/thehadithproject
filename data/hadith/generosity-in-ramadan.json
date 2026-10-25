@@ -1,0 +1,370 @@
+{
+  "slug": "generosity-in-ramadan",
+  "title": "The Prophet's generosity in Ramadan",
+  "titleAr": "كان أجود ما يكون في رمضان",
+  "takeaway": "Ibn Abbas describes the Prophet ﷺ as the most generous of people, and at his most generous in Ramadan, when Gabriel met him every night to review the Qur'an with him; in those nights, he says, the Prophet was freer with good than the wind sent with rain. Al-Bukhari places it at the opening of his book, among the hadith on how revelation began, because the nightly review with Gabriel is itself a scene of revelation. The chain is a textbook example of the ح sign joining two routes.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: recorded by al-Bukhari in five places and by Muslim in the Book of Virtues, all through al-Zuhri from Ubaydullah ibn Abdullah from Ibn Abbas."
+  },
+  "primary": {
+    "cite": "bukhari:6",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "6",
+    "bookChapter": "Book of the Beginning of Revelation, chapter 1 (the fifth hadith in Ibn Hajar's division of the chapter)",
+    "chain": [
+      "al-bukhari",
+      "abdan",
+      "abdullah-ibn-al-mubarak",
+      "yunus-ibn-yazid",
+      "al-zuhri",
+      "ubaydullah-ibn-abdullah-ibn-utba",
+      "ibn-abbas"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "ibn-abbas",
+        "sighaAr": "قال كان رسول الله ﷺ أجود الناس",
+        "sighaEn": "he said: the Messenger of God ﷺ was the most generous of people",
+        "kind": "qala",
+        "note": "Ibn Abbas reports the Prophet's conduct, not his words: a report of action (marfu' fi'li)."
+      },
+      {
+        "from": "ibn-abbas",
+        "to": "ubaydullah-ibn-abdullah-ibn-utba",
+        "sighaAr": "عن ابن عباس",
+        "sighaEn": "from Ibn Abbas",
+        "kind": "an"
+      },
+      {
+        "from": "ubaydullah-ibn-abdullah-ibn-utba",
+        "to": "al-zuhri",
+        "sighaAr": "قال أخبرني عبيد الله بن عبد الله",
+        "sighaEn": "he said: Ubaydullah ibn Abdullah informed me",
+        "kind": "ikhbar",
+        "note": "In al-Bukhari 3220 and 3554 al-Zuhri says 'Ubaydullah narrated to me' (حدثني)."
+      },
+      {
+        "from": "al-zuhri",
+        "to": "yunus-ibn-yazid",
+        "sighaAr": "عن الزهري",
+        "sighaEn": "from al-Zuhri",
+        "kind": "an",
+        "note": "The second route reads 'Yunus and Ma'mar from al-Zuhri, with similar wording' (نحوه)."
+      },
+      {
+        "from": "yunus-ibn-yazid",
+        "to": "abdullah-ibn-al-mubarak",
+        "sighaAr": "قال أخبرنا يونس",
+        "sighaEn": "he said: Yunus informed us",
+        "kind": "ikhbar"
+      },
+      {
+        "from": "abdullah-ibn-al-mubarak",
+        "to": "abdan",
+        "sighaAr": "قال أخبرنا عبد الله",
+        "sighaEn": "he said: Abdullah informed us",
+        "kind": "ikhbar",
+        "note": "Abdullah is Ibn al-Mubarak, named without his father; Ibn Hajar identifies him in Fath al-Bari."
+      },
+      {
+        "from": "abdan",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا عبدان",
+        "sighaEn": "Abdan narrated to us",
+        "kind": "sama",
+        "note": "Abdan is the nickname of Abdullah ibn Uthman al-Marwazi."
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، ح وَحَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا يُونُسُ، وَمَعْمَرٌ، عَنِ الزُّهْرِيِّ، نَحْوَهُ قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ",
+    "matnAr": "كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَجْوَدَ النَّاسِ، وَكَانَ أَجْوَدُ مَا يَكُونُ فِي رَمَضَانَ حِينَ يَلْقَاهُ جِبْرِيلُ، وَكَانَ يَلْقَاهُ فِي كُلِّ لَيْلَةٍ مِنْ رَمَضَانَ فَيُدَارِسُهُ الْقُرْآنَ، فَلَرَسُولُ اللَّهِ صلى الله عليه وسلم أَجْوَدُ بِالْخَيْرِ مِنَ الرِّيحِ الْمُرْسَلَةِ",
+    "matnEn": "The Messenger of God ﷺ was the most generous of people, and he was at his most generous in Ramadan, when Gabriel would meet him. Gabriel would meet him every night of Ramadan and go over the Qur'an with him; and so the Messenger of God ﷺ was more generous with good than the wind sent forth.",
+    "url": "https://sunnah.com/bukhari:6"
+  },
+  "also": [
+    {
+      "cite": "bukhari:6",
+      "label": "Sahih al-Bukhari 6, second route",
+      "note": "The route after the ح sign in the same narration",
+      "url": "https://sunnah.com/bukhari:6",
+      "chainNote": "Bishr ibn Muhammad al-Sakhtiyani → Abdullah ibn al-Mubarak → Yunus and Ma'mar → al-Zuhri, 'with similar wording'; the two routes meet at Ibn al-Mubarak and share everything above al-Zuhri. Bishr is used by al-Bukhari alone of the six compilers.",
+      "wordingNote": "Ibn Hajar: Ibn al-Mubarak taught the hadith to Abdan from Yunus alone, and to Bishr from Yunus and Ma'mar together; the wording is Yunus's and Ma'mar's version agrees in meaning."
+    },
+    {
+      "cite": "bukhari:1902",
+      "label": "Sahih al-Bukhari 1902",
+      "note": "Book of Fasting, chapter: the Prophet ﷺ was at his most generous in Ramadan",
+      "url": "https://sunnah.com/bukhari:1902",
+      "chainNote": "Musa ibn Isma'il → Ibrahim ibn Sa'd → Ibn Shihab ('informed us') → Ubaydullah ibn Abdullah ibn Utba → Ibn Abbas: a second student of al-Zuhri, independent of Yunus and Ma'mar.",
+      "wordingNote": "'The most generous of people with good'; Gabriel met him 'every night in Ramadan until it ended, and the Prophet ﷺ would recite the Qur'an to him'; 'when Gabriel met him he was more generous with good than the wind sent forth'."
+    },
+    {
+      "cite": "bukhari:3220",
+      "label": "Sahih al-Bukhari 3220",
+      "note": "Book of the Beginning of Creation, chapter on the angels",
+      "url": "https://sunnah.com/bukhari:3220",
+      "chainNote": "Muhammad ibn Muqatil → Abdullah ibn al-Mubarak → Yunus → al-Zuhri ('Ubaydullah narrated to me') → Ibn Abbas; al-Bukhari appends 'and from Abdullah: Ma'mar narrated to us with this chain, similarly', and notes that Abu Hurayra and Fatima also reported that Gabriel used to review the Qur'an with the Prophet ﷺ.",
+      "wordingNote": "'And so the Messenger of God ﷺ, when Gabriel met him, was more generous with good than the wind sent forth.'"
+    },
+    {
+      "cite": "bukhari:3554",
+      "label": "Sahih al-Bukhari 3554",
+      "note": "Book of Virtues, chapter on the description of the Prophet ﷺ",
+      "url": "https://sunnah.com/bukhari:3554",
+      "chainNote": "Abdan → Abdullah ibn al-Mubarak → Yunus → al-Zuhri ('Ubaydullah narrated to me') → Ibn Abbas: the same route as the first route here.",
+      "wordingNote": "'The Prophet ﷺ was the most generous of people, and most generous in Ramadan' (وأجود ما يكون في رمضان, without the second 'he was'), a reading that supports the nominative construction Ibn Hajar prefers."
+    },
+    {
+      "cite": "bukhari:4997",
+      "label": "Sahih al-Bukhari 4997",
+      "note": "Book of the Virtues of the Qur'an, chapter: Gabriel used to recite the Qur'an to the Prophet ﷺ",
+      "url": "https://sunnah.com/bukhari:4997",
+      "chainNote": "Yahya ibn Qaz'a → Ibrahim ibn Sa'd → al-Zuhri → Ubaydullah → Ibn Abbas.",
+      "wordingNote": "'Most generous in the month of Ramadan, because Gabriel met him every night of the month of Ramadan until it ended, and the Messenger of God ﷺ would recite the Qur'an to him.'"
+    },
+    {
+      "cite": "muslim:2308",
+      "label": "Sahih Muslim 2308",
+      "note": "Book of Virtues",
+      "url": "https://sunnah.com/muslim:2308",
+      "chainNote": "Mansur ibn Abi Muzahim and Abu Imran Muhammad ibn Ja'far ibn Ziyad (whose wording is used) → Ibrahim ibn Sa'd → al-Zuhri → Ubaydullah ibn Abdullah ibn Utba ibn Mas'ud → Ibn Abbas.",
+      "wordingNote": "'Gabriel used to meet him every year in Ramadan until it ended, and the Messenger of God ﷺ would recite the Qur'an to him.'"
+    },
+    {
+      "cite": "nasai:2095",
+      "label": "Sunan al-Nasa'i 2095",
+      "note": "Book of Fasting",
+      "url": "https://sunnah.com/nasai:2095",
+      "chainNote": "Sulayman ibn Dawud → Ibn Wahb → Yunus ('informed me') → Ibn Shihab → Ubaydullah ibn Abdullah ibn Utba → Ibn Abbas: Ibn Wahb as a second student of Yunus beside Ibn al-Mubarak. In the following narration al-Nasa'i records a version attributed to A'isha and rules it an error, the correct version being that of Yunus ibn Yazid.",
+      "wordingNote": "'Every night of the month of Ramadan.'"
+    },
+    {
+      "cite": "ahmad",
+      "label": "Musnad Ahmad",
+      "note": "Number not confirmed; cited by Ibn Hajar in Fath al-Bari on hadith 6 for an addition at the end",
+      "chainNote": "From al-Zuhri from Ubaydullah from Ibn Abbas.",
+      "wordingNote": "Ahmad's version ends: 'he was not asked for anything but that he gave it'; Ibn Hajar notes the same addition is established in the Sahih from Jabir."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 6, 1902, 3220, 3554, 4997",
+      "reason": "Recorded in five books of the Sahih through three students of al-Zuhri (Yunus, Ma'mar and Ibrahim ibn Sa'd). Inclusion in the Sahih is itself a grade: every narrator meets his conditions.",
+      "url": "https://sunnah.com/bukhari:6"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 2308",
+      "reason": "Included in the Book of Virtues through Ibrahim ibn Sa'd from al-Zuhri.",
+      "url": "https://sunnah.com/muslim:2308"
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "The letter ح in the middle of the chain marks a switch (tahwil) from one route to another, so the shared upper part need not be written twice. Al-Bukhari switches at al-Zuhri rather than at Ibn al-Mubarak, where the two routes actually meet, because Abdan has Ibn al-Mubarak from Yunus alone while Bishr has him from Yunus and Ma'mar together; the routes are not identical below al-Zuhri.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 6 (Shamela 1673/516); the Arabic text"
+    },
+    {
+      "kind": "scholar",
+      "text": "'With similar wording' (نحوه) after Ma'mar's name tells the reader whose words are on the page: the text is Yunus's, and Ma'mar's version agrees in meaning rather than letter.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 6 (Shamela 1673/516)"
+    },
+    {
+      "kind": "scholar",
+      "text": "Counting both routes, three of the eight men are from Marw: Abdan, Bishr ibn Muhammad and their common teacher Ibn al-Mubarak. The Khurasani stretch of the chain carries a Madinan report that reached Marw through Yunus of Ayla and Ma'mar of San'a.",
+      "source": "Taqrib al-Tahdhib, entries 3465, 701 and 3570"
+    },
+    {
+      "kind": "scholar",
+      "text": "Ubaydullah ibn Abdullah ibn Utba is one of the Seven Jurists of Madinah, the group on whom legal opinion in the city turned after the Companions. Ibn Hibban and Ibn Abd al-Barr count him among them; the class notes record the standard list (Sa'id ibn al-Musayyib, Urwa, al-Qasim ibn Muhammad, Kharija ibn Zayd, Ubaydullah, Sulayman ibn Yasar) with the seventh disputed between Abu Salama ibn Abd al-Rahman, Salim ibn Abdullah and Abu Bakr ibn Abd al-Rahman, citing al-Nawawi and Ibn al-Qayyim; that list was not checked against those works for this record.",
+      "source": "Ibn Hibban, al-Thiqat 5/63 and Ibn Abd al-Barr as quoted in Tahdhib al-Tahdhib 3/15; the list of seven per the teacher's class notes"
+    },
+    {
+      "kind": "scholar",
+      "text": "Ibn Abbas is one of the Abadila, the Companions named Abdullah whose legal opinion carried special weight; Ibn Hajar's Taqrib calls him 'one of the Abadila among the jurist Companions'. The class notes, citing al-Iraqi, give the four as Ibn Umar, Ibn Abbas, Ibn al-Zubayr and Ibn Amr ibn al-As.",
+      "source": "Taqrib al-Tahdhib, entry 3409; the list of four per the teacher's class notes"
+    },
+    {
+      "kind": "scholar",
+      "text": "Four of the eight men across both routes have a kunya that matches their father's name: Ibn Abbas (Abu al-Abbas), Ubaydullah ibn Abdullah (Abu Abdullah), Yunus ibn Yazid (Abu Yazid) and Bishr ibn Muhammad (Abu Muhammad). The site computes the three in the first route; Bishr belongs to the second.",
+      "source": "Taqrib al-Tahdhib, entries 3409, 4309, 7919 and 701"
+    },
+    {
+      "kind": "scholar",
+      "text": "The report is a marfu' of action: Ibn Abbas describes what the Prophet ﷺ did and how he was, and attributes no words to him. The practice reported, generosity heightened by Ramadan and by the review of the Qur'an, is what the jurists draw on.",
+      "source": "The Arabic text; classification per the teacher's class notes"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "Points below are drawn from Ibn Hajar's Fath al-Bari on hadith 6 and were checked in the commentary itself (Shamela edition, vol. 1 pp. 30–31). The teacher's longer list of lessons is not reproduced here pending review.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari, on hadith 6",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Identifies the narrators named loosely in the chain: Abdan is Abdullah ibn Uthman al-Marwazi, Abdullah is Ibn al-Mubarak, Yunus is Ibn Yazid al-Ayli, and Ubaydullah is Ibn Abdullah ibn Utba ibn Mas'ud. Explains 'Yunus and Ma'mar, similarly': Ibn al-Mubarak gave the hadith to Abdan from Yunus alone and to Bishr from both; the wording is Yunus's, Ma'mar's agrees in meaning.",
+        "url": "https://shamela.ws/book/1673/516"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 6",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Ibn Abbas put 'the most generous of people' first, though it has nothing to do with the Qur'an, as a guard (ihtiras) against the implication of what follows: no one should think the Prophet's generosity was confined to Ramadan. 'Most generous' means the most abundant in giving; generosity (jud) is among the praised qualities.",
+        "url": "https://shamela.ws/book/1673/516"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 6",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On the grammar of 'he was at his most generous in Ramadan': most recensions read ajwadu in the nominative, al-Asili's in the accusative; al-Nawawi called the nominative the better known and the accusative permissible, Ibn Malik gave three constructions for the one and two for the other. Ibn Hajar prefers the nominative because al-Bukhari also has the phrase without 'he was' (kana) in the Book of Fasting.",
+        "url": "https://shamela.ws/book/1673/517"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 6",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On why reviewing the Qur'an increased his generosity: it renewed his sense of sufficiency in God, and sufficiency is the cause of giving; generosity in the Law is giving what is fitting to whom it is fitting, wider than charity; and Ramadan is the season of good, in which God's favours to His servants exceed other times, so the Prophet ﷺ followed God's own practice with His creation. The time, what descended, the one who brought it and the review together produced the increase.",
+        "url": "https://shamela.ws/book/1673/517"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 6",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "'The wind sent forth' means the unconfined wind: he was quicker to give than the wind is to blow, and 'sent forth' points to the continuity of its blowing with mercy and to the universality of the benefit, as such a wind reaches everything it blows across. Ahmad's version adds 'he was never asked for anything but that he gave it', which the Sahih confirms from Jabir.",
+        "url": "https://shamela.ws/book/1673/517"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 6, quoting al-Nawawi",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Nawawi's benefits of the hadith: encouragement to generosity at all times, more so in Ramadan and when in the company of the righteous; visiting the righteous and repeating the visit when it is not unwelcome; and the desirability of much recitation in Ramadan, which is better than other forms of remembrance.",
+        "url": "https://shamela.ws/book/1673/517"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Generosity is encouraged at every time, and more so in Ramadan.",
+        "source": "al-Nawawi, as quoted in Fath al-Bari on hadith 6"
+      },
+      {
+        "text": "Visiting the righteous, and returning to them repeatedly when the visit is not disliked, is commendable.",
+        "source": "al-Nawawi, as quoted in Fath al-Bari on hadith 6"
+      },
+      {
+        "text": "Reciting the Qur'an abundantly in Ramadan is commendable, and recitation ranks above other forms of remembrance.",
+        "source": "al-Nawawi, as quoted in Fath al-Bari on hadith 6"
+      },
+      {
+        "text": "Reviewing the Qur'an with another person (mudarasa) is commendable; the Prophet ﷺ and Gabriel did it every night of Ramadan.",
+        "source": "Fath al-Bari on hadith 6"
+      }
+    ]
+  },
+  "context": "The hadith stands in the first chapter of the Sahih, among the reports on how revelation began, because the nightly review of the Qur'an between the Prophet ﷺ and Gabriel is a scene of revelation renewed. Al-Bukhari repeats it in the Book of Fasting under the heading 'the Prophet ﷺ was at his most generous in Ramadan', among the angels in the Beginning of Creation, in the description of the Prophet in the Book of Virtues, and in the Virtues of the Qur'an under 'Gabriel used to recite the Qur'an to the Prophet ﷺ'.",
+  "vocabulary": [
+    {
+      "term": "Ajwad",
+      "ar": "أجود",
+      "meaning": "Most generous. Ibn Hajar: generosity (jud) is giving what is fitting to whom it is fitting, wider than charity; the Prophet's included his person, his standing, his wealth and his teaching."
+    },
+    {
+      "term": "Yudarisuhu",
+      "ar": "يدارسه",
+      "meaning": "Goes over with him. A reciprocal form: the two reviewed the Qur'an together, the Prophet ﷺ reciting to Gabriel in some versions and Gabriel to him in others."
+    },
+    {
+      "term": "al-Rih al-mursala",
+      "ar": "الريح المرسلة",
+      "meaning": "The wind sent forth, unconfined: the rain-bearing wind of mercy whose benefit reaches everything it crosses, as opposed to the barren, harmful wind."
+    },
+    {
+      "term": "Tahwil (ح)",
+      "ar": "تحويل",
+      "meaning": "The sign ح in a chain marks a switch to a second route; the compiler writes the shared part once. Al-Bukhari switches here at al-Zuhri."
+    },
+    {
+      "term": "Nahwahu",
+      "ar": "نحوه",
+      "meaning": "'Similarly': the other route agrees in meaning, not necessarily in letter. The wording printed belongs to the route named first."
+    },
+    {
+      "term": "Marfu' fi'li",
+      "ar": "مرفوع فعلي",
+      "meaning": "A report that attributes an action or state to the Prophet ﷺ rather than words."
+    },
+    {
+      "term": "al-Fuqaha' al-sab'a",
+      "ar": "الفقهاء السبعة",
+      "meaning": "The Seven Jurists of Madinah, the Successors on whom the city's legal opinion turned; Ubaydullah ibn Abdullah is one of them."
+    }
+  ],
+  "lessons": [
+    {
+      "title": "One letter, two chains",
+      "body": "The ح in the middle of the isnad is not decoration. It tells the reader that al-Bukhari heard the report from two teachers and is writing the shared part once. Where the switch is placed matters: he puts it at al-Zuhri because the two routes differ below him, one carrying Yunus alone and one Yunus with Ma'mar."
+    },
+    {
+      "title": "Whose words are these?",
+      "body": "'Similarly' after Ma'mar's name is a disclosure. Ibn al-Mubarak had the hadith from two men and their words were not identical; al-Bukhari prints Yunus's and tells you so. The discipline cared not only who said a thing but whose phrasing survived."
+    },
+    {
+      "title": "Nicknames and bare names are traps",
+      "body": "Abdan, Abdullah, Yunus, Ubaydullah: four of the seven men in the first route are named without the father or by a pet name. Ibn Hajar's first job in the commentary is to say who each one is. A reader who cannot do that cannot check the chain."
+    },
+    {
+      "title": "An early guard against misreading",
+      "body": "Ibn Abbas begins with 'the most generous of people' before saying 'most generous in Ramadan'. Ibn Hajar calls this a guard clause: without it a listener might think the generosity was seasonal. Reading the order of a sentence is part of reading a hadith."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 2,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 6 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:6"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (fawazahmed0 hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Arabic text of Sahih Muslim (fawazahmed0 hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 6, vol. 1 pp. 30–31 (Shamela)",
+      "url": "https://shamela.ws/book/1673/516"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 6 (Wikisource, partial)",
+      "url": "https://ar.wikisource.org/wiki/فتح_الباري/الحديث_رقم_(_5_)_(_أجود_الناس_وكان_أجود_ما_يكون_في_رمضان_حين_يلقاه_جبريل_)"
+    },
+    {
+      "label": "Sahih Muslim 2308 (sunnah.com)",
+      "url": "https://sunnah.com/muslim:2308"
+    },
+    {
+      "label": "Sunan al-Nasa'i 2095 (sunnah.com)",
+      "url": "https://sunnah.com/nasai:2095"
+    },
+    {
+      "label": "Teacher's class notes, hadith 2 of the course (structured extract in this repository: docs/research/class-notes/bukhari-6.md)"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

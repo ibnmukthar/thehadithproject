@@ -1,0 +1,329 @@
+{
+  "slug": "dearer-than-father-and-child",
+  "title": "None of you believes until I am dearer to him than his father and his child",
+  "titleAr": "لا يؤمن أحدكم حتى أكون أحب إليه من والده وولده",
+  "takeaway": "Faith is not complete until love for the Prophet ﷺ outranks love for the people closest to us: parent, child, and everyone else. The commentators take “does not believe” to mean the full faith a believer is obliged to reach, not the bare minimum. Al-Bukhari set it beside Abu Hurayrah's hadith with the same words and added it with two chains.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: recorded by al-Bukhari with two chains and by Muslim with two, and by al-Nasa'i and Ibn Majah; the wording printed is Qatadah's, and Abd al-Aziz's wording differs."
+  },
+  "primary": {
+    "cite": "bukhari:15",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "15",
+    "bookChapter": "Book of Faith, chapter: love of the Messenger ﷺ is part of faith",
+    "chain": [
+      "al-bukhari",
+      "yaqub-ibn-ibrahim-al-dawraqi",
+      "ismail-ibn-ulayyah",
+      "abd-al-aziz-ibn-suhayb",
+      "anas-ibn-malik"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "anas-ibn-malik",
+        "sighaAr": "عن النبي ﷺ",
+        "sighaEn": "from the Prophet ﷺ",
+        "kind": "an",
+        "note": "The second chain has “the Prophet ﷺ said”; Ibn Hajar suggests the difference in formula is why al-Bukhari completed the first chain to the Prophet ﷺ before switching rather than joining the two at Anas."
+      },
+      {
+        "from": "anas-ibn-malik",
+        "to": "abd-al-aziz-ibn-suhayb",
+        "sighaAr": "عن أنس",
+        "sighaEn": "from Anas",
+        "kind": "an"
+      },
+      {
+        "from": "abd-al-aziz-ibn-suhayb",
+        "to": "ismail-ibn-ulayyah",
+        "sighaAr": "عن عبد العزيز بن صهيب",
+        "sighaEn": "from Abd al-Aziz ibn Suhayb",
+        "kind": "an"
+      },
+      {
+        "from": "ismail-ibn-ulayyah",
+        "to": "yaqub-ibn-ibrahim-al-dawraqi",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "yaqub-ibn-ibrahim-al-dawraqi",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama",
+        "note": "Abu Dharr's recension reads “informed us” (akhbarana); Ibn Hajar notes that al-Bukhari does not distinguish the two formulas."
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَحَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "matnAr": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ",
+    "matnEn": "None of you believes until I am dearer to him than his father, his child and all people.",
+    "url": "https://sunnah.com/bukhari:15"
+  },
+  "also": [
+    {
+      "cite": "bukhari:15",
+      "label": "Sahih al-Bukhari 15, second chain",
+      "note": "The route after the ح (tahwil) in the same entry",
+      "url": "https://sunnah.com/bukhari:15",
+      "chainNote": "Adam ibn Abi Iyas, from Shu'bah, from Qatadah, from Anas: a second Basran Successor, Qatadah, and a second shaykh of al-Bukhari. Ibn Hajar: the printed wording is Qatadah's.",
+      "wordingNote": "“The Prophet ﷺ said” in place of “from the Prophet ﷺ”."
+    },
+    {
+      "cite": "bukhari:14",
+      "label": "Sahih al-Bukhari 14",
+      "note": "The preceding hadith of the chapter, from Abu Hurayrah",
+      "url": "https://sunnah.com/bukhari:14",
+      "chainNote": "Abu al-Yaman, from Shu'ayb, from Abu al-Zinad, from al-A'raj, from Abu Hurayrah: a different Companion.",
+      "wordingNote": "“By Him in whose hand is my soul, none of you believes until I am dearer to him than his father and his child.” Qatadah's version of Anas's hadith matches it and adds “and all people” (Ibn Hajar)."
+    },
+    {
+      "cite": "muslim:44a",
+      "label": "Sahih Muslim 44a",
+      "note": "Book of Faith",
+      "url": "https://sunnah.com/muslim:44a",
+      "chainNote": "Zuhayr ibn Harb, from Isma'il ibn Ulayyah; and Shayban ibn Abi Shaybah, from Abd al-Warith; both from Abd al-Aziz, from Anas: the first chain's route from Abd al-Aziz upward, through two of his students.",
+      "wordingNote": "“A servant does not believe (in Abd al-Warith's version: a man) until I am dearer to him than his family, his wealth and all people.” Abd al-Aziz's wording, which differs from the Qatadah wording al-Bukhari printed."
+    },
+    {
+      "cite": "muslim:44b",
+      "label": "Sahih Muslim 44b",
+      "url": "https://sunnah.com/muslim:44b",
+      "chainNote": "Muhammad ibn al-Muthanna and Ibn Bashshar, from Muhammad ibn Ja'far (Ghundar), from Shu'bah, “I heard Qatadah narrate from Anas ibn Malik”: the second chain's route from Shu'bah upward, with Qatadah's hearing from Shu'bah stated.",
+      "wordingNote": "“his child, his father and all people”: child first."
+    },
+    {
+      "cite": "nasai:5013",
+      "label": "Sunan al-Nasa'i 5013",
+      "note": "Book of Faith and its Signs, chapter: the sign of faith",
+      "url": "https://sunnah.com/nasai:5013",
+      "chainNote": "Humayd ibn Mas'adah, from Bishr ibn al-Mufaddal, from Shu'bah, from Qatadah, “that he heard Anas say”: the second chain's route, with Qatadah's hearing from Anas stated. Ibn Hajar cites this as the explicit hearing that removes any question of Qatadah's tadlis.",
+      "wordingNote": "Child first, then father."
+    },
+    {
+      "cite": "nasai:5014",
+      "label": "Sunan al-Nasa'i 5014",
+      "url": "https://sunnah.com/nasai:5014",
+      "chainNote": "Al-Husayn ibn Hurayth, from Isma'il (Ibn Ulayyah), from Abd al-Aziz; and Imran ibn Musa, from Abd al-Warith, from Abd al-Aziz, from Anas.",
+      "wordingNote": "“his wealth, his family and all people.”"
+    },
+    {
+      "cite": "ibnmajah:67",
+      "label": "Sunan Ibn Majah 67",
+      "note": "Introduction, chapter on faith",
+      "url": "https://sunnah.com/ibnmajah:67",
+      "chainNote": "Muhammad ibn Bashshar and Muhammad ibn al-Muthanna, from Muhammad ibn Ja'far, from Shu'bah, “I heard Qatadah, from Anas ibn Malik”.",
+      "wordingNote": "Child first, then father."
+    },
+    {
+      "cite": "ibnkhuzaymah",
+      "label": "Sahih Ibn Khuzaymah",
+      "note": "Number not confirmed; cited by Ibn Hajar in Fath al-Bari.",
+      "chainNote": "From Ya'qub, al-Bukhari's shaykh, with this very chain.",
+      "wordingNote": "“than his family and his wealth” in place of “his father and his child”: evidence that Abd al-Aziz's wording differed from Qatadah's even on al-Bukhari's own route."
+    },
+    {
+      "cite": "ismaili",
+      "label": "al-Isma'ili, al-Mustakhraj",
+      "note": "Number not confirmed; cited by Ibn Hajar in Fath al-Bari.",
+      "chainNote": "Through Abd al-Warith ibn Sa'id from Abd al-Aziz.",
+      "wordingNote": "“A man does not believe”; Ibn Hajar adds that al-Asili's recension of al-Bukhari reads “no one believes”, the broadest of the three openings."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 15",
+      "reason": "Recorded with two chains to Anas, through Abd al-Aziz ibn Suhayb and through Qatadah, immediately after Abu Hurayrah's hadith with the same words. Inclusion in the Sahih is itself a grade.",
+      "url": "https://sunnah.com/bukhari:15"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 44a, 44b",
+      "reason": "Two routes in the Book of Faith, matching al-Bukhari's two chains from Abd al-Aziz and from Shu'bah upward.",
+      "url": "https://sunnah.com/muslim:44a"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "What the ح records",
+      "body": "The letter ح between the two chains marks a switch (tahwil) from one isnad to another for the same text. Here al-Bukhari runs the first chain all the way to the Prophet ﷺ before switching, rather than joining the second at Anas. Ibn Hajar's explanation is that the two chains end differently, “from the Prophet ﷺ” and “the Prophet ﷺ said”, so neither could stand in for the other at that point. The sign tells the reader that two complete routes were heard, and where they stop being identical."
+    },
+    {
+      "title": "Whose words are printed",
+      "body": "Ibn Hajar observes that the wording printed is Qatadah's, which matches Abu Hurayrah's hadith with the addition “and all people”, whereas Abd al-Aziz's own wording, in Muslim, in al-Nasa'i and in Ibn Khuzaymah's copy from al-Bukhari's own shaykh, has “his family and his wealth”. Al-Bukhari's joining concerns the report, not its exact words. The takhrij makes the difference visible."
+    },
+    {
+      "title": "How a mudallis is cleared",
+      "body": "Qatadah is in the third rank of Ibn Hajar's mudallisin, so his “from Anas” would normally need support. Two things supply it: his student here is Shu'bah, who said he had spared his hearers the tadlis of al-A'mash, Abu Ishaq and Qatadah by taking from them only what they heard; and al-Nasa'i's copy of the same route reads “Qatadah, that he heard Anas”. The flag on the narrator record is real; the chain answers it."
+    },
+    {
+      "title": "Named after his mother",
+      "body": "Ibn Ulayyah is Isma'il ibn Ibrahim ibn Miqsam; Ulayyah was his mother. Attribution to someone other than the father is a recognised trap, and Ibn Hajar's Hady al-Sari has a section for the Sahih's cases. Muslim writes “Isma'il ibn Ulayyah”, putting name and mother together so no reader can mistake him."
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "Al-Bukhari joins the second chain to the first before giving the text, which could suggest the two wordings are the same. Ibn Hajar: the printed wording is Qatadah's, which is like Abu Hurayrah's hadith with “and all people” added; Abd al-Aziz's wording has “his family and his wealth” for “his father and his child”, as Ibn Khuzaymah has it from Ya'qub, al-Bukhari's own shaykh, and as Muslim has it through Ibn Ulayyah and al-Isma'ili through Abd al-Warith. Al-Bukhari does this with regard to the underlying hadith, not its exact words, and kept Qatadah's wording because it matches Abu Hurayrah's.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 15"
+    },
+    {
+      "kind": "scholar",
+      "text": "Shu'bah's report from Qatadah is safe from Qatadah's tadlis, “because he did not take from him anything but what he had heard”, and Qatadah's hearing is stated outright in al-Nasa'i's version of this hadith (5013: “that he heard Anas”). Qatadah stands in the third rank of Tabaqat al-Mudallisin, no. 92.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 15; Tabaqat al-Mudallisin, no. 92 and closing section"
+    },
+    {
+      "kind": "scholar",
+      "text": "The openings differ in breadth: Qatadah's “none of you believes”, Abd al-Warith's “a man does not believe” (in al-Isma'ili), Muslim's “a servant does not believe”, and al-Asili's recension of al-Bukhari “no one believes”, which Ibn Hajar calls the most comprehensive.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 15"
+    },
+    {
+      "kind": "scholar",
+      "text": "The father is named before the child because everyone has a father while not everyone has a child; al-Nasa'i's version of Anas's hadith puts the child first, which Ibn Hajar explains by the greater tenderness felt for a child. Father and child are mentioned rather than family and wealth because they are dearer to a reasonable person, sometimes dearer than himself.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 14 and 15"
+    },
+    {
+      "kind": "scholar",
+      "text": "“Does not believe” means complete faith. The love meant is love of our Prophet ﷺ specifically, though love of all the messengers is part of faith; the greater love is his alone. The first link reads “narrated to us” in most recensions and “informed us” in Abu Dharr's; al-Bukhari does not distinguish the two.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 14 and 15"
+    },
+    {
+      "kind": "scholar",
+      "text": "Ibn Ulayyah is Isma'il ibn Ibrahim ibn Miqsam, attributed to his mother Ulayyah (al-Khatib records a claim that she was his grandmother). Ibn Hajar lists him in the Hady al-Sari section on narrators referred to by someone other than their father. The class notes add al-Nawawi's list of comparable names (Ibn Umm Maktum, Ibn Salul, Ibn Buhaynah, Ibn al-Hanafiyyah, Ibn Rahawayh, Ibn Majah) and the orthographic rules for writing such attributions; those were not verified here.",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 7, those referred to by a father's or other relative's name"
+    },
+    {
+      "kind": "scholar",
+      "text": "Both of al-Bukhari's shaykhs here are from outside Basra while the rest of both chains is Basran: Ya'qub al-Dawraqi of Baghdad, and Adam ibn Abi Iyas of Asqalan, of Khurasani origin and raised in Baghdad. Ya'qub died in 252 AH, the same year as Bundar and Muhammad ibn al-Muthanna, each of them a teacher of all six compilers.",
+      "source": "Taqrib al-Tahdhib, entries 132, 5754, 6264, 7812"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On the chapter and hadith 14: “love of the Messenger” means our Prophet ﷺ, by the context “until I am dearer”; the love of all messengers is part of faith but the greater love is his. “Does not believe” means complete faith. The father precedes the child because everyone has a father; al-Nasa'i's version puts the child first for tenderness.",
+        "url": "https://www.islamweb.net/ar/library/content/52/26/"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On hadith 15: the two chains and the ح; the printed wording is Qatadah's; Abd al-Aziz's wording in Ibn Khuzaymah, Muslim and al-Isma'ili; the breadth of the openings; Shu'bah's safety from Qatadah's tadlis and the explicit hearing in al-Nasa'i; why father and child rather than family and wealth.",
+        "url": "https://www.islamweb.net/ar/library/content/52/28/"
+      },
+      {
+        "work": "Tabaqat al-Mudallisin",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Qatadah in the third rank (no. 92), famous for tadlis; and, in the closing section, Shu'bah's statement that he spared his hearers the tadlis of al-A'mash, Abu Ishaq and Qatadah, from which Ibn Hajar draws the rule that these three narrators' reports through Shu'bah indicate hearing even when phrased “from”.",
+        "url": "https://shamela.ws/book/1186/41"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Love of the Messenger ﷺ is part of faith, and faith is not complete until that love outranks love of father, child and all people.",
+        "source": "Ibn Hajar, Fath al-Bari on hadith 14 and 15 (the chapter heading and “does not believe”)"
+      },
+      {
+        "text": "The love meant is of our Prophet ﷺ specifically; love of all the messengers is part of faith, but precedence over everyone belongs to him.",
+        "source": "Ibn Hajar, Fath al-Bari on hadith 14"
+      },
+      {
+        "text": "Father before child in the wording reflects that everyone has a father; child before father, in al-Nasa'i's version, reflects tenderness.",
+        "source": "Ibn Hajar, Fath al-Bari on hadith 14"
+      }
+    ],
+    "note": "The class notes draw further lessons from al-Munawi, Fath al-Majid, Taysir al-Aziz al-Hamid, al-Kirmani and Ibn al-Qayyim (that the required completeness is obligatory, not merely recommended; that love is an act of the heart and so deeds are part of faith; that faith may be denied of a person who remains within Islam). These were not verified in the works named and are not entered as rulings."
+  },
+  "context": "Al-Bukhari's chapter “love of the Messenger ﷺ is part of faith” has two hadith: Abu Hurayrah's (14), sworn by an oath, “none of you believes until I am dearer to him than his father and his child”, and this one from Anas, which adds “and all people”. The chapter continues the book's argument that faith has branches and degrees, so that a believer can be told he “does not believe” in the sense of the completeness he is obliged to reach. Ibn Hajar explains the reason for the greater love: the Prophet ﷺ is the means by which a person is brought out of disbelief into guidance, and benefit produces love.",
+  "vocabulary": [
+    {
+      "term": "Tahwil (ح)",
+      "ar": "تحويل",
+      "meaning": "Switching from one chain to another for the same text, marked in the Sahih by the letter ح."
+    },
+    {
+      "term": "Lafz",
+      "ar": "لفظ",
+      "meaning": "The exact wording. When a compiler joins two chains, the printed wording belongs to one of them; here it is Qatadah's."
+    },
+    {
+      "term": "Tadlis",
+      "ar": "تدليس",
+      "meaning": "Using an ambiguous formula like “from” that hides whether the narrator heard directly. Qatadah was known for it; Shu'bah's rule and al-Nasa'i's wording remove the doubt here."
+    },
+    {
+      "term": "Mansub ila ummih",
+      "ar": "منسوب إلى أمه",
+      "meaning": "A narrator referred to by his mother's name rather than his father's: Ibn Ulayyah."
+    },
+    {
+      "term": "Walid",
+      "ar": "والد",
+      "meaning": "Father, or parent; the commentators note it can stand for both parents, one of a pair mentioned for both."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 13,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 15 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:15"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari with diacritics (hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 14 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/26/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 15 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/28/"
+    },
+    {
+      "label": "Ibn Hajar, Tabaqat al-Mudallisin, third rank, no. 92 (Shamela)",
+      "url": "https://shamela.ws/book/1186/41"
+    },
+    {
+      "label": "Ibn Hajar, Tabaqat al-Mudallisin, closing section on Shu'bah's rule (Shamela)",
+      "url": "https://shamela.ws/book/1186/57"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 7: those referred to by a relative's name (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/فصل_فيمن_ذكر_باسم_أبيه_أو_جده_أو_نحو_ذلك"
+    },
+    {
+      "label": "Sahih Muslim 44a (sunnah.com)",
+      "url": "https://sunnah.com/muslim:44a"
+    },
+    {
+      "label": "Sunan al-Nasa'i 5013 (sunnah.com)",
+      "url": "https://sunnah.com/nasai:5013"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

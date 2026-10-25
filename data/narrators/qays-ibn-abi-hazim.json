@@ -1,0 +1,406 @@
+{
+  "id": "qays-ibn-abi-hazim",
+  "name": "Qays ibn Abi Hazim",
+  "nameAr": "قيس بن أبي حازم البجلي الأحمسي الكوفي",
+  "short": "Qays ibn Abi Hazim",
+  "shortAr": "قيس بن أبي حازم",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "kunyaVariants": [
+    "Abu Ubaydullah"
+  ],
+  "nisbas": [
+    {
+      "ar": "البجلي",
+      "en": "al-Bajali",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الأحمسي",
+      "en": "al-Ahmasi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abu Hazim, a Companion (named Husayn ibn Awf, or Awf ibn Abd al-Harith, or Abd Awf ibn al-Harith)",
+  "died": 98,
+  "diedNote": "After 90 or shortly before, having passed a hundred (Taqrib). Ibn Ma'in: 97 or 98; Khalifa and Abu Ubayd: 98; al-Haytham ibn Adi and al-Waqidi: at the end of Sulayman ibn Abd al-Malik's caliphate; Amr ibn Ali al-Fallas: 84.",
+  "deathVariants": [
+    {
+      "year": "97 or 98",
+      "authority": "Yahya ibn Ma'in",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691"
+    },
+    {
+      "year": 98,
+      "authority": "Khalifa ibn Khayyat; Abu Ubayd",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691"
+    },
+    {
+      "year": "end of Sulayman ibn Abd al-Malik's caliphate (99)",
+      "authority": "al-Haytham ibn Adi; al-Waqidi",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691"
+    },
+    {
+      "year": 84,
+      "authority": "Amr ibn Ali al-Fallas (al-Dhahabi: an isolated view)",
+      "source": "Tahdhib al-Tahdhib; Siyar A'lam al-Nubala'"
+    },
+    {
+      "year": "84, 86 or 94",
+      "authority": "variants collected by Ibn Hibban",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691"
+    }
+  ],
+  "region": "Kufa",
+  "tabaqa": 2,
+  "taqrib": {
+    "ar": "ثقة من الثانية، مخضرم، ويقال له رؤية، وهو الذي يقال إنه اجتمع له أن يروي عن العشرة، مات بعد التسعين أو قبلها وقد جاز المائة، وتغير",
+    "en": "Reliable; of the second generation; a mukhadram (lived in both the pre-Islamic and Islamic eras), and it is said he saw the Prophet; he is the one said to have combined narrating from all ten (promised Paradise). He died after 90, or shortly before it, having passed a hundred, and his memory changed.",
+    "number": "5566",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Mukhadram Successor; narrator from the senior Companions",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/5235"
+  },
+  "teachers": [
+    {
+      "id": "jarir-ibn-abdullah-al-bajali",
+      "name": "Jarir ibn Abdullah al-Bajali",
+      "nameAr": "جرير بن عبد الله",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57; Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "his father Abu Hazim (Companion)",
+      "nameAr": "أبوه أبو حازم",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Bakr al-Siddiq",
+      "nameAr": "أبو بكر",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "umar-ibn-al-khattab",
+      "name": "Umar ibn al-Khattab",
+      "nameAr": "عمر",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Uthman ibn Affan",
+      "nameAr": "عثمان",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ali ibn Abi Talib",
+      "nameAr": "علي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Sa'd ibn Abi Waqqas",
+      "nameAr": "سعد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Sa'id ibn Zayd",
+      "nameAr": "سعيد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-Zubayr ibn al-Awwam",
+      "nameAr": "الزبير",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Talhah ibn Ubaydullah",
+      "nameAr": "طلحة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Ubaydah ibn al-Jarrah",
+      "nameAr": "أبو عبيدة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abd al-Rahman ibn Awf",
+      "nameAr": "عبد الرحمن بن عوف",
+      "source": "Tahdhib al-Tahdhib: 'and it is said he did not hear from him'; Abu Dawud and Ya'qub ibn Shaybah: no narration from him is known"
+    },
+    {
+      "name": "Khalid ibn al-Walid",
+      "nameAr": "خالد بن الوليد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abdullah ibn Mas'ud",
+      "nameAr": "ابن مسعود",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Hudhayfa ibn al-Yaman",
+      "nameAr": "حذيفة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "abu-musa-al-ashari",
+      "name": "Abu Musa al-Ash'ari",
+      "nameAr": "أبو موسى الأشعري",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "abu-hurayra",
+      "name": "Abu Hurayra",
+      "nameAr": "أبو هريرة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "A'isha",
+      "nameAr": "عائشة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-Mughira ibn Shu'bah",
+      "nameAr": "المغيرة بن شعبة",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "students": [
+    {
+      "id": "ismail-ibn-abi-khalid",
+      "name": "Isma'il ibn Abi Khalid",
+      "nameAr": "إسماعيل بن أبي خالد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57; Tahdhib al-Tahdhib (first student named; Ya'qub ibn Shaybah: 'the most prolific narrator from him')"
+    },
+    {
+      "name": "Bayan ibn Bishr",
+      "nameAr": "بيان بن بشر",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-Mughira ibn Shubayl",
+      "nameAr": "المغيرة بن شبيل",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Mujalid ibn Sa'id",
+      "nameAr": "مجالد بن سعيد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Umar ibn Abi Za'idah",
+      "nameAr": "عمر بن أبي زائدة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-Hakam ibn Utaybah",
+      "nameAr": "الحكم بن عتيبة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-A'mash",
+      "nameAr": "الأعمش",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "al-amash"
+    },
+    {
+      "name": "Abu Ishaq al-Sabi'i",
+      "nameAr": "أبو إسحاق السبيعي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala'"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "هو أوثق من الزهري",
+      "en": "He is more reliable than al-Zuhri.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691; al-Jarh wa al-Ta'dil 7/102",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Sufyan ibn Uyaynah",
+      "criticDied": 198,
+      "via": "Ishaq ibn Isma'il",
+      "ar": "ما كان بالكوفة أحد أروى عن أصحاب رسول الله صلى الله عليه وسلم من قيس",
+      "en": "There was no one in Kufa who narrated more from the Companions of the Messenger of God than Qays.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Abu Dawud al-Sijistani",
+      "criticDied": 275,
+      "via": "al-Ajurri",
+      "ar": "أجود التابعين إسنادا قيس بن أبي حازم، روى عن تسعة من العشرة ولم يرو عن عبد الرحمن بن عوف",
+      "en": "The Successor with the finest chains is Qays ibn Abi Hazim; he narrated from nine of the Ten and did not narrate from Abd al-Rahman ibn Awf.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Ibn Khirash",
+      "criticDied": 283,
+      "ar": "كوفي جليل، وليس في التابعين أحد روى عن العشرة إلا قيس بن أبي حازم",
+      "en": "An eminent Kufan; among the Successors no one narrated from the Ten except Qays ibn Abi Hazim.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Ya'qub ibn Shaybah",
+      "criticDied": 262,
+      "ar": "وهو متقن الرواية، وقد تكلم أصحابنا فيه: فمنهم من رفع قدره وعظمه وجعل الحديث عنه من أصح الإسناد، ومنهم من حمل عليه وقال له أحاديث مناكير، والذين أطروه حملوا هذه الأحاديث على أنها عندهم غير مناكير وقالوا هي غرائب، ومنهم من حمل عليه في مذهبه وقالوا كان يحمل على علي، والمشهور عنه أنه كان يقدم عثمان، ولذلك تجنب كثير من قدماء الكوفيين الرواية عنه",
+      "en": "He is precise in narration. Our colleagues have discussed him: some raised his rank, exalted him and counted hadith from him among the soundest chains; some attacked him and said he has objectionable reports, while those who praised him held those reports to be not objectionable but merely rare; and some attacked him for his leanings, saying he was hard on Ali, though what is well known of him is that he gave Uthman precedence, which is why many of the early Kufans avoided narrating from him.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Yahya ibn Sa'id al-Qattan",
+      "criticDied": 198,
+      "via": "Ali ibn al-Madini",
+      "ar": "قيس بن أبي حازم منكر الحديث؛ ثم ذكر له يحيى أحاديث مناكير منها حديث الحوأب",
+      "en": "'Qays ibn Abi Hazim is objectionable in hadith', and Yahya cited reports he found objectionable, among them the hadith of al-Haw'ab. Ibn Hajar's gloss: by 'objectionable' al-Qattan meant the absolutely single-stranded report.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691 (with Ibn Hajar's comment: 'ومراد القطان بالمنكر الفرد المطلق')",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Isma'il ibn Abi Khalid",
+      "criticDied": 146,
+      "via": "Abu Khalid al-Ahmar, recalling Isma'il's words to Abdullah ibn Numayr",
+      "ar": "حدثنا قيس، هذه الأسطوانة (يعني في الثقة)",
+      "en": "'Qays narrated to us: this pillar', meaning in reliability he was as solid as the pillar he pointed to.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691; al-Jarh wa al-Ta'dil 7/102",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "Isma'il ibn Abi Khalid",
+      "criticDied": 146,
+      "via": "Yahya ibn Abi Ghaniyyah",
+      "ar": "كبر قيس حتى جاز المائة بسنين كثيرة حتى خرف وذهب عقله",
+      "en": "Qays grew old until he had passed a hundred by many years, until he became senile and his mind went.",
+      "source": "Tahdhib al-Tahdhib, letter qaf, entry 691; Siyar A'lam al-Nubala'",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "critic": "al-Dhahabi",
+      "criticDied": 748,
+      "ar": "تابعي كبير، فاتته الصحبة بليال، وثقوه",
+      "en": "A senior Successor who missed Companionship by a few nights; they declared him reliable.",
+      "source": "al-Kashif 4/49",
+      "url": "https://shamela.ws/narrator/5235"
+    },
+    {
+      "critic": "al-Dhahabi",
+      "criticDied": 748,
+      "ar": "أجمعوا على الاحتجاج به، ومن تكلم فيه فقد آذى نفسه",
+      "en": "They agreed on relying on him; whoever spoke against him only harmed himself.",
+      "source": "quoted by Ibn Hajar at the end of the Tahdhib al-Tahdhib entry ('so said al-Dhahabi'); al-Kawakib al-Nayyirat no. 51, p. 379",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    }
+  ],
+  "dhahabi": {
+    "ar": "تابعي كبير، فاتته الصحبة بليال، وثقوه",
+    "en": "A senior Successor who missed Companionship by a few nights; they declared him reliable.",
+    "source": "al-Kashif 4/49 (via the Shamela narrator record)"
+  },
+  "ikhtilat": {
+    "when": "At the end of a very long life, after he had passed a hundred by many years (Isma'il ibn Abi Khalid).",
+    "cause": "Senility of old age (kharaf): 'his mind went'.",
+    "disputed": [
+      "Which reports, if any, date from the period of change is not recorded; Ibn al-Kayyal lists him among the reliable narrators who changed (al-Kawakib al-Nayyirat no. 51), and al-Dhahabi says the critics agreed on relying on him."
+    ],
+    "source": "Tahdhib al-Tahdhib, letter qaf, entry 691 (Wikisource); Ibn al-Kayyal, al-Kawakib al-Nayyirat, no. 51, pp. 374–381 (Shamela book 309, pages 335–342)"
+  },
+  "flags": [
+    {
+      "label": "Companion status not established",
+      "detail": "He travelled to pledge allegiance to the Prophet ﷺ, who died while he was on the road; he arrived in Madinah and pledged to Abu Bakr. His father Abu Hazim was a Companion. The report that he saw the Prophet preaching as a boy of seven or eight 'was not established' (al-Mizzi, Ibn Hajar); al-Dhahabi says it would make him a different man, Qays ibn A'idh. Ibn Hajar treats the question at length in al-Isaba."
+    },
+    {
+      "label": "Narrating from 'the Ten'",
+      "detail": "The Taqrib and Ibn Khirash say he alone among the Successors narrated from all ten promised Paradise. Abu Dawud and Ya'qub ibn Shaybah are more exact: nine of the ten, with no narration from Abd al-Rahman ibn Awf known."
+    },
+    {
+      "label": "Memory changed in extreme old age",
+      "detail": "Isma'il ibn Abi Khalid, his chief student, says he lived many years past a hundred until he became senile. Al-Qattan's 'objectionable' concerned, in Ibn Hajar's reading, his single-stranded reports such as the hadith of al-Haw'ab; Ibn Ma'in rated him above al-Zuhri, Abu Dawud called his chains the finest of any Successor, and al-Dhahabi records agreement on relying on him."
+    },
+    {
+      "label": "Criticised for his leanings",
+      "detail": "Ya'qub ibn Shaybah reports that some blamed him for being hard on Ali; the known fact, he says, is that Qays preferred Uthman, for which many of the early Kufans avoided him. Ibn Sa'd calls Hammad ibn Zayd, another narrator in this course, 'Uthmani' in the same sense."
+    }
+  ],
+  "bio": "A Kufan of Ahmas of Bajilah who lived through the pre-Islamic era, set out to pledge allegiance to the Prophet ﷺ and arrived after his death, so that his pledge was to Abu Bakr. He then narrated from Abu Bakr, Umar, Uthman, Ali and the rest of the senior Companions, and is said to be the only Successor who narrated from all ten promised Paradise, or, more exactly, from nine of them. Ibn Uyaynah said no one in Kufa narrated more from the Companions; Ibn Ma'in rated him above al-Zuhri. He lived past a hundred and became senile at the very end; his politics drew criticism in Kufa. He died around 98.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya, nisbas, tabaqa, taqrib, rumuz, ikhtilat (summary)",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 5566 (Wikisource)"
+    },
+    {
+      "field": "fatherName, kunyaVariants, teachers, students, verdicts, deathVariants, flags",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter qaf, entry 691 (Wikisource)"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 4/49, via the Shamela narrator record"
+    },
+    {
+      "field": "ikhtilat",
+      "layer": "specialist",
+      "ref": "Ibn al-Kayyal, al-Kawakib al-Nayyirat, no. 51 (Shamela book 309)"
+    },
+    {
+      "field": "students (Abu Ishaq), deathVariants (al-Fallas)",
+      "layer": "modern",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala' (Wikisource)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 5566 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_القاف/ذكر_من_اسمه_قيس"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, letter qaf, entry 691 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_القاف"
+    },
+    {
+      "label": "al-Dhahabi, Siyar A'lam al-Nubala', Qays ibn Abi Hazim (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/سير_أعلام_النبلاء/قيس_بن_أبي_حازم"
+    },
+    {
+      "label": "Ibn al-Kayyal, al-Kawakib al-Nayyirat, no. 51 (Shamela)",
+      "url": "https://shamela.ws/book/309/335"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/5235"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

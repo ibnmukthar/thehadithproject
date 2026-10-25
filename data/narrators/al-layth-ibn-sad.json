@@ -1,0 +1,189 @@
+{
+  "id": "al-layth-ibn-sad",
+  "name": "al-Layth ibn Sa'd",
+  "nameAr": "الليث بن سعد بن عبد الرحمن الفهمي، أبو الحارث المصري",
+  "short": "al-Layth ibn Sa'd",
+  "shortAr": "الليث بن سعد",
+  "kunya": "Abu al-Harith",
+  "kunyaAr": "أبو الحارث",
+  "nisbas": [
+    { "ar": "الفهمي", "en": "al-Fahmi (by clientage to Fahm, of Qays Aylan)", "kind": "tribal" },
+    { "ar": "المصري", "en": "al-Misri", "kind": "geographic" }
+  ],
+  "mawla": "Abd al-Rahman ibn Khalid ibn Musafir al-Fahmi (or, some said, of Thabit ibn Za'in, his grandfather); his family claimed Persian descent from Isfahan, which Ibn Yunus found unfounded",
+  "fatherName": "Sa'd",
+  "born": 94,
+  "bornNote": "94 (Ibn Bukayr and others; Ibn Sa'd: 93 or 94, in the caliphate of al-Walid); Ibn Abi Maryam: 93; some said 92. Born at Qarqashandah, a village about four parasangs from Fustat.",
+  "died": 175,
+  "diedNote": "Sha'ban 175 (Taqrib); Ibn Sa'd: Friday, with fourteen nights of Sha'ban remaining, 175, in the caliphate of al-Mahdi.",
+  "deathVariants": [
+    { "year": 175, "authority": "Ibn Sa'd; Ibn Hajar, Taqrib", "source": "Tahdhib al-Kamal 24/261 (editor's note from al-Tabaqat 7/517); Taqrib 5684" }
+  ],
+  "region": "Egypt",
+  "origin": "Qarqashandah, Egypt",
+  "tabaqa": 7,
+  "taqrib": {
+    "ar": "ثقة ثبت فقيه إمام مشهور",
+    "en": "Reliable and firm, a jurist and a renowned imam.",
+    "number": "5684",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Jurist and mufti of Egypt in his time",
+  "rumuz": ["ع"],
+  "external": { "shamela": "5348", "tahdhibKamal": "24/255 (no. 5016)" },
+  "teachers": [
+    { "id": "yazid-ibn-abi-habib", "name": "Yazid ibn Abi Habib", "nameAr": "يزيد بن أبي حبيب", "sigla": ["ع"], "source": "Tahdhib al-Kamal 24/259" },
+    { "id": "yahya-ibn-said", "name": "Yahya ibn Sa'id al-Ansari", "nameAr": "يحيى بن سعيد الأنصاري", "sigla": ["خ", "م", "ت", "س"], "source": "Tahdhib al-Kamal 24/259" },
+    { "name": "Uqayl ibn Khalid", "nameAr": "عقيل بن خالد", "sigla": ["ع"], "source": "Tahdhib al-Kamal 24/258" },
+    { "name": "Ja'far ibn Rabi'ah", "nameAr": "جعفر بن ربيعة", "sigla": ["ع"], "source": "Tahdhib al-Kamal 24/257" },
+    { "name": "Ata' ibn Abi Rabah", "nameAr": "عطاء بن أبي رباح", "sigla": ["م", "٤"], "source": "Tahdhib al-Kamal 24/258" },
+    { "name": "Yunus ibn Yazid al-Ayli", "nameAr": "يونس بن يزيد الأيلي", "sigla": ["خ", "م"], "source": "Tahdhib al-Kamal 24/259" },
+    { "name": "Ibn Jurayj", "nameAr": "عبد الملك بن جريج", "sigla": ["م"], "source": "Tahdhib al-Kamal 24/258" }
+  ],
+  "students": [
+    { "id": "amr-ibn-khalid", "name": "Amr ibn Khalid al-Harrani", "nameAr": "عمرو بن خالد الحراني", "sigla": ["خ"], "source": "Tahdhib al-Kamal 24/260" },
+    { "name": "Qutaybah ibn Sa'id al-Balkhi", "nameAr": "قتيبة بن سعيد", "sigla": ["خ", "م", "د", "ت", "س"], "source": "Tahdhib al-Kamal 24/260" },
+    { "name": "Muhammad ibn Rumh ibn al-Muhajir", "nameAr": "محمد بن رمح بن المهاجر", "sigla": ["م", "ق"], "source": "Tahdhib al-Kamal 24/260" },
+    { "name": "Abdullah ibn Yusuf al-Tinnisi", "nameAr": "عبد الله بن يوسف التنيسي", "sigla": ["خ", "س"], "source": "Tahdhib al-Kamal 24/260" },
+    { "name": "Adam ibn Abi Iyas", "nameAr": "آدم بن أبي إياس", "sigla": ["خ", "س"], "source": "Tahdhib al-Kamal 24/259" },
+    { "name": "Isa ibn Hammad Zughbah, the last reliable narrator from him", "nameAr": "عيسى بن حماد زغبة", "sigla": ["م", "د", "س", "ق"], "source": "Tahdhib al-Kamal 24/260" },
+    { "name": "Abu Salih Abdullah ibn Salih, his scribe", "nameAr": "عبد الله بن صالح كاتب الليث", "source": "Shamela narrator record 5348 (relations field)" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Ahmad ibn Sa'd al-Zuhri",
+      "ar": "ثقة ثبت",
+      "en": "Reliable and firm.",
+      "source": "Tahdhib al-Kamal 24/261",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Talib; al-Fadl ibn Ziyad",
+      "ar": "الليث بن سعد كثير العلم صحيح الحديث",
+      "en": "Al-Layth ibn Sa'd: much knowledge, sound hadith.",
+      "source": "al-Jarh wa al-Ta'dil 7/179; Tahdhib al-Kamal 24/261",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "al-Athram",
+      "ar": "ما في هؤلاء المصريين أثبت من الليث بن سعد، لا عمرو بن الحارث ولا أحد",
+      "en": "Among these Egyptians none is firmer than al-Layth ibn Sa'd, not Amr ibn al-Harith nor anyone.",
+      "source": "al-Jarh wa al-Ta'dil 7/179; Tahdhib al-Kamal 24/261",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Dawud, from Muhammad ibn al-Husayn",
+      "ar": "الليث ثقة، ولكن في أخذه سهولة",
+      "en": "Al-Layth is reliable, but there was laxity in how he took hadith.",
+      "source": "Tahdhib al-Kamal 24/261; Tahdhib al-Tahdhib 3/481",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ishaq ibn Mansur; Ibn Abi Khaythamah",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 24/261",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 24/261; Tahdhib al-Tahdhib 3/481",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Abu Zur'ah al-Razi",
+      "criticDied": 264,
+      "ar": "صدوق. قلت: يحتج بحديثه؟ قال: إي لعمري",
+      "en": "Truthful. \"Is his hadith used as proof?\" \"Yes, by my life.\"",
+      "source": "al-Jarh wa al-Ta'dil 7/179",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "مصري، فهمي، ثقة",
+      "en": "An Egyptian of Fahm, reliable.",
+      "source": "Tahdhib al-Kamal 24/261",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان قد استقل بالفتوى في زمانه، وكان ثقة كثير الحديث صحيحه، وكان سريا من الرجال نبيلا سخيا",
+      "en": "He alone carried the giving of legal opinions in his time; he was reliable, prolific, sound in hadith, a man of standing, noble and generous.",
+      "source": "Tahdhib al-Kamal 24/261 (al-Tabaqat 7/517)",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Ya'qub ibn Shaybah",
+      "criticDied": 262,
+      "ar": "الليث ثقة، وهو دونهم في الزهري، يعني دون مالك ومعمر وابن عيينة، وفي حديثه عن الزهري بعض الاضطراب",
+      "en": "Al-Layth is reliable, but below them in al-Zuhri, that is below Malik, Ma'mar and Ibn Uyaynah, and his hadith from al-Zuhri has some inconsistency.",
+      "source": "Tahdhib al-Kamal 24/261",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "al-Shafi'i",
+      "criticDied": 204,
+      "via": "the nephew of Ibn Wahb",
+      "ar": "الليث أفقه من مالك إلا أن أصحابه لم يقوموا به",
+      "en": "Al-Layth is a greater jurist than Malik, except that his followers did not carry his work forward.",
+      "source": "Tahdhib al-Tahdhib 3/481; the same judgement from Yahya ibn Bukayr in al-Jarh wa al-Ta'dil 7/179 (\"but the fortune was Malik's\")",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Abu Ya'la al-Khalili",
+      "criticDied": 446,
+      "ar": "كان إمام وقته بلا مدافعة",
+      "en": "He was the imam of his age, undisputed.",
+      "source": "Tahdhib al-Tahdhib 3/481",
+      "url": "https://shamela.ws/narrator/5348"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة ثبت فقيه إمام مشهور",
+      "en": "Reliable and firm, a jurist and a renowned imam.",
+      "source": "Taqrib al-Tahdhib, entry 5684",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_اللام"
+    }
+  ],
+  "dhahabi": {
+    "ar": "ثبت من نظراء مالك، قيل: كان مغله في العام ثمانين ألف دينار فما وجبت عليه زكاة",
+    "en": "Firm, a peer of Malik; it is said his yearly income was eighty thousand dinars and zakat never fell due on him.",
+    "source": "al-Kashif 4/73"
+  },
+  "flags": [
+    { "label": "Laxity in taking hadith; al-Zuhri material", "detail": "Ahmad: \"reliable, but there was laxity in how he took\"; Ya'qub ibn Shaybah: below Malik, Ma'mar and Ibn Uyaynah in al-Zuhri with some inconsistency; al-Fallas: his hearing from al-Zuhri was by reading (qira'ah). None of this touches his hadith from Yazid ibn Abi Habib, whom he called \"our master and our scholar\"." }
+  ],
+  "bio": "The imam of Egypt in the second century, a peer of Malik in rank and, in al-Shafi'i's judgement, his superior in jurisprudence though without followers to carry his school on. Born in 94 at Qarqashandah, he travelled to Makkah and Madinah in 113 and heard Ata', Nafi' and al-Zuhri, carried the fatwa of Egypt alone in his generation, and was famous for immense wealth given away as fast as it came: when Malik sent him a gift of Madinan produce he sent back a thousand dinars (al-Nawawi, from Qutaybah). Yazid ibn Abi Habib was his teacher and his link to the earlier Egyptian school; Qutaybah, Amr ibn Khalid and Ibn Rumh carried his hadith to the compilers. He died in Sha'ban 175.",
+  "provenance": [
+    { "field": "nameAr, mawla, origin, born, teachers, students, verdicts", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 24/255–261 (no. 5016), Shamela book 3722 pages 12767–12773" },
+    { "field": "taqrib, tabaqa, rumuz, died", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 5684" },
+    { "field": "verdicts (al-Shafi'i, al-Khalili, Ya'qub ibn Shaybah)", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 3/481, as collected on the Shamela narrator record 5348" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 4/73" },
+    { "field": "mufti of Egypt; the thousand dinars", "layer": "modern", "ref": "al-Nawawi, al-Minhaj Sharh Sahih Muslim 2/12" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 5684 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_اللام" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/5348" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 24/255 (Shamela)", "url": "https://shamela.ws/book/3722/12767" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 24/259–260, teachers and students (Shamela)", "url": "https://shamela.ws/book/3722/12771" },
+    { "label": "al-Nawawi, al-Minhaj Sharh Sahih Muslim 2/12 (Shamela)", "url": "https://shamela.ws/book/1711/256" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

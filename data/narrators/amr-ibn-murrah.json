@@ -1,0 +1,163 @@
+{
+  "id": "amr-ibn-murrah",
+  "name": "Amr ibn Murrah al-Jamali",
+  "nameAr": "عمرو بن مرة بن عبد الله بن طارق الجملي المرادي، أبو عبد الله، الكوفي الأعمى",
+  "short": "Amr ibn Murrah",
+  "shortAr": "عمرو بن مرة",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "kunyaVariants": [
+    "Abu Abd al-Rahman"
+  ],
+  "nisbas": [
+    {
+      "ar": "الجملي",
+      "en": "al-Jamali",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المرادي",
+      "en": "al-Muradi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Murrah",
+  "orthography": {
+    "spelled": "al-Jamali, with fathah on the jim and the mim",
+    "source": "Taqrib al-Tahdhib, entry 5112"
+  },
+  "died": 118,
+  "diedNote": "118 AH, or earlier (Taqrib)",
+  "region": "Kufa",
+  "tabaqa": 5,
+  "taqrib": {
+    "ar": "ثقة عابد، كان لا يدلس، ورمي بالإرجاء",
+    "en": "Reliable, devout; he did not practise tadlis; accused of holding irja'.",
+    "number": "5112",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/4894"
+  },
+  "teachers": [
+    {
+      "id": "abu-wail",
+      "name": "Abu Wa'il Shaqiq ibn Salamah",
+      "nameAr": "أبو وائل",
+      "source": "Sahih al-Bukhari 3126, 2810"
+    }
+  ],
+  "students": [
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj",
+      "nameAr": "شعبة",
+      "source": "Sahih al-Bukhari 3126, 2810"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق ثقة، كان يرى الإرجاء",
+      "en": "Truthful, reliable; he held the view of irja'.",
+      "source": "Tahdhib al-Kamal 22/232",
+      "url": "https://shamela.ws/narrator/4894"
+    },
+    {
+      "critic": "Mis'ar ibn Kidam",
+      "criticDied": 155,
+      "via": "Sufyan ibn Uyaynah",
+      "ar": "ما كان أفضل من عمرو بن مرة",
+      "en": "Asked who was the most virtuous person he had met: none was more virtuous than Amr ibn Murrah.",
+      "source": "Tahdhib al-Kamal 22/232",
+      "url": "https://shamela.ws/narrator/4894"
+    },
+    {
+      "critic": "Shu'bah ibn al-Hajjaj",
+      "criticDied": 160,
+      "ar": "كان لا يدلس",
+      "en": "He did not practise tadlis.",
+      "source": "Taqrib al-Tahdhib, entry 5112; Hady al-Sari, ch. 9, letter ayn",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_العين"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "أحد الأثبات من صغار التابعين، متفق على توثيقه إلا أن بعضهم تكلم فيه لأنه كان يرى الإرجاء … وقد احتج به الجماعة",
+      "en": "One of the firm narrators among the younger Successors, agreed to be reliable, though some criticised him for holding irja'; all six relied on him.",
+      "source": "Hady al-Sari, ch. 9, letter ayn",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_العين"
+    }
+  ],
+  "dhahabi": {
+    "ar": "قال أبو حاتم: ثقة يرى الإرجاء",
+    "en": "Abu Hatim: reliable; he held irja'.",
+    "source": "al-Kashif 3/536"
+  },
+  "flags": [
+    {
+      "label": "Irja' attributed to him",
+      "detail": "The Murji' view on faith and works was imputed to him; Ibn Hajar notes that this is the only reason some spoke against him and that his reliability is agreed upon. It does not affect this hadith, which concerns intention in fighting."
+    },
+    {
+      "label": "Named only “Amr” in hadith 3126 and 2810",
+      "detail": "The full name Amr ibn Murrah appears in Muslim 1904a, Sunan Abi Dawud 2517 and Sunan al-Nasa'i 3136 on the same route from Shu'bah."
+    }
+  ],
+  "bio": "A blind Kufan Successor of the fifth generation, counted among the firmest of his rank and remembered by his contemporaries for his piety. Shu'bah vouched that he did not use ambiguous formulas, so his “I heard Abu Wa'il” in hadith 3126 is characteristic. The one reservation about him, the accusation of irja', is doctrinal rather than a question of accuracy.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5112"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5112"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 22/232"
+    },
+    {
+      "field": "verdicts",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 9, letter ayn"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 3/536"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 5112 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمرو_بفتح_أوله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/4894"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 9, letter ayn (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_العين"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "slug": "with-those-you-love",
+  "title": "You are with those you love",
+  "titleAr": "أنت مع من أحببت",
+  "takeaway": "A man asks the Prophet ﷺ when the Hour will come and is asked instead what he has prepared for it. He has nothing to offer but love of God and His Messenger, and is told that he will be with those he loves. Anas says nothing made the Companions happier, and adds his own hope: to be with the Prophet, Abu Bakr and Umar through love, even without their deeds.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: al-Bukhari records Anas's report in four places and Muslim in six routes, one of them this same Hammad ibn Zayd–Thabit chain; the closing sentence is also reported from Ibn Mas'ud, Abu Musa, Abu Dharr and others."
+  },
+  "primary": {
+    "cite": "bukhari:3688",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "3688",
+    "bookChapter": "Book of the Merits of the Companions, chapter on the merits of Umar ibn al-Khattab Abu Hafs al-Qurashi al-Adawi",
+    "chain": [
+      "al-bukhari",
+      "sulayman-ibn-harb",
+      "hammad-ibn-zayd",
+      "thabit-al-bunani",
+      "anas-ibn-malik"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "anas-ibn-malik",
+        "sighaAr": "أن رجلا سأل النبي ﷺ",
+        "sighaEn": "that a man asked the Prophet ﷺ",
+        "kind": "an",
+        "note": "Anas reports an exchange he witnessed: 'we never rejoiced at anything as we rejoiced at the Prophet's words'."
+      },
+      {
+        "from": "anas-ibn-malik",
+        "to": "thabit-al-bunani",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "Thabit kept Anas's company for some forty years (Tahdhib al-Tahdhib); Abu Hatim ranks him second only to al-Zuhri among Anas's students."
+      },
+      {
+        "from": "thabit-al-bunani",
+        "to": "hammad-ibn-zayd",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "In Muslim 2639d Hammad says 'Thabit al-Bunani narrated to us'."
+      },
+      {
+        "from": "hammad-ibn-zayd",
+        "to": "sulayman-ibn-harb",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "sulayman-ibn-harb",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ رضى الله عنه",
+    "matnAr": "أَنَّ رَجُلاً، سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنِ السَّاعَةِ، فَقَالَ مَتَى السَّاعَةُ قَالَ وَمَاذَا أَعْدَدْتَ لَهَا. قَالَ لاَ شَىْءَ إِلاَّ أَنِّي أُحِبُّ اللَّهَ وَرَسُولَهُ صلى الله عليه وسلم. فَقَالَ أَنْتَ مَعَ مَنْ أَحْبَبْتَ. قَالَ أَنَسٌ فَمَا فَرِحْنَا بِشَىْءٍ فَرَحَنَا بِقَوْلِ النَّبِيِّ صلى الله عليه وسلم أَنْتَ مَعَ مَنْ أَحْبَبْتَ. قَالَ أَنَسٌ فَأَنَا أُحِبُّ النَّبِيَّ صلى الله عليه وسلم وَأَبَا بَكْرٍ وَعُمَرَ، وَأَرْجُو أَنْ أَكُونَ مَعَهُمْ بِحُبِّي إِيَّاهُمْ، وَإِنْ لَمْ أَعْمَلْ بِمِثْلِ أَعْمَالِهِمْ",
+    "matnEn": "A man asked the Prophet ﷺ about the Hour: “When will the Hour come?” He said: “And what have you prepared for it?” He said: “Nothing, except that I love God and His Messenger ﷺ.” He said: “You are with those you love.” Anas said: We never rejoiced at anything as we rejoiced at the Prophet's ﷺ words, “You are with those you love.” Anas said: So I love the Prophet ﷺ, Abu Bakr and Umar, and I hope to be with them because of my love for them, even though I have not done deeds like theirs.",
+    "url": "https://sunnah.com/bukhari:3688"
+  },
+  "also": [
+    {
+      "cite": "bukhari:6167",
+      "label": "Sahih al-Bukhari 6167",
+      "note": "Book of Manners, chapter on saying 'woe to you' (waylaka)",
+      "url": "https://sunnah.com/bukhari:6167",
+      "chainNote": "Amr ibn Asim → Hammam → Qatadah → Anas; al-Bukhari adds that Shu'bah abridged it from Qatadah with 'I heard Anas'.",
+      "wordingNote": "'A man of the desert people came'; 'Woe to you, what have you prepared for it?'; 'You are with those you love'; the Companions ask 'and we too?' and are told 'yes'; then the saying about al-Mughira's servant-boy and the Hour."
+    },
+    {
+      "cite": "bukhari:6171",
+      "label": "Sahih al-Bukhari 6171",
+      "note": "Book of Manners, chapter on the sign of love for God",
+      "url": "https://sunnah.com/bukhari:6171",
+      "chainNote": "Abdan → his father → Shu'bah → Amr ibn Murrah → Salim ibn Abi al-Ja'd → Anas.",
+      "wordingNote": "'I have not prepared much prayer, fasting or charity, but I love God and His Messenger'."
+    },
+    {
+      "cite": "bukhari:7153",
+      "label": "Sahih al-Bukhari 7153",
+      "note": "Book of Judgements, chapter on giving judgement and legal opinion on the road",
+      "url": "https://sunnah.com/bukhari:7153",
+      "chainNote": "Uthman ibn Abi Shaybah → Jarir ibn Abd al-Hamid → Mansur → Salim ibn Abi al-Ja'd → Anas, with 'Anas narrated to us'.",
+      "wordingNote": "Anas and the Prophet ﷺ are leaving the mosque when a man meets them at its entrance; 'the man seemed humbled'; 'I have not prepared much fasting, prayer or charity'."
+    },
+    {
+      "cite": "bukhari:6168",
+      "label": "Sahih al-Bukhari 6168–6170",
+      "note": "The sentence alone, 'a person is with whom he loves', from Ibn Mas'ud (6168, 6169) and Abu Musa (6170), via Abu Wa'il",
+      "url": "https://sunnah.com/bukhari:6168"
+    },
+    {
+      "cite": "muslim:2639a",
+      "label": "Sahih Muslim 2639a",
+      "note": "Book of Virtue, Good Manners and Joining of the Ties of Kinship",
+      "url": "https://sunnah.com/muslim:2639a",
+      "chainNote": "al-Qa'nabi → Malik → Ishaq ibn Abdullah ibn Abi Talhah → Anas; 2639b–c add Sufyan → al-Zuhri → Anas.",
+      "wordingNote": "'A Bedouin said to the Messenger of God: when is the Hour?' and the answer 'love of God and His Messenger'."
+    },
+    {
+      "cite": "muslim:2639d",
+      "label": "Sahih Muslim 2639d",
+      "note": "The same Hammad ibn Zayd–Thabit route",
+      "url": "https://sunnah.com/muslim:2639d",
+      "chainNote": "Abu al-Rabi' al-Ataki → Hammad ibn Zayd ('Thabit al-Bunani narrated to us') → Anas: shares al-Bukhari's chain from Hammad upward, so the two Sahihs meet two links above the Companion. 2639e has Ja'far ibn Sulayman → Thabit without Anas's closing words.",
+      "wordingNote": "'What have you prepared for the Hour?'; Anas: 'we never rejoiced, after Islam, with a joy greater than at the Prophet's words'."
+    },
+    {
+      "cite": "muslim:2639f",
+      "label": "Sahih Muslim 2639f",
+      "note": "Jarir → Mansur → Salim ibn Abi al-Ja'd → Anas, the route of Bukhari 7153; 2639g–h add Shu'bah → Amr ibn Murrah and Qatadah → Anas",
+      "url": "https://sunnah.com/muslim:2639f"
+    },
+    {
+      "cite": "muslim:2640a",
+      "label": "Sahih Muslim 2640",
+      "note": "Ibn Mas'ud: 'a person is with whom he loves'",
+      "url": "https://sunnah.com/muslim:2640a"
+    },
+    {
+      "cite": "tirmidhi:2385",
+      "label": "Jami' al-Tirmidhi 2385",
+      "note": "Book of Renunciation; al-Tirmidhi: sahih",
+      "url": "https://sunnah.com/tirmidhi:2385",
+      "chainNote": "Ali ibn Hujr → Isma'il ibn Ja'far → Humayd → Anas.",
+      "wordingNote": "The Prophet ﷺ rises to pray before answering; 'a person is with whom he loves, and you are with those you love'; 'I never saw the Muslims rejoice, after Islam, as they rejoiced at this'."
+    },
+    {
+      "cite": "tirmidhi:2387",
+      "label": "Jami' al-Tirmidhi 2387",
+      "note": "From Safwan ibn Assal; al-Tirmidhi: hasan sahih",
+      "url": "https://sunnah.com/tirmidhi:2387",
+      "wordingNote": "A loud-voiced Bedouin calls 'O Muhammad, a man loves a people but has not caught up with them'; 'a person is with whom he loves'."
+    },
+    {
+      "cite": "abudawud:5127",
+      "label": "Sunan Abi Dawud 5127",
+      "note": "Book of Manners",
+      "url": "https://sunnah.com/abudawud:5127",
+      "chainNote": "Wahb ibn Baqiyyah → Khalid → Yunus ibn Ubayd → Thabit → Anas: another route to Thabit.",
+      "wordingNote": "Anas: 'I saw the Companions rejoice at something as I never saw them rejoice at anything'; the question is about loving a man for his good deeds; 'a person is with whom he loves'."
+    },
+    {
+      "cite": "abudawud:5126",
+      "label": "Sunan Abi Dawud 5126",
+      "note": "From Abu Dharr: 'you, Abu Dharr, are with those you love'",
+      "url": "https://sunnah.com/abudawud:5126"
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 3688, 6167, 6171, 7153",
+      "reason": "Recorded Anas's report in four places through four different students of Anas (Thabit, Qatadah, Salim ibn Abi al-Ja'd twice), placing this short, high route under the merits of Umar because Anas names Abu Bakr and Umar in it.",
+      "url": "https://sunnah.com/bukhari:3688"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 2639",
+      "reason": "Included in the Sahih in the Book of Virtue through eight routes to Anas, one of them Hammad ibn Zayd from Thabit, the chain al-Bukhari uses here.",
+      "url": "https://sunnah.com/muslim:2639a"
+    },
+    {
+      "scholar": "al-Tirmidhi",
+      "died": 279,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "gradeAr": "هذا حديث صحيح",
+      "source": "Jami' al-Tirmidhi 2385",
+      "quoteAr": "قال أبو عيسى: هذا حديث صحيح",
+      "reason": "Graded Humayd's route from Anas sound; of Safwan ibn Assal's version of the sentence (2387) he says hasan sahih.",
+      "url": "https://sunnah.com/tirmidhi:2385"
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "Who asked? Ibn Hajar identifies the questioner as Dhu al-Khuwaysirah al-Yamani, the Bedouin who urinated in the mosque, on the strength of al-Daraqutni's report from Abu Mas'ud in which that Bedouin asks 'O Muhammad, when is the Hour?' and is answered 'and what have you prepared for it?', and of Abu Musa al-Madini's Dala'il Ma'rifat al-Sahaba. Ibn Bashkuwal's suggestion that it was Abu Musa or Abu Dharr is a confusion: their questions were about a man who loves a people, this man's was about the Hour.",
+      "source": "Ibn Hajar, Fath al-Bari, on 3688 (merits of Umar) and on 6167 (Book of Manners)"
+    },
+    {
+      "kind": "scholar",
+      "text": "Why under Umar's merits: the report says nothing about Umar except in Anas's closing words, and Ibn Hajar says that is the point of its placement, Anas having named Abu Bakr and Umar together with the Prophet ﷺ as the objects of his love.",
+      "source": "Ibn Hajar, Fath al-Bari, on 3688"
+    },
+    {
+      "kind": "scholar",
+      "text": "'The two Hammads': Hammad ibn Zayd and Hammad ibn Salamah, Basrans of one generation, both students of Thabit. Al-Bukhari narrates from Hammad ibn Zayd in the body of the Sahih but cites Hammad ibn Salamah only in suspended reports: the Taqrib marks the first ع and the second خت م ٤. Here Muslim too (2639d) takes Thabit's hadith through Hammad ibn Zayd; the Hammad ibn Salamah route Ibn Hajar cites from Muslim reads 'when will the Hour come?'.",
+      "source": "Ibn Hajar, Taqrib al-Tahdhib, entries 1498 and 1499; Fath al-Bari on 6167"
+    },
+    {
+      "kind": "scholar",
+      "text": "Thabit and Anas: Thabit said 'I kept Anas's company for forty years', and Abu Hatim ranks the students of Anas 'al-Zuhri, then Thabit, then Qatadah'. The bare 'Thabit' in the chain is therefore read as Thabit ibn Aslam al-Bunani without hesitation, though other Successors of that name narrate from Anas.",
+      "source": "Ibn Hajar, Tahdhib al-Tahdhib, entry on Thabit al-Bunani (quoting al-Bukhari's al-Awsat and Abu Hatim)"
+    },
+    {
+      "kind": "scholar",
+      "text": "Ages fall step by step down the chain: Anas lived past a hundred (he died in 93), Thabit died at eighty-six, Hammad at eighty-one, Sulayman at eighty, al-Bukhari at sixty-two. Each narrator was older at death than the one who heard from him.",
+      "source": "Ibn Hajar, Taqrib al-Tahdhib, entries 810, 1498, 2545; the teacher's class notes (hadith 6)"
+    },
+    {
+      "kind": "scholar",
+      "text": "The names ascend the alphabet as the chain descends in time: Anas (alif), Thabit (tha), Hammad (ha), Sulayman (sin), Muhammad al-Bukhari (mim). Looked up in any alphabetical rijal work, the five fall in chain order.",
+      "source": "The teacher's class notes (hadith 6); checked against the names"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "The points below are drawn from Ibn Hajar's commentary on this hadith in the merits of Umar and, where he defers the discussion, on its parallels in the Book of Manners. The teacher's longer list of lessons is not reproduced until a reviewer has checked it against the commentaries.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari, on 3688 (merits of Umar)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The questioner is Dhu al-Khuwaysirah al-Yamani, who urinated in the mosque; the claim that he was Abu Musa or Abu Dharr confuses two different questions. The full commentary is deferred to the Book of Manners, and the hadith is placed here for Anas's mention of Abu Bakr and Umar, whom he paired with the Prophet ﷺ in his love.",
+        "url": "https://www.islamweb.net/ar/library/content/52/6702/"
+      },
+      {
+        "work": "Fath al-Bari, on 6167 (Book of Manners)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "'You are with those you love' means joined to them so as to be of their company; the objection that their ranks differ is answered by noting that being 'with' requires sharing in some respect, not in every respect, so entering Paradise together suffices even though degrees differ. The Companions' question 'and we too?' and the answer 'yes' confirm this reading, since the Companions' own ranks differ.",
+        "url": "https://www.islamweb.net/ar/library/content/52/11278/"
+      },
+      {
+        "work": "Fath al-Bari, on 6167 (Book of Manners)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Kirmani notes that the exception 'except that I love God and His Messenger' may be read as connected or disconnected. The saying about al-Mughira's servant and the Hour is discussed at length, with Qadi Iyad's view that the Prophet ﷺ meant the end of that generation, not of the world.",
+        "url": "https://www.islamweb.net/ar/library/content/52/11278/"
+      },
+      {
+        "work": "Fath al-Bari, on 6168–6170 (Book of Manners)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Abu Nu'aym's Kitab al-Muhibbin is cited for further routes of 'a person is with whom he loves' from Ibn Mas'ud; the chapter heading 'the sign of love for God' is read as the servant's love for God, shown by following the Messenger (Al Imran 3:31).",
+        "url": "https://www.islamweb.net/ar/library/content/52/11280/"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Companionship in Paradise does not require equality of rank: those who love the righteous are joined to their company even where their degrees differ.",
+        "source": "Ibn Hajar, Fath al-Bari, on 6167"
+      },
+      {
+        "text": "A ruling addressed to one person applies to others in his position: the Companions asked 'and we too?' and were told 'yes'.",
+        "source": "Ibn Hajar, Fath al-Bari, on 6167"
+      },
+      {
+        "text": "Love of Abu Bakr and Umar is part of love of the Prophet ﷺ, which is why al-Bukhari files Anas's words among the merits of Umar.",
+        "source": "Ibn Hajar, Fath al-Bari, on 3688"
+      }
+    ]
+  },
+  "context": "The Bedouins who came to the Prophet ﷺ often asked when the Hour would come; Muslim records from A'isha that he would look at the youngest of them and say that if that boy lived to old age their 'hour' would have come, meaning the end of their generation. Ibn Hajar reads the saying about al-Mughira's servant in 6167 the same way. The man's answer here, love without much in the way of works, and the Prophet's ﷺ reply became one of the most widely transmitted sayings in the corpus, reported in the Sahihayn from Anas, Ibn Mas'ud, Abu Musa and Abu Dharr.",
+  "vocabulary": [
+    {
+      "term": "al-Sa'a",
+      "ar": "الساعة",
+      "meaning": "The Hour: the end of the world and the resurrection; in some reports to the Bedouins, the end of their own generation."
+    },
+    {
+      "term": "Ma'iyya",
+      "ar": "المعية",
+      "meaning": "'Being with': Ibn Hajar's term for the companionship promised here, which he says requires sharing in some respect, not equality in every respect."
+    },
+    {
+      "term": "Ruba'i",
+      "ar": "رباعي",
+      "meaning": "A chain with four narrators between the compiler and the Prophet ﷺ, as here; among the shortest in the Sahih."
+    },
+    {
+      "term": "Musalsal bil-Basriyyin",
+      "ar": "مسلسل بالبصريين",
+      "meaning": "A chain in which every narrator is from one city, here Basra: Anas settled there, Thabit, Hammad and Sulayman were born there."
+    },
+    {
+      "term": "Muttafaq alayh",
+      "ar": "متفق عليه",
+      "meaning": "Recorded by both al-Bukhari and Muslim from the same Companion, as this report is from Anas."
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Short is a feature",
+      "body": "Four people stand between al-Bukhari and the Prophet ﷺ. Every link is a man who lived long enough to meet the next, and three of them lived to eighty or beyond. A short chain means fewer places for error to enter, and the rijal works record ages and death dates precisely so that this can be checked."
+    },
+    {
+      "title": "One city, four generations",
+      "body": "Anas settled in Basra; Thabit sat with him there for forty years; Hammad learned from Thabit; Sulayman sat with Hammad for nineteen years. When every narrator lived in the same place, the meetings the chain asserts are the ordinary meetings of a single school, and the record of who studied with whom confirms them."
+    },
+    {
+      "title": "Naming the unnamed",
+      "body": "The matn says 'a man'. Ibn Hajar names him by laying parallel reports side by side: al-Daraqutni's Bedouin who asked the same question in the same words, and the earlier report of the Bedouin who urinated in the mosque. He also shows where a predecessor went wrong, confusing a question about the Hour with a question about loving a people. The method is comparison, not guesswork."
+    },
+    {
+      "title": "The same report, many doors",
+      "body": "Al-Bukhari gives Anas's hadith four times through four students of Anas, each under a chapter it serves: Umar's merits, the word 'woe to you', the sign of love for God, giving rulings on the road. Muslim adds the very chain al-Bukhari uses here. The repetition is not redundancy; it is how the two compilers show the report's independent routes."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 6,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 3688 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:3688"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari, merits of Umar (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/6702/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari, Book of Manners, chapter on 'woe to you' (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/11278/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari, Book of Manners, chapter on the sign of love for God (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/11280/"
+    },
+    {
+      "label": "Sahih Muslim 2639 (sunnah.com)",
+      "url": "https://sunnah.com/muslim:2639a"
+    },
+    {
+      "label": "Jami' al-Tirmidhi 2385 (sunnah.com)",
+      "url": "https://sunnah.com/tirmidhi:2385"
+    },
+    {
+      "label": "Taqrib al-Tahdhib, entries 1498–1499 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حكيم_بضم_أوله_وهم_أربعة"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, entry on Thabit al-Bunani (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الثاء"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

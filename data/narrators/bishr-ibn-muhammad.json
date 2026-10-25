@@ -1,0 +1,113 @@
+{
+  "id": "bishr-ibn-muhammad",
+  "name": "Bishr ibn Muhammad al-Sakhtiyani",
+  "nameAr": "بشر بن محمد السختياني المروزي",
+  "short": "Bishr ibn Muhammad",
+  "shortAr": "بشر بن محمد",
+  "kunya": "Abu Muhammad",
+  "kunyaAr": "أبو محمد",
+  "nisbas": [
+    {
+      "ar": "السختياني",
+      "en": "al-Sakhtiyani, the leather-dealer",
+      "kind": "other"
+    },
+    {
+      "ar": "المروزي",
+      "en": "al-Marwazi, of Marw",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Muhammad",
+  "died": 224,
+  "region": "Marw",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "صدوق رمي بالإرجاء",
+    "en": "Truthful; accused of holding the Murji'a view on faith.",
+    "number": "701",
+    "rank": 4
+  },
+  "band": "saduq",
+  "role": "Teacher of al-Bukhari; used by none of the other five compilers",
+  "rumuz": [
+    "خ"
+  ],
+  "external": {
+    "shamela": "941"
+  },
+  "teachers": [
+    {
+      "id": "abdullah-ibn-al-mubarak",
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "عبد الله بن المبارك",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-bukhari",
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "ذكره في الثقات وقال: كان مرجئا",
+      "en": "Listed him in al-Thiqat and said: he was a Murji'.",
+      "source": "Tahdhib al-Kamal 4/145; Tahdhib al-Tahdhib 1/231",
+      "url": "https://shamela.ws/narrator/941"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Accused of irja'",
+      "detail": "The only note against him is theological, not a question of memory or honesty: Ibn Hibban says he held the Murji'a position that deeds are not part of faith. The critics did not treat it as affecting his transmission, and al-Bukhari used him in the Sahih, though only al-Bukhari of the six did."
+    },
+    {
+      "label": "Thin biography",
+      "detail": "The rijal works preserve little about him beyond his name, trade, teachers and death date. Ibn Hajar notes that Ibn Abi Hatim lists a Bishr ibn Muhammad separately from al-Sakhtiyani and that the two may be one person."
+    }
+  ],
+  "bio": "A leather-dealer of Marw who studied with Ibn al-Mubarak and whom al-Bukhari heard, probably in Khurasan. He appears in the Sahih as the second of al-Bukhari's two teachers for this hadith, carrying the version in which Ibn al-Mubarak joins Yunus and Ma'mar. His kunya Abu Muhammad matches his father's name.",
+  "provenance": [
+    {
+      "field": "name, kunya, trade, death date",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 941, drawing on Tahdhib al-Kamal 4/145 and Tahdhib al-Tahdhib 1/231"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 701 (Wikisource)"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chain of Sahih al-Bukhari 6"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 701 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الباء_الموحدة/ذكر_من_اسمه_بشر_بكسر_أوله_وسكون_المعجمة"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/941"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

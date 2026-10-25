@@ -1,0 +1,214 @@
+{
+  "id": "yunus-ibn-yazid",
+  "name": "Yunus ibn Yazid al-Ayli",
+  "nameAr": "يونس بن يزيد بن أبي النجاد الأيلي القرشي الأموي مولاهم",
+  "short": "Yunus ibn Yazid",
+  "shortAr": "يونس بن يزيد",
+  "kunya": "Abu Yazid",
+  "kunyaAr": "أبو يزيد",
+  "nisbas": [
+    {
+      "ar": "الأيلي",
+      "en": "al-Ayli, of Ayla on the Red Sea",
+      "kind": "geographic"
+    },
+    {
+      "ar": "الأموي مولاهم",
+      "en": "al-Umawi (as a client of the Umayyads)",
+      "kind": "tribal"
+    }
+  ],
+  "mawla": "the family of Abu Sufyan; Tahdhib al-Tahdhib names Mu'awiya ibn Abi Sufyan as his patron",
+  "fatherName": "Yazid",
+  "orthography": {
+    "spelled": "al-Ayli: fatha on the hamza, the ya unvowelled, then lam (الأَيْلي).",
+    "source": "Taqrib al-Tahdhib, entry 7919"
+  },
+  "died": 159,
+  "diedNote": "159 AH on the sounder view; also said 160",
+  "deathVariants": [
+    {
+      "year": 159,
+      "authority": "al-Bukhari and others; 'the correct view' (Taqrib)",
+      "source": "Taqrib al-Tahdhib 7919; Shamela narrator record 7248"
+    },
+    {
+      "year": 160,
+      "authority": "Muhammad ibn Aziz",
+      "source": "Shamela narrator record 7248"
+    },
+    {
+      "year": 152,
+      "authority": "Ibn Sa'd",
+      "source": "Shamela narrator record 7248"
+    }
+  ],
+  "region": "Ayla, then Egypt",
+  "residence": [
+    "Ayla",
+    "Egypt"
+  ],
+  "tabaqa": 7,
+  "taqrib": {
+    "ar": "ثقة إلا أن في روايته عن الزهري وهما قليلا وفي غير الزهري خطأ",
+    "en": "Reliable, except that there is a little error in his transmission from al-Zuhri, and mistakes in his transmission from others.",
+    "number": "7919",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "One of al-Zuhri's closest companions; al-Zuhri lodged with him at Ayla",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "7248"
+  },
+  "teachers": [
+    {
+      "id": "al-zuhri",
+      "name": "al-Zuhri (Ibn Shihab)",
+      "nameAr": "الزهري",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 6, 71; Sahih Muslim 1037, 2308"
+    }
+  ],
+  "students": [
+    {
+      "id": "abdullah-ibn-wahb",
+      "name": "Abdullah ibn Wahb",
+      "nameAr": "عبد الله بن وهب",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 71; Sahih Muslim 1037"
+    },
+    {
+      "id": "abdullah-ibn-al-mubarak",
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "عبد الله بن المبارك",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6, 3116"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Salih al-Misri",
+      "criticDied": 248,
+      "ar": "نحن لا نقدم في الزهري على يونس أحدا، وكان الزهري إذا قدم أيلة نزل على يونس، وإذا سار إلى المدينة زامله يونس",
+      "en": "We put no one ahead of Yunus in al-Zuhri's hadith. When al-Zuhri came to Ayla he lodged with Yunus, and when he travelled to Madinah Yunus rode with him.",
+      "source": "Tahdhib al-Kamal 32/551",
+      "url": "https://shamela.ws/narrator/7248"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "al-Fadl ibn Ziyad",
+      "ar": "يونس أكثر حديثا عن الزهري من عقيل، وهما ثقتان",
+      "en": "Yunus has more hadith from al-Zuhri than Uqayl, and both are reliable.",
+      "source": "Tahdhib al-Kamal 32/551",
+      "url": "https://shamela.ws/narrator/7248"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "al-Athram; Abu Zur'a al-Dimashqi",
+      "ar": "في حديث يونس عن الزهري منكرات… وعقيل أقل خطأ منه",
+      "en": "There are objectionable things in Yunus's hadith from al-Zuhri; Uqayl makes fewer mistakes than he. Al-Athram adds that Ahmad faulted him for turning al-Zuhri's own opinions into reports from Sa'id ibn al-Musayyib, because the way he wrote his notes ran the two together.",
+      "source": "Tahdhib al-Kamal 32/551",
+      "url": "https://shamela.ws/narrator/7248"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "via": "Ali ibn al-Madini",
+      "ar": "كان ابن المبارك يقول: كتابه صحيح. قال ابن مهدي: وأنا أقول: كتابه صحيح",
+      "en": "Ibn al-Mubarak used to say his book is sound, and I too say his book is sound.",
+      "source": "al-Jarh wa al-Ta'dil 9/247",
+      "url": "https://shamela.ws/narrator/7248"
+    },
+    {
+      "critic": "Abdullah ibn al-Mubarak",
+      "criticDied": 181,
+      "via": "Abdan",
+      "ar": "إني إذا نظرت في حديث معمر ويونس يعجبني كأنهما خرجا من مشكاة واحدة",
+      "en": "When I look at the hadith of Ma'mar and Yunus it delights me; it is as though they came out of a single lamp-niche.",
+      "source": "Tahdhib al-Kamal 32/551",
+      "url": "https://shamela.ws/narrator/7248"
+    },
+    {
+      "critic": "al-Ijli and al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 32/551",
+      "url": "https://shamela.ws/narrator/7248"
+    },
+    {
+      "critic": "Ibn Kharash",
+      "criticDied": 283,
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "Tahdhib al-Kamal 32/551",
+      "url": "https://shamela.ws/narrator/7248"
+    }
+  ],
+  "dhahabi": {
+    "ar": "أحد الأثبات",
+    "en": "One of the firm ones.",
+    "source": "al-Kashif 4/555"
+  },
+  "flags": [
+    {
+      "label": "Strongest from his written copy",
+      "detail": "Ahmad's reservations concern reports Yunus gave from memory, where al-Zuhri's opinions and Sa'id's reports ran together in his notes; Ibn al-Mubarak and Ibn Mahdi vouched for his book. His transmission from al-Zuhri, when carried by Ibn Wahb and Ibn al-Mubarak as here, is the material the two Sahihs rely on."
+    }
+  ],
+  "bio": "A client of the Umayyad house from the port of Ayla, where al-Zuhri would stay with him, and one of the most prolific transmitters of al-Zuhri's hadith. Ahmad ibn Salih would put no one ahead of him in al-Zuhri; Ahmad ibn Hanbel preferred Uqayl and Ma'mar for precision while still calling him reliable. He died in Upper Egypt in 159 AH. His kunya, Abu Yazid, matches his father's name, a pattern Ibn Hajar lists among the things a hadith student should notice.",
+  "provenance": [
+    {
+      "field": "name, kunya, patron, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 7248, drawing on Tahdhib al-Kamal 32/551 and Tahdhib al-Tahdhib 4/474"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz, orthography",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 7919 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 7248"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 4/555, as quoted on the Shamela record"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 6, 71, 3116 and Sahih Muslim 1037"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7919 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/7248"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

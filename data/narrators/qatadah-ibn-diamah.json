@@ -1,0 +1,207 @@
+{
+  "id": "qatadah-ibn-diamah",
+  "name": "Qatadah ibn Di'amah al-Sadusi",
+  "nameAr": "قتادة بن دعامة بن قتادة السدوسي، أبو الخطاب، البصري",
+  "short": "Qatadah",
+  "shortAr": "قتادة",
+  "kunya": "Abu al-Khattab",
+  "kunyaAr": "أبو الخطاب",
+  "nisbas": [
+    {
+      "ar": "السدوسي",
+      "en": "al-Sadusi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Di'amah",
+  "born": 60,
+  "bornNote": "60 or 61 AH (Shamela record); said to have been born blind (Taqrib)",
+  "died": 117,
+  "diedNote": "“a dozen-odd” years after 100 AH (Taqrib); 117 or 118 are given, Ibn Hibban: died at Wasit in 117",
+  "region": "Basra",
+  "tabaqa": 4,
+  "taqrib": {
+    "ar": "ثقة ثبت، يقال ولد أكمه، وهو رأس الطبقة الرابعة",
+    "en": "Reliable and firm; it is said he was born blind; he heads the fourth generation.",
+    "number": "5518",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/5183"
+  },
+  "teachers": [
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Sahih al-Bukhari 15 (second chain); Sunan al-Nasa'i 5013: “he heard Anas”"
+    }
+  ],
+  "students": [
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj",
+      "nameAr": "شعبة",
+      "source": "Sahih al-Bukhari 15 (second chain); Sahih Muslim 44b"
+    },
+    {
+      "id": "hammam-ibn-yahya",
+      "name": "Hammam ibn Yahya",
+      "nameAr": "همام بن يحيى",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 9, letter ha'"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Sirin",
+      "criticDied": 110,
+      "ar": "قتادة هو أحفظ الناس",
+      "en": "Qatadah has the best memory of anyone.",
+      "source": "Tahdhib al-Tahdhib 3/428",
+      "url": "https://shamela.ws/narrator/5183"
+    },
+    {
+      "critic": "Bukayr ibn Abdullah al-Muzani",
+      "criticDied": 108,
+      "ar": "ما رأيت الذي هو أحفظ منه ولا أجدر أن يؤدي الحديث كما سمعه",
+      "en": "I have not seen anyone with a better memory, or more apt to deliver a hadith exactly as he heard it.",
+      "source": "Tahdhib al-Tahdhib 3/428",
+      "url": "https://shamela.ws/narrator/5183"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Talib",
+      "ar": "كان قتادة أحفظ أهل البصرة، لا يسمع شيئا إلا حفظه",
+      "en": "Qatadah had the best memory in Basra; he heard nothing without memorising it.",
+      "source": "al-Jarh wa al-Ta'dil",
+      "url": "https://shamela.ws/narrator/5183"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة مأمونا حجة في الحديث، وكان يقول بشيء من القدر",
+      "en": "He was reliable, trustworthy, a proof in hadith; and he held something of the Qadari view.",
+      "source": "Tahdhib al-Tahdhib 3/428",
+      "url": "https://shamela.ws/narrator/5183"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "وكان مدلسا",
+      "en": "He practised tadlis.",
+      "source": "al-Thiqat 5/321",
+      "url": "https://shamela.ws/narrator/5183"
+    },
+    {
+      "critic": "Abu Dawud",
+      "criticDied": 275,
+      "ar": "لم يثبت عندنا عن قتادة القول بالقدر",
+      "en": "The Qadari view has not been established, to our satisfaction, of Qatadah.",
+      "source": "Hady al-Sari, ch. 9, letter qaf",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_القاف"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "أحد الأثبات المشهورين، كان يضرب به المثل في الحفظ، إلا أنه كان ربما دلس، وقال ابن معين: رمي بالقدر … احتج به الجماعة",
+      "en": "One of the famous firm narrators, proverbial for memory, except that he sometimes practised tadlis; Ibn Ma'in said he was accused of Qadar. All six relied on him.",
+      "source": "Hady al-Sari, ch. 9, letter qaf",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_القاف"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ",
+    "en": "The hadith master.",
+    "source": "al-Kashif 4/40"
+  },
+  "tadlis": {
+    "rank": 3,
+    "type": "Tadlis al-isnad; “famous for tadlis, so described by al-Nasa'i and others”",
+    "source": "Ibn Hajar, Tabaqat al-Mudallisin, no. 92",
+    "note": "Ibn Hajar places him in the third rank, whose “from” is not accepted unless hearing is stated. Two things neutralise this for hadith 15: Shu'bah, who transmits from him there, said he had spared his hearers the tadlis of al-A'mash, Abu Ishaq and Qatadah by taking from them only what they heard (Tabaqat al-Mudallisin, closing section), and al-Nasa'i 5013 has the same route with “Qatadah, that he heard Anas”."
+  },
+  "flags": [
+    {
+      "label": "Qadar accusation, disputed",
+      "detail": "Ibn Ma'in and Ibn Sa'd report that he held something of the Qadari view; Abu Dawud said it was not established. Ibn Hajar records both and notes that all six compilers relied on him (Hady al-Sari, ch. 9)."
+    },
+    {
+      "label": "Named only “Qatadah”",
+      "detail": "The name is unambiguous in the Sahih: the only other Qatadah among al-Bukhari's narrators is the Companion Qatadah ibn al-Nu'man, of a different generation."
+    }
+  ],
+  "bio": "The blind Basran scholar whom Ibn Hajar made the head of the fourth generation, proverbial for memory and a leading commentator on the Qur'an. He heard Anas and was the teacher of Shu'bah, Hammam and Sa'id ibn Abi Arubah among many others. His habit of tadlis is the one caution attached to his “from”, and in hadith 15 it is removed by the identity of his student and by al-Nasa'i's wording.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5518"
+    },
+    {
+      "field": "born",
+      "layer": "modern",
+      "ref": "Shamela narrator record 5183"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5518"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 3/428"
+    },
+    {
+      "field": "verdicts",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 9, letter qaf"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Tabaqat al-Mudallisin, third rank, no. 92"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 4/40"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 5518 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_القاف/ذكر_بقية_حرف_القاف_إلى_قيس"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/5183"
+    },
+    {
+      "label": "Ibn Hajar, Tabaqat al-Mudallisin, third rank, no. 92 (Shamela)",
+      "url": "https://shamela.ws/book/1186/41"
+    },
+    {
+      "label": "Ibn Hajar, Tabaqat al-Mudallisin, closing section on Shu'bah's rule (Shamela)",
+      "url": "https://shamela.ws/book/1186/57"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 9, letter qaf (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_القاف"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "abu-burdah-ibn-abi-musa",
+  "name": "Abu Burdah ibn Abi Musa al-Ash'ari",
+  "nameAr": "أبو بردة بن أبي موسى الأشعري، قيل اسمه عامر وقيل الحارث، الكوفي",
+  "short": "Abu Burdah",
+  "shortAr": "أبو بردة",
+  "kunya": "Abu Burdah",
+  "kunyaAr": "أبو بردة",
+  "nisbas": [
+    {
+      "ar": "الأشعري",
+      "en": "al-Ash'ari",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abdullah",
+  "died": 104,
+  "diedNote": "104 AH, other dates given; he had passed eighty (Taqrib). The Shamela record also lists 103 and 107",
+  "deathVariants": [
+    {
+      "year": 103,
+      "authority": "as given on the Shamela record (Tahdhib al-Kamal)"
+    },
+    {
+      "year": 107,
+      "authority": "as given on the Shamela record (Tahdhib al-Kamal)"
+    }
+  ],
+  "region": "Kufa",
+  "tabaqa": 3,
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "7952",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Judge of Kufa; son of the Companion Abu Musa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/3080"
+  },
+  "teachers": [
+    {
+      "id": "abu-musa-al-ashari",
+      "name": "Abu Musa al-Ash'ari (his father)",
+      "nameAr": "أبو موسى الأشعري",
+      "source": "Sahih al-Bukhari 2996"
+    }
+  ],
+  "students": [
+    {
+      "id": "ibrahim-al-saksaki",
+      "name": "Ibrahim ibn Abd al-Rahman al-Saksaki",
+      "nameAr": "إبراهيم السكسكي",
+      "source": "Sahih al-Bukhari 2996"
+    },
+    {
+      "id": "said-ibn-abi-burdah",
+      "name": "Sa'id ibn Abi Burdah (his son)",
+      "nameAr": "سعيد بن أبي بردة",
+      "source": "Sahih al-Bukhari 3038 (Shu'bah, from Sa'id ibn Abi Burdah, from his father, from Abu Musa); al-Tabarani's route cited in Fath al-Bari on 2996"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة كثير الحديث",
+      "en": "He was reliable, with many hadith.",
+      "source": "Tahdhib al-Tahdhib 4/484",
+      "url": "https://shamela.ws/narrator/3080"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "كوفي تابعي ثقة",
+      "en": "A Kufan Successor, reliable.",
+      "source": "Tahdhib al-Kamal 33/66",
+      "url": "https://shamela.ws/narrator/3080"
+    },
+    {
+      "critic": "Ibn Kharrash",
+      "criticDied": 283,
+      "ar": "صدوق، وقال مرة: ثقة",
+      "en": "Truthful; on another occasion: reliable.",
+      "source": "Tahdhib al-Tahdhib 4/484",
+      "url": "https://shamela.ws/narrator/3080"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 33/66",
+      "url": "https://shamela.ws/narrator/3080"
+    }
+  ],
+  "dhahabi": {
+    "ar": "من نبلاء العلماء",
+    "en": "One of the noble scholars.",
+    "source": "al-Kashif 5/12"
+  },
+  "bio": "Son of the Companion Abu Musa and judge in Kufa, known by his kunya; his given name is disputed between Amir and al-Harith. He narrated from his father and from senior Companions, and his sons Sa'id and Bilal and his grandson Burayd carried his hadith. In hadith 2996 it is his remark to a fasting travelling-companion that brings out his father's report.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7952"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7952"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 4/484; Tahdhib al-Kamal 33/66"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 5/12"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7952 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_الباء_الموحدة"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3080"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

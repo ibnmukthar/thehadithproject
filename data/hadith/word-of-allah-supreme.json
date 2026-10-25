@@ -1,0 +1,384 @@
+{
+  "slug": "word-of-allah-supreme",
+  "title": "Whoever fights so that the word of Allah is supreme",
+  "titleAr": "من قاتل لتكون كلمة الله هي العليا",
+  "takeaway": "A Bedouin listed the reasons men fight, for booty, for a name, to be seen, and asked which of them is fighting in Allah's cause. The Prophet ﷺ did not sort the list; he gave the one test that matters: fighting so that Allah's word is supreme. The reward of jihad belongs to that intention and to no other motive.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: al-Bukhari records it in four places and Muslim in four routes, and it is in all six books; al-Tirmidhi graded it hasan sahih."
+  },
+  "primary": {
+    "cite": "bukhari:3126",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "3126",
+    "bookChapter": "Book of the Obligatory Fifth (Fard al-Khums), chapter: Does fighting for booty diminish a man's reward?",
+    "chain": [
+      "al-bukhari",
+      "muhammad-ibn-bashshar",
+      "muhammad-ibn-jafar-ghundar",
+      "shuba-ibn-al-hajjaj",
+      "amr-ibn-murrah",
+      "abu-wail",
+      "abu-musa-al-ashari"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "abu-musa-al-ashari",
+        "sighaAr": "قال أعرابي للنبي ﷺ … فقال",
+        "sighaEn": "a Bedouin said to the Prophet ﷺ … and he said",
+        "kind": "qala",
+        "note": "Abu Musa reports an exchange he witnessed; the questioner is unnamed."
+      },
+      {
+        "from": "abu-musa-al-ashari",
+        "to": "abu-wail",
+        "sighaAr": "حدثنا أبو موسى الأشعري",
+        "sighaEn": "Abu Musa al-Ash'ari narrated to us",
+        "kind": "sama",
+        "note": "A mukhadram Successor from a Companion."
+      },
+      {
+        "from": "abu-wail",
+        "to": "amr-ibn-murrah",
+        "sighaAr": "سمعتُ أبا وائل",
+        "sighaEn": "I heard Abu Wa'il",
+        "kind": "sama"
+      },
+      {
+        "from": "amr-ibn-murrah",
+        "to": "shuba-ibn-al-hajjaj",
+        "sighaAr": "عن عمرو",
+        "sighaEn": "from Amr",
+        "kind": "an",
+        "note": "Al-Nasa'i 3136 has Shu'bah say “Amr ibn Murrah informed them”; Amr is one of the narrators Shu'bah said never used tadlis."
+      },
+      {
+        "from": "shuba-ibn-al-hajjaj",
+        "to": "muhammad-ibn-jafar-ghundar",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "muhammad-ibn-jafar-ghundar",
+        "to": "muhammad-ibn-bashshar",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "muhammad-ibn-bashshar",
+        "to": "al-bukhari",
+        "sighaAr": "حدثني",
+        "sighaEn": "narrated to me",
+        "kind": "sama",
+        "note": "The singular form, which Ibn Hajar reads as recording that al-Bukhari heard alone; the class notes have “narrated to us”."
+      }
+    ],
+    "isnadAr": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرٍو، قَالَ سَمِعْتُ أَبَا وَائِلٍ، قَالَ حَدَّثَنَا أَبُو مُوسَى الأَشْعَرِيُّ ـ رضى الله عنه ـ قَالَ",
+    "matnAr": "قَالَ أَعْرَابِيٌّ لِلنَّبِيِّ صلى الله عليه وسلم الرَّجُلُ يُقَاتِلُ لِلْمَغْنَمِ، وَالرَّجُلُ يُقَاتِلُ لِيُذْكَرَ، وَيُقَاتِلُ لِيُرَى مَكَانُهُ، مَنْ فِي سَبِيلِ اللَّهِ فَقَالَ مَنْ قَاتَلَ لِتَكُونَ كَلِمَةُ اللَّهِ هِيَ الْعُلْيَا فَهْوَ فِي سَبِيلِ اللَّهِ",
+    "matnEn": "A Bedouin said to the Prophet ﷺ: one man fights for booty, another fights to be talked about, another fights so that his standing is seen; which of them is in the cause of Allah? He said: Whoever fights so that the word of Allah is supreme, he is in the cause of Allah.",
+    "url": "https://sunnah.com/bukhari:3126"
+  },
+  "also": [
+    {
+      "cite": "bukhari:2810",
+      "label": "Sahih al-Bukhari 2810",
+      "note": "Book of Jihad, chapter: whoever fights so that the word of Allah is supreme",
+      "url": "https://sunnah.com/bukhari:2810",
+      "chainNote": "Sulayman ibn Harb, from Shu'bah: one narrator between al-Bukhari and Shu'bah instead of two. The shorter of al-Bukhari's two routes to Shu'bah.",
+      "wordingNote": "“A man came to the Prophet ﷺ”; the same three motives, with “fights for renown” (li-l-dhikr)."
+    },
+    {
+      "cite": "bukhari:123",
+      "label": "Sahih al-Bukhari 123",
+      "note": "Book of Knowledge, chapter: asking a question while standing before a seated scholar",
+      "url": "https://sunnah.com/bukhari:123",
+      "chainNote": "Uthman, from Jarir, from Mansur, from Abu Wa'il: a second student of Abu Wa'il.",
+      "wordingNote": "“What is fighting in the cause of Allah? One of us fights out of anger and out of partisan zeal.” The Prophet ﷺ raised his head to him only because the man was standing; the answer adds “the Mighty and Majestic”."
+    },
+    {
+      "cite": "bukhari:7458",
+      "label": "Sahih al-Bukhari 7458",
+      "note": "Book of Tawhid, chapter on “Our word has already gone forth to Our servants the messengers”",
+      "url": "https://sunnah.com/bukhari:7458",
+      "chainNote": "Muhammad ibn Kathir, from Sufyan, from al-A'mash, from Abu Wa'il: a third student of Abu Wa'il.",
+      "wordingNote": "Motives: partisan zeal, courage, show."
+    },
+    {
+      "cite": "muslim:1904a",
+      "label": "Sahih Muslim 1904a",
+      "note": "Book of Government",
+      "url": "https://sunnah.com/muslim:1904a",
+      "chainNote": "Muhammad ibn al-Muthanna and Ibn Bashshar (the wording is Ibn al-Muthanna's), from Muhammad ibn Ja'far, from Shu'bah, from Amr ibn Murrah, “I heard Abu Wa'il”, “Abu Musa al-Ash'ari narrated to us”: the same route as al-Bukhari 3126, with Ghundar named Muhammad ibn Ja'far and Amr given his full name.",
+      "wordingNote": "“A Bedouin man came to the Prophet ﷺ and said, O Messenger of Allah”; the answer has “so that the word of Allah is higher” (a'la)."
+    },
+    {
+      "cite": "muslim:1904b",
+      "label": "Sahih Muslim 1904b",
+      "url": "https://sunnah.com/muslim:1904b",
+      "chainNote": "Abu Bakr ibn Abi Shaybah, Ibn Numayr, Ishaq ibn Ibrahim and Muhammad ibn al-Ala', from Abu Mu'awiyah, from al-A'mash, from Shaqiq (Abu Wa'il by name), from Abu Musa.",
+      "wordingNote": "“The Messenger of Allah ﷺ was asked about a man who fights out of courage, out of partisan zeal and for show.”"
+    },
+    {
+      "cite": "muslim:1904c",
+      "label": "Sahih Muslim 1904c",
+      "url": "https://sunnah.com/muslim:1904c",
+      "chainNote": "Ishaq ibn Ibrahim, from Isa ibn Yunus, from al-A'mash, from Shaqiq, from Abu Musa.",
+      "wordingNote": "“We came to the Messenger of Allah ﷺ and said: a man among us fights out of courage…”, then as before."
+    },
+    {
+      "cite": "muslim:1904d",
+      "label": "Sahih Muslim 1904d",
+      "url": "https://sunnah.com/muslim:1904d",
+      "chainNote": "Ishaq ibn Ibrahim, from Jarir, from Mansur, from Abu Wa'il, from Abu Musa al-Ash'ari: the Mansur route of al-Bukhari 123.",
+      "wordingNote": "“Anger and partisan zeal”; he raised his head because the man was standing."
+    },
+    {
+      "cite": "abudawud:2517",
+      "label": "Sunan Abi Dawud 2517",
+      "note": "Book of Jihad, chapter: whoever fights so that the word of Allah is supreme",
+      "url": "https://sunnah.com/abudawud:2517",
+      "chainNote": "Hafs ibn Umar, from Shu'bah, from Amr ibn Murrah, from Abu Wa'il, from Abu Musa.",
+      "wordingNote": "Four motives: renown, praise, booty, display; “until the word of Allah is higher”; “the Mighty and Majestic”."
+    },
+    {
+      "cite": "abudawud:2518",
+      "label": "Sunan Abi Dawud 2518",
+      "url": "https://sunnah.com/abudawud:2518",
+      "chainNote": "Ali ibn Muslim, from Abu Dawud al-Tayalisi, from Shu'bah, from Amr: “I heard from Abu Wa'il a hadith that pleased me”, then its meaning."
+    },
+    {
+      "cite": "nasai:3136",
+      "label": "Sunan al-Nasa'i 3136",
+      "note": "Book of Jihad, chapter: whoever fights so that the word of Allah is supreme",
+      "url": "https://sunnah.com/nasai:3136",
+      "chainNote": "Isma'il ibn Mas'ud, from Khalid, from Shu'bah, “that Amr ibn Murrah informed them”, “I heard Abu Wa'il”, “Abu Musa al-Ash'ari narrated to us”.",
+      "wordingNote": "“A Bedouin came”; motives: renown, booty, display; “the Mighty and Majestic”."
+    },
+    {
+      "cite": "tirmidhi:1646",
+      "label": "Jami' al-Tirmidhi 1646",
+      "note": "Book of the Merits of Jihad, chapter on those who fight for show and for this world; al-Tirmidhi: hasan sahih",
+      "url": "https://sunnah.com/tirmidhi:1646",
+      "chainNote": "Hannad, from Abu Mu'awiyah, from al-A'mash, from Shaqiq ibn Salamah, from Abu Musa.",
+      "wordingNote": "“Was asked about a man who fights out of courage, partisan zeal and show.” Al-Tirmidhi adds that there is also a report from Umar on the subject."
+    },
+    {
+      "cite": "ibnmajah:2783",
+      "label": "Sunan Ibn Majah 2783",
+      "note": "Book of Jihad, chapter: intention in fighting",
+      "url": "https://sunnah.com/ibnmajah:2783",
+      "chainNote": "Muhammad ibn Abdullah ibn Numayr, from Abu Mu'awiyah, from al-A'mash, from Shaqiq, from Abu Musa."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 123, 2810, 3126, 7458",
+      "reason": "Recorded in four places through three students of Abu Wa'il (Amr ibn Murrah, Mansur, al-A'mash), and from Shu'bah by two routes, a short one through Sulayman ibn Harb and this longer one through Bundar and Ghundar. Inclusion in the Sahih is itself a grade.",
+      "url": "https://sunnah.com/bukhari:3126"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 1904a–d",
+      "reason": "Four routes in the Book of Government, one of them identical to al-Bukhari's chain here from Ghundar upward.",
+      "url": "https://sunnah.com/muslim:1904a"
+    },
+    {
+      "scholar": "al-Tirmidhi",
+      "died": 279,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Hasan sahih",
+      "gradeAr": "حسن صحيح",
+      "source": "Jami' al-Tirmidhi 1646",
+      "quoteAr": "وهذا حديث حسن صحيح",
+      "reason": "Sound; he notes a further report from Umar in the chapter.",
+      "url": "https://sunnah.com/tirmidhi:1646"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "A longer route, chosen on purpose",
+      "body": "Al-Bukhari already had this hadith from Shu'bah with one man between them, Sulayman ibn Harb (2810). Here he adds a route with two, Bundar and Ghundar. Shorter is normally better, but Ghundar was, in Ibn Hajar's words, the firmest of all people in Shu'bah, and his written copy settled disputes among Shu'bah's students. Ibn Hajar spells out exactly this reasoning for another Shu'bah hadith (32): al-Bukhari included Ghundar's version even though he had the hadith by a higher chain. A lower route can carry a higher authority."
+    },
+    {
+      "title": "Half a name is still a name",
+      "body": "The chain says “Amr” and “Abu Wa'il” and “Ghundar”. Each is resolved by looking sideways: Muslim and al-Nasa'i write “Amr ibn Murrah” on the same route; Muslim, al-Tirmidhi and Ibn Majah write “Shaqiq ibn Salamah”; Muslim writes “Muhammad ibn Ja'far”. Knowing the kunya of a man known by his name, and the name of a man known by his kunya, is a branch of the science for this reason."
+    },
+    {
+      "title": "Count the students, not only the links",
+      "body": "From Abu Wa'il the report spreads to three Kufans, Amr ibn Murrah, Mansur and al-A'mash, and al-Bukhari records all three. Where one route has “from”, another has “I heard” or “narrated to us”; where one has three motives, another has four or five. Laying the routes side by side is how Ibn Hajar arrives at his list of five motives and how the explicit hearing in one route covers an ambiguous formula in another."
+    },
+    {
+      "title": "The answer shifts the question",
+      "body": "Asked to sort fighters by motive, the Prophet ﷺ gave a single criterion instead. Ibn Battal explains why: anger and zeal may themselves be for Allah, so a yes or no to the list would mislead; the answer names the one thing that makes any of them count. Later scholars called this the method of the wise respondent."
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "Al-Bukhari gives this hadith from Shu'bah by two routes: the shorter, Sulayman ibn Harb from Shu'bah (2810), and this longer one through Bundar and Ghundar. Ibn Hajar explains the same choice for hadith 32: Ghundar “is the firmest of people in Shu'bah, and for this reason the author included his narration although he had recorded the hadith by a higher chain from Abu al-Walid”.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 32 (Book of Faith, chapter “one wrong is less than another”)"
+    },
+    {
+      "kind": "scholar",
+      "text": "“Amr” is Amr ibn Murrah al-Jamali: Muslim 1904a, Abu Dawud 2517 and al-Nasa'i 3136 give the full name on the same route from Shu'bah. Shu'bah vouched that Amr did not practise tadlis, and in al-Nasa'i's version Shu'bah says “Amr ibn Murrah informed them”.",
+      "source": "Sahih Muslim 1904a; Sunan al-Nasa'i 3136; Taqrib al-Tahdhib 5112"
+    },
+    {
+      "kind": "scholar",
+      "text": "Abu Wa'il is named by kunya here and in al-Bukhari's other three places, and by name, Shaqiq ibn Salamah, in Muslim 1904b–c, al-Tirmidhi 1646 and Ibn Majah 2783. Ibn Hajar lists him in Hady al-Sari among those famous by a kunya whose name recurs.",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 7, those famous by kunya; Sahih Muslim 1904b"
+    },
+    {
+      "kind": "scholar",
+      "text": "Al-Bukhari's shaykh is written by his laqab-free name, Muhammad ibn Bashshar, but is universally known as Bundar, and the shaykh's shaykh is written by his laqab, Ghundar, where Muslim writes Muhammad ibn Ja'far. Ibn Hajar's list of narrators mentioned by a laqab in the Sahih includes both “Bundar: Muhammad ibn Bashshar” and “Ghundar: Muhammad ibn Ja'far”.",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 7, section on those mentioned by a laqab"
+    },
+    {
+      "kind": "scholar",
+      "text": "Bundar belongs to a cohort of al-Bukhari's teachers who died in 252 AH and taught all six compilers: Ibn Hajar says of Muhammad ibn al-Muthanna al-Zaman and Bundar that they were “like a pair of racehorses, and they died in the same year”; Ya'qub ibn Ibrahim al-Dawraqi, al-Bukhari's shaykh in hadith 15, also died in 252. Bundar was born in 167 and al-Dawraqi in 166.",
+      "source": "Ibn Hajar, Taqrib al-Tahdhib, entries 5754, 6264, 7812; Shamela records for the birth years"
+    },
+    {
+      "kind": "scholar",
+      "text": "The unnamed Bedouin may be Lahiq ibn Dumayrah al-Bahili, whose own report in Abu Musa al-Madini's book on the Companions, through Ufayr ibn Ma'dan, has him ask the Prophet ﷺ about a man who seeks reward and renown; its chain is weak. Ibn Hajar also notes that a Tabarani version making Abu Musa himself the questioner is mistaken, since Abu Musa would not describe himself as a Bedouin.",
+      "source": "Ibn Hajar, Fath al-Bari on 2810"
+    },
+    {
+      "kind": "check",
+      "text": "The first link reads “narrated to me” (haddathani) in the standard text; the class notes render it “narrated to us”. The singular is the form al-Bukhari uses when he alone heard from the shaykh.",
+      "source": "Sahih al-Bukhari 3126 (Arabic text); class notes"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On 2810, where the full commentary stands: the three motives in this version are booty, renown (to be talked about, which other versions give as courage) and display (to be seen, which al-A'mash's version gives as show); Mansur and al-A'mash add partisan zeal, and Mansur adds anger. Together the routes yield five motives, each open to praise or blame, which is why the answer neither affirmed nor denied the list. “The word of Allah” is His call to Islam. On whether a secondary motive spoils the deed, al-Tabari and the majority hold that if the original impulse is right, what attaches to it later does no harm; Abu Umamah's hadith in Abu Dawud and al-Nasa'i (“he has nothing”, said three times, of the man who sought reward and renown) is read as the case where both aims are pursued equally. Ibn Battal: the Prophet ﷺ left the questioner's wording because anger and zeal may be for Allah, and chose a comprehensive phrase.",
+        "url": "https://www.islamweb.net/ar/library/content/52/5110/"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On 3126 and its chapter heading: Ibn al-Munayyir read al-Bukhari as showing that aiming at booty does not cancel or reduce the reward when joined to the aim of raising Allah's word, since the answer was general. Ibn Hajar thinks the heading means something else: the reduction is relative, and one who aims purely at raising Allah's word is not equal in reward to one who joins another aim to it.",
+        "url": "https://www.islamweb.net/ar/library/content/52/5686/"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On the chain: his remark on hadith 32 that Ghundar is the firmest of people in Shu'bah, and that al-Bukhari therefore added Ghundar's route beside a higher one.",
+        "url": "https://www.islamweb.net/ar/library/content/52/62/"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Deeds are counted by the right intention; the merit promised to the fighter belongs to the one who fights so that Allah's word is supreme.",
+        "source": "Ibn Hajar, Fath al-Bari on 2810"
+      },
+      {
+        "text": "It is permitted to ask about the reason behind a ruling, and knowledge comes before action.",
+        "source": "Ibn Hajar, Fath al-Bari on 2810"
+      },
+      {
+        "text": "Greed for this world, and fighting for the self's own satisfaction outside obedience, are condemned.",
+        "source": "Ibn Hajar, Fath al-Bari on 2810"
+      },
+      {
+        "text": "A secondary worldly aim does not spoil a deed whose original impulse is for Allah; this is al-Tabari's view and the majority's.",
+        "source": "Ibn Hajar, Fath al-Bari on 2810"
+      },
+      {
+        "text": "A mufti may leave the questioner's wording for a more comprehensive answer when the wording would mislead.",
+        "source": "Ibn Battal, as quoted in Fath al-Bari on 2810"
+      }
+    ]
+  },
+  "context": "The question was put during the Prophet's lifetime by a Bedouin, that is, a man from outside Madinah, and Abu Musa, who had come from Yemen, witnessed it. Al-Bukhari placed one copy of the answer in the Book of Knowledge (because the questioner stood while the Prophet ﷺ sat), one in Jihad under a heading taken from the answer itself, one in the Book of the Fifth under the question whether fighting for booty reduces reward, and one in Tawhid under a verse about Allah's word. The same report thus serves four chapters, and the four chains show three Kufan students of Abu Wa'il carrying it.",
+  "vocabulary": [
+    {
+      "term": "Nazil and ali",
+      "ar": "نازل وعالٍ",
+      "meaning": "A lower chain has more links between compiler and Prophet; a higher chain has fewer. This route is nazil relative to 2810, by one link."
+    },
+    {
+      "term": "Mukhadram",
+      "ar": "مخضرم",
+      "meaning": "One who lived in the time of the Prophet ﷺ as a Muslim but never met him: Abu Wa'il."
+    },
+    {
+      "term": "Laqab",
+      "ar": "لقب",
+      "meaning": "A nickname by which a narrator is known: Bundar, Ghundar. Ibn Hajar lists those the Sahih uses."
+    },
+    {
+      "term": "Kalimat Allah",
+      "ar": "كلمة الله",
+      "meaning": "“The word of Allah”: His call to Islam (Ibn Hajar). “Word” is used for a complete statement."
+    },
+    {
+      "term": "Uslub al-hakim",
+      "ar": "أسلوب الحكيم",
+      "meaning": "Answering a question with what the questioner needs rather than what he asked: here, replacing a list of motives with the one criterion."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 12,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 3126 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:3126"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari with diacritics (hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 2810 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/5110/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 3126 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/5686/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 32, on Ghundar (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/62/"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 7: those mentioned by a laqab (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/الفصل_الرابع_فيمن_يذكر_بلقب_ونحوه"
+    },
+    {
+      "label": "Sahih Muslim 1904a (sunnah.com)",
+      "url": "https://sunnah.com/muslim:1904a"
+    },
+    {
+      "label": "Sunan al-Nasa'i 3136 (sunnah.com)",
+      "url": "https://sunnah.com/nasai:3136"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

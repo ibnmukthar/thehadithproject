@@ -1,0 +1,191 @@
+{
+  "id": "mamar-ibn-rashid",
+  "name": "Ma'mar ibn Rashid",
+  "nameAr": "معمر بن راشد الأزدي الحُدّاني مولاهم أبو عروة البصري نزيل اليمن",
+  "short": "Ma'mar ibn Rashid",
+  "shortAr": "معمر بن راشد",
+  "kunya": "Abu Urwa",
+  "kunyaAr": "أبو عروة",
+  "nisbas": [
+    {
+      "ar": "الأزدي مولاهم",
+      "en": "al-Azdi (as a client of al-Azd)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri, of Basra",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "al-Azd (Banu Huddan)",
+  "fatherName": "Rashid",
+  "born": 96,
+  "bornNote": "Reckoned from the Taqrib's statement that he died in 154 AH aged 58",
+  "died": 154,
+  "diedNote": "154 AH in San'a (Taqrib); other reports range from 150 to 155",
+  "deathVariants": [
+    {
+      "year": 154,
+      "authority": "Taqrib al-Tahdhib; Ibn al-Madini",
+      "source": "Taqrib al-Tahdhib 6809; al-Jarh wa al-Ta'dil 8/255"
+    },
+    {
+      "year": "150, 152, 153 or 155",
+      "authority": "other reports collected in the rijal works",
+      "source": "Shamela narrator record 6279"
+    }
+  ],
+  "region": "Basra, then Yemen",
+  "tabaqa": 7,
+  "taqrib": {
+    "ar": "ثقة ثبت فاضل، إلا أن في روايته عن ثابت والأعمش وعاصم بن أبي النجود وهشام بن عروة شيئا، وكذا فيما حدث به بالبصرة",
+    "en": "Reliable, firm and virtuous, except that there is something in his transmission from Thabit, al-A'mash, Asim ibn Abi al-Najud and Hisham ibn Urwa, and likewise in what he narrated at Basra.",
+    "number": "6809",
+    "rank": 1
+  },
+  "band": "thiqa",
+  "role": "One of the foremost transmitters of al-Zuhri; teacher of Abd al-Razzaq in San'a",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "6279"
+  },
+  "teachers": [
+    {
+      "id": "al-zuhri",
+      "name": "al-Zuhri (Ibn Shihab)",
+      "nameAr": "الزهري",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 6, 3220; Sahih Muslim 2308"
+    }
+  ],
+  "students": [
+    {
+      "id": "abdullah-ibn-al-mubarak",
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "عبد الله بن المبارك",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6, 3220"
+    },
+    {
+      "name": "Abd al-Razzaq",
+      "nameAr": "عبد الرزاق",
+      "sigla": [
+        "م"
+      ],
+      "source": "Sahih Muslim 2308"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "معمر بن راشد الثقة المأمون",
+      "en": "Ma'mar ibn Rashid, the reliable and trustworthy; al-Nasa'i placed him in the first class of al-Zuhri's companions.",
+      "source": "Tahdhib al-Kamal 28/303; Ikmal Tahdhib al-Kamal 11/300",
+      "url": "https://shamela.ws/narrator/6279"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Talib",
+      "ar": "لا تضم معمرا إلى أحد إلا وجدت معمرا أطلب للعلم منه، وهو أول من رحل إلى اليمن",
+      "en": "Set Ma'mar beside anyone and you will find Ma'mar the keener seeker of knowledge; he was the first to travel to Yemen for it.",
+      "source": "Tahdhib al-Kamal 28/303",
+      "url": "https://shamela.ws/narrator/6279"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "ما حدث معمر بالبصرة ففيه أغاليط، وهو صالح الحديث",
+      "en": "What Ma'mar narrated at Basra contains errors; he is acceptable in hadith.",
+      "source": "al-Jarh wa al-Ta'dil 8/255",
+      "url": "https://shamela.ws/narrator/6279"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "انتهى الإسناد إلى ستة نفر أدركهم معمر وكتب عنهم، لا أعلم اجتمع لأحد غير معمر: من الحجاز الزهري وعمرو بن دينار، ومن الكوفة أبو إسحاق والأعمش، ومن البصرة قتادة، ومن اليمامة يحيى بن أبي كثير",
+      "en": "The chains of transmission came down to six men, all of whom Ma'mar met and wrote from; I know of no one but Ma'mar who gathered them all: from the Hijaz al-Zuhri and Amr ibn Dinar, from Kufa Abu Ishaq and al-A'mash, from Basra Qatada, and from al-Yamama Yahya ibn Abi Kathir.",
+      "source": "al-Jarh wa al-Ta'dil 8/255",
+      "url": "https://shamela.ws/narrator/6279"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "بصري سكن اليمن، ثقة، رجل صالح",
+      "en": "A Basran who settled in Yemen; reliable, a righteous man.",
+      "source": "Tahdhib al-Kamal 28/303",
+      "url": "https://shamela.ws/narrator/6279"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "al-Ghalabi",
+      "ar": "سمعت ابن معين يقدم مالك بن أنس على أصحاب الزهري ثم معمرا، قال: ومعمر عن ثابت ضعيف",
+      "en": "I heard Ibn Ma'in put Malik ibn Anas first among al-Zuhri's companions, then Ma'mar; and he said: Ma'mar from Thabit is weak.",
+      "source": "Tahdhib al-Tahdhib 4/125",
+      "url": "https://shamela.ws/narrator/6279"
+    }
+  ],
+  "dhahabi": {
+    "ar": "وقال أحمد: لا تضم معمرا إلى أحد إلا وجدته يتقدمه، كان من أطلب أهل زمانه للعلم",
+    "en": "Al-Dhahabi quotes Ahmad: set Ma'mar beside anyone and you find him ahead; he was among the keenest seekers of knowledge of his time.",
+    "source": "al-Kashif 4/321"
+  },
+  "flags": [
+    {
+      "label": "Weaker in his Basran teaching and from four teachers",
+      "detail": "The critics distinguish what Ma'mar taught in Yemen, from his books, from what he dictated from memory on visits to Basra; and they mark his transmission from Thabit, al-A'mash, Asim and Hisham ibn Urwa as less firm. From al-Zuhri he is among the very best. In this hadith Ibn al-Mubarak joins him to Yunus and uses Yunus's wording, so nothing rests on Ma'mar's words alone."
+    }
+  ],
+  "bio": "A Basran client of al-Azd who travelled young, heard al-Zuhri in the Hijaz, and settled in San'a, where the Yemenis married him off so that he would not leave; Abd al-Razzaq's Musannaf preserves much of his teaching. Abu Hatim notes that he alone met all six men on whom the chains of his generation converged. Ibn al-Mubarak said his hadith and Yunus's seemed to come from a single lamp.",
+  "provenance": [
+    {
+      "field": "name, kunya, mawla status, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 6279, drawing on Tahdhib al-Kamal 28/303, Tahdhib al-Tahdhib 4/125 and Ikmal Tahdhib al-Kamal 11/300"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 6809 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 6279"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 4/321, as quoted on the Shamela record"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 6, 3220 and Sahih Muslim 2308"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 6809 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_بقية_حرف_الميم_على_الترتيب"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6279"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "said-ibn-al-nadr",
+  "name": "Sa'id ibn al-Nadr al-Baghdadi",
+  "nameAr": "سعيد بن النضر البغدادي، أبو عثمان، نزيل آمل جيحون",
+  "short": "Sa'id ibn al-Nadr",
+  "shortAr": "سعيد بن النضر",
+  "kunya": "Abu Uthman",
+  "kunyaAr": "أبو عثمان",
+  "nisbas": [
+    { "ar": "البغدادي", "en": "al-Baghdadi", "kind": "geographic" }
+  ],
+  "fatherName": "al-Nadr",
+  "died": 234,
+  "diedNote": "Died at Amul on the Jayhun (Oxus) in 234 (Ghunjar, the historian of Bukhara, via al-Mizzi).",
+  "region": "Baghdad, then Amul on the Jayhun",
+  "origin": "Baghdad",
+  "residence": ["Baghdad", "Amul (Jayhun)"],
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "2406",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari; used by al-Bukhari alone of the six",
+  "rumuz": ["خ"],
+  "external": { "shamela": "2444", "tahdhibKamal": "11/88 (no. 2368)" },
+  "teachers": [
+    { "id": "hushaym-ibn-bashir", "name": "Hushaym ibn Bashir", "nameAr": "هشيم بن بشير", "sigla": ["خ"], "source": "Tahdhib al-Kamal 11/88" },
+    { "name": "Isma'il ibn Ayyash", "nameAr": "إسماعيل بن عياش", "source": "Tahdhib al-Kamal 11/88" },
+    { "name": "Uthman ibn Abd al-Rahman al-Waqqasi", "nameAr": "عثمان بن عبد الرحمن الوقاصي", "source": "Tahdhib al-Kamal 11/88" },
+    { "name": "Abu al-Bakhtari Wahb ibn Wahb al-Qadi", "nameAr": "وهب بن وهب القاضي", "source": "Tahdhib al-Kamal 11/88" }
+  ],
+  "students": [
+    { "id": "al-bukhari", "name": "al-Bukhari", "nameAr": "البخاري", "source": "Tahdhib al-Kamal 11/88" },
+    { "name": "al-Fadl ibn Ahmad ibn Sahl al-Amuli", "nameAr": "الفضل بن أحمد بن سهل الآملي", "source": "Tahdhib al-Kamal 11/88" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 11/88; Tahdhib al-Tahdhib 2/47",
+      "url": "https://shamela.ws/narrator/2444"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Taqrib al-Tahdhib, entry 2406",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    }
+  ],
+  "flags": [
+    { "label": "Thin file", "detail": "Al-Mizzi records only Ibn Hibban's listing and Ghunjar's death date; the Taqrib grades him reliable on that basis and on al-Bukhari's use of him. His whole dossier is small." },
+    { "label": "Homonym", "detail": "Not Sa'id ibn al-Nadr ibn Shubrumah al-Harithi al-Kufi (maqbul, ninth generation); Ibn Hajar notes that some confused the two (Taqrib 2407)." }
+  ],
+  "bio": "A Baghdadi who settled at Amul on the Oxus and taught there; al-Bukhari, who heard him alone (\"narrated to me\"), is the only one of the six to use him. Few critics spoke of him, which is why his reliability rests on Ibn Hibban's listing and on al-Bukhari's trust. In hadith 335 he is the second shaykh, joined to Muhammad ibn Sinan by the ha' of transition, and Ibn Hajar observes that the wording of the hadith as printed is his.",
+  "provenance": [
+    { "field": "nameAr, kunya, residence, teachers, students, died", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 11/88 (no. 2368), Shamela book 3722 page 5409" },
+    { "field": "taqrib, tabaqa, rumuz", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 2406–2407" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 2/47, via the Shamela narrator record 2444" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 2406 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/2444" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 11/88 (Shamela)", "url": "https://shamela.ws/book/3722/5409" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

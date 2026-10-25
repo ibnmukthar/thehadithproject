@@ -1,0 +1,392 @@
+{
+  "id": "ismail-ibn-abi-khalid",
+  "name": "Isma'il ibn Abi Khalid",
+  "nameAr": "إسماعيل بن أبي خالد الأحمسي البجلي الكوفي، مولاهم",
+  "short": "Isma'il ibn Abi Khalid",
+  "shortAr": "إسماعيل بن أبي خالد",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "nisbas": [
+    {
+      "ar": "الأحمسي",
+      "en": "al-Ahmasi (Ahmas, a clan of Bajilah)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البجلي",
+      "en": "al-Bajali",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Ahmas of Bajilah (their client)",
+  "fatherName": "Abu Khalid (named Sa'd, or Hurmuz, or Kathir)",
+  "died": 146,
+  "diedNote": "146 AH (al-Bukhari, from Abu Nu'aym; the Taqrib); Ibn Hibban: 145 or 146.",
+  "deathVariants": [
+    {
+      "year": 146,
+      "authority": "al-Bukhari, from Abu Nu'aym al-Fadl ibn Dukayn; Ibn Hajar, Taqrib",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543; Taqrib al-Tahdhib 438"
+    },
+    {
+      "year": "145 or 146",
+      "authority": "Ibn Hibban, al-Thiqat",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543"
+    },
+    {
+      "year": "136, 145, 146 or 148",
+      "authority": "variants listed in the Shamela narrator record",
+      "source": "https://shamela.ws/narrator/644"
+    }
+  ],
+  "region": "Kufa",
+  "tabaqa": 4,
+  "taqrib": {
+    "ar": "ثقة ثبت من الرابعة، مات سنة ست وأربعين",
+    "en": "Reliable, firm; of the fourth generation; died in 146.",
+    "number": "438",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "The most reliable transmitter from al-Sha'bi; junior Successor",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/644"
+  },
+  "teachers": [
+    {
+      "id": "qays-ibn-abi-hazim",
+      "name": "Qays ibn Abi Hazim",
+      "nameAr": "قيس بن أبي حازم",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57; Tahdhib al-Tahdhib: 'and he narrated much from him'"
+    },
+    {
+      "name": "his father Abu Khalid",
+      "nameAr": "أبوه أبو خالد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Juhayfa (Companion)",
+      "nameAr": "أبو جحيفة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abdullah ibn Abi Awfa (Companion)",
+      "nameAr": "عبد الله بن أبي أوفى",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Amr ibn Hurayth (Companion)",
+      "nameAr": "عمرو بن حريث",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Kahil (Companion)",
+      "nameAr": "أبو كاهل",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Zayd ibn Wahb",
+      "nameAr": "زيد بن وهب",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-Sha'bi",
+      "nameAr": "الشعبي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Tariq ibn Shihab",
+      "nameAr": "طارق بن شهاب",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "students": [
+    {
+      "id": "yahya-ibn-said-al-qattan",
+      "name": "Yahya ibn Sa'id al-Qattan",
+      "nameAr": "يحيى القطان",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57, 524, 2715; Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj",
+      "nameAr": "شعبة",
+      "source": "Tahdhib al-Tahdhib (first student named)"
+    },
+    {
+      "id": "sufyan-ibn-uyaynah",
+      "name": "Sufyan ibn Uyaynah",
+      "nameAr": "سفيان بن عيينة",
+      "source": "Tahdhib al-Tahdhib ('the two Sufyans'); Sahih al-Bukhari 2157"
+    },
+    {
+      "name": "Sufyan al-Thawri",
+      "nameAr": "سفيان الثوري",
+      "source": "Tahdhib al-Tahdhib ('the two Sufyans')",
+      "id": "sufyan-al-thawri"
+    },
+    {
+      "name": "Za'idah ibn Qudamah",
+      "nameAr": "زائدة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "ابن المبارك",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "abdullah-ibn-al-mubarak"
+    },
+    {
+      "name": "Hushaym ibn Bashir",
+      "nameAr": "هشيم",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "hushaym-ibn-bashir"
+    },
+    {
+      "name": "Yazid ibn Harun",
+      "nameAr": "يزيد بن هارون",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abdullah ibn Numayr",
+      "nameAr": "عبد الله بن نمير",
+      "source": "Sahih al-Bukhari 1401; Sahih Muslim 56a"
+    },
+    {
+      "name": "Abu Usamah Hammad ibn Usamah",
+      "nameAr": "أبو أسامة",
+      "source": "Sahih Muslim 56a"
+    },
+    {
+      "name": "al-Hakam ibn Utaybah",
+      "nameAr": "الحكم بن عتيبة",
+      "source": "al-Khatib al-Baghdadi, as quoted in Tahdhib al-Tahdhib (the sabiq of the sabiq-and-lahiq pair)"
+    },
+    {
+      "name": "Ubaydullah ibn Musa",
+      "nameAr": "عبيد الله بن موسى",
+      "source": "Tahdhib al-Tahdhib: 'the last reliable narrator to transmit from him'"
+    },
+    {
+      "name": "Yahya ibn Hashim al-Simsar",
+      "nameAr": "يحيى بن هاشم السمسار",
+      "source": "Tahdhib al-Tahdhib: 'one of the abandoned narrators, and the last of all to transmit from him' (the lahiq)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Sufyan al-Thawri",
+      "criticDied": 161,
+      "via": "Abdullah ibn al-Mubarak",
+      "ar": "حفاظ الناس ثلاثة: إسماعيل، وعبد الملك بن أبي سليمان، ويحيى بن سعيد الأنصاري؛ وهو يعني إسماعيل أعلم الناس بالشعبي وأثبتهم فيه",
+      "en": "The memorisers among the people are three: Isma'il, Abd al-Malik ibn Abi Sulayman and Yahya ibn Sa'id al-Ansari; and he, Isma'il, is the most knowledgeable of people in al-Sha'bi and the firmest in him.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543; al-Jarh wa al-Ta'dil 2/174",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "أصح الناس حديثا عن الشعبي ابن أبي خالد",
+      "en": "The soundest of people in hadith from al-Sha'bi is Ibn Abi Khalid.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543; al-Jarh wa al-Ta'dil 2/174",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "وصفه النسائي بالتدليس",
+      "en": "Al-Nasa'i described him as one who used the ambiguous formula (tadlis).",
+      "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Tabaqat al-Mudallisin), as quoted in the Shamela narrator record; Muhammad ibn Tal'at, Mu'jam al-Mudallisin, entry 11, quoting al-Nasa'i's list",
+      "url": "https://shamela.ws/book/794/76"
+    },
+    {
+      "critic": "Ibn Ammar al-Mawsili",
+      "criticDied": 242,
+      "ar": "حجة",
+      "en": "A proof.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "كوفي تابعي ثقة، وكان طحانا",
+      "en": "A Kufan, a Successor, reliable; he was a miller.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "كان ثبتا في الحديث، وربما أرسل الشيء عن الشعبي، وإذا وقف أخبر، وكان صاحب سنة، وكان حديثه نحو خمسمائة حديث، وكان لا يروي إلا عن ثقة",
+      "en": "He was firm in hadith; he would sometimes transmit a thing from al-Sha'bi without the link, and when pressed he would state it; he was a man of the Sunnah; his hadith were about five hundred; he narrated only from reliable men.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Ya'qub ibn Shaybah",
+      "criticDied": 262,
+      "ar": "كان ثقة ثبتا",
+      "en": "He was reliable and firm.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "لا أقدم عليه أحدا من أصحاب الشعبي، وهو ثقة",
+      "en": "I put none of al-Sha'bi's students ahead of him; he is reliable.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Marwan ibn Mu'awiyah",
+      "criticDied": 193,
+      "ar": "كان إسماعيل يسمى الميزان",
+      "en": "Isma'il used to be called 'the Balance'.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Yahya ibn Sa'id al-Qattan",
+      "criticDied": 198,
+      "via": "Ibn Abi Khaythamah, Tarikh",
+      "ar": "مرسلات ابن أبي خالد ليست بشيء",
+      "en": "The unattached (mursal) reports of Ibn Abi Khalid are nothing.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "critic": "Yahya ibn Sa'id al-Qattan",
+      "criticDied": 198,
+      "ar": "كان إذا حدث عن قيس يقول: حدثني قيس بن أبي حازم",
+      "en": "When he narrated from Qays he would say: 'Qays ibn Abi Hazim narrated to me.'",
+      "source": "Ikmal Tahdhib al-Kamal 2/162",
+      "url": "https://shamela.ws/narrator/644"
+    },
+    {
+      "critic": "al-Khatib al-Baghdadi",
+      "criticDied": 463,
+      "ar": "حدث عنه الحكم بن عتيبة ويحيى بن هاشم، وبين وفاتيهما نحو من مائة وعشر سنين",
+      "en": "Al-Hakam ibn Utaybah and Yahya ibn Hashim both narrated from him, and between their deaths lie about one hundred and ten years.",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    }
+  ],
+  "tadlis": {
+    "rank": 2,
+    "type": "tadlis al-isnad, as described by al-Nasa'i; al-Ijli says he would sometimes drop the link from al-Sha'bi",
+    "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis bi-Maratib al-Mawsufin bi-l-Tadlis (Tabaqat al-Mudallisin), second rank, as quoted at shamela.ws/narrator/644 ('the reliable, the famous, among the junior Successors; al-Nasa'i described him with tadlis') and as placed in the Mulakhkhas of the Tabaqat under 'those whose tadlis the imams tolerated' (usul.ai)",
+    "note": "The rank is taken from the Mulakhkhas summary and the Shamela quotation; Ibn Hajar's own page (Ta'rif Ahl al-Taqdis p. 99, ed. al-Qaryuti) was not read directly. In Bukhari 57 the question does not arise: Isma'il says 'Qays ibn Abi Hazim narrated to me', the formula Yahya al-Qattan says he always used for Qays."
+  },
+  "notHeardFrom": [
+    {
+      "name": "Anas ibn Malik",
+      "id": "anas-ibn-malik",
+      "authority": "Ali ibn al-Madini: 'he saw Anas, a sighting, and did not hear from him'",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543 (Wikisource)"
+    },
+    {
+      "name": "Ibrahim al-Taymi",
+      "authority": "Ali ibn al-Madini",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543 (Wikisource)"
+    },
+    {
+      "name": "Abu Dhabyan",
+      "authority": "Yahya ibn Ma'in",
+      "source": "Tahdhib al-Tahdhib, letter alif, entry 543 (Wikisource)"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Sabiq and lahiq",
+      "detail": "Al-Khatib notes that two of his students, al-Hakam ibn Utaybah and Yahya ibn Hashim al-Simsar, died about one hundred and ten years apart; Ibn Hajar adds that Yahya ibn Hashim, an abandoned narrator, was the last of all to transmit from him, and Ubaydullah ibn Musa the last reliable one. A long teaching life is one of the things the discipline records about a narrator because it bears on who could plausibly have heard from him."
+    },
+    {
+      "label": "Mursal reports not relied on",
+      "detail": "Yahya al-Qattan dismissed his unattached reports, and al-Ijli says he would sometimes narrate from al-Sha'bi without stating the link. His connected reports from al-Sha'bi and Qays are, by contrast, the soundest there are (Ahmad, al-Thawri, Abu Hatim)."
+    }
+  ],
+  "bio": "A Kufan client of Ahmas of Bajilah, among the junior Successors; he met several Companions and narrated from five of them, and was the most knowledgeable and firmest of all narrators from al-Sha'bi, and narrated abundantly from Qays ibn Abi Hazim. Sufyan al-Thawri counted him one of the three memorisers of the age and his contemporaries called him 'the Balance'. Al-Nasa'i noted that he sometimes used the ambiguous formula; the imams tolerated it because he transmitted only from reliable men, and from Qays he habitually said 'narrated to me'. He died in 146.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya, nisbas, mawla, tabaqa, taqrib, died, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 438 (Wikisource)"
+    },
+    {
+      "field": "fatherName, teachers, students, verdicts, notHeardFrom, flags, deathVariants",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter alif, entry 543 (Wikisource); Shamela narrator record 644"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Ta'rif Ahl al-Taqdis, as quoted at shamela.ws/narrator/644; Mulakhkhas Tabaqat al-Mudallisin (usul.ai); Mu'jam al-Mudallisin, entry 11 (Shamela)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 438 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, letter alif, entry 543 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الألف"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/644"
+    },
+    {
+      "label": "Mu'jam al-Mudallisin, entry 11 (Shamela)",
+      "url": "https://shamela.ws/book/794/76"
+    },
+    {
+      "label": "Mulakhkhas Tabaqat al-Mudallisin (usul.ai)",
+      "url": "https://usul.ai/en/t/mulakhkhas-tabaqat-al-mudallisin/6"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

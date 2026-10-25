@@ -1,0 +1,151 @@
+{
+  "id": "al-tirmidhi",
+  "name": "Muhammad ibn Isa al-Tirmidhi",
+  "nameAr": "محمد بن عيسى بن سَوْرة الترمذي",
+  "short": "al-Tirmidhi",
+  "shortAr": "الترمذي",
+  "kunya": "Abu Isa",
+  "kunyaAr": "أبو عيسى",
+  "nisbas": [
+    {
+      "ar": "السلمي",
+      "en": "al-Sulami (Banu Sulaym)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الترمذي",
+      "en": "al-Tirmidhi",
+      "kind": "geographic"
+    },
+    {
+      "ar": "البوغي",
+      "en": "al-Bughi (Bugh, a village of Tirmidh)",
+      "kind": "geographic"
+    },
+    {
+      "ar": "الضرير",
+      "en": "al-Darir (the blind; he lost his sight late in life)",
+      "kind": "other"
+    }
+  ],
+  "fatherName": "Isa",
+  "born": 209,
+  "died": 279,
+  "deathVariants": [
+    {
+      "year": 279,
+      "authority": "al-Mustaghfiri: Rajab 279; the Taqrib gives 279",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 6206, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم"
+    },
+    {
+      "year": 275,
+      "authority": "Ikmal Tahdhib al-Kamal (Mughultay), as recorded in Shamela's narrator record",
+      "source": "Shamela narrator record, https://shamela.ws/narrator/10859"
+    }
+  ],
+  "region": "Tirmidh",
+  "tabaqa": 12,
+  "band": "thiqa",
+  "role": "Compiler of al-Jami' (the Sunan)",
+  "external": {
+    "shamela": "10859"
+  },
+  "teachers": [
+    {
+      "id": "ahmad-ibn-nasr-al-naysaburi",
+      "name": "Ahmad ibn Nasr al-Naysaburi",
+      "nameAr": "أحمد بن نصر النيسابوري",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "al-bukhari",
+      "name": "Muhammad ibn Isma'il al-Bukhari",
+      "nameAr": "محمد بن إسماعيل البخاري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (al-Bukhari also took a hadith from him)"
+    }
+  ],
+  "students": [
+    {
+      "name": "Abu Hamid Ahmad ibn Abdullah al-Marwazi al-Tajir",
+      "nameAr": "أبو حامد أحمد بن عبد الله المروزي التاجر",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "al-Haytham ibn Kulayb al-Shashi",
+      "nameAr": "الهيثم بن كليب",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu al-Abbas Muhammad ibn Mahbub al-Mahbubi",
+      "nameAr": "محمد بن محبوب المحبوبي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ahmad ibn Yusuf al-Nasafi",
+      "nameAr": "أحمد بن يوسف النسفي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu al-Harith Asad ibn Hamduwayh",
+      "nameAr": "أسد بن حمدويه",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Dawud ibn Nasr al-Bazdawi",
+      "nameAr": "داود بن نصر البزدوي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "verdicts": [],
+  "bio": "A student of al-Bukhari whose Jami' is unusual among the six collections for stating a grade after most reports, and for recording which routes he knew and which he preferred. His comments on this hadith are a model of the practice.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 6206, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 6206, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم; Shamela narrator record, https://shamela.ws/narrator/10859; Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 6206, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Shamela narrator record, https://shamela.ws/narrator/10859"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/10859"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Jami' al-Tirmidhi on sunnah.com",
+      "url": "https://sunnah.com/tirmidhi"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "yahya-ibn-said",
+  "name": "Yahya ibn Sa'id al-Ansari",
+  "nameAr": "يحيى بن سعيد بن قيس الأنصاري",
+  "short": "Yahya ibn Sa'id al-Ansari",
+  "shortAr": "يحيى بن سعيد الأنصاري",
+  "kunya": "Abu Sa'id",
+  "kunyaAr": "أبو سعيد",
+  "kunyaVariants": [
+    "Abu Uthman"
+  ],
+  "nisbas": [
+    {
+      "ar": "الأنصاري",
+      "en": "al-Ansari",
+      "kind": "tribal"
+    },
+    {
+      "ar": "النجاري",
+      "en": "al-Najjari (Banu al-Najjar of the Khazraj)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المدني",
+      "en": "al-Madani",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Sa'id",
+  "died": 144,
+  "deathVariants": [
+    {
+      "year": 143,
+      "authority": "Ibn Sa'd and more than one",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "year": 144,
+      "authority": "Yazid ibn Harun and Amr ibn Ali al-Fallas; the Taqrib reads \"144 or after it\"",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 7559, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "year": 146,
+      "authority": "\"it is said\" (Ibn Hajar)",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "region": "Madinah",
+  "tabaqa": 5,
+  "band": "thiqa",
+  "taqrib": {
+    "ar": "ثقة ثبت",
+    "en": "Reliable and firm.",
+    "number": "7559",
+    "rank": 2
+  },
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "6932",
+    "sunnah": "8272"
+  },
+  "teachers": [
+    {
+      "id": "muhammad-ibn-ibrahim-al-taymi",
+      "name": "Muhammad ibn Ibrahim al-Taymi",
+      "nameAr": "محمد بن إبراهيم التيمي",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (Ibn al-Madini: the only Companion he is known to have heard from)"
+    },
+    {
+      "id": "abu-salama",
+      "name": "Abu Salama ibn Abd al-Rahman",
+      "nameAr": "أبو سلمة بن عبد الرحمن",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "al-zuhri",
+      "name": "Muhammad ibn Muslim al-Zuhri",
+      "nameAr": "الزهري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Sa'id ibn al-Musayyab",
+      "nameAr": "سعيد بن المسيب",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "al-Qasim ibn Muhammad ibn Abi Bakr",
+      "nameAr": "القاسم بن محمد",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Nafi', mawla of Ibn Umar",
+      "nameAr": "نافع مولى ابن عمر",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Amra bint Abd al-Rahman",
+      "nameAr": "عمرة بنت عبد الرحمن",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Adi ibn Thabit",
+      "nameAr": "عدي بن ثابت",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "students": [
+    {
+      "id": "sufyan-ibn-uyaynah",
+      "name": "Sufyan ibn Uyaynah",
+      "nameAr": "سفيان بن عيينة",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "al-zuhri",
+      "name": "Muhammad ibn Muslim al-Zuhri",
+      "nameAr": "الزهري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (a peer who also narrated from him)"
+    },
+    {
+      "id": "al-awzai",
+      "name": "Abd al-Rahman ibn Amr al-Awza'i",
+      "nameAr": "الأوزاعي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "qurra-ibn-abd-al-rahman",
+      "name": "Qurra ibn Abd al-Rahman",
+      "nameAr": "قرة بن عبد الرحمن",
+      "source": "al-Mizzi, Tahdhib al-Kamal 23/581-584, no. 4871, https://shamela.ws/book/3722/12469 (Qurra's entry)"
+    },
+    {
+      "name": "Malik ibn Anas",
+      "nameAr": "مالك",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Shu'ba ibn al-Hajjaj",
+      "nameAr": "شعبة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Sufyan al-Thawri",
+      "nameAr": "الثوري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "al-Layth ibn Sa'd",
+      "nameAr": "الليث بن سعد",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; al-Mizzi, Tahdhib al-Kamal 24/259 (al-Layth's entry: يحيى بن سعيد الأنصاري خ م ت س), https://shamela.ws/book/3722/12771",
+      "id": "al-layth-ibn-sad",
+      "sigla": [
+        "خ",
+        "م",
+        "ت",
+        "س"
+      ]
+    },
+    {
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Yazid ibn Harun",
+      "nameAr": "يزيد بن هارون",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Yahya al-Qattan",
+      "nameAr": "يحيى القطان",
+      "id": "yahya-ibn-said-al-qattan",
+      "source": "reciprocal of the entry in yahya-ibn-said-al-qattan's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "أثبت الناس",
+      "en": "The firmest of people.",
+      "source": "Tahdhib al-Kamal 31/346",
+      "url": "https://shamela.ws/narrator/6932"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة ثبت",
+      "en": "Reliable and firm.",
+      "source": "Tahdhib al-Tahdhib 4/360",
+      "url": "https://shamela.ws/narrator/6932"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "ثقة كثير الحديث حجة ثبتًا",
+      "en": "Reliable, prolific, a proof, firm.",
+      "source": "al-Tabaqat",
+      "url": "https://shamela.ws/narrator/6932"
+    }
+  ],
+  "tadlis": {
+    "rank": 1,
+    "source": "Ibn Hajar, Tabaqat al-Mudallisin, rank 1, no. 32, https://shamela.ws/book/1186/23",
+    "note": "«تابعي صغير مشهور، وصفه بذلك علي ابن المديني فيما ذكره عبد الغني بن سعيد الأزدي، وكذا وصفه به الدارقطني». Rank 1: those described as mudallis only rarely; Ibn Hajar names him as the type of the rank."
+  },
+  "flags": [
+    {
+      "label": "Negligible tadlis",
+      "detail": "Yahya al-Qattan said he “memorised and used the ambiguous formula”; Ibn Hajar placed him in the first rank of mudallisin, those who did it so rarely they should not be counted as such. Here he says “informed me” in any case."
+    }
+  ],
+  "bio": "A judge in Madinah and later, for al-Mansur, in Iraq; a Madinan scholar of the Ansar, among the junior Successors (he met Anas ibn Malik); his grandfather Qays ibn Amr was a Companion. Malik, the two Sufyans, Shu'ba, Hammad ibn Zayd and many others learned from him, and this hadith became famous through his students.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 7559, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "field": "kunyaVariants",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/6932 (الكنية: أبو سعيد، وقيل: كنيته أبو عثمان)"
+    },
+    {
+      "field": "nisbas",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 7559, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 7559, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 7559, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 7559, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء (ثقة ثبت = rank 2)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/6932"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 8272, linked from the isnad at https://sunnah.com/bukhari:1"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 11/220-223, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; al-Mizzi, Tahdhib al-Kamal 23/581-584, no. 4871, https://shamela.ws/book/3722/12469"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Tabaqat al-Mudallisin, rank 1, no. 32, https://shamela.ws/book/1186/23"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7559 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6932"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "slug": "understanding-of-the-religion",
+  "title": "Whoever God intends good for, He gives understanding of the religion",
+  "titleAr": "من يرد الله به خيرا يفقهه في الدين",
+  "takeaway": "Understanding of the religion is not a private achievement but a sign that God has willed good for a person; the Prophet ﷺ describes himself as one who only distributes what God gives. The hadith closes with a promise that some of this community will always stand firm on God's command, unharmed by those who oppose them, until God's decree arrives. Mu'awiya delivered it from the pulpit, and al-Bukhari uses its first clause as a chapter heading in the Book of Knowledge.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: recorded by al-Bukhari in four places and by Muslim in the Book of Zakat, through the same Madinan chain from Mu'awiya."
+  },
+  "primary": {
+    "cite": "bukhari:71",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "71",
+    "bookChapter": "Book of Knowledge, chapter 13: whoever God intends good for, He gives him understanding of the religion",
+    "chain": [
+      "al-bukhari",
+      "said-ibn-ufayr",
+      "abdullah-ibn-wahb",
+      "yunus-ibn-yazid",
+      "al-zuhri",
+      "humayd-ibn-abd-al-rahman",
+      "muawiya-ibn-abi-sufyan"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "muawiya-ibn-abi-sufyan",
+        "sighaAr": "سمعتُ النبي ﷺ يقول",
+        "sighaEn": "I heard the Prophet ﷺ say",
+        "kind": "sama"
+      },
+      {
+        "from": "muawiya-ibn-abi-sufyan",
+        "to": "humayd-ibn-abd-al-rahman",
+        "sighaAr": "سمعتُ معاوية خطيبًا يقول",
+        "sighaEn": "I heard Mu'awiya say, while preaching",
+        "kind": "sama",
+        "note": "Humayd records the setting: Mu'awiya was delivering a sermon. Muslim's version and al-Bukhari 7312 read 'while he was preaching' (وهو يخطب)."
+      },
+      {
+        "from": "humayd-ibn-abd-al-rahman",
+        "to": "al-zuhri",
+        "sighaAr": "قال قال حميد بن عبد الرحمن",
+        "sighaEn": "he said: Humayd ibn Abd al-Rahman said",
+        "kind": "qala",
+        "note": "A bare 'he said', which functions like 'from'. In al-Bukhari 7312 Ibn Shihab says 'Humayd informed me' (أخبرني حميد) and in Muslim 1037 'Humayd ibn Abd al-Rahman ibn Awf narrated to me' (حدثني), so the hearing is established elsewhere (Fath al-Bari on hadith 71)."
+      },
+      {
+        "from": "al-zuhri",
+        "to": "yunus-ibn-yazid",
+        "sighaAr": "عن ابن شهاب",
+        "sighaEn": "from Ibn Shihab",
+        "kind": "an"
+      },
+      {
+        "from": "yunus-ibn-yazid",
+        "to": "abdullah-ibn-wahb",
+        "sighaAr": "عن يونس",
+        "sighaEn": "from Yunus",
+        "kind": "an",
+        "note": "Ibn Wahb is listed in the first, lightest rank of the mudallisun. Here the formula is 'from'; in Muslim 1037, through Harmala, he says 'Yunus informed me' (أخبرني يونس). The class notes describe him as saying akhbarana here; the Arabic text of 71 does not bear that out."
+      },
+      {
+        "from": "abdullah-ibn-wahb",
+        "to": "said-ibn-ufayr",
+        "sighaAr": "قال حدثنا ابن وهب",
+        "sighaEn": "he said: Ibn Wahb narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "said-ibn-ufayr",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا سعيد بن عفير",
+        "sighaEn": "Sa'id ibn Ufayr narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ سَمِعْتُ مُعَاوِيَةَ، خَطِيبًا يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "matnAr": "مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ، وَإِنَّمَا أَنَا قَاسِمٌ وَاللَّهُ يُعْطِي، وَلَنْ تَزَالَ هَذِهِ الأُمَّةُ قَائِمَةً عَلَى أَمْرِ اللَّهِ لاَ يَضُرُّهُمْ مَنْ خَالَفَهُمْ حَتَّى يَأْتِيَ أَمْرُ اللَّهِ",
+    "matnEn": "Whoever God intends good for, He gives him understanding of the religion. I am only one who distributes; it is God who gives. And this community will never cease to stand upon God's command; those who oppose them will not harm them, until God's command comes.",
+    "url": "https://sunnah.com/bukhari:71"
+  },
+  "also": [
+    {
+      "cite": "bukhari:3116",
+      "label": "Sahih al-Bukhari 3116",
+      "note": "Book of the Obligatory Fifth (Khums)",
+      "url": "https://sunnah.com/bukhari:3116",
+      "chainNote": "Hibban ibn Musa → Abdullah ibn al-Mubarak → Yunus → al-Zuhri → Humayd → Mu'awiya: a second student of Yunus, so a partial corroboration (mutaba'a) of Ibn Wahb that shares the chain from Yunus upward.",
+      "wordingNote": "'God is the Giver and I am the distributor; this community will remain victorious over those who oppose them until God's command comes, and they will be victorious' (والله المعطي وأنا القاسم، ولا تزال هذه الأمة ظاهرين على من خالفهم). Humayd: 'that he heard Mu'awiya'."
+    },
+    {
+      "cite": "bukhari:7312",
+      "label": "Sahih al-Bukhari 7312",
+      "note": "Book of Holding Fast to the Book and the Sunna",
+      "url": "https://sunnah.com/bukhari:7312",
+      "chainNote": "Isma'il ibn Abi Uways → Ibn Wahb → Yunus → Ibn Shihab: a second student of Ibn Wahb, so a complete corroboration of Sa'id ibn Ufayr. Here Ibn Shihab says 'Humayd informed me' (أخبرني حميد).",
+      "wordingNote": "'I am only a distributor and God gives; the affair of this community will remain upright until the Hour comes, or until God's command comes' (ولن يزال أمر هذه الأمة مستقيما حتى تقوم الساعة أو حتى يأتي أمر الله)."
+    },
+    {
+      "cite": "bukhari:3641",
+      "label": "Sahih al-Bukhari 3641",
+      "note": "Book of Virtues, among the signs of prophethood; Fath al-Bari lists it with 7460 among the places (atraf) of hadith 71",
+      "url": "https://sunnah.com/bukhari:3641",
+      "chainNote": "A different route from Mu'awiya: al-Humaydi → al-Walid ibn Muslim → Ibn Jabir → Umayr ibn Hani, who heard Mu'awiya. It does not pass through Humayd or al-Zuhri.",
+      "wordingNote": "The last sentence alone: 'a group of my community will not cease to stand upon God's command; those who abandon them or oppose them will not harm them until God's command comes to them while they are so' (لا يزال من أمتي أمة قائمة بأمر الله). Mu'awiya then relays Mu'adh's remark that they will be in Syria."
+    },
+    {
+      "cite": "bukhari:7460",
+      "label": "Sahih al-Bukhari 7460",
+      "note": "Book of Oneness of God",
+      "url": "https://sunnah.com/bukhari:7460",
+      "chainNote": "The Umayr ibn Hani route again, through al-Humaydi and al-Walid ibn Muslim.",
+      "wordingNote": "As 3641, with 'those who belie them' (من كذبهم) in place of 'those who abandon them'."
+    },
+    {
+      "cite": "muslim:1037",
+      "label": "Sahih Muslim 1037",
+      "note": "Book of Zakat",
+      "url": "https://sunnah.com/muslim:1037",
+      "chainNote": "Harmala ibn Yahya → Ibn Wahb ('Yunus informed me', أخبرني يونس) → Ibn Shihab ('Humayd ibn Abd al-Rahman ibn Awf narrated to me', حدثني) → Mu'awiya 'while he was preaching': a complete corroboration of Sa'id ibn Ufayr, with hearing stated at the two links that read 'from' and 'he said' in al-Bukhari. Muslim also records the first clause through Abdullah ibn Amir al-Yahsubi from Mu'awiya, and in the Book of Leadership through Yazid ibn al-Asamm.",
+      "wordingNote": "The first two sentences only: 'whoever God intends good for, He gives him understanding of the religion; I am only a distributor and God gives'."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 71, 3116, 7312; the last clause through another route at 3641 and 7460",
+      "reason": "Recorded in the Book of Knowledge, the Book of the Fifth and the Book of Holding Fast through three different students of Yunus and Ibn Wahb, and the closing sentence through a separate Syrian route from Mu'awiya. Inclusion in the Sahih is itself a grade: every narrator meets his conditions.",
+      "url": "https://sunnah.com/bukhari:71"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 1037",
+      "reason": "Included in the Book of Zakat through Harmala from Ibn Wahb, with hearing stated at every link.",
+      "url": "https://sunnah.com/muslim:1037"
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "Humayd does not just report Mu'awiya's words; he records the setting, 'while he was preaching'. Hadith scholars read a detail like this as evidence of a narrator's precision: he remembers where and how he heard what he transmits.",
+      "source": "Teacher's class notes on hadith 1 of the course; the formula is in the Arabic text, and Fath al-Bari on hadith 71 notes that Muslim and al-Bukhari 7312 read 'while he was preaching'"
+    },
+    {
+      "kind": "scholar",
+      "text": "Two links are written loosely here and tightened elsewhere. Ibn Shihab's 'Humayd said' works like a bare 'from', but in al-Bukhari 7312 he says 'Humayd informed me' and in Muslim 1037 'Humayd narrated to me'. Ibn Wahb, who is in the lightest rank of the mudallisun, says 'from Yunus' here but 'Yunus informed me' in Muslim. The other routes, not this text alone, settle that both heard what they transmit.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 71 (Shamela 1673/650); Sahih al-Bukhari 7312; Sahih Muslim 1037; Ibn Hajar, Ta'rif Ahl al-Taqdis, entry 17"
+    },
+    {
+      "kind": "scholar",
+      "text": "Testing the chain (i'tibar): Isma'il ibn Abi Uways in al-Bukhari 7312 and Harmala ibn Yahya in Muslim 1037 both carry it from Ibn Wahb, a complete corroboration of Sa'id ibn Ufayr; Hibban ibn Musa's route through Ibn al-Mubarak from Yunus (al-Bukhari 3116) joins the chain one step higher, a partial corroboration. The Umayr ibn Hani route (3641, 7460) is a second chain from Mu'awiya himself for the last sentence. The notes add that reports of Umar, Ibn Umar, Ibn Abbas, Ibn Mas'ud and Abu Hurayra serve as witnesses (shawahid) from other Companions.",
+      "source": "Chains of Sahih al-Bukhari 3116, 3641, 7312, 7460 and Sahih Muslim 1037; classification of the routes follows the teacher's class notes"
+    },
+    {
+      "kind": "scholar",
+      "text": "Patron and client stand at the two ends of the chain: Yunus ibn Yazid was a client (mawla) of the house of Abu Sufyan, and Tahdhib al-Tahdhib names Mu'awiya himself as his patron. More broadly the upper half of the chain, Mu'awiya, Humayd and Ibn Shihab, are Qurashis by descent, while the three below them, Sa'id ibn Ufayr, Ibn Wahb and Yunus, are all clients: of the Ansar, of Quraysh and of the Umayyads.",
+      "source": "Taqrib al-Tahdhib, entries 7919, 2382 and 3694; Shamela narrator record 7248; the observation is the teacher's"
+    },
+    {
+      "kind": "scholar",
+      "text": "Mu'awiya's 'I heard the Prophet ﷺ say' makes the report an explicitly attributed saying of the Prophet (marfu' qawli sarih); there is no inference from a Companion's practice.",
+      "source": "The formula in the Arabic text; classification per the teacher's class notes"
+    },
+    {
+      "kind": "scholar",
+      "text": "Humayd ibn Abd al-Rahman is given three kunyas in the rijal works, Abu Ibrahim, Abu Abd al-Rahman and Abu Uthman; a narrator with more than one kunya is one of the categories Ibn Hajar lists in Nukhbat al-Fikar for students to watch, since the same man can look like two.",
+      "source": "Tahdhib al-Tahdhib, letter Ha, entry 77; Shamela narrator record 1655"
+    },
+    {
+      "kind": "scholar",
+      "text": "Two Egyptians, Sa'id ibn Ufayr and Ibn Wahb, carry the Madinan report of al-Zuhri to al-Bukhari through Yunus of Ayla, the Red Sea port between Egypt and the Hijaz.",
+      "source": "Taqrib al-Tahdhib, entries 2382, 3694 and 7919"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "Points below are drawn from Ibn Hajar's Fath al-Bari on hadith 71 and were checked in the commentary itself (Shamela edition, vol. 1 pp. 164–165). The teacher's longer list of lessons and his creed excursus on the divine will are not reproduced here pending review.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari, on hadith 71",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The hadith contains three rulings: the merit of understanding in religion, which suits the chapters on knowledge; that the true giver is God, which suits the distribution of alms, so Muslim placed it in Zakat and al-Bukhari in the Fifth; and that some of this community will always remain on the truth, which suits the signs of the Hour, so al-Bukhari placed it in Holding Fast. All three nonetheless bear on this chapter heading: good is affirmed for whoever gains understanding, that understanding is a gift not merely an acquisition, and those who receive it will not die out until God's command comes.",
+        "url": "https://shamela.ws/book/1673/650"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 71",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On who the group is: al-Bukhari held they are the people of knowledge of the transmitted reports; Ahmad said, 'if they are not the people of hadith I do not know who they are'; Qadi Iyad took Ahmad to mean the people of the Sunna who hold the creed of the hadith scholars; al-Nawawi allowed that the group may be scattered among different kinds of believers. 'God's command' here is the wind that will take the soul of everyone with any faith, leaving the worst of people, upon whom the Hour will come.",
+        "url": "https://shamela.ws/book/1673/650"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 71",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "'Good' is left indefinite to cover little and much, and for emphasis. The implication is that whoever does not gain understanding of the religion, that is, learn the principles of Islam and the branches attached to them, is deprived of good. Abu Ya'la records Mu'awiya's hadith through another, weak route with the addition 'and whoever does not gain understanding of the religion, God does not care about him'; the meaning is sound even if that route is not. The hadith shows the superiority of scholars over others and of understanding the religion over the other sciences.",
+        "url": "https://shamela.ws/book/1673/651"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 71",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Textual notes: the heading's words 'in the religion' are found in al-Kushmihani's recension but not in most; 'while preaching' (خطيبا) is a circumstantial description of Mu'awiya; 'this community' means part of the community, as the parallel wording 'a group of my community' makes explicit.",
+        "url": "https://shamela.ws/book/1673/650"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Understanding of the religion is a sign that God intends good for a person, and it is a gift from God before it is an acquisition.",
+        "source": "Fath al-Bari on hadith 71"
+      },
+      {
+        "text": "Scholars have a standing above others, and understanding of the religion a standing above the other sciences.",
+        "source": "Fath al-Bari on hadith 71"
+      },
+      {
+        "text": "The giver in reality is God; the Prophet ﷺ only apportions what he is given, which is why the compilers also placed the hadith among the rulings on distributing wealth.",
+        "source": "Fath al-Bari on hadith 71"
+      },
+      {
+        "text": "Some of this community will always remain upon the truth until God's command comes; the time will never be empty of those who understand the religion.",
+        "source": "Fath al-Bari on hadith 71"
+      }
+    ]
+  },
+  "context": "Mu'awiya delivered this hadith from the pulpit as caliph, and Humayd ibn Abd al-Rahman, a young Madinan of Quraysh, heard it there. Al-Bukhari splits the three sentences across his book, placing the hadith in the Book of Knowledge for its first clause, in the Book of the Fifth for the second, and in Holding Fast to the Sunna for the third; Ibn Hajar reads the placements as a map of its meanings. Muslim records only the first two sentences.",
+  "vocabulary": [
+    {
+      "term": "Yufaqqihhu",
+      "ar": "يُفَقِّهْهُ",
+      "meaning": "'He gives him understanding.' Ibn Hajar notes the three vowelings of the root: faquha, when understanding becomes second nature; faqaha, when one outstrips others to it; faqiha, when one simply understands. Here it means an understanding of the religion that bears fruit."
+    },
+    {
+      "term": "Qasim",
+      "ar": "قاسم",
+      "meaning": "One who distributes. The Prophet ﷺ apportions knowledge and wealth as he is commanded; the giving itself is God's."
+    },
+    {
+      "term": "Amr Allah",
+      "ar": "أمر الله",
+      "meaning": "God's command. In 'standing upon God's command' it is His religion and law; in 'until God's command comes' it is His decree, which Ibn Hajar identifies as the wind at the end of time that takes every believer's soul."
+    },
+    {
+      "term": "Marfu' qawli",
+      "ar": "مرفوع قولي",
+      "meaning": "A report that attributes words, not an action, to the Prophet ﷺ, here with hearing stated outright: 'I heard the Prophet ﷺ say'."
+    },
+    {
+      "term": "Mutaba'a",
+      "ar": "متابعة",
+      "meaning": "Corroboration: another narrator carrying the same report from the same Companion. Complete when it joins at the teacher of the narrator being tested, partial when it joins higher up."
+    },
+    {
+      "term": "Shahid",
+      "ar": "شاهد",
+      "meaning": "A witness: the same meaning reported through a different Companion."
+    },
+    {
+      "term": "Tadlis",
+      "ar": "تدليس",
+      "meaning": "Using an ambiguous formula like 'from' that hides whether the narrator heard directly. Ibn Hajar ranks the narrators who did it; Ibn Wahb is in his first and lightest rank, al-Zuhri in the third."
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Read the verb, then read the other copies",
+      "body": "Two links in this chain are written loosely: Ibn Shihab 'said' and Ibn Wahb reports 'from'. A trained reader does not stop at the page. Al-Bukhari's own second copy of the hadith and Muslim's copy have the same men saying 'informed me' and 'narrated to me'. The question the loose verb raises is answered by the discipline's habit of collecting every route."
+    },
+    {
+      "title": "A sermon is a source",
+      "body": "Humayd remembered that Mu'awiya was preaching when he said this. The detail does nothing for the ruling; it does a great deal for the narrator. Someone who recalls the occasion is more likely to recall the words, and the critics weighed such details when they judged who was precise."
+    },
+    {
+      "title": "Where a hadith is filed tells you what it means",
+      "body": "Al-Bukhari puts this one report in four places and quotes a different clause in each. Ibn Hajar reads the placements as a commentary: knowledge, the distribution of wealth, and the signs of the Hour are each a face of the same text."
+    },
+    {
+      "title": "The chain has a social shape",
+      "body": "Three Qurashis at the top, three clients at the bottom, and the client of Mu'awiya's own house carrying Mu'awiya's words. Scholars noticed patterns like this not as ornament but because knowing who was whose client, kinsman or townsman is how they caught confused names and impossible meetings."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 1,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 71 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:71"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (fawazahmed0 hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Arabic text of Sahih Muslim (fawazahmed0 hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 71, vol. 1 pp. 164–165 (Shamela)",
+      "url": "https://shamela.ws/book/1673/650"
+    },
+    {
+      "label": "Sahih Muslim 1037 (sunnah.com)",
+      "url": "https://sunnah.com/muslim:1037"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis bi-Maratib al-Mawsufin bi-l-Tadlis (Shamela)",
+      "url": "https://shamela.ws/book/1186"
+    },
+    {
+      "label": "Teacher's class notes, hadith 1 of the course (structured extract in this repository: docs/research/class-notes/bukhari-71.md)"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

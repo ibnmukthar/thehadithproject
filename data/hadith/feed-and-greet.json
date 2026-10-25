@@ -1,0 +1,319 @@
+{
+  "slug": "feed-and-greet",
+  "title": "Feed people and greet everyone",
+  "titleAr": "تطعم الطعام وتقرأ السلام على من عرفت ومن لم تعرف",
+  "takeaway": "A man asks the Prophet ﷺ which part of Islam is best. The answer names two plain, outward acts: give people food, and offer the greeting of peace to those you know and those you do not. The hadith sits in al-Bukhari's Book of Faith as evidence that faith has parts, some better than others, and that generosity and open courtesy rank high among them.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: recorded by al-Bukhari in three places and by Muslim, and by Abu Dawud, al-Nasa'i and Ibn Majah, all through al-Layth ibn Sa'd with one chain; four of the six have it from Qutaybah ibn Sa'id. The whole chain is Egyptian, which al-Nawawi counts among the rarest in Muslim or anywhere."
+  },
+  "primary": {
+    "cite": "bukhari:12",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "12",
+    "bookChapter": "Book of Faith, chapter 6: providing food is part of Islam",
+    "chain": ["al-bukhari", "amr-ibn-khalid", "al-layth-ibn-sad", "yazid-ibn-abi-habib", "abu-al-khayr-marthad", "abdullah-ibn-amr-ibn-al-as"],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "abdullah-ibn-amr-ibn-al-as",
+        "sighaAr": "أن رجلا سأل النبي ﷺ",
+        "sighaEn": "that a man asked the Prophet ﷺ",
+        "kind": "an",
+        "note": "The Companion reports an exchange he witnessed; the questioner is unnamed."
+      },
+      {
+        "from": "abdullah-ibn-amr-ibn-al-as",
+        "to": "abu-al-khayr-marthad",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "Muslim 40, through Amr ibn al-Harith, has \"that he heard Abdullah ibn Amr ibn al-As say\", so the hearing is explicit elsewhere."
+      },
+      {
+        "from": "abu-al-khayr-marthad",
+        "to": "yazid-ibn-abi-habib",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "A Successor from a Successor, both muftis of Egypt in turn. Yazid is noted for irsal, but his shaykh here is the fellow Egyptian whose hadith he carried; no critic questions this hearing."
+      },
+      {
+        "from": "yazid-ibn-abi-habib",
+        "to": "al-layth-ibn-sad",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "In 6236 al-Layth says \"Yazid narrated to me\", so the hearing is explicit in al-Bukhari's own book."
+      },
+      {
+        "from": "al-layth-ibn-sad",
+        "to": "amr-ibn-khalid",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "amr-ibn-khalid",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama",
+        "note": "Ibn Hajar: Amr with fathah, the Harrani; whoever read Umar corrupted it."
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ",
+    "matnAr": "أَنَّ رَجُلاً سَأَلَ النَّبِيَّ صلى الله عليه وسلم: أَيُّ الإِسْلاَمِ خَيْرٌ؟ قَالَ: تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ",
+    "matnEn": "A man asked the Prophet ﷺ: which part of Islam is best? He said: that you give food to eat, and that you offer the greeting of peace to those you know and those you do not know.",
+    "url": "https://sunnah.com/bukhari:12"
+  },
+  "also": [
+    {
+      "cite": "bukhari:28",
+      "label": "Sahih al-Bukhari 28",
+      "note": "Book of Faith, chapter: spreading the greeting of peace is part of Islam.",
+      "url": "https://sunnah.com/bukhari:28",
+      "chainNote": "Qutaybah → al-Layth → Yazid ibn Abi Habib → Abu al-Khayr → Abdullah ibn Amr; the same chain from al-Layth down, with Yazid's father named.",
+      "wordingNote": "\"Asked the Messenger of God ﷺ\" for \"the Prophet\"; otherwise identical."
+    },
+    {
+      "cite": "bukhari:6236",
+      "label": "Sahih al-Bukhari 6236",
+      "note": "Book of Asking Permission, chapter: greeting those one knows and those one does not know.",
+      "url": "https://sunnah.com/bukhari:6236",
+      "chainNote": "Abdullah ibn Yusuf → al-Layth, \"Yazid narrated to me\" → Abu al-Khayr → Abdullah ibn Amr. Al-Layth's hearing from Yazid is explicit here.",
+      "wordingNote": "\"...and to those you do not know\" with the preposition repeated (wa ala man lam ta'rif)."
+    },
+    {
+      "cite": "muslim:39",
+      "label": "Sahih Muslim 39",
+      "note": "Book of Faith, chapter on the degrees of Islam and which of its matters is best.",
+      "url": "https://sunnah.com/muslim:39",
+      "chainNote": "Qutaybah ibn Sa'id → Layth, and (ha') Muhammad ibn Rumh ibn al-Muhajir → al-Layth (\"informed us\") → Yazid ibn Abi Habib → Abu al-Khayr → Abdullah ibn Amr. Al-Nawawi: both of Muslim's chains here are Egyptian from end to end.",
+      "wordingNote": "Identical to al-Bukhari 28. Muslim 40 then gives, through Abu al-Tahir → Ibn Wahb → Amr ibn al-Harith → Yazid → Abu al-Khayr, \"who heard Abdullah ibn Amr\", a different question and answer: \"which of the Muslims is best? He who the Muslims are safe from, his tongue and his hand.\" Ibn Mandah called this inconsistency (idtirab); Ibn Hajar answers that they are two hadith sharing one chain."
+    },
+    {
+      "cite": "abudawud:5194",
+      "label": "Sunan Abi Dawud 5194",
+      "note": "Book of Etiquette.",
+      "url": "https://sunnah.com/abudawud:5194",
+      "chainNote": "Qutaybah ibn Sa'id → al-Layth, then as al-Bukhari 28.",
+      "wordingNote": "Identical."
+    },
+    {
+      "cite": "nasai:5000",
+      "label": "Sunan al-Nasa'i 5000",
+      "note": "Book of Faith and its Signs.",
+      "url": "https://sunnah.com/nasai:5000",
+      "chainNote": "Qutaybah → al-Layth, then as al-Bukhari 28.",
+      "wordingNote": "Identical."
+    },
+    {
+      "cite": "ibnmajah:3253",
+      "label": "Sunan Ibn Majah 3253",
+      "note": "Book of Foods, chapter: providing food.",
+      "url": "https://sunnah.com/ibnmajah:3253",
+      "chainNote": "Muhammad ibn Rumh → al-Layth ibn Sa'd (\"informed us\") → Yazid ibn Abi Habib → Abu al-Khayr → Abdullah ibn Amr.",
+      "wordingNote": "Adds the questioner's address: \"he said, O Messenger of God, which part of Islam is best?\""
+    },
+    {
+      "cite": "bukhari:adab-al-mufrad",
+      "label": "al-Bukhari, al-Adab al-Mufrad",
+      "note": "Numbers not confirmed. The class notes record two places: from Qutaybah with the chain and wording of the Sahih, under greeting those one knows and others; and from Abdullah ibn Salih, al-Layth's scribe, from al-Layth, under those who disliked greeting only select people."
+    },
+    {
+      "cite": "ahmad:abdullah-ibn-amr",
+      "label": "Musnad Ahmad",
+      "note": "Number not confirmed. The class notes record Hajjaj and Abu al-Nadr → al-Layth, \"Yazid ibn Abi Habib narrated to me\", with the question as \"which deeds are best?\" and the particle an made explicit before the verb; not verified here."
+    },
+    {
+      "cite": "abunuaym:hilyah",
+      "label": "Abu Nu'aym, Hilyat al-Awliya', and al-Khatib, Tarikh Baghdad",
+      "note": "Not verified here. The class notes record the hadith in the Hilyah's biography of Abdullah ibn Amr (Abu Bakr ibn Khallad → al-Harith ibn Abi Usamah → Yunus ibn Muhammad al-Mu'addib → al-Layth) and in Tarikh Baghdad's biography of Hamid ibn Sa'dan (from Ibn Rumh and Ibn Zughbah → al-Layth), both with the same chain and wording."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 12, 28, 6236",
+      "reason": "Recorded in three places through three shaykhs from al-Layth (Amr ibn Khalid, Qutaybah, Abdullah ibn Yusuf), twice in the Book of Faith under headings drawn from each half of the answer. Inclusion in the Sahih is itself a grade.",
+      "url": "https://sunnah.com/bukhari:12"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 39",
+      "reason": "Included in the Sahih through Qutaybah and Ibn Rumh from al-Layth, in the chapter on the degrees of Islam.",
+      "url": "https://sunnah.com/muslim:39"
+    },
+    {
+      "scholar": "al-Nawawi",
+      "died": 676,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih; a rare all-Egyptian chain of eminent imams",
+      "gradeAr": "وهذان الإسنادان كلهم مصريون أئمة جلة، وهذا من عزيز الأسانيد في مسلم بل في غيره، فإن اتفاق جميع الرواة في كونهم مصريين في غاية القلة، ويزداد قلة باعتبار الجلالة",
+      "source": "al-Minhaj Sharh Sahih Muslim 2/11",
+      "reason": "Both of Muslim's chains are Egyptian from end to end and made up of eminent imams; a chain whose narrators all share one city is in itself extremely rare, and rarer still when they are of this rank.",
+      "url": "https://shamela.ws/book/1711/255"
+    },
+    {
+      "scholar": "Ibn Hajar al-Asqalani",
+      "died": 852,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih; Ibn Mandah's charge of inconsistency answered",
+      "source": "Fath al-Bari 1/56",
+      "quoteAr": "فادعى ابن منده فيه الاضطراب، وأجيب بأنهما حديثان اتحد إسنادهما، وافق أحدهما حديث أبي موسى، ولثانيهما شاهد من حديث عبد الله بن سلام",
+      "reason": "Muslim's second narration with the same chain gives a different answer (\"he from whose tongue and hand the Muslims are safe\"), on which Ibn Mandah alleged idtirab. Ibn Hajar: they are two hadith that happen to share a chain; one agrees with Abu Musa's hadith and the other is supported by Abdullah ibn Salam's.",
+      "url": "https://shamela.ws/book/1673/542"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "A chain from one city",
+      "body": "Every link below al-Bukhari is Egyptian: a Harrani who settled in Egypt, then the imam of Egypt, then its mufti, then the mufti before him, then a Companion who made Egypt his home. Al-Nawawi calls a chain whose men all share one city one of the rarest things in Muslim or anywhere, rarer still for men of this rank. The site computes regional runs from the region field; al-Nawawi's remark is why the computation is worth making."
+    },
+    {
+      "title": "Three muftis in a row",
+      "body": "Abu al-Khayr gave the fatwa of Egypt under Abd al-Aziz ibn Marwan; Yazid ibn Abi Habib succeeded him and, in Ibn Yunus's phrase, was the first to turn Egyptian learning to the lawful and the unlawful; al-Layth carried the fatwa alone in his generation. A hadith on generosity and greeting passed down a line of jurists, each the student of the one before."
+    },
+    {
+      "title": "Four compilers, one shaykh",
+      "body": "Al-Bukhari (28), Muslim (39), Abu Dawud (5194) and al-Nasa'i (5000) all have the hadith from Qutaybah ibn Sa'id with identical wording. Where one teacher supplies four of the six books, the parallels confirm each other's text rather than adding routes; it is the chain below Qutaybah, through al-Layth alone, that every version depends on."
+    },
+    {
+      "title": "Same chain, different answer",
+      "body": "Muslim's next narration has the same five men and a different reply. A critic called it inconsistency; Ibn Hajar called it two hadith that share a chain, each with its own corroboration. The method does not assume that one chain carries one text. It asks whether each text has independent support, and here both do."
+    }
+  ],
+  "subtleties": [
+    {
+      "text": "An all-Egyptian chain. Al-Nawawi: \"these two chains are all Egyptians, eminent imams, and this is among the rarest chains in Muslim or indeed anywhere, for all the narrators sharing one city is extremely uncommon, and more so given their rank.\" Ibn Hajar notes a further pattern: the chain of the previous chapter is all Kufan, this one all from one city, and the next all Basran, \"a chain of single-region chains in three consecutive chapters, which is among the subtleties\". The Shamela transcription of Fath al-Bari reads \"all Basrans\" for this chain where the sense and the parallel require \"all Egyptians\".",
+      "kind": "scholar",
+      "source": "al-Nawawi, Sharh Muslim 2/11; Ibn Hajar, Fath al-Bari 1/56"
+    },
+    {
+      "text": "Three successive muftis of Egypt in one chain. Ibn Yunus: Abu al-Khayr \"was the mufti of Egypt in his time; Abd al-Aziz ibn Marwan would seat him for fatwa\"; Yazid ibn Abi Habib \"was the mufti of Egypt in his day ... the first to make learning public there and to speak of the lawful and the unlawful\"; al-Layth, per Ibn Sa'd, \"alone carried the fatwa in his time\", and al-Nawawi calls him the mufti of Egypt in his age.",
+      "kind": "scholar",
+      "source": "Tahdhib al-Kamal 27/358 and 32/102 (Ibn Yunus); Tahdhib al-Kamal 24/261 (Ibn Sa'd); al-Nawawi, Sharh Muslim 2/11–12"
+    },
+    {
+      "text": "Four of the six compilers have the hadith with the same chain and wording from one shaykh, Qutaybah ibn Sa'id: al-Bukhari 28, Muslim 39, Abu Dawud 5194 and al-Nasa'i 5000.",
+      "kind": "check",
+      "source": "the Arabic texts of the four collections"
+    },
+    {
+      "text": "The questioner is unnamed. Ibn Hajar: \"I do not know his name; it is said he was Abu Dharr, and in Ibn Hibban it is Hani' ibn Yazid, the father of Shurayh, who asked about the meaning of this and was answered in similar terms.\"",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/56"
+    },
+    {
+      "text": "Abdullah ibn Amr is one of the four Abdullahs (al-Abadilah) whose agreement in law carried weight: Ibn Umar, Ibn Abbas, Ibn al-Zubayr and Ibn Amr ibn al-As, as Ahmad named them; asked about Ibn Mas'ud, Ahmad said he was not one of them, because, al-Bayhaqi explains, he died early while these four lived long enough to be consulted. Al-Nawawi calls al-Jawhari's substitution of Ibn Mas'ud for Ibn Amr a plain error.",
+      "kind": "scholar",
+      "source": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/267"
+    },
+    {
+      "text": "Only eleven years separated Abdullah ibn Amr from his father Amr ibn al-As (al-Mizzi); al-Nawawi gives twelve, or eleven. He accepted Islam before his father did.",
+      "kind": "check",
+      "source": "Tahdhib al-Kamal 15/358; al-Nawawi, Tahdhib al-Asma' 1/281–282"
+    },
+    {
+      "text": "Al-Bukhari's heading quotes the first half of the answer, \"providing food\", not the question \"which part of Islam is best\", to signal that this chapter and the one before it (\"which Islam is best\", with Abu Musa's hadith) answer two different questions, as Ibn Hajar goes on to argue.",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/55–56"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "The twelve lessons in the class notes were checked against Fath al-Bari and al-Nawawi's Sharh Muslim; those confirmed are entered with their source. The Ibn Battal point (that selective greeting resembles forbidden shunning) and the lessons on the Companions' eagerness to learn and on referring religious matters to scholars were not located and await a reviewer.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "\"Which part of Islam\": the question presupposes that Islam has parts, so the implied sense is \"which of the qualities of Islam\". This is what the chapter is for: having argued from the hadith of the branches of faith that faith increases and decreases, al-Bukhari gathers the texts that rank its parts.",
+        "url": "https://shamela.ws/book/1673/542"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Why a different answer from the previous chapter's \"he from whose tongue and hand the Muslims are safe\"? Either the questions differ (afdal against khayr, as al-Kirmani argued), or the answers were fitted to different askers: one warned off harming others, the other urged to active good. Feeding and greeting were singled out because of the hardship of the time and the need to bind hearts together; the Prophet urged both on the day he entered Madinah, in Abdullah ibn Salam's hadith in al-Tirmidhi.",
+        "url": "https://shamela.ws/book/1673/542"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "\"Tut'im\" stands for a verbal noun, \"that you feed\", like the proverb \"tasma'u bi-l-Mu'aydi\"; \"feeding\" is said rather than \"hospitality\" so that hospitality and every other kind of feeding are included. \"Taqra'\" means \"you say\": Abu Hatim al-Sijistani notes that one says \"iqra' alayhi al-salam\" for a spoken greeting and \"aqri'hu al-salam\" only for a written one.",
+        "url": "https://shamela.ws/book/1673/542"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "\"Those you do not know\": do not reserve the greeting for some out of pride or affectation, but give it as the emblem of Islam and the brotherhood of Muslims. The general wording would include the unbeliever, the hypocrite and the open sinner; either other evidence restricts it, or the prohibition came later and this was general at first for the sake of winning hearts; one whose state is unknown keeps the general rule until the exception is proved.",
+        "url": "https://shamela.ws/book/1673/542"
+      },
+      {
+        "work": "al-Minhaj Sharh Sahih Muslim",
+        "author": "al-Nawawi",
+        "point": "The scholars take \"which Islam is best\" as \"which of its qualities, matters and states\"; the different answers to the same question reflect the different needs of askers and audiences. \"To those you know and those you do not\" means greeting everyone you meet, not only acquaintances \"as many people do\"; the generality is restricted to Muslims, so one does not initiate the greeting to an unbeliever.",
+        "url": "https://shamela.ws/book/1711/254"
+      },
+      {
+        "work": "al-Minhaj Sharh Sahih Muslim",
+        "author": "al-Nawawi",
+        "point": "The benefits of these hadith: encouragement to feed people, to generosity, to care for the welfare of Muslims and to refrain from harming or belittling them; to the uniting of hearts and the gathering of the community, which al-Qadi Iyad calls one of the duties of religion; giving the greeting to known and unknown alike, sincerely for God and not out of flattery; humility; and spreading the emblem of this community.",
+        "url": "https://shamela.ws/book/1711/255"
+      }
+    ],
+    "rulings": [
+      { "text": "The qualities of Islam differ in excellence; the question presupposes it and al-Bukhari's chapter is built on it.", "source": "Ibn Hajar, Fath al-Bari 1/55–56" },
+      { "text": "Providing food is among the best qualities of Islam, and includes hospitality and every other feeding.", "source": "Ibn Hajar, Fath al-Bari 1/56; al-Nawawi, Sharh Muslim 2/10–11" },
+      { "text": "Spreading the greeting of peace is among the best qualities of Islam, and the emblem of this community.", "source": "al-Nawawi, Sharh Muslim 2/11; Ibn Hajar, Fath al-Bari 1/56" },
+      { "text": "Greet those you know and those you do not; reserving the greeting for acquaintances out of pride or affectation is what the hadith forbids.", "source": "Ibn Hajar, Fath al-Bari 1/56; al-Nawawi, Sharh Muslim 2/10" },
+      { "text": "The greeting is for Muslims; its general wording is restricted by other evidence or was general only at first, and one whose state is unknown is greeted under the general rule.", "source": "al-Nawawi, Sharh Muslim 2/10; Ibn Hajar, Fath al-Bari 1/56" },
+      { "text": "Deeds are for God alone, not flattery; the greeting is to be given sincerely.", "source": "al-Nawawi, Sharh Muslim 2/11, quoting al-Qadi Iyad" },
+      { "text": "Humility is encouraged, and the means of uniting hearts, food and greeting among them, are among the aims of the law.", "source": "al-Nawawi, Sharh Muslim 2/11" }
+    ]
+  },
+  "context": "Al-Bukhari places this hadith under two headings in the Book of Faith, one for each half of the Prophet's answer (\"providing food is part of Islam\", 12; \"spreading the greeting is part of Islam\", 28), and once more under the etiquette of greeting (6236). It follows Abu Musa's hadith with a nearly identical question and a different answer, and Ibn Hajar's commentary turns on how the two fit together: different words in the question, or different askers. Muslim keeps both answers side by side under one heading on the degrees of Islam and even records the second answer through this very chain, which prompted Ibn Mandah's charge of inconsistency and Ibn Hajar's reply that one chain can carry two hadith. The questioner is never named; the Companion who preserved the exchange, Abdullah ibn Amr ibn al-As, was one of the few who wrote hadith down, and settled in Egypt, where this chain of Egyptian jurists kept his report.",
+  "vocabulary": [
+    { "term": "Khayr", "ar": "خير", "meaning": "Here an elative, \"best\", with the hamzah of akhyar dropped, as in the Qur'an's use of the word both as a noun, \"good\", and as a comparative. Ibn Hajar discusses whether \"khayr\" and the previous chapter's \"afdal\" differ in sense." },
+    { "term": "Tut'im al-ta'am", "ar": "تُطعم الطعام", "meaning": "\"You feed food\": a verb standing for a verbal noun, \"that you give food\", like the proverb tasma'u bi-l-Mu'aydi; general enough to cover hospitality and every other kind of feeding." },
+    { "term": "Taqra' al-salam", "ar": "تَقرأ السلام", "meaning": "\"You read the greeting\", meaning you say it. Abu Hatim al-Sijistani: iqra' alayhi al-salam for a spoken greeting; aqri'hu al-salam for a written one." },
+    { "term": "Man lam ta'rif", "ar": "من لم تعرف", "meaning": "\"Those you do not know\": the greeting is not to be reserved for acquaintances. Al-Nawawi restricts the generality to Muslims; Ibn Hajar discusses whether other evidence restricts it or a later prohibition did." },
+    { "term": "Mubham", "ar": "مُبهم", "meaning": "An unnamed person in a hadith; here the questioner, whom Ibn Hajar could not identify with confidence." },
+    { "term": "al-Abadilah", "ar": "العبادلة", "meaning": "The four Abdullahs among the Companions whose rulings carried weight: Ibn Umar, Ibn Abbas, Ibn al-Zubayr and Ibn Amr ibn al-As." }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 11,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    { "label": "Sahih al-Bukhari 12 (sunnah.com)", "url": "https://sunnah.com/bukhari:12" },
+    { "label": "Sahih al-Bukhari 28 (sunnah.com)", "url": "https://sunnah.com/bukhari:28" },
+    { "label": "Sahih al-Bukhari 6236 (sunnah.com)", "url": "https://sunnah.com/bukhari:6236" },
+    { "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (hadith-api)", "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json" },
+    { "label": "Sahih Muslim 39–40 (sunnah.com)", "url": "https://sunnah.com/muslim:39" },
+    { "label": "Sunan Abi Dawud 5194 (sunnah.com)", "url": "https://sunnah.com/abudawud:5194" },
+    { "label": "Sunan al-Nasa'i 5000 (sunnah.com)", "url": "https://sunnah.com/nasai:5000" },
+    { "label": "Sunan Ibn Majah 3253 (sunnah.com)", "url": "https://sunnah.com/ibnmajah:3253" },
+    { "label": "Ibn Hajar, Fath al-Bari 1/55–56 on hadith 12 (Shamela)", "url": "https://shamela.ws/book/1673/541" },
+    { "label": "Ibn Hajar, Fath al-Bari 1/56, continued (Shamela)", "url": "https://shamela.ws/book/1673/542" },
+    { "label": "al-Nawawi, al-Minhaj Sharh Sahih Muslim 2/10–12 on hadith 39 (Shamela)", "url": "https://shamela.ws/book/1711/254" },
+    { "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/267, the Abadilah (Shamela)", "url": "https://shamela.ws/book/9702/267" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 27/357, Abu al-Khayr (Shamela)", "url": "https://shamela.ws/book/3722/14747" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 32/102, Yazid ibn Abi Habib (Shamela)", "url": "https://shamela.ws/book/3722/17217" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

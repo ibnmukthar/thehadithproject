@@ -1,0 +1,387 @@
+{
+  "id": "hushaym-ibn-bashir",
+  "name": "Hushaym ibn Bashir",
+  "nameAr": "هشيم بن بشير بن القاسم بن دينار السلمي، أبو معاوية بن أبي خازم، الواسطي",
+  "short": "Hushaym ibn Bashir",
+  "shortAr": "هشيم بن بشير",
+  "kunya": "Abu Mu'awiyah",
+  "kunyaAr": "أبو معاوية",
+  "nisbas": [
+    {
+      "ar": "السلمي",
+      "en": "al-Sulami (with dammah: Banu Sulaym, by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الواسطي",
+      "en": "al-Wasiti",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Banu Sulaym",
+  "fatherName": "Bashir",
+  "orthography": {
+    "spelled": "Hushaym, a diminutive (bi-l-tasghir); Bashir on the pattern of azim; al-Sulami with dammah on the sin, from Banu Sulaym. Not al-Salami with two fathahs, the Ansari nisba of Jabir ibn Abdullah.",
+    "homographs": [
+      "al-Salami (Banu Salimah of the Ansar), e.g. Jabir ibn Abdullah"
+    ],
+    "source": "Taqrib al-Tahdhib 7312; Ibn Hajar, Hady al-Sari, fasl 6: \"al-Sulami with dammah is common, with fathah only among the Ansar\""
+  },
+  "born": 104,
+  "bornNote": "104 or 105 (Shamela narrator record); the Taqrib says he died approaching eighty, which agrees.",
+  "died": 183,
+  "diedNote": "183, approaching eighty (Taqrib); Ibn Hibban: died in Baghdad in 183; 181 is also reported.",
+  "deathVariants": [
+    {
+      "year": 183,
+      "authority": "Ibn Hibban, al-Thiqat; Ibn Hajar, Taqrib",
+      "source": "Ikmal Tahdhib al-Kamal 12/156; Taqrib 7312"
+    },
+    {
+      "year": 181,
+      "authority": "another report",
+      "source": "Shamela narrator record 6709"
+    }
+  ],
+  "region": "Wasit, then Baghdad",
+  "origin": "Balkh (some said Bukhara); his grandfather al-Qasim settled in Wasit",
+  "residence": [
+    "Wasit",
+    "Baghdad"
+  ],
+  "tabaqa": 7,
+  "taqrib": {
+    "ar": "ثقة ثبت كثير التدليس والإرسال الخفي",
+    "en": "Reliable and firm, but given to much tadlis and hidden irsal.",
+    "number": "7312",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "6709",
+    "tahdhibKamal": "30/272 (no. 6595)"
+  },
+  "teachers": [
+    {
+      "id": "sayyar-abu-al-hakam",
+      "name": "Sayyar Abu al-Hakam",
+      "nameAr": "سيار أبو الحكم",
+      "sigla": [
+        "خ",
+        "م",
+        "س"
+      ],
+      "source": "Tahdhib al-Kamal 30/273"
+    },
+    {
+      "name": "Humayd al-Tawil",
+      "nameAr": "حميد الطويل",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "Tahdhib al-Kamal 30/273"
+    },
+    {
+      "name": "Khalid al-Hadhdha'",
+      "nameAr": "خالد الحذاء",
+      "sigla": [
+        "خ",
+        "م",
+        "د"
+      ],
+      "source": "Tahdhib al-Kamal 30/273"
+    },
+    {
+      "name": "Husayn ibn Abd al-Rahman al-Sulami",
+      "nameAr": "حصين بن عبد الرحمن",
+      "sigla": [
+        "خ",
+        "م",
+        "ت",
+        "سي"
+      ],
+      "source": "Tahdhib al-Kamal 30/273; Ahmad: no one's hearing from Husayn is sounder than Hushaym's (al-Jarh 9/115)"
+    },
+    {
+      "name": "Sulayman al-A'mash",
+      "nameAr": "سليمان الأعمش",
+      "sigla": [
+        "م"
+      ],
+      "source": "Tahdhib al-Kamal 30/273"
+    },
+    {
+      "name": "Shu'bah ibn al-Hajjaj, who also narrated from him",
+      "nameAr": "شعبة بن الحجاج",
+      "sigla": [
+        "س"
+      ],
+      "source": "Tahdhib al-Kamal 30/273"
+    },
+    {
+      "name": "Isma'il ibn Abi Khalid",
+      "nameAr": "إسماعيل بن أبي خالد",
+      "id": "ismail-ibn-abi-khalid",
+      "source": "reciprocal of the entry in ismail-ibn-abi-khalid's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "students": [
+    {
+      "id": "muhammad-ibn-sinan-al-awqi",
+      "name": "Muhammad ibn Sinan al-Awqi",
+      "nameAr": "محمد بن سنان العوقي",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Kamal 30/276"
+    },
+    {
+      "id": "said-ibn-al-nadr",
+      "name": "Sa'id ibn al-Nadr",
+      "nameAr": "سعيد بن النضر",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Kamal 30/276"
+    },
+    {
+      "name": "Ahmad ibn Hanbal",
+      "nameAr": "أحمد بن حنبل",
+      "sigla": [
+        "م",
+        "د"
+      ],
+      "source": "Tahdhib al-Kamal 30/275"
+    },
+    {
+      "name": "Qutaybah ibn Sa'id",
+      "nameAr": "قتيبة بن سعيد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Kamal 30/276"
+    },
+    {
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "عبد الله بن المبارك",
+      "source": "Tahdhib al-Kamal 30/276"
+    },
+    {
+      "name": "Muhammad ibn Ja'far Ghundar",
+      "nameAr": "محمد بن جعفر غندر",
+      "source": "Tahdhib al-Kamal 30/276"
+    },
+    {
+      "name": "Yahya ibn Yahya al-Naysaburi and Abu Bakr ibn Abi Shaybah, Muslim's route for hadith 521",
+      "nameAr": "يحيى بن يحيى؛ أبو بكر بن أبي شيبة",
+      "source": "Sahih Muslim 521a–b"
+    },
+    {
+      "name": "al-Hasan ibn Isma'il ibn Sulayman, al-Nasa'i's route",
+      "nameAr": "الحسن بن إسماعيل بن سليمان",
+      "source": "Sunan al-Nasa'i 432"
+    },
+    {
+      "name": "Musaddad",
+      "nameAr": "مسدد",
+      "id": "musaddad",
+      "source": "reciprocal of the entry in musaddad's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "ثقة، وهشيم أحفظ من أبي عوانة",
+      "en": "Reliable; Hushaym has a better memory than Abu Awanah.",
+      "source": "al-Jarh wa al-Ta'dil 9/115",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "لا يسأل عن هشيم في صلاحه وصدقه وأمانته",
+      "en": "One does not ask about Hushaym's uprightness, truthfulness and trustworthiness.",
+      "source": "Tahdhib al-Tahdhib 4/280",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "Abu Zur'ah al-Razi",
+      "criticDied": 264,
+      "ar": "سئل عن جرير وهشيم فقال: هشيم أحفظ",
+      "en": "Asked about Jarir and Hushaym: Hushaym has the better memory.",
+      "source": "al-Jarh wa al-Ta'dil 9/115",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "لم يسمع هشيم من يزيد بن أبي زياد، ولا من عاصم بن كليب، ... ولا من سيار، ولا من علي بن زيد، وقد حدث عنهم",
+      "en": "Hushaym did not hear from Yazid ibn Abi Ziyad, Asim ibn Kulayb, Layth Abu al-Mushrafi, Musa al-Juhani, Muhammad ibn Juhadah, al-Hasan ibn Ubaydullah, Abu Khaldah, Sayyar or Ali ibn Zayd, yet he narrated from them.",
+      "source": "Tahdhib al-Tahdhib 4/280; al-Ala'i, Jami' al-Tahsil, as in Tuhfat al-Tahsil 1/550",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Hanbal ibn Ishaq",
+      "ar": "حفظت كل شيء سمعته من هشيم، وهشيم حي قبل موته",
+      "en": "I memorised everything I heard from Hushaym while he was still alive; he kept company with him four or five years and out of awe asked him only two questions.",
+      "source": "Tahdhib al-Kamal 30/277; Tahdhib al-Tahdhib 4/280",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "Ibrahim al-Harbi",
+      "criticDied": 285,
+      "ar": "كان حفاظ الحديث أربعة، وهشيم شيخهم",
+      "en": "The masters of hadith memory were four, and Hushaym was their elder.",
+      "source": "Tahdhib al-Kamal 30/277; Tahdhib al-Tahdhib 4/280",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "ذكره في الثقات وقال: كان مدلسا، مات ببغداد سنة ثلاث وثمانين ومائة",
+      "en": "Listed him in al-Thiqat and said: he used the ambiguous formula; he died in Baghdad in 183.",
+      "source": "Tahdhib al-Tahdhib 4/280; Ikmal Tahdhib al-Kamal 12/156",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "al-Hakim",
+      "criticDied": 405,
+      "ar": "حافظ معروف بالحفظ",
+      "en": "A master, known for memory.",
+      "source": "Ikmal Tahdhib al-Kamal 12/156",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "أحد الأئمة متفق على توثيقه إلا أنه كان مشهورا بالتدليس، وروايته عن الزهري خاصة لينة عندهم. فأما التدليس فقد ذكر جماعة من الحفاظ أن البخاري كان لا يخرج عنه إلا ما صرح فيه بالتحديث، واعتبرت أنا هذا في حديثه فوجدته كذلك، إما أن يكون قد صرح به في نفس الإسناد أو صرح به من وجه آخر. وأما روايته عن الزهري فليس في الصحيحين منها شيء",
+      "en": "One of the imams, agreed upon as reliable, except that he was famous for tadlis, and his narration from al-Zuhri in particular they found soft. As to tadlis, several masters said al-Bukhari took from him only what he stated as direct hearing; I tested this in his hadith and found it so, either stated in the chain itself or stated by another route. As to his narration from al-Zuhri, none of it is in the two Sahihs.",
+      "source": "Hady al-Sari, fasl 9, letter ha'",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الهاء"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة ثبت كثير التدليس والإرسال الخفي",
+      "en": "Reliable and firm, but given to much tadlis and hidden irsal.",
+      "source": "Taqrib al-Tahdhib, entry 7312",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الهاء"
+    }
+  ],
+  "dhahabi": {
+    "ar": "إمام ثقة مدلس",
+    "en": "An imam, reliable, a mudallis.",
+    "source": "al-Kashif 4/429"
+  },
+  "tadlis": {
+    "rank": 3,
+    "type": "tadlis al-isnad, with the variety Ibn Hajar calls tadlis al-atf",
+    "source": "Ibn Hajar, Tabaqat al-Mudallisin (Ta'rif Ahl al-Taqdis), no. 111, third rank",
+    "note": "Ibn Hajar's entry: \"of the generation after the Successors, famous for tadlis despite his reliability; al-Nasa'i and others described him so.\" He then tells the story of Hushaym's students asking him for one session without tadlis, after which he revealed that in every hadith he had heard only the first of the two shaykhs he had coupled together, and Ibn Hajar calls this tadlis al-atf. Third rank means the imams accept from him only what he states as hearing. In hadith 335 he says \"informed us, Sayyar\", and in 438 and 3122 \"narrated to us, Sayyar\"."
+  },
+  "notHeardFrom": [
+    {
+      "name": "Sayyar Abu al-Hakam",
+      "id": "sayyar-abu-al-hakam",
+      "authority": "Ahmad ibn Hanbal",
+      "source": "Tahdhib al-Tahdhib 4/280; Ikmal Tahdhib al-Kamal 12/156; Tuhfat al-Tahsil 1/550",
+      "counter": "Ahmad's statement that Hushaym did not hear from Sayyar stands against Hushaym's own explicit \"akhbarana Sayyar\" (Bukhari 335) and \"haddathana Sayyar\" (Bukhari 438, 3122; Muslim 521b), against al-Mizzi listing Sayyar among his teachers with the sigla خ م س, and against Ibn Hajar's finding that al-Bukhari took from Hushaym only what he stated as hearing. The two Sahihs and al-Nasa'i record the link; a reviewer should weigh Ahmad's remark against that record."
+    }
+  ],
+  "flags": [
+    {
+      "label": "Weak from al-Zuhri",
+      "detail": "Ibn Hajar: his narration from al-Zuhri in particular they found soft, and none of it is in the two Sahihs (Hady al-Sari, fasl 9). Not relevant to this chain."
+    },
+    {
+      "label": "Hidden irsal",
+      "detail": "The Taqrib adds \"hidden irsal\" (al-irsal al-khafi) to his tadlis: narrating from contemporaries he met but did not hear. Ahmad's list of shaykhs he did not hear from (above) is the evidence."
+    }
+  ],
+  "bio": "The great hadith master of Wasit who later taught in Baghdad; al-Bukhari's teacher Muhammad ibn Sinan and Ahmad ibn Hanbal both sat with him, and Ahmad kept his company for years in silent awe. He was famous for prodigious memory and equally famous for tadlis: al-Nasa'i and others described him as a mudallis, Ibn Hajar placed him in the third rank of his Tabaqat al-Mudallisin, and al-Bukhari, Ibn Hajar found, used only those reports in which Hushaym stated his hearing. Here he says \"Sayyar informed us\", and the Jabir hadith of the five gifts turns entirely on him: Ibn Hajar calls him its pivot (madar). A mawla of Banu Sulaym, his nisba al-Sulami (with dammah) is written exactly like Jabir's Ansari nisba al-Salami (with fathah), which is why the vocalisation matters.",
+  "provenance": [
+    {
+      "field": "nameAr, nisbas, mawla, origin, teachers, students",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 30/272–277 (no. 6595), Shamela book 3722 pages 16339–16348"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz, died, orthography",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7312"
+    },
+    {
+      "field": "verdicts, notHeardFrom",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 4/280, as collected on the Shamela narrator record 6709"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Tabaqat al-Mudallisin no. 111 (OpenITI transcription of the Shamela text)"
+    },
+    {
+      "field": "Ibn Hajar on al-Bukhari's use of him; al-Sulami vocalisation",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, fasl 9 (letter ha') and fasl 6"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 4/429"
+    },
+    {
+      "field": "born",
+      "layer": "modern",
+      "ref": "Shamela narrator record 6709 (104 or 105)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7312 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الهاء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6709"
+    },
+    {
+      "label": "al-Mizzi, Tahdhib al-Kamal 30/272 (Shamela)",
+      "url": "https://shamela.ws/book/3722/16339"
+    },
+    {
+      "label": "al-Mizzi, Tahdhib al-Kamal 30/276, students (Shamela)",
+      "url": "https://shamela.ws/book/3722/16343"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, fasl 9, letter ha' (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الهاء"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, fasl 6, al-Sulami (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السادس"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Tabaqat al-Mudallisin), no. 111 (Shamela)",
+      "url": "https://shamela.ws/book/1186/1"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis, OpenITI transcription",
+      "url": "https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TacrifAhlTaqdis/0852IbnHajarCasqalani.TacrifAhlTaqdis.Shamela0001186BK1-ara1"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "muhammad-ibn-kathir",
+  "name": "Muhammad ibn Kathir al-Abdi",
+  "nameAr": "محمد بن كثير العبدي البصري",
+  "short": "Muhammad ibn Kathir",
+  "shortAr": "محمد بن كثير",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "nisbas": [
+    {
+      "ar": "العبدي",
+      "en": "al-Abdi, of Abd al-Qays",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri, of Basra",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Kathir",
+  "born": 133,
+  "bornNote": "Reckoned from Ibn Hibban's statement that he died in 223 AH aged ninety",
+  "died": 223,
+  "diedNote": "223 AH aged ninety (Taqrib; Ibn Hibban); Ibn Qani' adds Jumada al-Ula",
+  "region": "Basra",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة، لم يصب من ضعفه، من كبار العاشرة",
+    "en": "Reliable; whoever weakened him was mistaken. Of the senior members of the tenth generation.",
+    "number": "6252",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari and Abu Dawud; brother of Sulayman ibn Kathir; a transmitter of Sufyan al-Thawri",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "5889"
+  },
+  "teachers": [
+    {
+      "id": "sufyan-al-thawri",
+      "name": "Sufyan al-Thawri",
+      "nameAr": "سفيان الثوري",
+      "sigla": [
+        "خ",
+        "د"
+      ],
+      "source": "Sahih al-Bukhari 1597; Sunan Abi Dawud 1873"
+    },
+    {
+      "name": "Sulayman ibn Kathir, his brother",
+      "nameAr": "سليمان بن كثير",
+      "sigla": [
+        "م"
+      ],
+      "source": "Shamela narrator record 5889 (Zahrat al-Muta'allimin, via Ikmal Tahdhib al-Kamal 10/322)"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-bukhari",
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 1597"
+    },
+    {
+      "name": "Abu Dawud al-Sijistani",
+      "nameAr": "أبو داود",
+      "sigla": [
+        "د"
+      ],
+      "source": "Sunan Abi Dawud 1873"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Abu Bakr ibn Abi Khaythama; Abd al-Khaliq ibn Mansur",
+      "ar": "لا تكتبوا عنه، لم يكن بالثقة",
+      "en": "Do not write from him; he was not reliable.",
+      "source": "Tahdhib al-Kamal 26/334",
+      "url": "https://shamela.ws/narrator/5889"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "ثقة، لقد مات على سنة",
+      "en": "Reliable; he died upon the Sunna.",
+      "source": "Tahdhib al-Tahdhib 3/683",
+      "url": "https://shamela.ws/narrator/5889"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "al-Jarh wa al-Ta'dil 8/70",
+      "url": "https://shamela.ws/narrator/5889"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "ذكره في الثقات وقال: مات سنة ثلاث وعشرين ومائتين، وكان له يوم مات تسعون سنة، وكان تقيا فاضلا",
+      "en": "Listed him in al-Thiqat and said: he died in 223 AH aged ninety; he was pious and virtuous.",
+      "source": "Tahdhib al-Kamal 26/334",
+      "url": "https://shamela.ws/narrator/5889"
+    },
+    {
+      "critic": "Ibn Qani'",
+      "criticDied": 351,
+      "ar": "بصري ضعيف",
+      "en": "A Basran, weak.",
+      "source": "Tahdhib al-Tahdhib 3/683",
+      "url": "https://shamela.ws/narrator/5889"
+    },
+    {
+      "critic": "Maslama ibn Qasim",
+      "criticDied": 353,
+      "ar": "لا بأس به",
+      "en": "There is no harm in him.",
+      "source": "Tahdhib al-Tahdhib 3/683",
+      "url": "https://shamela.ws/narrator/5889"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Disputed; Ibn Hajar sides with those who accepted him",
+      "detail": "Ibn Ma'in and Ibn Qani' weakened him; Ahmad, Abu Hatim and Ibn Hibban accepted him, and al-Bukhari relied on him in the Sahih (a reported sixty-three hadith). Ibn Hajar's verdict in the Taqrib is that those who weakened him were mistaken. The chain here is also carried independently of him in Muslim, al-Tirmidhi and al-Nasa'i through other students of al-A'mash, so nothing rests on him alone."
+    }
+  ],
+  "bio": "A long-lived Basran who heard Sufyan al-Thawri and Shu'ba in the 150s and was still teaching when al-Bukhari and Abu Dawud came to Basra seventy years later; both record this very hadith from him. Ibn Ma'in's harsh words about him stand against Ahmad's praise, and Ibn Hajar's Taqrib settles the matter in his favour. He died in 223 AH aged ninety.",
+  "provenance": [
+    {
+      "field": "name, kunya, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 5889, drawing on Tahdhib al-Kamal 26/334, Tahdhib al-Tahdhib 3/683 and Ikmal Tahdhib al-Kamal 10/322"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 6252 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 5889"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 1597 and Sunan Abi Dawud 1873"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 6252 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/5889"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "abdullah-ibn-muhammad-al-musnadi",
+  "name": "Abdullah ibn Muhammad al-Musnadi",
+  "nameAr": "عبد الله بن محمد بن عبد الله بن جعفر بن اليمان الجعفي، أبو جعفر، البخاري، المعروف بالمسندي",
+  "short": "al-Musnadi",
+  "shortAr": "المسندي",
+  "kunya": "Abu Ja'far",
+  "kunyaAr": "أبو جعفر",
+  "laqab": {
+    "ar": "المسندي",
+    "en": "al-Musnadi"
+  },
+  "nisbas": [
+    {
+      "ar": "الجعفي",
+      "en": "al-Ju'fi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البخاري",
+      "en": "al-Bukhari",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Muhammad",
+  "orthography": {
+    "spelled": "al-Musnadi, with fathah on the nun",
+    "source": "Taqrib al-Tahdhib, entry 3585"
+  },
+  "died": 229,
+  "region": "Bukhara",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة حافظ، جمع المسند",
+    "en": "Reliable, a hadith master; he compiled the Musnad.",
+    "number": "3585",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari; compiler of a Musnad",
+  "rumuz": [
+    "خ",
+    "ت"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/3902"
+  },
+  "teachers": [
+    {
+      "id": "habban-ibn-hilal",
+      "name": "Habban ibn Hilal",
+      "nameAr": "حبان بن هلال",
+      "source": "Sahih al-Bukhari 4663"
+    }
+  ],
+  "students": [
+    {
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "source": "Sahih al-Bukhari 4663"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "al-Jarh wa al-Ta'dil 5/162",
+      "url": "https://shamela.ws/narrator/3902"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "وكان متقنا",
+      "en": "Listed in al-Thiqat: he was precise.",
+      "source": "Tahdhib al-Kamal 16/59",
+      "url": "https://shamela.ws/narrator/3902"
+    },
+    {
+      "critic": "Ahmad ibn Sayyar al-Marwazi",
+      "criticDied": 268,
+      "ar": "كان أبو جعفر المسندي غاب عن بلده وأقام في طلب الحديث في الآفاق، وكان يلقب بالمسندي، وهو من المعروفين من أهل العدالة والصدق، صاحب سنة وجماعة، عرف بالإتقان والضبط",
+      "en": "Abu Ja'far al-Musnadi left his town and stayed abroad seeking hadith; he was nicknamed al-Musnadi, and is among the well-known men of integrity and truthfulness, a man of the Sunnah, known for precision and exactness.",
+      "source": "Tahdhib al-Tahdhib 2/422",
+      "url": "https://shamela.ws/narrator/3902"
+    },
+    {
+      "critic": "al-Khalili",
+      "criticDied": 446,
+      "ar": "ثقة متفق عليه",
+      "en": "Reliable, agreed upon.",
+      "source": "Tahdhib al-Tahdhib 2/422",
+      "url": "https://shamela.ws/narrator/3902"
+    },
+    {
+      "critic": "al-Hakim",
+      "criticDied": 405,
+      "ar": "سمي المسندي لأنه أول من جمع مسند الصحابة بما وراء النهر، وهو إمام الحديث في عصره هناك بلا مدافعة",
+      "en": "He was called al-Musnadi because he was the first to compile the Musnad of the Companions beyond the Oxus; he was the undisputed imam of hadith of his age in that region.",
+      "source": "Tahdhib al-Tahdhib 2/422",
+      "url": "https://shamela.ws/narrator/3902"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ المسندي",
+    "en": "The hadith master, al-Musnadi.",
+    "source": "al-Kashif, as given on the Shamela record"
+  },
+  "flags": [
+    {
+      "label": "A muhmal name",
+      "detail": "Al-Bukhari writes only “Abdullah ibn Muhammad”, a name shared by several of his teachers, Abu Bakr ibn Abi Shaybah among them. Ibn Hajar: where the name is unqualified it means al-Ju'fi, because al-Bukhari was especially attached to him and narrated from him a great deal (Fath al-Bari on 4663)."
+    },
+    {
+      "label": "Claim not verified",
+      "detail": "The class notes say his ancestor al-Yaman al-Ju'fi was the man through whom al-Bukhari's grandfather al-Mughirah accepted Islam, which is why al-Bukhari too carries the nisba al-Ju'fi. The Shamela record notes only that al-Yaman ibn Akhnas is “one of al-Bukhari's forebears from above”; the story itself was not verified here."
+    }
+  ],
+  "bio": "A Bukharan who travelled widely for hadith and came home to compile the first Musnad of the Companions in Transoxiana, which gave him his laqab. Al-Bukhari drew on him in many places and names him only as Abdullah ibn Muhammad; al-Tirmidhi is the only other of the six to use him. He is the lower link that makes al-Bukhari's route to Hammam in hadith 4663 a step longer than the two routes beside it.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3585"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3585"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 2/422; al-Jarh wa al-Ta'dil 5/162"
+    },
+    {
+      "field": "flags",
+      "layer": "specialist",
+      "ref": "Fath al-Bari on 4663"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3585 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_بقية_أسماء_الآباء_فيمن_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3902"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 4663 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/8412/"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

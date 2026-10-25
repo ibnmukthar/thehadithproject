@@ -1,0 +1,265 @@
+{
+  "id": "said-ibn-abi-burdah",
+  "name": "Sa'id ibn Abi Burdah",
+  "nameAr": "سعيد بن أبي بردة عامر بن أبي موسى عبد الله بن قيس الأشعري الكوفي",
+  "short": "Sa'id ibn Abi Burdah",
+  "shortAr": "سعيد بن أبي بردة",
+  "nisbas": [
+    {
+      "ar": "الأشعري",
+      "en": "al-Ash'ari",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abu Burdah (Amir) ibn Abi Musa al-Ash'ari",
+  "died": 168,
+  "diedNote": "168 AH according to al-Sarifini, 'so in the handwriting of Mughultay'; Ibn Hajar: 'perhaps thirty in place of sixty', i.e. 138.",
+  "deathVariants": [
+    {
+      "year": 168,
+      "authority": "al-Sarifini, as copied by Mughultay",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10"
+    },
+    {
+      "year": 138,
+      "authority": "Ibn Hajar's conjecture ('ولعله وثلاثين بدل وستين')",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10"
+    }
+  ],
+  "region": "Kufa",
+  "tabaqa": 5,
+  "taqrib": {
+    "ar": "ثقة ثبت، وروايته عن ابن عمر مرسلة، من الخامسة",
+    "en": "Reliable, firm; his narration from Ibn Umar is unattached (mursal); of the fifth generation.",
+    "number": "2275",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Grandson of Abu Musa al-Ash'ari; Kufan Successor",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/2325"
+  },
+  "teachers": [
+    {
+      "id": "abu-burdah-ibn-abi-musa",
+      "name": "Abu Burdah ibn Abi Musa (his father)",
+      "nameAr": "أبوه أبو بردة",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6022 and 1445; Tahdhib al-Tahdhib (first teacher named)"
+    },
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Wa'il Shaqiq ibn Salamah",
+      "nameAr": "أبو وائل",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Bakr ibn Hafs ibn Umar ibn Sa'd",
+      "nameAr": "أبو بكر بن حفص",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Rib'i ibn Hirash",
+      "nameAr": "ربعي بن حراش",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "students": [
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj",
+      "nameAr": "شعبة",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 6022 and 1445; Sahih Muslim 1008; Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Qatadah",
+      "nameAr": "قتادة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Ishaq al-Shaybani",
+      "nameAr": "أبو إسحاق الشيباني",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-Mas'udi",
+      "nameAr": "المسعودي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu al-Umays",
+      "nameAr": "أبو العميس",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Zayd ibn Abi Unaysah",
+      "nameAr": "زيد بن أبي أنيسة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Zakariyya ibn Abi Za'idah",
+      "nameAr": "زكرياء بن أبي زائدة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Mujammi' ibn Yahya al-Ansari",
+      "nameAr": "مجمع بن يحيى",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Mis'ar ibn Kidam",
+      "nameAr": "مسعر",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Awanah",
+      "nameAr": "أبو عوانة",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "al-Maymuni",
+      "ar": "بخ، ثبت في الحديث",
+      "en": "Excellent: firm in hadith.",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10; Tahdhib al-Kamal 10/345",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10; al-Jarh wa al-Ta'dil 4/48",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق ثقة",
+      "en": "Truthful, reliable.",
+      "source": "al-Jarh wa al-Ta'dil 4/48; Tahdhib al-Tahdhib, letter sin, entry 10",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10 ('transmitted by al-Manjaniqi')",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed in al-Thiqat.",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "critic": "Ibn Abi Hatim al-Razi",
+      "criticDied": 327,
+      "ar": "لم يسمع ابن أبي بردة من ابن عمر شيئا، إنما يروي عن أبيه عنه، وروايته عن جده منقطعة لم يسمع منه شيئا",
+      "en": "Ibn Abi Burdah heard nothing from Ibn Umar; he narrates only from his father from him. And his narration from his grandfather is disconnected: he heard nothing from him.",
+      "source": "al-Marasil, as quoted in Tahdhib al-Tahdhib, letter sin, entry 10",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "critic": "al-Dhahabi",
+      "criticDied": 748,
+      "ar": "حجة",
+      "en": "A proof.",
+      "source": "al-Kashif 2/472",
+      "url": "https://shamela.ws/narrator/2325"
+    }
+  ],
+  "dhahabi": {
+    "ar": "حجة",
+    "en": "A proof.",
+    "source": "al-Kashif 2/472 (via the Shamela narrator record)"
+  },
+  "notHeardFrom": [
+    {
+      "name": "Abu Musa al-Ash'ari (his grandfather)",
+      "id": "abu-musa-al-ashari",
+      "authority": "Ibn Abi Hatim, al-Marasil: 'his narration from his grandfather is disconnected; he heard nothing from him'",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10 (Wikisource)",
+      "counter": "No counter-claim; the chain of Bukhari 6022 and 1445 runs through his father, and al-Nasa'i 2538 has Sa'id say explicitly 'I heard my father narrating from Abu Musa'."
+    },
+    {
+      "name": "Abdullah ibn Umar",
+      "authority": "Ibn Abi Hatim, al-Marasil; Ibn Hajar, Taqrib: 'his narration from Ibn Umar is mursal'",
+      "source": "Tahdhib al-Tahdhib, letter sin, entry 10; Taqrib al-Tahdhib 2275"
+    }
+  ],
+  "flags": [
+    {
+      "label": "'From his grandfather' means through his father",
+      "detail": "In Bukhari 6022 the chain reads 'Sa'id ibn Abi Burdah ibn Abi Musa, from his father, from his grandfather'. The grandfather is Sa'id's grandfather Abu Musa (Ibn Hajar: 'that is, Ibn Abi Musa al-Ash'ari, stated explicitly in Abu Awanah's Sahih'), and Sa'id did not hear from him directly (Ibn Abi Hatim), so the pronoun chain is read as son from father from grandfather, each link one generation."
+    }
+  ],
+  "bio": "Grandson of the Companion Abu Musa al-Ash'ari and son of Abu Burdah, the judge of Kufa; a Kufan Successor of the fifth generation whom Ahmad, Ibn Ma'in, al-Ijli, Abu Hatim and al-Nasa'i all call reliable. He transmits his grandfather's hadith through his father; Ibn Abi Hatim records that he heard nothing from Abu Musa or from Ibn Umar directly. Shu'bah, Qatadah and Mis'ar are among those who narrate from him. His death year is uncertain: 168 as copied by Mughultay, which Ibn Hajar suspects should read 138.",
+  "provenance": [
+    {
+      "field": "nameAr, nisbas, tabaqa, taqrib, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 2275 (Wikisource)"
+    },
+    {
+      "field": "fatherName, teachers, students, verdicts, notHeardFrom, died, deathVariants",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter sin, entry 10 (Wikisource)"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 2/472, via the Shamela narrator record 2325"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2275 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, letter sin, entry 10 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_السين_المهملة"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2325"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "al-amash",
+  "name": "Sulayman ibn Mihran al-A'mash",
+  "nameAr": "سليمان بن مِهران الأسدي الكاهلي مولاهم الكوفي، الأعمش",
+  "short": "al-A'mash",
+  "shortAr": "الأعمش",
+  "kunya": "Abu Muhammad",
+  "kunyaAr": "أبو محمد",
+  "laqab": {
+    "ar": "الأعمش",
+    "en": "al-A'mash, the weak-sighted; he is cited by this name far more often than by his own"
+  },
+  "nisbas": [
+    {
+      "ar": "الأسدي الكاهلي مولاهم",
+      "en": "al-Asadi al-Kahili (as a client of Banu Kahil of Asad)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi, of Kufa",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Banu Kahil, a branch of Asad",
+  "fatherName": "Mihran",
+  "orthography": {
+    "spelled": "Mihran: with a kasra on the mim (مِهران).",
+    "source": "Hammad al-Ansari's summary of Tabaqat al-Mudallisin (Shamela 22949/12)"
+  },
+  "born": 61,
+  "bornNote": "Born at the beginning of 61 AH, the day al-Husayn was killed (Taqrib; al-Ijli); Ibn Hibban puts his birth two years earlier",
+  "died": 148,
+  "diedNote": "147 or 148 AH (Taqrib); al-Khatib preferred 148",
+  "deathVariants": [
+    {
+      "year": 148,
+      "authority": "Waki' and others; preferred by al-Khatib",
+      "source": "Shamela narrator record 2638"
+    },
+    {
+      "year": 147,
+      "authority": "Abu Awana; Abdullah ibn Dawud",
+      "source": "Shamela narrator record 2638"
+    }
+  ],
+  "region": "Kufa",
+  "tabaqa": 5,
+  "taqrib": {
+    "ar": "ثقة حافظ عارف بالقراءات، ورع، لكنه يدلس",
+    "en": "Reliable, a hadith master, expert in the Qur'anic readings, scrupulous; but he uses the ambiguous formula.",
+    "number": "2615",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "The hadith scholar and Qur'an reciter of Kufa in his generation",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "2638"
+  },
+  "teachers": [
+    {
+      "id": "ibrahim-al-nakhai",
+      "name": "Ibrahim al-Nakha'i",
+      "nameAr": "إبراهيم النخعي",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "Sahih al-Bukhari 1597; Sahih Muslim 1270; Sunan Abi Dawud 1873; Jami' al-Tirmidhi 860; Sunan al-Nasa'i 2937"
+    },
+    {
+      "name": "Qays ibn Abi Hazim",
+      "nameAr": "قيس بن أبي حازم",
+      "id": "qays-ibn-abi-hazim",
+      "source": "reciprocal of the entry in qays-ibn-abi-hazim's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "students": [
+    {
+      "id": "sufyan-al-thawri",
+      "name": "Sufyan al-Thawri",
+      "nameAr": "سفيان الثوري",
+      "sigla": [
+        "خ",
+        "د"
+      ],
+      "source": "Sahih al-Bukhari 1597; Sunan Abi Dawud 1873"
+    },
+    {
+      "name": "Abu Mu'awiya al-Darir",
+      "nameAr": "أبو معاوية الضرير",
+      "sigla": [
+        "م",
+        "ت"
+      ],
+      "source": "Sahih Muslim 1270; Jami' al-Tirmidhi 860"
+    },
+    {
+      "name": "Isa ibn Yunus",
+      "nameAr": "عيسى بن يونس",
+      "sigla": [
+        "س"
+      ],
+      "source": "Sunan al-Nasa'i 2937"
+    },
+    {
+      "name": "Jarir ibn Abd al-Hamid",
+      "nameAr": "جرير بن عبد الحميد",
+      "sigla": [
+        "س"
+      ],
+      "source": "Sunan al-Nasa'i 2937"
+    },
+    {
+      "name": "Yahya al-Qattan",
+      "nameAr": "يحيى القطان",
+      "id": "yahya-ibn-said-al-qattan",
+      "source": "reciprocal of the entry in yahya-ibn-said-al-qattan's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "al-Hakim",
+      "ar": "أجود الأسانيد: الأعمش عن إبراهيم عن علقمة عن عبد الله",
+      "en": "The finest of chains: al-A'mash from Ibrahim from Alqama from Abdullah ibn Mas'ud. Asked whether al-A'mash was like al-Zuhri, he refused the comparison in al-A'mash's favour: al-Zuhri accepted reading-back and licence and worked for the Umayyads, while al-A'mash was poor, patient, kept away from rulers, scrupulous and learned in the Qur'an.",
+      "source": "Tahdhib al-Tahdhib 2/109",
+      "url": "https://shamela.ws/narrator/2638"
+    },
+    {
+      "critic": "Muhammad ibn Abdullah ibn Ammar al-Mawsili",
+      "criticDied": 242,
+      "ar": "ليس في المحدثين أثبت من الأعمش، ومنصور بن المعتمر وهو ثبت أيضا",
+      "en": "There is no one among the hadith scholars firmer than al-A'mash; Mansur ibn al-Mu'tamir is also firm, but al-A'mash knows the connected reports better and has more of them.",
+      "source": "Tahdhib al-Kamal 12/76",
+      "url": "https://shamela.ws/narrator/2638"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة ثبت",
+      "en": "Reliable and firm.",
+      "source": "Tahdhib al-Tahdhib 2/109",
+      "url": "https://shamela.ws/narrator/2638"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "كان ثقة ثبتا في الحديث، وكان محدث أهل الكوفة في زمانه، ولم يكن له كتاب، وكان رأسا في القرآن",
+      "en": "He was reliable and firm in hadith, the hadith scholar of the Kufans in his time; he had no written book, and he was a leading authority in the Qur'an.",
+      "source": "Tahdhib al-Tahdhib 2/109",
+      "url": "https://shamela.ws/narrator/2638"
+    },
+    {
+      "critic": "Sufyan ibn Uyaynah",
+      "criticDied": 198,
+      "ar": "سبق الأعمش أصحابه بأربع: كان أقرأهم للقرآن، وأحفظهم للحديث، وأعلمهم بالفرائض",
+      "en": "Al-A'mash outstripped his companions in four things: he was the best reciter of the Qur'an among them, the best in memory for hadith, the most learned in inheritance law, and a fourth he mentioned.",
+      "source": "Tahdhib al-Tahdhib 2/109",
+      "url": "https://shamela.ws/narrator/2638"
+    },
+    {
+      "critic": "al-Karabisi",
+      "criticDied": 248,
+      "ar": "دلس عن زيد بن وهب كثيرا، وعن أبي الضحى وإبراهيم بن يزيد وأبي صالح ومجاهد وشقيق",
+      "en": "He used the ambiguous formula a great deal over Zayd ibn Wahb, and over Abu al-Duha, Ibrahim ibn Yazid, Abu Salih, Mujahid and Shaqiq.",
+      "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis, as quoted on the Shamela narrator record (1/118)",
+      "url": "https://shamela.ws/narrator/2638"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ، أحد الأعلام",
+    "en": "The hadith master, one of the leading authorities.",
+    "source": "al-Kashif 2/535"
+  },
+  "tadlis": {
+    "rank": 2,
+    "type": "tadlis al-isnad",
+    "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Tabaqat al-Mudallisin), entry 55, second rank: described as a mudallis by al-Karabisi, al-Nasa'i and al-Daraqutni",
+    "note": "Al-Dhahabi's rule, quoted in Hammad al-Ansari's summary of the Tabaqat: when al-A'mash says 'he narrated to us' there is no question; when he says 'from', tadlis is possible, except from the teachers he narrated from abundantly, such as Ibrahim al-Nakha'i, Abu Wa'il and Abu Salih al-Samman, whose reports are treated as connected. Here he says 'from Ibrahim', one of exactly those teachers. The class notes add that Musnad Ahmad has al-A'mash saying 'Ibrahim narrated to us' for this hadith; that route was not checked for this record."
+  },
+  "bio": "The leading hadith scholar and Qur'an reciter of Kufa between the generation of Ibrahim al-Nakha'i, his teacher, and that of Sufyan al-Thawri and Shu'ba, his students. Born the year al-Husayn was killed, he taught for half a century without a written book and died in 148 AH. He was known by his nickname, the weak-sighted, so completely that his real name, Sulayman ibn Mihran, can go unrecognised. The one reservation the critics record is his use of the ambiguous formula, and they also record the rule for handling it.",
+  "provenance": [
+    {
+      "field": "name, laqab, kunya, mawla status, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 2638, drawing on Tahdhib al-Kamal 12/76 and Tahdhib al-Tahdhib 2/109"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 2615 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 2638"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 2/535, as quoted on the Shamela record"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Ta'rif Ahl al-Taqdis, entry 55 (second rank); Hammad al-Ansari's summary (Shamela 22949/12)"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 1597, Sahih Muslim 1270, Sunan Abi Dawud 1873, Jami' al-Tirmidhi 860, Sunan al-Nasa'i 2937"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2615 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2638"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Shamela)",
+      "url": "https://shamela.ws/book/1186"
+    },
+    {
+      "label": "Ibn Hajar's ranks of mudallisin, as summarised by Hammad al-Ansari (Shamela)",
+      "url": "https://shamela.ws/book/22949/12"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

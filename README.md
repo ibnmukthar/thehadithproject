@@ -4,22 +4,19 @@
 
 Hadith is a science of provenance. Every hadith comes with a chain of named people, each one examined, and fourteen centuries of scholarship on whether that chain holds. This project puts that record online: one stable reference for every narration, every narrator's record with the critics quoted, every scholar's verdict with its reason, and chains drawn as graphs anyone can read.
 
-This repository holds the public site and the prototype dataset. The thinking behind it is in [docs/BLUEPRINT.md](docs/BLUEPRINT.md); the survey of existing data and tools is in [docs/research/data-landscape.md](docs/research/data-landscape.md); the pre-launch authenticity audit, with every claim's status and every correction made, is in [docs/research/audit-2026-10-23.md](docs/research/audit-2026-10-23.md).
+This repository holds the public site and the public record. The thinking behind it is in [docs/BLUEPRINT.md](docs/BLUEPRINT.md); the phase-2 plan is in [docs/plans/phase-2.md](docs/plans/phase-2.md); research memos (data landscape, the anatomy of a classical narrator entry, contribution models, the pre-launch audit) are in [docs/research/](docs/research/).
 
 ## What is here
 
-- **A landing page** that states the mission, vision and goals, explains why hadith authentication is a method and not a mood, and shows a chain examined live.
-- **Three worked hadith**, one of each kind, with every link examined:
-  - *Actions are by intentions* (Sahih al-Bukhari 1): sahih, and single-stranded at its root, which is the lesson.
-  - *Leaving what does not concern you* (Jami' al-Tirmidhi 2317): disputed, with a thousand years of argument about one narrator, shown rather than resolved.
-  - *Seek knowledge even in China* (al-Khatib, al-Rihla 1): weak, with the critics' words on the narrator who carries it, and the separate, better-attested sentence it is usually attached to.
-- **Narrator records** quoting Ibn Hajar's Taqrib and the earlier critics, with sources.
-- **Three depths** of the same page: reader, student, researcher.
-- **Visualisations**: the isnad as a vertical chain with transmission formulae and fan-out; lifespans on a hijri axis showing teacher–student overlap; for the two contested hadith, the competing routes side by side, aligned by generation, with the faulty link flagged and shared narrators tinted. Every diagram has a table view.
-- **Reference cards**: what a link unfurls into when pasted into a feed.
-- **A static JSON API** under `/api/v0/` with the same records the pages render.
+- **The record, as files.** `data/narrators/*.json` (one narrator each, in the shape of the classical entry), `data/hadith/*.json` (one studied hadith each, in the four discussions of a hadith class), `data/collections/<id>/` (a whole collection: every narration with the standard numbering, a text fingerprint, and a machine-parsed chain labelled as such until reviewed). Every file is validated against [`src/data/schema.ts`](src/data/schema.ts) at build.
+- **Two views of every hadith.** Reader: the text, what it means, whether it is sound. Researcher: the chain person by person with the subtleties a trained reader sees, where the report travelled on a map and through the centuries, whether the narrators' lives overlapped, where else it is recorded and how the routes compare, who graded it and why, what it means, and the identifiers. Each section opens and closes and remembers the choice.
+- **Visualisations**: the isnad as a vertical chain with transmission formulae and fan-out; the journey map with a hijri-year scrubber; lifespans on a hijri axis; competing routes side by side and merged into one corroboration tree with the pivot narrator marked; the narrator's teachers and students. Every diagram has a table view.
+- **Browse**: collections, books, narrations; narrators; the studied hadith as a track.
+- **Verify a quote**: paste any Arabic text and check it against every narration on record, in the browser.
+- **Reference cards** and a **static JSON API** under `/api/v0/` with the same records the pages render.
+- **A correction link on every line**, which opens a prefilled public issue.
 
-Nothing on the site is a verdict of the project. Every grade shown is attributed to the scholar who gave it, with the source. The demo data was hand-checked against primary and secondary sources (sunnah.com, Shamela, Wikisource transcriptions of Fath al-Bari, the Taqrib and Jami' al-Ulum, dorar.net, and two published studies of the Tirmidhi hadith's routes, by A. al-Aqla and by A. al-Ghamdi), then independently re-audited; items that could not be confirmed are left out or marked.
+Nothing on the site is a verdict of the project. Every grade shown is attributed to the scholar who gave it, with the source. Machine output (parsed chains, isnad/matn splits, text matches) is labelled as such until a person has checked it.
 
 ## Running it
 
@@ -28,49 +25,52 @@ pnpm install
 pnpm dev
 ```
 
-Then open http://localhost:3000. `pnpm build` produces a fully static site in `out/` (the API JSON is regenerated into `public/api/` first). Deploy `out/` to any static host; Cloudflare Pages and Vercel both work with the defaults, and `public/_headers` sets content types for the OpenGraph image and the JSON API on Cloudflare Pages.
+Then open http://localhost:3000. `pnpm build` validates the record (`pnpm check:data`), regenerates the API into `public/api/`, and produces a fully static site in `out/`.
 
 If your shell exports a `NODE_ENV` of its own (for example `development`), unset it before building, or run `NODE_ENV=production pnpm build`; a mismatched value makes the production export load the wrong React build and fail with a `useOptimistic` error.
 
-Deployment steps for Cloudflare (recommended), Vercel and others are in [docs/DEPLOY.md](docs/DEPLOY.md).
+To re-ingest a collection: `pnpm tsx scripts/ingest-bukhari.ts` (sources are downloaded into `sources/`, which is not committed). Deployment is described in [docs/DEPLOY.md](docs/DEPLOY.md).
 
 ## Structure
 
 ```
+data/                 the public record (JSON, validated against src/data/schema.ts)
+  narrators/          one file per narrator
+  hadith/             one file per studied hadith
+  collections/<id>/   collection.json + books/NNN.json
+  board.json          the editorial board
 src/app/              pages (App Router, static export)
-  page.tsx            landing page
-  science/            why hadith is a science
-  explore/            the three worked hadith
-  h/[slug]/           hadith pages
+  page.tsx            landing
+  about/ science/ explore/ studies/ narrators/ verify/ contribute/ blueprint/
+  h/[slug]/           studied hadith
   narrator/[id]/      narrator records
-  blueprint/          renders docs/BLUEPRINT.md
-  contribute/
-src/components/       IsnadGraph, LifespanTimeline, HadithView, NarratorCard, VerdictTable, ReferenceCard…
-src/data/             types, narrator records, hadith records (one file per hadith)
-src/lib/              band definitions, Arabic normalisation and fingerprinting
-scripts/build-api.ts  emits public/api/v0/*.json
-docs/BLUEPRINT.md     the full design: identifiers, graph, rijal, verdicts, governance, roadmap
-docs/research/        research memos
+  collection/[id]/    a collection, and [book]/ its books
+  n/[id]/[n]/         one narration of a collection
+src/components/       HadithView, IsnadGraph, JourneyMap, LifespanTimeline, RouteComparison, CorroborationTree, NarratorCard, NarratorNetwork, VerdictTable, SubtletiesStrip, Disclosure, VerifyQuote…
+src/lib/              bands, places, subtleties, isnad parsing, Arabic normalisation and fingerprinting
+scripts/              check-data (schema + integrity), check-signoff (PR guard), build-api, ingest-bukhari
+docs/                 BLUEPRINT.md, REVIEWERS.md, DEPLOY.md, plans/, research/
 ```
 
 ## Data model in brief
 
 - **Narration**: one text through one chain in one book, cited as `thp:<collection>:<number>` against a declared canonical numbering, with a SHA-256 fingerprint of the normalised Arabic text.
-- **Hadith** (family): the cluster of narrations carrying the same report; curated, not hashed.
-- **Narrator**: a record with dates, region, Taqrib generation, a reliability band derived from Ibn Hajar's rank, and the critics' words verbatim with sources.
+- **Family**: the cluster of narrations carrying the same report across collections. For the six books, al-Mizzi's Tuhfat al-Ashraf entry number is the intended key.
+- **Narrator**: the classical entry as a record: names, dates, places, teachers and students with the book each link occurs in, the Taqrib line and rank, the sigla of the books that used him, the critics' words verbatim with sources, and the specialist notes (tadlis, late-life confusion, non-hearing, orthography).
 - **Transmission**: an edge between two narrators inside one narration, carrying the formula used (haddathana, akhbarana, sami'tu, 'an).
 - **Verdict**: a scholar, a work, a grade in their words, the scope, and the reason.
+- **Review**: a sign-off block on any record, naming who validated or approved it and when.
 
 Bands are always shown with a label and a distinct glyph, never colour alone.
 
 ## Contributing
 
-Corrections with sources are the most valuable contribution. Open an issue with the page, the line and your source. See [/contribute](https://thehadithproject.com/contribute/) for how scholars, developers, translators and institutions can help.
+Three doors: report a correction from any line of the site; propose a change to a record file (GitHub opens the pull request for you; the checks validate it); review, if you are on the editorial board. See [CONTRIBUTING.md](CONTRIBUTING.md) and [docs/REVIEWERS.md](docs/REVIEWERS.md).
 
 ## Open source, in what sense
 
 - **Code** is open source under the Apache License 2.0 (`LICENSE`).
-- **Data** is openly licensed under CC BY 4.0 (`LICENSE-DATA.md`): anyone may reuse it with attribution.
-- **The editorial process is public but not open-edit.** Corrections arrive as issues and pull requests; changes to narrator records, verdicts and status lines are merged only after review by maintainers trained in the discipline, and disputes are recorded rather than overwritten. See `CONTRIBUTING.md`.
+- **Data** is openly licensed under CC BY 4.0 (`LICENSE-DATA.md`); the Arabic text of the collections comes from the Open Hadith Data project under the ODbL, see each collection's README.
+- **The editorial process is public but not open-edit.** Changes to the record merge only with a sign-off from a named reviewer; disputes are recorded rather than overwritten.
 
-Modern copyrighted translations are not redistributed; the English renderings in the prototype are the project's own.
+Modern copyrighted translations are not redistributed; the English renderings are the project's own.

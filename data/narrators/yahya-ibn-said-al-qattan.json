@@ -1,0 +1,335 @@
+{
+  "id": "yahya-ibn-said-al-qattan",
+  "name": "Yahya ibn Sa'id al-Qattan",
+  "nameAr": "يحيى بن سعيد بن فروخ التميمي القطان البصري",
+  "short": "Yahya al-Qattan",
+  "shortAr": "يحيى القطان",
+  "kunya": "Abu Sa'id",
+  "kunyaAr": "أبو سعيد",
+  "laqab": {
+    "ar": "القطان، الأحول",
+    "en": "al-Qattan (the cotton dealer); al-Ahwal (the squint-eyed)"
+  },
+  "nisbas": [
+    {
+      "ar": "التميمي",
+      "en": "al-Tamimi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "said to be a client of Banu Tamim (Tahdhib al-Kamal)",
+  "fatherName": "Sa'id (Farrukh)",
+  "born": 120,
+  "bornNote": "'I was born at the start of 120' (his own words, via Amr ibn Ali; Tahdhib al-Tahdhib).",
+  "died": 198,
+  "diedNote": "Safar 198 AH, aged seventy-eight (Tahdhib al-Tahdhib; Taqrib).",
+  "region": "Basra",
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة متقن حافظ إمام قدوة من كبار التاسعة، مات سنة ثمان وتسعين ومائة وله ثمان وسبعون",
+    "en": "Reliable, precise, a hadith master, an imam and exemplar; among the senior men of the ninth generation; died in 198 aged seventy-eight.",
+    "number": "7557",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Founder of narrator criticism in Iraq; teacher of Ahmad, Ibn Ma'in and Ibn al-Madini",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/6931"
+  },
+  "teachers": [
+    {
+      "id": "ismail-ibn-abi-khalid",
+      "name": "Isma'il ibn Abi Khalid",
+      "nameAr": "إسماعيل بن أبي خالد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57, 524, 2715; Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "hammad-ibn-zayd",
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "source": "Tahdhib al-Tahdhib, entry on Hammad ibn Zayd (students: 'al-Qattan')"
+    },
+    {
+      "id": "sulayman-ibn-harb",
+      "name": "Sulayman ibn Harb",
+      "nameAr": "سليمان بن حرب",
+      "source": "al-Dhahabi, Siyar, entry on Sulayman ibn Harb: 'among the earlier men who narrated from him, Yahya ibn Sa'id al-Qattan'"
+    },
+    {
+      "id": "yahya-ibn-said",
+      "name": "Yahya ibn Sa'id al-Ansari",
+      "nameAr": "يحيى بن سعيد الأنصاري",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj",
+      "nameAr": "شعبة",
+      "source": "Tahdhib al-Tahdhib: 'I frequented Shu'bah for twenty years'"
+    },
+    {
+      "id": "al-awzai",
+      "name": "al-Awza'i",
+      "nameAr": "الأوزاعي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Sulayman al-Taymi",
+      "nameAr": "سليمان التيمي",
+      "source": "Tahdhib al-Tahdhib (first teacher named)"
+    },
+    {
+      "name": "Humayd al-Tawil",
+      "nameAr": "حميد الطويل",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ubaydullah ibn Umar",
+      "nameAr": "عبيد الله بن عمر",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Hisham ibn Urwah",
+      "nameAr": "هشام بن عروة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Sufyan al-Thawri",
+      "nameAr": "سفيان الثوري",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "sufyan-al-thawri"
+    },
+    {
+      "name": "Malik ibn Anas",
+      "nameAr": "مالك",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "al-A'mash",
+      "nameAr": "الأعمش",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "al-amash"
+    }
+  ],
+  "students": [
+    {
+      "id": "musaddad",
+      "name": "Musaddad ibn Musarhad",
+      "nameAr": "مسدد",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57 and 2715; Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ahmad ibn Hanbal",
+      "nameAr": "أحمد بن حنبل",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ishaq ibn Rahuyah",
+      "nameAr": "إسحاق بن راهويه",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ali ibn al-Madini",
+      "nameAr": "علي بن المديني",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Yahya ibn Ma'in",
+      "nameAr": "يحيى بن معين",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Amr ibn Ali al-Fallas",
+      "nameAr": "عمرو بن علي الفلاس",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Bakr ibn Abi Shaybah",
+      "nameAr": "أبو بكر بن أبي شيبة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Muhammad ibn Bashshar (Bundar)",
+      "nameAr": "بندار",
+      "source": "Tahdhib al-Tahdhib; Jami' al-Tirmidhi 1925 (Bundar → Yahya → Isma'il → Qays → Jarir)"
+    },
+    {
+      "name": "Muhammad ibn al-Muthanna (Abu Musa al-Zamin)",
+      "nameAr": "محمد بن المثنى",
+      "source": "Tahdhib al-Tahdhib; Sahih al-Bukhari 524"
+    },
+    {
+      "name": "Ya'qub al-Dawraqi",
+      "nameAr": "يعقوب الدورقي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "his son Muhammad ibn Yahya",
+      "nameAr": "محمد بن يحيى بن سعيد",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "his son Abdullah",
+      "ar": "حدثني يحيى القطان وما رأت عيناي مثله",
+      "en": "Yahya al-Qattan narrated to me, and my eyes never saw his like.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "كان إليه المنتهى في التثبت بالبصرة",
+      "en": "In Basra, verification reached its limit in him.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Ali ibn al-Madini",
+      "criticDied": 234,
+      "ar": "ما رأيت أثبت من يحيى القطان",
+      "en": "I never saw anyone firmer than Yahya al-Qattan.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Ali ibn al-Madini",
+      "criticDied": 234,
+      "via": "al-Saji",
+      "ar": "ما رأيت أعلم بالرجال من يحيى القطان، ولا رأيت أعلم بصواب الحديث والخطأ من ابن مهدي",
+      "en": "I never saw anyone more knowledgeable of narrators than Yahya al-Qattan, nor anyone more knowledgeable of what is correct and mistaken in hadith than Ibn Mahdi.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "ar": "لا ترى عيناك مثله",
+      "en": "Your eyes will not see his like.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Muhammad ibn Bashshar (Bundar)",
+      "criticDied": 252,
+      "via": "Ibn Khuzaymah",
+      "ar": "حدثنا يحيى بن سعيد إمام أهل زمانه",
+      "en": "Yahya ibn Sa'id, the imam of the people of his age, narrated to us.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة مأمونا رفيعا حجة",
+      "en": "He was reliable, trustworthy, of high standing, a proof.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "بصري ثقة في الحديث، كان لا يحدث إلا عن ثقة",
+      "en": "A Basran, reliable in hadith; he narrated only from reliable men.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Abu Zur'a al-Razi",
+      "criticDied": 264,
+      "ar": "كان من الثقات الحفاظ",
+      "en": "He was among the reliable hadith masters.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "حجة حافظ",
+      "en": "A proof, a hadith master.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة ثبت مرضي",
+      "en": "Reliable, firm, approved.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "al-Khalili",
+      "criticDied": 446,
+      "ar": "هو إمام بلا مدافعة، وهو أجل أصحاب مالك بالبصرة، وكان الثوري يتعجب من حفظه، واحتج به الأئمة كلهم وقالوا: من تركه يحيى تركناه",
+      "en": "He is an imam beyond dispute, the most eminent of Malik's students in Basra; al-Thawri marvelled at his memory; all the imams relied on him and said: whomever Yahya abandoned, we abandon.",
+      "source": "Tahdhib al-Tahdhib, letter ya, entry 359",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "كان من سادات أهل زمانه حفظا وورعا وفهما وفضلا ودينا وعلما، وهو الذي مهد لأهل العراق رسم الحديث وأمعن في البحث عن الثقات وترك الضعفاء",
+      "en": "He was among the masters of his age in memory, scrupulousness, understanding, merit, religion and learning; it was he who laid down for the people of Iraq the method of hadith, searched deeply into who was reliable and left the weak.",
+      "source": "al-Thiqat 7/611 (Ibn Hajar notes Ibn Manjuwayh copied these words from Ibn Hibban without attribution); Tahdhib al-Tahdhib",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    }
+  ],
+  "bio": "The Basran master who, with Abd al-Rahman ibn Mahdi, set the standard of narrator criticism that Ahmad, Ibn Ma'in and Ibn al-Madini inherited: Ibn Hibban says he laid down the method of hadith for Iraq. He frequented Shu'bah for twenty years and was the arbiter Shu'bah's students chose when they disputed. He narrated only from reliable men, and the scholars said that whomever Yahya left they left. Born at the start of 120, he died in Safar 198. Not to be confused with Yahya ibn Sa'id al-Ansari, the Madinan judge, from whom he also narrates.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya, laqab, tabaqa, taqrib, died, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 7557 (Wikisource)"
+    },
+    {
+      "field": "born, teachers, students, verdicts, bio",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter ya, entry 359 (Wikisource)"
+    },
+    {
+      "field": "mawla",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal, opening of the entry ('it is said: a client of Banu Tamim'), as transcribed at hadithtransmitters.hawramani.com"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7557 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, letter ya, entry 359 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الياء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6931"
+    },
+    {
+      "label": "Tahdhib al-Kamal, entry transcription (hawramani)",
+      "url": "https://hadithtransmitters.hawramani.com/%d9%8a%d8%ad%d9%8a%d9%89-%d8%a8%d9%86-%d8%b3%d8%b9%d9%8a%d8%af-%d8%a8%d9%86-%d9%81%d8%b1%d9%88%d8%ae-%d8%a7%d8%a8%d9%88-%d8%b3%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d8%a7/"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

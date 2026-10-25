@@ -1,0 +1,210 @@
+{
+  "id": "ahmad-ibn-nasr-al-naysaburi",
+  "name": "Ahmad ibn Nasr al-Naysaburi",
+  "nameAr": "أحمد بن نصر بن زياد القرشي النيسابوري",
+  "short": "Ahmad ibn Nasr al-Naysaburi",
+  "shortAr": "أحمد بن نصر النيسابوري",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "laqab": {
+    "ar": "الزاهد المقرئ",
+    "en": "the Ascetic, the Qur'an reciter"
+  },
+  "nisbas": [
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "النيسابوري",
+      "en": "al-Naysaburi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Nasr",
+  "died": 245,
+  "region": "Nishapur",
+  "tabaqa": 11,
+  "band": "thiqa",
+  "taqrib": {
+    "ar": "ثقة فقيه حافظ زاهد",
+    "en": "Reliable, a jurist, a hadith master and an ascetic.",
+    "number": "117",
+    "rank": 2
+  },
+  "rumuz": [
+    "ت",
+    "س"
+  ],
+  "external": {
+    "shamela": "502",
+    "sunnah": "496"
+  },
+  "teachers": [
+    {
+      "id": "abu-mushir",
+      "name": "Abu Mushir Abd al-A'la ibn Mushir",
+      "nameAr": "أبو مسهر",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ja'far ibn Awn",
+      "nameAr": "جعفر بن عون",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Rawh ibn Ubada",
+      "nameAr": "روح بن عبادة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Yazid ibn Harun",
+      "nameAr": "يزيد بن هارون",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Safwan ibn Isa",
+      "nameAr": "صفوان بن عيسى",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abdullah ibn Numayr",
+      "nameAr": "عبد الله بن نمير",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-tirmidhi",
+      "name": "Muhammad ibn Isa al-Tirmidhi",
+      "nameAr": "الترمذي",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "al-Nasa'i",
+      "nameAr": "النسائي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "al-bukhari",
+      "name": "Muhammad ibn Isma'il al-Bukhari (outside the Sahih)",
+      "nameAr": "البخاري في غير الجامع",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Muslim ibn al-Hajjaj (outside the Sahih)",
+      "nameAr": "مسلم في غير الجامع",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ali ibn Harb al-Mawsili",
+      "nameAr": "علي بن حرب الموصلي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu Umar al-Mustamli",
+      "nameAr": "أبو عمر المستملي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abu al-Walid al-Azraqi",
+      "nameAr": "أبو الوليد الأزرقي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Muhammad ibn Ishaq ibn Khuzayma",
+      "nameAr": "ابن خزيمة",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala 12/239, no. 82, https://shamela.ws/book/10906/7728"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "كان من خيار عباد الله وأصلب أهل بلده في السنة",
+      "en": "Among the best of God's servants and the firmest of his townsmen in the Sunna.",
+      "source": "al-Thiqat",
+      "url": "https://sunnah.com/narrator/496"
+    }
+  ],
+  "bio": "A Qur'an reciter, jurist and ascetic of Nishapur; a teacher of both al-Tirmidhi and al-Nasa'i. Al-Tirmidhi notes that “more than one” other teacher gave him this report as well.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 117, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أحمد"
+    },
+    {
+      "field": "laqab",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 117, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أحمد"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 117, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أحمد (al-Naysaburi); al-Dhahabi, Siyar A'lam al-Nubala 12/239, no. 82, https://shamela.ws/book/10906/7728 and Shamela narrator record, https://shamela.ws/narrator/502 (al-Qurashi)"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 117, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أحمد"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 117, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أحمد"
+    },
+    {
+      "field": "taqrib.number",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 117, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أحمد"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 117, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أحمد (ثقة فقيه حافظ = rank 2)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/502"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 496, linked from the isnad at https://sunnah.com/tirmidhi:2317"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; al-Dhahabi, Siyar A'lam al-Nubala 12/239, no. 82, https://shamela.ws/book/10906/7728"
+    },
+    {
+      "field": "tabaqa",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 117: من الحادية عشرة; Shamela narrator 502 (الطبقة: الحادية عشرة). Corrected 2026-10-25 from 10."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Narrator record (sunnah.com)",
+      "url": "https://sunnah.com/narrator/496"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

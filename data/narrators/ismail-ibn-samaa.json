@@ -1,0 +1,175 @@
+{
+  "id": "ismail-ibn-samaa",
+  "name": "Isma'il ibn Abdullah ibn Sama'a",
+  "nameAr": "إسماعيل بن عبد الله بن سَماعة العدوي الدمشقي",
+  "short": "Isma'il ibn Sama'a",
+  "shortAr": "إسماعيل بن سماعة",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "nisbas": [
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "العدوي",
+      "en": "al-Adawi (Adi ibn Ka'b, by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الدمشقي",
+      "en": "al-Dimashqi",
+      "kind": "geographic"
+    },
+    {
+      "ar": "الرملي",
+      "en": "al-Ramli (his origin was al-Ramla)",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Al Umar: the family of Umar ibn al-Khattab (Taqrib: مولى آل عمر)",
+  "fatherName": "Abdullah",
+  "died": null,
+  "diedNote": "exact year not recorded; placed in the decade 181–190 AH",
+  "region": "Damascus",
+  "tabaqa": 8,
+  "band": "thiqa",
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "458",
+    "rank": 3
+  },
+  "rumuz": [
+    "د",
+    "ت",
+    "س"
+  ],
+  "external": {
+    "shamela": "674",
+    "sunnah": "1039"
+  },
+  "teachers": [
+    {
+      "id": "al-awzai",
+      "name": "Abd al-Rahman ibn Amr al-Awza'i",
+      "nameAr": "الأوزاعي",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/309, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Musa ibn A'yan al-Jazari",
+      "nameAr": "موسى بن أعين",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/309, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "students": [
+    {
+      "id": "abu-mushir",
+      "name": "Abu Mushir Abd al-A'la ibn Mushir",
+      "nameAr": "أبو مسهر",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/309, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Hisham ibn Isma'il al-Attar",
+      "nameAr": "هشام بن إسماعيل العطار",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/309, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Imran ibn Yazid ibn Khalid",
+      "nameAr": "عمران بن يزيد بن خالد",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/309, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "كان من أجلّ أصحاب الأوزاعي وأقدمهم",
+      "en": "Among the most eminent and earliest of al-Awza'i's students.",
+      "source": "al-Jarh wa al-Ta'dil",
+      "url": "https://sunnah.com/narrator/1039"
+    },
+    {
+      "critic": "al-Nasa'i, al-Ijli and Ibn Ammar",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 3/123",
+      "url": "https://sunnah.com/narrator/1039"
+    }
+  ],
+  "bio": "One of the senior students of al-Awza'i. Abu Dawud, al-Tirmidhi and al-Nasa'i transmit from him.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Mizzi, Tahdhib al-Kamal 3/123, no. 458, https://shamela.ws/book/3722/1138; Shamela narrator record, https://shamela.ws/narrator/674"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 458, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل; al-Mizzi, Tahdhib al-Kamal 3/123, no. 458, https://shamela.ws/book/3722/1138"
+    },
+    {
+      "field": "mawla",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 458, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 458, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 458, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل"
+    },
+    {
+      "field": "taqrib.number",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 458, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 458, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_أسد_إلى_آخر_من_اسمه_إسماعيل (ثقة = rank 3)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/674"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 1039, linked from the isnad at https://sunnah.com/tirmidhi:2317"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/309, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; al-Mizzi, Tahdhib al-Kamal 3/123, no. 458, https://shamela.ws/book/3722/1138"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 1/309, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Narrator record (sunnah.com)",
+      "url": "https://sunnah.com/narrator/1039"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

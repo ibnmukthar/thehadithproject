@@ -1,0 +1,364 @@
+{
+  "slug": "two-with-allah-as-third",
+  "title": "Two with Allah as their third",
+  "titleAr": "ما ظنك باثنين الله ثالثهما",
+  "takeaway": "Hiding in the cave on the way to Madinah, Abu Bakr saw the tracks of the pursuers and said that if one of them lifted his foot he would see the two of them. The Prophet ﷺ answered: what do you think of two who have Allah as their third? The Qur'an records the same moment: “Do not grieve; Allah is with us.”",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: al-Bukhari records it in three places and Muslim opens his Book of the Merits of the Companions with it; al-Tirmidhi graded it hasan sahih gharib, known only through Hammam, whose solitary transmission Ibn Hajar shows to be supported."
+  },
+  "primary": {
+    "cite": "bukhari:4663",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "4663",
+    "bookChapter": "Book of Commentary on the Qur'an, Surat al-Tawbah, chapter on His words “the second of two, when they were in the cave, when he said to his companion: do not grieve, Allah is with us” (9:40)",
+    "chain": [
+      "al-bukhari",
+      "abdullah-ibn-muhammad-al-musnadi",
+      "habban-ibn-hilal",
+      "hammam-ibn-yahya",
+      "thabit-al-bunani",
+      "anas-ibn-malik",
+      "abu-bakr-al-siddiq"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "abu-bakr-al-siddiq",
+        "sighaAr": "كنت مع النبي ﷺ في الغار … قال",
+        "sighaEn": "I was with the Prophet ﷺ in the cave … he said",
+        "kind": "qala",
+        "note": "Abu Bakr reports an exchange in which he was the other party."
+      },
+      {
+        "from": "abu-bakr-al-siddiq",
+        "to": "anas-ibn-malik",
+        "sighaAr": "حدثني أبو بكر",
+        "sighaEn": "Abu Bakr narrated to me",
+        "kind": "sama",
+        "note": "A Companion from a Companion."
+      },
+      {
+        "from": "anas-ibn-malik",
+        "to": "thabit-al-bunani",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "thabit-al-bunani",
+        "to": "hammam-ibn-yahya",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "hammam-ibn-yahya",
+        "to": "habban-ibn-hilal",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "habban-ibn-hilal",
+        "to": "abdullah-ibn-muhammad-al-musnadi",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "abdullah-ibn-muhammad-al-musnadi",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا حَبَّانُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا ثَابِتٌ، حَدَّثَنَا أَنَسٌ، قَالَ حَدَّثَنِي أَبُو بَكْرٍ ـ رضى الله عنه ـ قَالَ",
+    "matnAr": "كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي الْغَارِ، فَرَأَيْتُ آثَارَ الْمُشْرِكِينَ قُلْتُ يَا رَسُولَ اللَّهِ، لَوْ أَنَّ أَحَدَهُمْ رَفَعَ قَدَمَهُ رَآنَا. قَالَ مَا ظَنُّكَ بِاثْنَيْنِ اللَّهُ ثَالِثُهُمَا",
+    "matnEn": "I was with the Prophet ﷺ in the cave, and I saw the tracks of the idolaters. I said: Messenger of God, if one of them lifted his foot he would see us. He said: What do you think of two who have Allah as their third?",
+    "url": "https://sunnah.com/bukhari:4663"
+  },
+  "also": [
+    {
+      "cite": "bukhari:3653",
+      "label": "Sahih al-Bukhari 3653",
+      "note": "Book of the Merits of the Companions, chapter: the merits of the Emigrants, among them Abu Bakr",
+      "url": "https://sunnah.com/bukhari:3653",
+      "chainNote": "Muhammad ibn Sinan, from Hammam, from Thabit, from Anas, from Abu Bakr: one narrator between al-Bukhari and Hammam, so a higher chain than 4663; the formulas below Hammam are “from”.",
+      "wordingNote": "“I said to the Prophet ﷺ while I was in the cave: if one of them looked under his feet he would see us. He said: What do you think, Abu Bakr, of two who have Allah as their third?”"
+    },
+    {
+      "cite": "bukhari:3922",
+      "label": "Sahih al-Bukhari 3922",
+      "note": "Book of the Merits of the Ansar, chapter: the migration of the Prophet ﷺ and his Companions to Madinah",
+      "url": "https://sunnah.com/bukhari:3922",
+      "chainNote": "Musa ibn Isma'il, from Hammam, from Thabit, from Anas, from Abu Bakr: again one narrator to Hammam.",
+      "wordingNote": "“I lifted my head and there were the feet of the people. I said: Prophet of God, if one of them lowered his gaze he would see us. He said: Be quiet, Abu Bakr: two, with Allah as their third.”"
+    },
+    {
+      "cite": "muslim:2381",
+      "label": "Sahih Muslim 2381",
+      "note": "Book of the Merits of the Companions, the first hadith of the book",
+      "url": "https://sunnah.com/muslim:2381",
+      "chainNote": "Zuhayr ibn Harb, Abd ibn Humayd and Abdullah ibn Abd al-Rahman al-Darimi (al-Darimi: “informed us”; the other two: “narrated to us”), from Habban ibn Hilal, from Hammam, from Thabit, from Anas ibn Malik, that Abu Bakr al-Siddiq narrated to him: Habban's route, with the names in full.",
+      "wordingNote": "“I looked at the feet of the idolaters above our heads while we were in the cave and said: Messenger of God, if one of them looked at his feet he would see us beneath them. He said: Abu Bakr, what do you think of two who have Allah as their third?”"
+    },
+    {
+      "cite": "tirmidhi:3096",
+      "label": "Jami' al-Tirmidhi 3096",
+      "note": "Book of Commentary, Surat al-Tawbah; al-Tirmidhi: hasan sahih gharib, known only from Hammam, who was alone in it, and Habban ibn Hilal and others also narrated it from Hammam",
+      "url": "https://sunnah.com/tirmidhi:3096",
+      "chainNote": "Ziyad ibn Ayyub al-Baghdadi, from Affan ibn Muslim, from Hammam, from Thabit, from Anas, that Abu Bakr narrated to him: a fourth student of Hammam.",
+      "wordingNote": "“I said to the Prophet ﷺ while we were in the cave: if one of them looks at his feet he will see us beneath his feet.”"
+    },
+    {
+      "cite": "ahmad",
+      "label": "Musnad Ahmad",
+      "note": "Number not confirmed. Ibn Hajar: Ahmad records it from Affan from Hammam with the wording of Muslim's version.",
+      "chainNote": "Affan ibn Muslim, from Hammam."
+    },
+    {
+      "cite": "ibnshahin",
+      "label": "Ibn Shahin, al-Afrad",
+      "note": "Number not confirmed; cited by Ibn Hajar in Fath al-Bari on 3653.",
+      "chainNote": "Ja'far ibn Sulayman, from Thabit: a second student of Thabit, which answers the claim that Hammam alone had it from Thabit."
+    },
+    {
+      "cite": "ibnasakir",
+      "label": "Ibn Asakir",
+      "note": "Number not confirmed; a witness from Habashi ibn Janadah cited by Ibn Hajar in Fath al-Bari on 3653.",
+      "wordingNote": "“If one of them were to lift his foot he would see us”, as in al-Bukhari 4663."
+    },
+    {
+      "cite": "hakim-iklil",
+      "label": "al-Hakim, al-Iklil",
+      "note": "Number not confirmed; a witness from Ibn Abbas cited by Ibn Hajar in Fath al-Bari on 3653."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 3653, 3922, 4663",
+      "reason": "Recorded in three places through three Basran students of Hammam: Muhammad ibn Sinan, Musa ibn Isma'il and, here, Habban ibn Hilal. Inclusion in the Sahih is itself a grade.",
+      "url": "https://sunnah.com/bukhari:4663"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 2381",
+      "reason": "Placed first in the Book of the Merits of the Companions, through Habban ibn Hilal from Hammam.",
+      "url": "https://sunnah.com/muslim:2381"
+    },
+    {
+      "scholar": "al-Tirmidhi",
+      "died": 279,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Hasan sahih gharib",
+      "gradeAr": "حسن صحيح غريب",
+      "source": "Jami' al-Tirmidhi 3096",
+      "quoteAr": "هذا حديث حسن صحيح غريب، إنما يعرف من حديث همام تفرد به، وقد روى هذا الحديث حبان بن هلال وغير واحد عن همام نحو هذا",
+      "reason": "Sound, and single-stranded: known only through Hammam, who was alone in it; Habban ibn Hilal and others carried it from Hammam.",
+      "url": "https://sunnah.com/tirmidhi:3096"
+    },
+    {
+      "scholar": "Ibn Hajar al-Asqalani",
+      "died": 852,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Hammam's solitary transmission is supported",
+      "gradeAr": "اشتهر أن حديث الباب تفرد به همام عن ثابت … وقد أخرجه ابن شاهين في الأفراد من طريق جعفر بن سليمان عن ثابت بمتابعة همام",
+      "scope": "On al-Tirmidhi's and al-Bazzar's statement that Hammam was alone",
+      "source": "Fath al-Bari on 3653",
+      "quoteAr": "تنبيه: اشتهر أن حديث الباب تفرد به همام عن ثابت، وممن صرح بذلك الترمذي والبزار، وقد أخرجه ابن شاهين في الأفراد من طريق جعفر بن سليمان عن ثابت بمتابعة همام، وقد قدمت له شاهدا من حديث حبشي بن جنادة، ووجدت له آخر عن ابن عباس أخرجه الحاكم في الإكليل",
+      "reason": "Al-Tirmidhi and al-Bazzar said Hammam alone carried it from Thabit. Ibn Hajar found a second student of Thabit, Ja'far ibn Sulayman, in Ibn Shahin's al-Afrad, and two witnesses from other Companions, Habashi ibn Janadah and Ibn Abbas.",
+      "url": "https://www.islamweb.net/ar/library/content/52/6636/"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "A bare name is resolved by a rule",
+      "body": "Four names in this chain are written without a father's name: Abdullah ibn Muhammad, Habban, Hammam, Thabit. Each is pinned down differently. Abdullah ibn Muhammad is al-Ju'fi because al-Bukhari narrates from him far more than from any other teacher of that name (frequency). Habban is Ibn Hilal because the homograph Hibban ibn Musa never met Hammam (contact). Hammam is Ibn Yahya because the other Hammams of the Sahih are not of his generation (dates). Thabit is al-Bunani because he is the Basran who sat with Anas for forty years and from whom Hammam took (region and teacher). The rules are different; the result is the same chain Muslim writes out in full."
+    },
+    {
+      "title": "Lower on purpose",
+      "body": "Al-Bukhari had this hadith with one man between himself and Hammam, twice (3653, 3922). Here he puts two. The gain is Habban ibn Hilal, of whom Ahmad said that with him ended the line of verification in Basra, and whose version alone says “narrated to us” at every link where the higher routes say “from”. Three Basran students of Hammam appear across the three places; the lowest route is the most explicit."
+    },
+    {
+      "title": "Single-stranded, then supported",
+      "body": "Al-Tirmidhi marked the hadith gharib: known only through Hammam from Thabit. Ibn Hajar did not dispute that this was the general view; he looked further and found Ja'far ibn Sulayman's route in Ibn Shahin's al-Afrad, and two witnesses from other Companions. A verdict of rarity is a report on the search so far, and a later scholar may extend the search."
+    },
+    {
+      "title": "A Companion from a Companion",
+      "body": "Anas was a boy in Madinah when Abu Bakr and the Prophet ﷺ hid in the cave; he reports it from Abu Bakr himself, with “Abu Bakr narrated to me”. Companions narrating from Companions is common enough to have its own name, and the formula here records that Anas heard it directly rather than inferring it."
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "“Abdullah ibn Muhammad” is a name shared by several of al-Bukhari's teachers, including Abu Bakr ibn Abi Shaybah. Ibn Hajar: he is al-Ju'fi (al-Musnadi) in all the hadith of this chapter but the last, and “wherever the name is left unqualified, al-Ju'fi is meant, because of al-Bukhari's special attachment to him and the quantity he narrated from him”.",
+      "source": "Ibn Hajar, Fath al-Bari on 4663"
+    },
+    {
+      "kind": "scholar",
+      "text": "“Habban” is Ibn Hilal, with fathah on the ha', not Hibban ibn Musa with kasrah, “because the latter did not reach Hammam”. Muslim 2381 writes the name in full.",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 7, on those named Habban; Fath al-Bari on 4663"
+    },
+    {
+      "kind": "scholar",
+      "text": "“Thabit” is al-Bunani: Ibn Hibban records that he kept Anas's company for forty years, Abu Hatim ranks him second among Anas's students after al-Zuhri, and the route from him to Hammam is the one al-Tirmidhi and al-Bazzar discuss by name.",
+      "source": "Ibn Hibban, al-Thiqat, and Abu Hatim, as quoted in Tahdhib al-Kamal 4/342 (Shamela record 1041); Jami' al-Tirmidhi 3096"
+    },
+    {
+      "kind": "scholar",
+      "text": "The laqab al-Musnadi records a method: al-Hakim says he was so called because he was the first to compile a Musnad of the Companions beyond the Oxus, and Ibn Hajar's Taqrib adds “he compiled the Musnad”. The class notes further say that his ancestor al-Yaman al-Ju'fi brought al-Bukhari's grandfather to Islam, which is why al-Bukhari too is al-Ju'fi; that story was not verified here.",
+      "source": "al-Hakim, as quoted in Tahdhib al-Tahdhib 2/422 (Shamela record 3902); Taqrib al-Tahdhib 3585"
+    },
+    {
+      "kind": "scholar",
+      "text": "Al-Bukhari's three routes to Hammam differ in height and in formula. Habban's route (here) is the lowest and says “narrated to us” throughout: Ibn Hajar notes that in Habban's version it is “Thabit narrated to us … Anas narrated to us, Abu Bakr narrated to me”, where the Muhammad ibn Sinan and Musa ibn Isma'il versions say “from”. Ahmad: “with Habban ends the line of verification in Basra”. All three of Hammam's students here are Basran.",
+      "source": "Ibn Hajar, Fath al-Bari on 3653; Ahmad as quoted in Tahdhib al-Kamal 5/328"
+    },
+    {
+      "kind": "scholar",
+      "text": "Al-Tirmidhi and al-Bazzar said Hammam alone carried the hadith from Thabit. Ibn Hajar found a second student of Thabit, Ja'far ibn Sulayman, in Ibn Shahin's al-Afrad, and witnesses from Habashi ibn Janadah (Ibn Asakir) and Ibn Abbas (al-Hakim, al-Iklil).",
+      "source": "Ibn Hajar, Fath al-Bari on 3653"
+    },
+    {
+      "kind": "scholar",
+      "text": "“If one of them lifted his foot”: Ibn Hajar takes “law” here as a conditional about the future, against the majority of grammarians, and reads the exchange as taking place while the pursuers stood at the cave; on the majority view it was said after they left, in gratitude. He also notes the difficulty in the phrasing, since it seems to make the cave's mouth hidden by their feet, and resolves it by their clothing.",
+      "source": "Ibn Hajar, Fath al-Bari on 3653"
+    },
+    {
+      "kind": "scholar",
+      "text": "“Allah is their third”: their helper and supporter; otherwise Allah is the third of every two by His knowledge. The verse's “Allah is with us” is glossed in the chapter heading as “our helper”.",
+      "source": "Ibn Hajar, Fath al-Bari on 3653 and on 4663"
+    },
+    {
+      "kind": "scholar",
+      "text": "The Companion at the top is known by kunya, as was his father: Abu Bakr ibn Abi Quhafah, whose name was Abdullah ibn Uthman. Ibn Hajar surveys the explanations of his title Atiq and of al-Siddiq, and notes that his lineage meets the Prophet's at Murrah ibn Ka'b.",
+      "source": "Ibn Hajar, Fath al-Bari on 3653 (opening of the merits of Abu Bakr)"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On 3653, where the full commentary stands: the variants of the three Bukhari routes and of Muslim and Ahmad; the grammar of “law” for the future; “Allah is their third” as His help and support; the hadith as a manifest merit of Abu Bakr; the low, narrow mouth of the cave (with al-Waqidi's report of a man who relieved himself at it); and the caution that Hammam's solitary transmission from Thabit is in fact supported.",
+        "url": "https://www.islamweb.net/ar/library/content/52/6636/"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "On 4663: the resolution of “Abdullah ibn Muhammad” as al-Ju'fi and of “Habban” as Ibn Hilal; the gloss of “Allah is with us” as “our helper”; reference back to the full commentary in the merits of Abu Bakr.",
+        "url": "https://www.islamweb.net/ar/library/content/52/8412/"
+      },
+      {
+        "work": "Hady al-Sari (introduction to Fath al-Bari)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "In the chapter on shared (muhmal) names: “Habban narrated to us, Hammam narrated to us” is Habban with fathah, Ibn Hilal, not Hibban ibn Musa, who did not reach Hammam.",
+        "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/ذكر_من_اسمه_حبان_وغير_ذلك"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "A manifest merit of Abu Bakr: he alone shared the cave with the Prophet ﷺ, and the Prophet's answer placed Allah's help with the two of them.",
+        "source": "Ibn Hajar, Fath al-Bari on 3653"
+      },
+      {
+        "text": "Allah's being “with” His servants here means His help and support, since by knowledge He is with every two.",
+        "source": "Ibn Hajar, Fath al-Bari on 3653"
+      },
+      {
+        "text": "“Law” (if) may refer to the future, contrary to the majority view, on the reading that Abu Bakr spoke while the pursuers stood above.",
+        "source": "Ibn Hajar, Fath al-Bari on 3653"
+      }
+    ],
+    "note": "The class notes give twelve lessons drawn from the hadith (complete reliance on Allah, taking means for safety, choosing a virtuous travelling companion, comforting one's companion, and the general and special senses of Allah's being “with” His servants, among others). Only those traceable to Fath al-Bari are entered above."
+  },
+  "context": "The cave is the one on Mount Thawr, where the Prophet ﷺ and Abu Bakr hid for three nights at the start of the migration while Quraysh searched for them; the Qur'an refers to the moment in al-Tawbah 9:40, “the second of two, when they were in the cave, when he said to his companion: do not grieve, Allah is with us”. Al-Bukhari placed one copy of the hadith under that verse, one among the merits of Abu Bakr and one in the account of the migration. The commentators are agreed that “his companion” in the verse is Abu Bakr.",
+  "vocabulary": [
+    {
+      "term": "Muhmal",
+      "ar": "مهمل",
+      "meaning": "A name written without the nasab that would distinguish it from homonyms: Abdullah ibn Muhammad, Habban, Hammam, Thabit in this chain."
+    },
+    {
+      "term": "Musalsal",
+      "ar": "مسلسل",
+      "meaning": "A chain in which every link shares a feature, here the formula “narrated to us” at every step."
+    },
+    {
+      "term": "Nazil",
+      "ar": "نازل",
+      "meaning": "A lower chain, with more narrators between compiler and source. This route has two men between al-Bukhari and Hammam where 3653 and 3922 have one."
+    },
+    {
+      "term": "Tafarrud",
+      "ar": "تفرد",
+      "meaning": "A single narrator carrying a report at some level. Al-Tirmidhi and al-Bazzar said Hammam alone had it from Thabit; Ibn Hajar found a second route."
+    },
+    {
+      "term": "Shahid",
+      "ar": "شاهد",
+      "meaning": "A report of the same meaning from a different Companion: Habashi ibn Janadah and Ibn Abbas here."
+    },
+    {
+      "term": "Sahabi an sahabi",
+      "ar": "صحابي عن صحابي",
+      "meaning": "A Companion narrating from a Companion: Anas from Abu Bakr."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 7,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 4663 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:4663"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari with diacritics (hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 3653 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/6636/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 4663 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/8412/"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 7: those named Habban (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/ذكر_من_اسمه_حبان_وغير_ذلك"
+    },
+    {
+      "label": "Sahih Muslim 2381 (sunnah.com)",
+      "url": "https://sunnah.com/muslim:2381"
+    },
+    {
+      "label": "Jami' al-Tirmidhi 3096 (sunnah.com)",
+      "url": "https://sunnah.com/tirmidhi:3096"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

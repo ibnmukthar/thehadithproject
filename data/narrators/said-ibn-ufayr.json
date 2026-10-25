@@ -1,0 +1,162 @@
+{
+  "id": "said-ibn-ufayr",
+  "name": "Sa'id ibn Kathir ibn Ufayr",
+  "nameAr": "سعيد بن كثير بن عُفَير بن مسلم الأنصاري مولاهم المصري",
+  "short": "Sa'id ibn Ufayr",
+  "shortAr": "سعيد بن عفير",
+  "kunya": "Abu Uthman",
+  "kunyaAr": "أبو عثمان",
+  "nisbas": [
+    {
+      "ar": "الأنصاري مولاهم",
+      "en": "al-Ansari (as a client)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المصري",
+      "en": "al-Misri, of Egypt",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "the Ansar (Banu Salima)",
+  "fatherName": "Kathir",
+  "orthography": {
+    "spelled": "Ufayr: with an unpointed ayn and a fa, in the diminutive (عُفَير). He is usually named after his grandfather, Sa'id ibn Ufayr.",
+    "source": "Taqrib al-Tahdhib, entry 2382; Ibn Hajar, Fath al-Bari on hadith 71"
+  },
+  "born": 146,
+  "bornNote": "146 or 147 AH (Shamela narrator record, from the rijal works)",
+  "died": 226,
+  "region": "Egypt",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "صدوق عالم بالأنساب وغيرها، قال الحاكم: يقال إن مصر لم تخرج أجمع للعلوم منه، وقد رد ابن عدي على السعدي في تضعيفه",
+    "en": "Truthful; learned in genealogy and other fields. Al-Hakim: it is said Egypt never produced anyone who combined more of the sciences. Ibn Adi rebutted al-Sa'di's weakening of him.",
+    "number": "2382",
+    "rank": 4
+  },
+  "band": "saduq",
+  "role": "Teacher of al-Bukhari; Egyptian historian and genealogist",
+  "rumuz": [
+    "خ",
+    "م",
+    "قد",
+    "س"
+  ],
+  "external": {
+    "shamela": "2425"
+  },
+  "teachers": [
+    {
+      "id": "abdullah-ibn-wahb",
+      "name": "Abdullah ibn Wahb",
+      "nameAr": "عبد الله بن وهب",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 71"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-bukhari",
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 71"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "لم يكن بالثبت، كان يقرأ من كتب الناس، وهو صدوق",
+      "en": "He was not firm; he would read from other people's books; but he is truthful.",
+      "source": "al-Jarh wa al-Ta'dil 4/56",
+      "url": "https://shamela.ws/narrator/2425"
+    },
+    {
+      "critic": "Ibn Adi",
+      "criticDied": 365,
+      "ar": "وهذا الذي قال السعدي لا معنى له، ولم أسمع أحدا ولا بلغني عن أحد من الناس كلام في سعيد بن كثير بن عفير، وهو عند الناس صدوق ثقة",
+      "en": "On al-Sa'di's charge that he held heterodox views and was confused and unreliable: what al-Sa'di said has no basis; I have heard no one, nor has anything reached me from anyone, criticising Sa'id ibn Kathir ibn Ufayr. To people he is truthful and reliable.",
+      "source": "al-Kamil fi Du'afa' al-Rijal 4/471",
+      "url": "https://shamela.ws/narrator/2425"
+    },
+    {
+      "critic": "al-Hakim",
+      "criticDied": 405,
+      "ar": "يقال إن مصر لم تخرج أجمع للعلوم منه",
+      "en": "It is said that Egypt never produced anyone who combined more of the sciences than he did.",
+      "source": "Tahdhib al-Tahdhib 2/39",
+      "url": "https://shamela.ws/narrator/2425"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "ذكره في الثقات",
+      "en": "Listed him in al-Thiqat (the reliable narrators).",
+      "source": "Tahdhib al-Tahdhib 2/39",
+      "url": "https://shamela.ws/narrator/2425"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ",
+    "en": "The hadith master.",
+    "source": "al-Kashif 2/493"
+  },
+  "flags": [
+    {
+      "label": "Read from written copies",
+      "detail": "Abu Hatim's reservation is that he read from other people's books rather than from his own hearing-copies, while still calling him truthful. Al-Sa'di (al-Juzajani) called him confused and unreliable; Ibn Adi rejected this outright, and Ibn Hajar's Taqrib records the rejection. In the Sahih, al-Bukhari relied on him for Ibn Wahb's Egyptian material."
+    }
+  ],
+  "bio": "An Egyptian scholar, client of the Ansar, remembered as much for his learning in history and genealogy as for hadith; al-Hakim said Egypt produced no one who gathered more of the sciences. He transmitted Ibn Wahb's hadith to al-Bukhari, and al-Bukhari opened the chapter 'whoever God intends good for' with his narration. Muslim, al-Nasa'i and Abu Dawud (in al-Qadar) also used him, but not al-Tirmidhi or Ibn Majah.",
+  "provenance": [
+    {
+      "field": "name, kunya, mawla status, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 2425, drawing on Tahdhib al-Kamal 11/36 and Tahdhib al-Tahdhib 2/39"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz, orthography",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 2382 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 2425 (al-Jarh wa al-Ta'dil 4/56; al-Kamil 4/471; Tahdhib al-Tahdhib 2/39)"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 2/493, as quoted on the Shamela record"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chain of Sahih al-Bukhari 71"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2382 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2425"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 71 (Shamela, vol. 1 p. 164)",
+      "url": "https://shamela.ws/book/1673/650"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

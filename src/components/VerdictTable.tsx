@@ -1,7 +1,8 @@
 import type { ScholarVerdict } from "@/data/types";
 import { HadithChip } from "./GradeMark";
+import { ReportLink } from "./ReportLink";
 
-export function VerdictTable({ verdicts, showArabic = false }: { verdicts: ScholarVerdict[]; showArabic?: boolean }) {
+export function VerdictTable({ verdicts, showArabic = false, record }: { verdicts: ScholarVerdict[]; showArabic?: boolean; record?: string }) {
   return (
     <div className="overflow-x-auto">
       <table className="data stack">
@@ -30,6 +31,7 @@ export function VerdictTable({ verdicts, showArabic = false }: { verdicts: Schol
                 {showArabic && v.quoteAr && (
                   <div lang="ar" dir="rtl" className="arabic text-[1.1rem] text-ink-2 mt-1" style={{ direction: "rtl", textAlign: "right" }}>{v.quoteAr}</div>
                 )}
+                {record && <div className="mt-1"><ReportLink record={`${record} · verdict of ${v.scholar}`} line={`${v.grade}: ${v.reason}`} /></div>}
               </td>
             </tr>
           ))}

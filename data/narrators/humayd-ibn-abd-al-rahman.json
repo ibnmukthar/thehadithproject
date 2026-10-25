@@ -1,0 +1,198 @@
+{
+  "id": "humayd-ibn-abd-al-rahman",
+  "name": "Humayd ibn Abd al-Rahman ibn Awf",
+  "nameAr": "حميد بن عبد الرحمن بن عوف الزهري القرشي المدني",
+  "short": "Humayd ibn Abd al-Rahman",
+  "shortAr": "حميد بن عبد الرحمن",
+  "kunya": "Abu Ibrahim",
+  "kunyaAr": "أبو إبراهيم",
+  "kunyaVariants": [
+    "Abu Abd al-Rahman",
+    "Abu Uthman"
+  ],
+  "nisbas": [
+    {
+      "ar": "الزهري",
+      "en": "al-Zuhri, of Banu Zuhra of Quraysh",
+      "kind": "tribal"
+    },
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi, of Quraysh",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المدني",
+      "en": "al-Madani, of Madinah",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abd al-Rahman",
+  "died": 95,
+  "diedNote": "95 AH aged 73 (al-Waqidi); the report of 105 is an error",
+  "deathVariants": [
+    {
+      "year": 95,
+      "authority": "al-Waqidi, al-Fallas, Ahmad ibn Hanbal, al-Harbi",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "year": 105,
+      "authority": "an anonymous report that Ibn Sa'd and Ibn Hajar call an error",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    }
+  ],
+  "region": "Madinah",
+  "tabaqa": 2,
+  "taqrib": {
+    "ar": "ثقة، من الثانية",
+    "en": "Reliable; of the second generation.",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Son of the Companion Abd al-Rahman ibn Awf; nephew of Uthman through his mother",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "1655"
+  },
+  "teachers": [
+    {
+      "id": "muawiya-ibn-abi-sufyan",
+      "name": "Mu'awiya ibn Abi Sufyan",
+      "nameAr": "معاوية بن أبي سفيان",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 71; Sahih Muslim 1037; Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "name": "Uthman ibn Affan, his maternal uncle",
+      "nameAr": "عثمان بن عفان",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "name": "Umm Kulthum bint Uqba, his mother",
+      "nameAr": "أم كلثوم بنت عقبة",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "id": "abu-hurayra",
+      "name": "Abu Hurayra",
+      "nameAr": "أبو هريرة",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "id": "ibn-abbas",
+      "name": "Ibn Abbas",
+      "nameAr": "ابن عباس",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-zuhri",
+      "name": "al-Zuhri (Ibn Shihab)",
+      "nameAr": "الزهري",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 71; Sahih Muslim 1037; Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "name": "Sa'd ibn Ibrahim, his nephew",
+      "nameAr": "سعد بن إبراهيم",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "name": "Abd al-Rahman ibn Humayd, his son",
+      "nameAr": "عبد الرحمن بن حميد",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    },
+    {
+      "name": "Qatada",
+      "nameAr": "قتادة",
+      "source": "Tahdhib al-Tahdhib 1/497"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Ijli, Abu Zur'a and Ibn Kharash",
+      "criticDied": 283,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 7/378; Tahdhib al-Tahdhib 1/497",
+      "url": "https://shamela.ws/narrator/1655"
+    },
+    {
+      "critic": "Abu Zur'a al-Razi",
+      "criticDied": 264,
+      "ar": "مديني ثقة",
+      "en": "A Madinan, reliable.",
+      "source": "al-Jarh wa al-Ta'dil 3/225",
+      "url": "https://shamela.ws/narrator/1655"
+    },
+    {
+      "critic": "al-Waqidi",
+      "criticDied": 207,
+      "ar": "حميدا لم ير عمر ولم يسمع منه شيئا، وسنه وموته يدل على ذلك، ولعله قد سمع من عثمان لأنه كان خاله، وكان ثقة كثير الحديث، توفي سنة خمس وتسعين وهو ابن ثلاث وسبعين سنة",
+      "en": "Humayd did not see Umar nor hear anything from him; his age and the date of his death show it. Perhaps he heard from Uthman, since Uthman was his maternal uncle. He was reliable and had many hadith. He died in 95 AH at seventy-three.",
+      "source": "Tahdhib al-Tahdhib 1/497",
+      "url": "https://shamela.ws/narrator/1655"
+    }
+  ],
+  "notHeardFrom": [
+    {
+      "name": "Umar ibn al-Khattab",
+      "id": "umar-ibn-al-khattab",
+      "authority": "al-Waqidi; Ibn Hajar: 'his transmission from Umar is certainly disconnected'",
+      "source": "Tahdhib al-Tahdhib 1/497; Taqrib al-Tahdhib"
+    },
+    {
+      "name": "Abu Bakr and Ali",
+      "authority": "Abu Zur'a: his hadith from them is mursal",
+      "source": "Tahdhib al-Tahdhib 1/497",
+      "counter": "al-Ala'i asks how his hadith from Ali could be mursal when he heard from his father and from Uthman and was with Ali in Madinah (Tuhfat al-Tahsil 1/98)"
+    }
+  ],
+  "bio": "A Madinan Successor of Banu Zuhra, son of the Companion Abd al-Rahman ibn Awf and, through his mother Umm Kulthum bint Uqba, nephew of the caliph Uthman. He heard Mu'awiya deliver this hadith from the pulpit and passed it to his younger clansman al-Zuhri. The rijal works record three different kunyas for him, which Ibn Hajar counts among the things that catch a careful reader's eye. Al-Waqidi's note that he was too young to have heard Umar is the standard example of dating being used to test a chain.",
+  "provenance": [
+    {
+      "field": "name, kunyas, family, teachers, students, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter Ha, entry 77 (Wikisource); Shamela narrator record 1655"
+    },
+    {
+      "field": "taqrib, tabaqa",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib as quoted on the Shamela record (1/275); the Wikisource transcription lacks this entry, so the entry number is not given"
+    },
+    {
+      "field": "rumuz",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter Ha, entry 77: ع"
+    },
+    {
+      "field": "verdicts, notHeardFrom",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 1655 (al-Jarh wa al-Ta'dil 3/225; Tahdhib al-Kamal 7/378; Tahdhib al-Tahdhib 1/497; Tuhfat al-Tahsil 1/98)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tahdhib al-Tahdhib, letter Ha, entry 77 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/1655"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

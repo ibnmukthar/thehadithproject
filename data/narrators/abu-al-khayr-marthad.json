@@ -1,0 +1,127 @@
+{
+  "id": "abu-al-khayr-marthad",
+  "name": "Abu al-Khayr Marthad ibn Abdullah al-Yazani",
+  "nameAr": "مرثد بن عبد الله اليزني، أبو الخير المصري",
+  "short": "Abu al-Khayr al-Yazani",
+  "shortAr": "أبو الخير مرثد بن عبد الله",
+  "kunya": "Abu al-Khayr",
+  "kunyaAr": "أبو الخير",
+  "nisbas": [
+    { "ar": "اليزني", "en": "al-Yazani (Yazan, a branch of Himyar)", "kind": "tribal" },
+    { "ar": "المصري", "en": "al-Misri", "kind": "geographic" }
+  ],
+  "fatherName": "Abdullah",
+  "orthography": {
+    "spelled": "al-Yazani: fathah on the ya' and the zay, then nun (Taqrib); Marthad with tha' (al-Nawawi).",
+    "source": "Taqrib al-Tahdhib 6547; al-Nawawi, Sharh Muslim 2/11"
+  },
+  "died": 90,
+  "diedNote": "90 (Sa'id ibn Kathir ibn Ufayr; Ibn Sa'd; Khalifah; Ibn Hibban). Al-Mizzi notes in the margin that al-Kamal's \"70\" is an error; al-Nawawi's Sharh Muslim repeats the 70.",
+  "deathVariants": [
+    { "year": 90, "authority": "Sa'id ibn Kathir ibn Ufayr; Ibn Sa'd; Khalifah ibn Khayyat; Ibn Hibban", "source": "Tahdhib al-Kamal 27/358 and editor's note" },
+    { "year": 70, "authority": "Abd al-Ghani's al-Kamal (called an error by al-Mizzi); al-Nawawi, Sharh Muslim 2/11", "source": "Tahdhib al-Kamal 27/358, marginal note; Sharh Muslim 2/11" }
+  ],
+  "region": "Egypt",
+  "tabaqa": 3,
+  "taqrib": {
+    "ar": "ثقة فقيه",
+    "en": "Reliable, a jurist.",
+    "number": "6547",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Mufti of Egypt in his time; Abd al-Aziz ibn Marwan would seat him to give fatwa (Ibn Yunus)",
+  "rumuz": ["ع"],
+  "external": { "shamela": "6046", "tahdhibKamal": "27/357 (no. 5850)" },
+  "teachers": [
+    { "id": "abdullah-ibn-amr-ibn-al-as", "name": "Abdullah ibn Amr ibn al-As", "nameAr": "عبد الله بن عمرو بن العاص", "sigla": ["ع"], "source": "Tahdhib al-Kamal 27/357" },
+    { "name": "Uqbah ibn Amir al-Juhani, whom he never left", "nameAr": "عقبة بن عامر الجهني", "sigla": ["ع"], "source": "Tahdhib al-Kamal 27/357 (وكان لا يفارقه)" },
+    { "name": "Abu Abdullah al-Sunabihi", "nameAr": "أبو عبد الله الصنابحي", "sigla": ["خ", "م"], "source": "Tahdhib al-Kamal 27/358" },
+    { "name": "Abd al-Rahman ibn Wa'lah", "nameAr": "عبد الرحمن بن وعلة", "sigla": ["م", "س"], "source": "Tahdhib al-Kamal 27/357" },
+    { "name": "Zayd ibn Thabit", "nameAr": "زيد بن ثابت", "source": "Tahdhib al-Kamal 27/357" },
+    { "name": "Abu Ayyub al-Ansari", "nameAr": "أبو أيوب الأنصاري", "sigla": ["د"], "source": "Tahdhib al-Kamal 27/358" }
+  ],
+  "students": [
+    { "id": "yazid-ibn-abi-habib", "name": "Yazid ibn Abi Habib", "nameAr": "يزيد بن أبي حبيب", "sigla": ["ع"], "source": "Tahdhib al-Kamal 27/358" },
+    { "name": "Ja'far ibn Rabi'ah", "nameAr": "جعفر بن ربيعة", "sigla": ["م", "س"], "source": "Tahdhib al-Kamal 27/358" },
+    { "name": "Abd al-Rahman ibn Shumasah", "nameAr": "عبد الرحمن بن شماسة", "sigla": ["م", "د"], "source": "Tahdhib al-Kamal 27/358" },
+    { "name": "Ka'b ibn Alqamah", "nameAr": "كعب بن علقمة", "sigla": ["د", "ت"], "source": "Tahdhib al-Kamal 27/358" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Abbas al-Duri; Ibn Shahin",
+      "ar": "رجل صدق، وقد كان عند أهل مصر مثل علقمة عند أهل الكوفة",
+      "en": "A truthful man; he was to the people of Egypt what Alqamah was to the people of Kufa.",
+      "source": "Tarikh al-Duri 2/555 (editor's note to Tahdhib al-Kamal 27/358); Tahdhib al-Tahdhib 4/45",
+      "url": "https://shamela.ws/narrator/6046"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة له فضل وعبادة، مات سنة تسعين في خلافة الوليد بن عبد الملك",
+      "en": "He was reliable, with merit and devotion; he died in 90 in the caliphate of al-Walid ibn Abd al-Malik.",
+      "source": "al-Tabaqat 7/511 (editor's note to Tahdhib al-Kamal 27/358); Ikmal Tahdhib al-Kamal 11/119",
+      "url": "https://shamela.ws/narrator/6046"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "مصري تابعي ثقة",
+      "en": "An Egyptian, a Successor, reliable.",
+      "source": "Tahdhib al-Tahdhib 4/45; Ikmal Tahdhib al-Kamal 11/119",
+      "url": "https://shamela.ws/narrator/6046"
+    },
+    {
+      "critic": "Ya'qub ibn Sufyan al-Fasawi",
+      "criticDied": 277,
+      "en": "Declared him reliable.",
+      "source": "Tahdhib al-Tahdhib 4/45",
+      "url": "https://shamela.ws/narrator/6046"
+    },
+    {
+      "critic": "Ibn Yunus",
+      "criticDied": 347,
+      "ar": "كان مفتي أهل مصر في زمانه، وكان عبد العزيز بن مروان يحضره فيجلسه للفتيا",
+      "en": "He was the mufti of Egypt in his time; Abd al-Aziz ibn Marwan would summon him and seat him to give legal opinions.",
+      "source": "Tahdhib al-Kamal 27/358; Tahdhib al-Tahdhib 4/45",
+      "url": "https://shamela.ws/narrator/6046"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 27/358",
+      "url": "https://shamela.ws/narrator/6046"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة فقيه",
+      "en": "Reliable, a jurist.",
+      "source": "Taqrib al-Tahdhib, entry 6547",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_بقية_حرف_الميم_على_الترتيب"
+    }
+  ],
+  "dhahabi": { "ar": "كان مفتي أهل مصر", "en": "He was the mufti of Egypt.", "source": "al-Kashif 4/261" },
+  "flags": [
+    { "label": "Homonym", "detail": "Not Marthad ibn Abdullah al-Zimmani (or al-Dhimari), Abu Malik, father of Malik ibn Marthad, graded maqbul in the Taqrib and placed by al-Uqayli among those whose hadith is not corroborated (Shamela record 6045). Both are third-generation men named Marthad ibn Abdullah." },
+    { "label": "Death date", "detail": "90 by the consensus of Ibn Sa'd, Khalifah and Ibn Hibban; the \"70\" in al-Kamal and in al-Nawawi's Sharh Muslim is an error noted by al-Mizzi himself." }
+  ],
+  "bio": "The Egyptian Successor whom Ibn Ma'in compared to Alqamah in Kufa: the man a whole school looked to. He accompanied the Companion Uqbah ibn Amir constantly, heard Abdullah ibn Amr ibn al-As, Zayd ibn Thabit and Abu Ayyub, and was the mufti of Egypt under Abd al-Aziz ibn Marwan, who seated him for fatwa. Yazid ibn Abi Habib, who succeeded him as mufti, carried his hadith to al-Layth. Known by his kunya Abu al-Khayr in the chains; all six compilers use him.",
+  "provenance": [
+    { "field": "nameAr, nisbas, teachers, students, died, verdicts", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 27/357–358 (no. 5850), Shamela book 3722 pages 14747–14748" },
+    { "field": "taqrib, tabaqa, rumuz, orthography", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 6547" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 4/45, as collected on the Shamela narrator record 6046" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 4/261" },
+    { "field": "al-Nawawi on him (Yazan of Himyar; mufti; the 70 date)", "layer": "modern", "ref": "al-Nawawi, al-Minhaj Sharh Sahih Muslim 2/11" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 6547 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_بقية_حرف_الميم_على_الترتيب" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/6046" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 27/357 (Shamela)", "url": "https://shamela.ws/book/3722/14747" },
+    { "label": "al-Nawawi, al-Minhaj Sharh Sahih Muslim 2/11 (Shamela)", "url": "https://shamela.ws/book/1711/255" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

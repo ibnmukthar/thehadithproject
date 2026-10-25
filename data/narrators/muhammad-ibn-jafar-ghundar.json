@@ -1,0 +1,183 @@
+{
+  "id": "muhammad-ibn-jafar-ghundar",
+  "name": "Muhammad ibn Ja'far, Ghundar",
+  "nameAr": "محمد بن جعفر الهذلي مولاهم البصري، أبو عبد الله، المعروف بغندر",
+  "short": "Ghundar",
+  "shortAr": "غندر",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "laqab": {
+    "ar": "غندر",
+    "en": "Ghundar"
+  },
+  "nisbas": [
+    {
+      "ar": "الهذلي",
+      "en": "al-Hudhali (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Hudhayl (their client)",
+  "fatherName": "Ja'far",
+  "died": 193,
+  "diedNote": "193 or 194 AH (Taqrib); the Shamela record also gives 192",
+  "deathVariants": [
+    {
+      "year": 194,
+      "authority": "Taqrib al-Tahdhib (second date)"
+    },
+    {
+      "year": 192,
+      "authority": "as given on the Shamela record"
+    }
+  ],
+  "region": "Basra",
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة صحيح الكتاب إلا أن فيه غفلة",
+    "en": "Reliable, with a sound written record, though there is some inattentiveness in him.",
+    "number": "5787",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "The most reliable transmitter from Shu'bah; Shu'bah's stepson",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/5532"
+  },
+  "teachers": [
+    {
+      "id": "shuba-ibn-al-hajjaj",
+      "name": "Shu'bah ibn al-Hajjaj (his stepfather)",
+      "nameAr": "شعبة بن الحجاج",
+      "source": "Sahih al-Bukhari 3126; Shamela record: “ربيب شعبة”"
+    }
+  ],
+  "students": [
+    {
+      "id": "muhammad-ibn-bashshar",
+      "name": "Muhammad ibn Bashshar, Bundar",
+      "nameAr": "محمد بن بشار",
+      "source": "Sahih al-Bukhari 3126"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ali ibn al-Madini",
+      "criticDied": 234,
+      "ar": "هو أحب إلي من عبد الرحمن في شعبة",
+      "en": "I prefer him to Abd al-Rahman ibn Mahdi in Shu'bah.",
+      "source": "Tahdhib al-Tahdhib 3/531",
+      "url": "https://shamela.ws/narrator/5532"
+    },
+    {
+      "critic": "Abdullah ibn al-Mubarak",
+      "criticDied": 181,
+      "ar": "إذا اختلف الناس في حديث شعبة فكتاب غندر حكم بينهم",
+      "en": "When people differ over a hadith of Shu'bah, Ghundar's book is the judge between them.",
+      "source": "al-Jarh wa al-Ta'dil 7/221; Tahdhib al-Tahdhib 3/531",
+      "url": "https://shamela.ws/narrator/5532"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "via": "Abu Hatim, from Muhammad ibn Aban al-Balkhi",
+      "ar": "غندر في شعبة أثبت مني",
+      "en": "Ghundar is firmer than I am in Shu'bah.",
+      "source": "Tahdhib al-Kamal 25/5",
+      "url": "https://shamela.ws/narrator/5532"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "كان من أصح الناس كتابا، وأراد بعضهم أن يخطئه فلم يقدر عليه",
+      "en": "He had one of the soundest written records of anyone; some people tried to catch him in an error and could not.",
+      "source": "Tahdhib al-Kamal 25/5",
+      "url": "https://shamela.ws/narrator/5532"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "يكتب حديثه عن غير شعبة ولا يحتج به",
+      "en": "His hadith from anyone other than Shu'bah is written down but not relied on as proof.",
+      "source": "Hady al-Sari, ch. 9, letter mim",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الميم"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "أحد الأثبات المتقنين من أصحاب شعبة اعتمده الأئمة كلهم … أخرج له البخاري عن شعبة كثيرا وأخرج له حديثا عن معمر وآخر عن عبد الله بن سعيد بن أبي هند توبع فيهما",
+      "en": "One of the firm and precise companions of Shu'bah, relied on by all the imams. Al-Bukhari records much from him from Shu'bah, and one hadith each from Ma'mar and from Abdullah ibn Sa'id ibn Abi Hind, both of which are corroborated.",
+      "source": "Hady al-Sari, ch. 9, letter mim",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الميم"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ. قال ابن معين: أراد بعضهم أن يخطئه فلم يقدر، وكان من أصح الناس كتابا، بقي يصوم يوما ويوما خمسين عاما",
+    "en": "The hadith master. Ibn Ma'in: some tried to catch him in error and could not; his written record was among the soundest; he fasted on alternate days for fifty years.",
+    "source": "al-Kashif 4/93"
+  },
+  "flags": [
+    {
+      "label": "Relied on for Shu'bah specifically",
+      "detail": "Abu Hatim restricts proof-value to his hadith from Shu'bah. In both of his appearances here (al-Bukhari 3126 and the Muslim, al-Nasa'i and Ibn Majah routes of hadith 15) he transmits from Shu'bah, so the restriction does not bite."
+    }
+  ],
+  "bio": "Shu'bah's stepson, a Basran cloth-dealer whose written copy of Shu'bah became the court of appeal when Shu'bah's students disagreed. Ibn Hajar calls him “the firmest of people in Shu'bah” and explains that al-Bukhari sometimes added Ghundar's longer route beside a shorter one for that reason. Named by his laqab in hadith 3126 and by his name, Muhammad ibn Ja'far, in Muslim.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5787"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5787"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 3/531; Tahdhib al-Kamal 25/5"
+    },
+    {
+      "field": "verdicts",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 9, letter mim"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 4/93"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 5787 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/5532"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 9, letter mim (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الميم"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 32, on Ghundar's route (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/62/"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

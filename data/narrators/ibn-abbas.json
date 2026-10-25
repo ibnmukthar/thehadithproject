@@ -1,0 +1,130 @@
+{
+  "id": "ibn-abbas",
+  "name": "Abdullah ibn Abbas",
+  "nameAr": "عبد الله بن عباس بن عبد المطلب بن هاشم الهاشمي القرشي رضي الله عنهما",
+  "short": "Ibn Abbas",
+  "shortAr": "ابن عباس",
+  "kunya": "Abu al-Abbas",
+  "kunyaAr": "أبو العباس",
+  "laqab": {
+    "ar": "البحر، الحبر، ترجمان القرآن",
+    "en": "the Sea (al-Bahr) and the Learned (al-Hibr), for the breadth of his knowledge; the Interpreter of the Qur'an"
+  },
+  "nisbas": [
+    {
+      "ar": "الهاشمي",
+      "en": "al-Hashimi, of Banu Hashim",
+      "kind": "tribal"
+    },
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi, of Quraysh",
+      "kind": "tribal"
+    }
+  ],
+  "fatherName": "al-Abbas",
+  "born": -3,
+  "bornNote": "Three years before the hijra (Taqrib); also said four or five",
+  "died": 68,
+  "diedNote": "68 AH at al-Ta'if (Taqrib); other reports give 65, 67, 69 or 70",
+  "deathVariants": [
+    {
+      "year": 68,
+      "authority": "Taqrib al-Tahdhib",
+      "source": "Taqrib al-Tahdhib 3409"
+    },
+    {
+      "year": "65, 67, 69 or 70",
+      "authority": "other reports collected in the rijal works",
+      "source": "Shamela narrator record 3732"
+    }
+  ],
+  "region": "Madinah, later Basra and al-Ta'if",
+  "tabaqa": 1,
+  "taqrib": {
+    "ar": "ابن عم رسول الله ﷺ، ولد قبل الهجرة بثلاث سنين، ودعا له رسول الله ﷺ بالفهم في القرآن، فكان يسمى البحر والحبر لسعة علمه، وقال عمر: لو أدرك ابن عباس أسناننا ما عشره منا أحد. مات سنة ثمان وستين بالطائف، وهو أحد المكثرين من الصحابة وأحد العبادلة من فقهاء الصحابة",
+    "en": "The Prophet's cousin, born three years before the hijra. The Prophet ﷺ prayed that he be given understanding of the Qur'an, and he came to be called the Sea and the Learned for the breadth of his knowledge. Umar said: had Ibn Abbas reached our age none of us would have matched a tenth of him. He died in 68 AH at al-Ta'if. He is one of the most prolific Companions and one of the Abadila among the jurist Companions.",
+    "number": "3409"
+  },
+  "band": "sahabi",
+  "role": "Companion; cousin of the Prophet ﷺ; one of the four Abadila and of the most prolific narrators",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "3732"
+  },
+  "students": [
+    {
+      "id": "ubaydullah-ibn-abdullah-ibn-utba",
+      "name": "Ubaydullah ibn Abdullah ibn Utba",
+      "nameAr": "عبيد الله بن عبد الله بن عتبة",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 6; Sahih Muslim 2308"
+    },
+    {
+      "id": "humayd-ibn-abd-al-rahman",
+      "name": "Humayd ibn Abd al-Rahman ibn Awf",
+      "nameAr": "حميد بن عبد الرحمن بن عوف",
+      "source": "Tahdhib al-Tahdhib, letter Ha, entry 77"
+    }
+  ],
+  "verdicts": [],
+  "flags": [
+    {
+      "label": "Count in al-Bukhari not verified",
+      "detail": "The class notes give 217 as the number of his hadith in al-Bukhari, citing Ibn Hajar's introduction to Fath al-Bari. That figure was not checked against Hady al-Sari and is recorded here as unverified; the Khulasa's figures are verified."
+    }
+  ],
+  "bio": "The Prophet's cousin, a boy of about thirteen when the Prophet ﷺ died, who then spent his life collecting what the older Companions had seen and heard; most of his hadith came to him that way, which is why al-Bukhari and Muslim have so many through him. He was called the Sea for the breadth of his learning and became the first authority in Qur'anic interpretation. He taught in Madinah and Basra and died at al-Ta'if in 68 AH. His kunya, Abu al-Abbas, matches his father's name.",
+  "provenance": [
+    {
+      "field": "name, laqab, kunya, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3732, drawing on al-Isaba 6/228 and al-Jarh wa al-Ta'dil 5/116"
+    },
+    {
+      "field": "taqrib, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3409 (Wikisource)"
+    },
+    {
+      "field": "students",
+      "layer": "class-notes",
+      "ref": "Chain of Sahih al-Bukhari 6; Tahdhib al-Tahdhib on Humayd ibn Abd al-Rahman"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, Shamela book 5858, pp. 202–203, https://shamela.ws/book/5858/202"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3409 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3732"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, pp. 202–203 (Shamela)",
+      "url": "https://shamela.ws/book/5858/202"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  },
+  "companionCounts": {
+    "total": 1660,
+    "agreed": 75,
+    "bukhariOnly": 28,
+    "muslimOnly": 49,
+    "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, Shamela book 5858, pp. 202–203 (entry of Abdullah ibn Abbas), https://shamela.ws/book/5858/202 («روى ألفا وستمائة وستين حديثا، اتفقا على خمسة وسبعين، وانفرد (خ) بثمانية وعشرين و(م) بتسعة وأربعين»)"
+  }
+}

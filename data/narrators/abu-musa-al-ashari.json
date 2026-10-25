@@ -1,0 +1,117 @@
+{
+  "id": "abu-musa-al-ashari",
+  "name": "Abu Musa al-Ash'ari",
+  "nameAr": "عبد الله بن قيس بن سليم بن حضار الأشعري، أبو موسى، رضي الله عنه",
+  "short": "Abu Musa al-Ash'ari",
+  "shortAr": "أبو موسى الأشعري",
+  "kunya": "Abu Musa",
+  "kunyaAr": "أبو موسى",
+  "nisbas": [
+    {
+      "ar": "الأشعري",
+      "en": "al-Ash'ari",
+      "kind": "tribal"
+    }
+  ],
+  "fatherName": "Qays",
+  "died": 50,
+  "diedNote": "50 AH, or later (Taqrib); the Shamela record collects 42, 44, 49, 51, 52 and 53",
+  "region": "Kufa",
+  "origin": "Yemen",
+  "residence": [
+    "Zabid and Adan (governor for the Prophet ﷺ)",
+    "Basra (governor for Umar)",
+    "Kufa (governor for Uthman)"
+  ],
+  "tabaqa": 1,
+  "band": "sahabi",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/3856"
+  },
+  "students": [
+    {
+      "id": "abu-burdah-ibn-abi-musa",
+      "name": "Abu Burdah (his son)",
+      "nameAr": "أبو بردة",
+      "source": "Sahih al-Bukhari 2996"
+    },
+    {
+      "id": "abu-wail",
+      "name": "Abu Wa'il Shaqiq ibn Salamah",
+      "nameAr": "أبو وائل",
+      "source": "Sahih al-Bukhari 3126"
+    },
+    {
+      "id": "qays-ibn-abi-hazim",
+      "name": "Qays ibn Abi Hazim",
+      "nameAr": "قيس بن أبي حازم",
+      "source": "Tahdhib al-Tahdhib (as cited on the linked record)"
+    }
+  ],
+  "verdicts": [],
+  "companionCounts": {
+    "total": 360,
+    "agreed": 50,
+    "bukhariOnly": 4,
+    "muslimOnly": 25,
+    "inBukhari": 57,
+    "source": "Totals: al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 210 (360 hadith; 50 agreed upon; 4 in al-Bukhari alone; 25 in Muslim alone). In al-Bukhari: Ibn Hajar, Hady al-Sari, ch. 10 (57)"
+  },
+  "bio": "A Yemeni Companion who came to Islam early and whom the Prophet ﷺ set over Zabid and Adan. Umar made him governor of Basra and Uthman of Kufa, and he was one of the two arbitrators after Siffin (Taqrib). The Prophet ﷺ said of his recitation that he had been given one of the flutes of the family of Dawud (Sahih al-Bukhari 5048). Al-Khazraji counts 360 hadith from him, 50 of them agreed upon by al-Bukhari and Muslim. He appears in two of the hadith studied here, once through his son Abu Burdah and once through the Kufan Successor Abu Wa'il.",
+  "provenance": [
+    {
+      "field": "nameAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3542"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3542"
+    },
+    {
+      "field": "residence",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 3542; Shamela record"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 10"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "Khulasat Tadhhib Tahdhib al-Kamal, p. 210"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3542 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_بقية_أسماء_الآباء_فيمن_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3856"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 10: the count of each Companion's hadith (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_العاشر/ذكر_عدة_ما_لكل_صحابي_في_صحيح_البخاري"
+    },
+    {
+      "label": "Sahih al-Bukhari 5048 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:5048"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 210 (Shamela)",
+      "url": "https://shamela.ws/book/5858/210"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

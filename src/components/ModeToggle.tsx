@@ -1,17 +1,23 @@
 "use client";
 
-export type Mode = "layman" | "student" | "researcher";
+export type Mode = "reader" | "researcher";
 
 const MODES: { id: Mode; label: string; hint: string }[] = [
-  { id: "layman", label: "Reader", hint: "The text, the meaning, and whether it is sound." },
-  { id: "student", label: "Student", hint: "Adds the chain, each narrator's record, and the scholars' verdicts." },
-  { id: "researcher", label: "Researcher", hint: "Adds transmission formulae, lifespans, parallel narrations and the critics in Arabic." },
+  { id: "reader", label: "Reader", hint: "The text, what it means, and whether it is sound." },
+  { id: "researcher", label: "Researcher", hint: "The chain, every narrator's record, the verdicts, and what sits behind them." },
 ];
 
-export function ModeToggle({ mode, onChange }: { mode: Mode; onChange: (m: Mode) => void }) {
+/** Older saved values from the three-mode prototype map onto the two views. */
+export function normaliseMode(v: string | null): Mode | null {
+  if (v === "reader" || v === "layman") return "reader";
+  if (v === "researcher" || v === "student") return "researcher";
+  return null;
+}
+
+export function ModeToggle({ mode, onChange, compact = false }: { mode: Mode; onChange: (m: Mode) => void; compact?: boolean }) {
   return (
     <div className="sans">
-      <div role="radiogroup" aria-label="Depth" className="inline-flex rounded-md border border-hairline-strong p-[3px] bg-plane">
+      <div role="radiogroup" aria-label="View" className="inline-flex rounded-md border border-hairline-strong p-[3px] bg-plane">
         {MODES.map((m) => (
           <button
             key={m.id}
@@ -25,7 +31,7 @@ export function ModeToggle({ mode, onChange }: { mode: Mode; onChange: (m: Mode)
           </button>
         ))}
       </div>
-      <p className="tiny text-muted mt-1.5">{MODES.find((m) => m.id === mode)?.hint}</p>
+      {!compact && <p className="tiny text-muted mt-1.5">{MODES.find((m) => m.id === mode)?.hint}</p>}
     </div>
   );
 }

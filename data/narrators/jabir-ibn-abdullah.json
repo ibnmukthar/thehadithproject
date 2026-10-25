@@ -1,0 +1,221 @@
+{
+  "id": "jabir-ibn-abdullah",
+  "name": "Jabir ibn Abdullah",
+  "nameAr": "جابر بن عبد الله بن عمرو بن حرام الأنصاري السلمي رضي الله عنهما",
+  "short": "Jabir ibn Abdullah",
+  "shortAr": "جابر بن عبد الله",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "kunyaVariants": [
+    "Abu Abd al-Rahman",
+    "Abu Muhammad"
+  ],
+  "nisbas": [
+    {
+      "ar": "الأنصاري الخزرجي",
+      "en": "al-Ansari, al-Khazraji",
+      "kind": "tribal"
+    },
+    {
+      "ar": "السلمي",
+      "en": "al-Salami (with two fathahs: Banu Salimah of the Khazraj)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المدني",
+      "en": "al-Madani",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abdullah",
+  "orthography": {
+    "spelled": "al-Salami with fathah on the sin and the lam, from Banu Salimah (with kasrah on the lam) of the Khazraj; Ibn Hajar: \"al-Sulami with dammah is common, with fathah only among the Ansar\". Written identically to al-Sulami (Banu Sulaym), the nisba of Hushaym ibn Bashir in the same chain.",
+    "homographs": [
+      "al-Sulami (Banu Sulaym), e.g. Hushaym ibn Bashir"
+    ],
+    "source": "Taqrib al-Tahdhib 871 (\"al-Salami bi-fathatayn\"); Ibn Hajar, Hady al-Sari, fasl 6; al-Nawawi, Tahdhib al-Asma' 1/142"
+  },
+  "died": 78,
+  "diedNote": "After 70 AH in Madinah, aged 94 (Taqrib). The reports range from 68 to 79: 68 (al-Haytham ibn Adi, Khalifah), 72 (Ibn Zabr), 73 (Ibn Sa'd), 77 (Muhammad ibn Yahya ibn Habban), 78 (Abu Awn al-Madani and others), 79 (Abu Nu'aym, Khalifah in another report). Al-Nawawi gives 73, or 78, or 68.",
+  "deathVariants": [
+    {
+      "year": 68,
+      "authority": "al-Haytham ibn Adi; Khalifah ibn Khayyat (one report)",
+      "source": "Shamela narrator record 1091 (from Tahdhib al-Kamal 4/443)"
+    },
+    {
+      "year": 73,
+      "authority": "Ibn Sa'd; al-Haytham ibn Adi (another report)",
+      "source": "Shamela narrator record 1091"
+    },
+    {
+      "year": 77,
+      "authority": "Muhammad ibn Yahya ibn Habban",
+      "source": "Shamela narrator record 1091"
+    },
+    {
+      "year": 78,
+      "authority": "Abu Awn al-Madani and others",
+      "source": "Shamela narrator record 1091; al-Nawawi, Tahdhib al-Asma' 1/143"
+    },
+    {
+      "year": 79,
+      "authority": "Abu Nu'aym; Khalifah ibn Khayyat (another report)",
+      "source": "Shamela narrator record 1091"
+    },
+    {
+      "year": 78,
+      "authority": "al-Fallas, who adds \"aged seventy-four\" against the Taqrib's ninety-four",
+      "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 59"
+    }
+  ],
+  "region": "Madinah",
+  "tabaqa": 1,
+  "taqrib": {
+    "ar": "صحابي ابن صحابي، غزا تسع عشرة غزوة، ومات بالمدينة بعد السبعين وهو ابن أربع وتسعين",
+    "en": "A Companion, son of a Companion; he fought nineteen expeditions and died in Madinah after 70, aged ninety-four.",
+    "number": "871"
+  },
+  "band": "sahabi",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "1091",
+    "tahdhibKamal": "4/443"
+  },
+  "teachers": [
+    {
+      "name": "the Prophet ﷺ",
+      "nameAr": "النبي صلى الله عليه وسلم",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 4/443"
+    },
+    {
+      "name": "Abu Bakr, Umar, Ali, Abu Ubaydah, Mu'adh, Khalid ibn al-Walid and Abu Hurayrah, among the Companions",
+      "nameAr": "أبو بكر وعمر وعلي وأبو عبيدة ومعاذ وخالد بن الوليد وأبو هريرة",
+      "source": "al-Nawawi, Tahdhib al-Asma' 1/142"
+    }
+  ],
+  "students": [
+    {
+      "id": "yazid-ibn-suhayb-al-faqir",
+      "name": "Yazid ibn Suhayb al-Faqir",
+      "nameAr": "يزيد بن صهيب الفقير",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "س",
+        "ق"
+      ],
+      "source": "Tahdhib al-Kamal 4/447"
+    },
+    {
+      "name": "Abu Salamah ibn Abd al-Rahman",
+      "nameAr": "أبو سلمة بن عبد الرحمن",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 4/447"
+    },
+    {
+      "name": "Sa'id ibn al-Musayyib",
+      "nameAr": "سعيد بن المسيب",
+      "source": "al-Jarh wa al-Ta'dil 2/492; al-Nawawi, Tahdhib al-Asma' 1/142"
+    },
+    {
+      "name": "Ata' ibn Abi Rabah",
+      "nameAr": "عطاء بن أبي رباح",
+      "source": "al-Jarh wa al-Ta'dil 2/492"
+    },
+    {
+      "name": "Amr ibn Dinar, Muhammad ibn al-Munkadir, Abu al-Zubayr, al-Sha'bi, Mujahid and many of the senior Successors",
+      "nameAr": "عمرو بن دينار ومحمد بن المنكدر وأبو الزبير والشعبي ومجاهد",
+      "source": "al-Nawawi, Tahdhib al-Asma' 1/142"
+    }
+  ],
+  "verdicts": [],
+  "companionCounts": {
+    "total": 1540,
+    "agreed": 58,
+    "bukhariOnly": 26,
+    "muslimOnly": 126,
+    "inBukhari": 90,
+    "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 59 (1,540 in all; agreed 58; al-Bukhari alone 26; Muslim alone 126); al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/142 gives the same figures except 60 agreed; Ibn Hajar, Hady al-Sari, fasl 10 (90 in al-Bukhari, including repetitions)"
+  },
+  "flags": [
+    {
+      "label": "Links al-Mizzi marks as not heard",
+      "detail": "Al-Mizzi notes that al-Zuhri (د), Sulayman ibn Musa (د س ق) and Yahya ibn Abi Kathir (مد) narrate from Jabir without having heard him or met him, and that Yazid ibn Nu'aym (م س) is said not to have heard him (Tahdhib al-Kamal 4/443–447). Yazid al-Faqir's hearing is not questioned."
+    },
+    {
+      "label": "Lost his sight late in life",
+      "detail": "Al-Nawawi records that he went blind in old age and said, of al-Hudaybiyah, \"had I my sight today I would show you the place of the tree\" (Tahdhib al-Asma' 1/143)."
+    }
+  ],
+  "bio": "A Companion and the son of a Companion of the Khazraj, present with his father at the pledge of al-Aqabah, who fought nineteen expeditions and became one of the most prolific narrators of all: al-Nawawi counts 1,540 hadith, Ibn Hajar 90 in al-Bukhari. Hisham ibn Urwah saw him with a teaching circle in the Prophet's mosque, and the leading Successors of Madinah and Makkah learned from him. He lived to ninety-four and died in Madinah in the 70s AH; his nisba al-Salami is spelt like Hushaym's al-Sulami in the same chain, and Ibn Hajar's rule, fathah only for the Ansar, keeps them apart.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya variants, students, deathVariants",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 4/443–447, Shamela book 3722 pages 1957–1961, and the Shamela narrator record 1091"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz, orthography",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 871"
+    },
+    {
+      "field": "companionCounts (total and Sahihayn split), teachers, bio",
+      "layer": "modern",
+      "ref": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/142–143"
+    },
+    {
+      "field": "companionCounts.inBukhari; al-Salami vocalisation",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Hady al-Sari, fasl 10 and fasl 6"
+    },
+    {
+      "field": "companionCounts (58 agreed)",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 59, Shamela book 5858"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 871 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الجيم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/1091"
+    },
+    {
+      "label": "al-Mizzi, Tahdhib al-Kamal 4/443 (Shamela)",
+      "url": "https://shamela.ws/book/3722/1957"
+    },
+    {
+      "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/142 (Shamela)",
+      "url": "https://shamela.ws/book/9702/142"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 59 (Shamela)",
+      "url": "https://shamela.ws/book/5858/59"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, fasl 10: the count for each Companion (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_العاشر/ذكر_عدة_ما_لكل_صحابي_في_صحيح_البخاري"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, fasl 6, al-Sulami (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السادس"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

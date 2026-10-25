@@ -1,0 +1,314 @@
+{
+  "slug": "given-five-things",
+  "title": "I have been given five things",
+  "titleAr": "أعطيت خمسا لم يعطهن أحد قبلي",
+  "takeaway": "The Prophet ﷺ names five things granted to him and to no prophet before him: enemies struck with dread of him a month's journey away; the whole earth made a place of prayer and a means of purification, so that a Muslim prays wherever the time finds him; the spoils of war made lawful; the right of intercession; and a mission to all people rather than to one nation. The hadith opens al-Bukhari's Book of Dry Ablution because of the second gift, which is the basis of tayammum.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: recorded by al-Bukhari in three places and by Muslim, both through Hushaym from Sayyar, and by al-Nasa'i through the same chain. Ibn Hajar calls Hushaym the pivot of Jabir's hadith and notes supporting narrations from other Companions in Ahmad with good chains."
+  },
+  "primary": {
+    "cite": "bukhari:335",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "335",
+    "bookChapter": "Book of Dry Ablution (Tayammum), chapter 1: the hadith of the revelation of the verse of tayammum; this is the second hadith of the book, after Aishah's account of the lost necklace",
+    "chain": ["al-bukhari", "muhammad-ibn-sinan-al-awqi", "hushaym-ibn-bashir", "sayyar-abu-al-hakam", "yazid-ibn-suhayb-al-faqir", "jabir-ibn-abdullah"],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "jabir-ibn-abdullah",
+        "sighaAr": "أن النبي ﷺ قال",
+        "sighaEn": "that the Prophet ﷺ said",
+        "kind": "an",
+        "note": "In 438 and 3122 Jabir says \"the Messenger of God ﷺ said\"."
+      },
+      {
+        "from": "jabir-ibn-abdullah",
+        "to": "yazid-ibn-suhayb-al-faqir",
+        "sighaAr": "أخبرنا",
+        "sighaEn": "informed us",
+        "kind": "ikhbar",
+        "note": "In 438 and 3122 the same link reads \"narrated to us\". The chain glosses the bare name: \"Yazid, that is Ibn Suhayb al-Faqir\"."
+      },
+      {
+        "from": "yazid-ibn-suhayb-al-faqir",
+        "to": "sayyar-abu-al-hakam",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "sayyar-abu-al-hakam",
+        "to": "hushaym-ibn-bashir",
+        "sighaAr": "أخبرنا",
+        "sighaEn": "informed us",
+        "kind": "ikhbar",
+        "note": "Hushaym is a mudallis of the third rank; here he states his source explicitly, as he does with \"narrated to us\" in 438 and 3122. Ibn Hajar found that al-Bukhari took from Hushaym only what he stated as hearing."
+      },
+      {
+        "from": "hushaym-ibn-bashir",
+        "to": "muhammad-ibn-sinan-al-awqi",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama",
+        "note": "Ibn Hajar: Muhammad ibn Sinan heard it from Hushaym's own lips, hence \"narrated to us\"; Sa'id ibn al-Nadr, on the second route, says \"informed us\", as if he read it to Hushaym or heard it read."
+      },
+      {
+        "from": "muhammad-ibn-sinan-al-awqi",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama",
+        "note": "Plural, because al-Bukhari heard it from Muhammad ibn Sinan in company; from Sa'id ibn al-Nadr he says \"narrated to me\", because he heard it alone (Ibn Hajar)."
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ، قَالَ حَدَّثَنَا هُشَيْمٌ، ح قَالَ وَحَدَّثَنِي سَعِيدُ بْنُ النَّضْرِ، قَالَ أَخْبَرَنَا هُشَيْمٌ، قَالَ أَخْبَرَنَا سَيَّارٌ، قَالَ حَدَّثَنَا يَزِيدُ ـ هُوَ ابْنُ صُهَيْبٍ الْفَقِيرُ ـ قَالَ أَخْبَرَنَا جَابِرُ بْنُ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "matnAr": "أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ، وَجُعِلَتْ لِيَ الأَرْضُ مَسْجِدًا وَطَهُورًا، فَأَيُّمَا رَجُلٍ مِنْ أُمَّتِي أَدْرَكَتْهُ الصَّلاَةُ فَلْيُصَلِّ، وَأُحِلَّتْ لِيَ الْمَغَانِمُ وَلَمْ تَحِلَّ لأَحَدٍ قَبْلِي، وَأُعْطِيتُ الشَّفَاعَةَ، وَكَانَ النَّبِيُّ يُبْعَثُ إِلَى قَوْمِهِ خَاصَّةً، وَبُعِثْتُ إِلَى النَّاسِ عَامَّةً",
+    "matnEn": "I have been given five things that no one before me was given. I have been helped by dread, cast a month's journey ahead of me. The earth has been made for me a place of prayer and a means of purification, so whoever of my community is overtaken by the time of prayer, let him pray. The spoils of war have been made lawful for me, and they were lawful for no one before me. I have been given intercession. And where a prophet used to be sent to his own people alone, I have been sent to all people.",
+    "url": "https://sunnah.com/bukhari:335"
+  },
+  "also": [
+    {
+      "cite": "bukhari:335",
+      "label": "Sahih al-Bukhari 335, the second route",
+      "note": "In the same place al-Bukhari joins a second shaykh with the ha' of transition: \"and Sa'id ibn al-Nadr narrated to me: Hushaym informed us\". Ibn Hajar: the two were not combined in one chain because al-Bukhari heard them separately, and the wording printed is Sa'id's.",
+      "url": "https://sunnah.com/bukhari:335",
+      "chainNote": "Sa'id ibn al-Nadr (\"narrated to me\") → Hushaym (\"informed us\"), then the same chain downward.",
+      "wordingNote": "The lafz is Sa'id's. Ibn Hajar observes, from a survey of al-Bukhari's practice, that when he cites more than one shaykh the wording belongs to the last named."
+    },
+    {
+      "cite": "bukhari:438",
+      "label": "Sahih al-Bukhari 438",
+      "note": "Book of Prayer, chapter on the saying \"the earth has been made for me a place of prayer and a means of purification\".",
+      "url": "https://sunnah.com/bukhari:438",
+      "chainNote": "Muhammad ibn Sinan → Hushaym → Sayyar, glossed \"that is Abu al-Hakam\" → Yazid al-Faqir → Jabir, every link \"narrated to us\"; a single shaykh this time.",
+      "wordingNote": "\"The Messenger of God ﷺ said\"; \"that none of the prophets before me was given\"; \"the spoils (ghana'im) have been made lawful for me\" without \"and not for anyone before me\"; \"sent to all people (kaffah)\"; and intercession is moved to the end."
+    },
+    {
+      "cite": "bukhari:3122",
+      "label": "Sahih al-Bukhari 3122",
+      "note": "Book of the Obligation of the Fifth, where only the clause on spoils is quoted.",
+      "url": "https://sunnah.com/bukhari:3122",
+      "chainNote": "Muhammad ibn Sinan → Hushaym (\"narrated to us\") → Sayyar (\"informed us\") → Yazid al-Faqir (\"narrated to us\") → Jabir (\"narrated to us\").",
+      "wordingNote": "Only: \"the spoils have been made lawful for me\"."
+    },
+    {
+      "cite": "muslim:521",
+      "label": "Sahih Muslim 521",
+      "note": "Book of Mosques and Places of Prayer, in full.",
+      "url": "https://sunnah.com/muslim:521",
+      "chainNote": "Yahya ibn Yahya → Hushaym (\"informed us\") → Sayyar (\"from\") → Yazid al-Faqir (\"from\") → Jabir; and Abu Bakr ibn Abi Shaybah → Hushaym (\"narrated to us\") → Sayyar (\"informed us\") → Yazid al-Faqir (\"narrated to us\") → Jabir (\"informed us\"), the same chain as al-Bukhari from Hushaym downward.",
+      "wordingNote": "The order differs: it begins \"every prophet was sent to his own people alone, and I have been sent to every red and black\"; \"the earth has been made for me good (tayyibah), a means of purification and a place of prayer\"; \"whoever is overtaken by the prayer prays where he is\"; \"dread, ahead of me, a month's journey\"; and intercession last."
+    },
+    {
+      "cite": "muslim:523",
+      "label": "Sahih Muslim 523",
+      "note": "Abu Hurayrah's narration: \"I was preferred over the prophets with six\", four of these five plus comprehensive speech and the sealing of prophethood. Ibn Hajar reconciles the five and the six by progressive disclosure.",
+      "url": "https://sunnah.com/muslim:523"
+    },
+    {
+      "cite": "nasai:432",
+      "label": "Sunan al-Nasa'i 432",
+      "note": "Book of Ghusl and Tayammum.",
+      "url": "https://sunnah.com/nasai:432",
+      "chainNote": "al-Hasan ibn Isma'il ibn Sulayman → Hushaym (\"narrated to us\") → Sayyar (\"informed us\") → Yazid al-Faqir (\"from\") → Jabir.",
+      "wordingNote": "\"Wherever the prayer overtakes a man of my community he prays\"; \"I have been given intercession and no prophet before me was given it\"; \"sent to all people (kaffah)\"."
+    },
+    {
+      "cite": "ahmad:amr-ibn-shuayb",
+      "label": "Musnad Ahmad, the supporting narrations",
+      "note": "Numbers not confirmed. Ibn Hajar: Jabir's hadith turns on Hushaym with this chain, and it has supporting narrations (shawahid) from Ibn Abbas, Abu Musa and Abu Dharr, and from Amr ibn Shu'ayb from his father from his grandfather, \"all recorded by Ahmad with good chains\". The Amr ibn Shu'ayb version places the words at the expedition of Tabuk and reads \"and those before me prayed only in their churches\". The class notes add that Ahmad's chain there runs Qutaybah → Bakr ibn Mudar → Ibn al-Had; not verified here.",
+      "wordingNote": "Abu Umamah's version in Ahmad adds \"cast into the hearts of my enemies\" after \"dread\" (Ibn Hajar)."
+    },
+    {
+      "cite": "ibnhibban:abu-dharr",
+      "label": "Sahih Ibn Hibban (Abu Dharr)",
+      "note": "Number not confirmed; given in the class notes as a parallel from a different Companion. Ibn Hajar names Abu Dharr among the Companions whose versions Ahmad records."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 335, 438, 3122",
+      "reason": "Recorded in three books, through two shaykhs from Hushaym; placed first among the hadith of tayammum after the verse itself, because the gift of the earth as a purifier is the root of the chapter. Inclusion in the Sahih is itself a grade.",
+      "url": "https://sunnah.com/bukhari:335"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 521",
+      "reason": "Included in the Sahih through Yahya ibn Yahya and Abu Bakr ibn Abi Shaybah from Hushaym, the same chain as al-Bukhari below Hushaym.",
+      "url": "https://sunnah.com/muslim:521"
+    },
+    {
+      "scholar": "Ibn Hajar al-Asqalani",
+      "died": 852,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih; Hushaym its pivot, with good supporting chains",
+      "source": "Fath al-Bari 1/436, on hadith 335",
+      "quoteAr": "مدار حديث جابر هذا على هشيم بهذا الإسناد، وله شواهد من حديث ابن عباس وأبي موسى وأبي ذر، من رواية عمرو بن شعيب عن أبيه عن جده، رواها كلها أحمد بأسانيد حسان",
+      "reason": "Identifies Hushaym as the single point every route passes through and lists the independent Companion narrations in Ahmad as support. Separately, in Hady al-Sari, he confirms that al-Bukhari used Hushaym only where he states his hearing, which he does here.",
+      "url": "https://shamela.ws/book/1673/922"
+    }
+  ],
+  "fanOut": {
+    "afterId": "hushaym-ibn-bashir",
+    "headline": "two shaykhs of al-Bukhari, and Muslim's and al-Nasa'i's shaykhs",
+    "detail": "From Jabir to Hushaym the report is carried by one man at each step: Yazid al-Faqir, then Sayyar, then Hushaym. Ibn Hajar calls Hushaym its pivot (madar). From Hushaym it spreads: al-Bukhari has it from Muhammad ibn Sinan and Sa'id ibn al-Nadr, Muslim from Yahya ibn Yahya and Abu Bakr ibn Abi Shaybah, al-Nasa'i from al-Hasan ibn Isma'il ibn Sulayman.",
+    "named": ["Muhammad ibn Sinan al-Awqi", "Sa'id ibn al-Nadr", "Yahya ibn Yahya al-Naysaburi", "Abu Bakr ibn Abi Shaybah", "al-Hasan ibn Isma'il ibn Sulayman"],
+    "source": "Sahih al-Bukhari 335, 438, 3122; Sahih Muslim 521; Sunan al-Nasa'i 432; Ibn Hajar, Fath al-Bari 1/436"
+  },
+  "lessons": [
+    {
+      "title": "The small letter ha",
+      "body": "A lone ح in the chain marks a switch from one route to another. Al-Bukhari rarely uses it, because he spreads a hadith across chapters and gives each place its own chain; Muslim uses it constantly, because he gathers the routes in one place. Here al-Bukhari joins two shaykhs and keeps their formulas distinct: \"narrated to us\" for the one he heard in company, \"narrated to me\" for the one he heard alone, \"narrated\" for the one who heard Hushaym speak, \"informed\" for the one who read to him. Ibn Hajar reads the whole hearing-history off four words."
+    },
+    {
+      "title": "A famous mudallis, and the one word that disarms it",
+      "body": "Hushaym was reliable, firm, and notorious for tadlis: Ibn Hajar puts him in the third rank, whose ambiguous \"from\" is not accepted. But he says \"informed us\" here and \"narrated to us\" in the parallels, and Ibn Hajar found that al-Bukhari took from Hushaym only such reports. The record also holds Ahmad's remark that Hushaym did not hear from Sayyar; the explicit formula in three places of the Sahih and in Muslim is the answer the compilers gave."
+    },
+    {
+      "title": "Names that mislead",
+      "body": "Al-Awqi looks like a tribe and is a neighbourhood; al-Faqir looks like \"the poor man\" and names a bad back. Al-Sulami is written identically for Jabir and for Hushaym and means two different tribes: Ibn Hajar's rule is fathah for the Ansar, dammah for everyone else. The discipline keeps books on these traps because a reader who guesses will confuse two men or invent a fact."
+    },
+    {
+      "title": "Whose words are these?",
+      "body": "When two shaykhs give the same hadith in slightly different words, a compiler must choose one text. Ibn Hajar established by survey that al-Bukhari's wording follows the last shaykh named, so the text of 335 is Sa'id ibn al-Nadr's. Comparing 438 and 3122, which are Muhammad ibn Sinan's, shows what changed: \"of the prophets\", \"ghana'im\" for \"maghanim\", and the order of the five."
+    }
+  ],
+  "subtleties": [
+    {
+      "text": "Al-Bukhari joins two shaykhs with the ha' of transition. Ibn Hajar: he did not combine them in one chain, although both gave him the hadith from Hushaym, \"because he heard it from them separately; it seems he heard it from Muhammad ibn Sinan with others, so he used the plural, narrated to us, and from Sa'id alone, so he used the singular, narrated to me.\" The class notes add that al-Bukhari uses the ha' rarely and Muslim often, because of their different methods of arranging routes.",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/436; the comparison with Muslim from the class notes"
+    },
+    {
+      "text": "\"Narrated to us\" against \"informed us\" on the same link: Ibn Hajar reads Muhammad ibn Sinan's haddathana as hearing from Hushaym's lips and Sa'id's akhbarana as reading to Hushaym or hearing it read, \"all of this by way of technical convention\".",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/436"
+    },
+    {
+      "text": "The wording is Sa'id ibn al-Nadr's. Ibn Hajar: \"it has appeared by survey (istiqra') of al-Bukhari's practice that when he cites a hadith from more than one person the wording is the last one's.\"",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/436"
+    },
+    {
+      "text": "Two names that mislead. Al-Awqi: Muhammad ibn Sinan was of Bahilah; al-Awqah is the clan among whom he settled in Basra (al-Mizzi: of al-Azd; Ibn Hajar: of Abd al-Qays). Al-Faqir: Yazid ibn Suhayb complained of the vertebrae (faqar) of his back \"and was not poor in money\" (Ibn Hajar). The class notes file both under the category of misleading attributions in Ibn Hajar's Nukhbat al-Fikar; that placement was not checked here.",
+      "kind": "scholar",
+      "source": "Tahdhib al-Kamal 25/320; Ibn Hajar, Hady al-Sari, fasl 6; Fath al-Bari 1/436; Taqrib 7733"
+    },
+    {
+      "text": "One written nisba, two tribes. Jabir is al-Salami with two fathahs, of Banu Salimah of the Ansar; Hushaym is al-Sulami with dammah, a mawla of Banu Sulaym. Ibn Hajar: \"al-Sulami with dammah is common; with fathah, only among the Ansar.\"",
+      "kind": "check",
+      "source": "Taqrib 871 and 7312; Ibn Hajar, Hady al-Sari, fasl 6; al-Nawawi, Tahdhib al-Asma' 1/142"
+    },
+    {
+      "text": "The pivot. Ibn Hajar: \"Jabir's hadith turns on Hushaym with this chain\"; it has supporting narrations from Ibn Abbas, Abu Musa, Abu Dharr and Amr ibn Shu'ayb from his father from his grandfather, all in Ahmad with good chains, and the Amr ibn Shu'ayb version dates the words to Tabuk, the Prophet's last expedition.",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/436"
+    },
+    {
+      "text": "Another Sayyar. A Syrian Successor of the same name, used by al-Tirmidhi, narrates the meaning of this hadith from Abu Umamah; neither Sayyar is given a nisba in his chain, \"so someone without discernment might take them for one man and suppose the chain is disputed, which it is not\" (Ibn Hajar).",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/436"
+    },
+    {
+      "text": "Five or six? Muslim's Abu Hurayrah hadith says \"I was preferred over the prophets with six\" and lists four of these five plus two others. Ibn Hajar: perhaps he was first shown some of what was his alone and later the rest; and whoever does not take a number as excluding more has no problem at all.",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/436–437"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "The seventeen lessons in the class notes were checked against Fath al-Bari and al-Nawawi's Sharh Muslim; those confirmed are entered with their source. Points not located (that it is permissible to speak of one's blessings, the honour of the human being created from water and earth, prayer not to be delayed, the obligation to believe in unseen matters, that matters are made easy for this community) await a reviewer.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The occasion is not in the hadith itself; Amr ibn Shu'ayb's version places it at Tabuk, the last expedition.",
+        "url": "https://shamela.ws/book/1673/922"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Each of the five was exclusive to him. The objection that Nuh was sent to all mankind after the Flood is answered: that universality was an accident of there being no one else left, whereas the Prophet's mission was universal from its origin; and al-Dawudi's claim that only the combination was unique ignores the hadith's own closing words.",
+        "url": "https://shamela.ws/book/1673/923"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "\"A month's journey\" marks the greatest distance between his city and any enemy, so the gift is unconditional; whether it continues for his community after him is open.",
+        "url": "https://shamela.ws/book/1673/923"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "\"The earth a place of prayer\": the strongest view is al-Khattabi's, that earlier communities were permitted to pray only in set places such as churches and cells, confirmed by Amr ibn Shu'ayb's wording \"those before me prayed only in their churches\"; a weaker view is that they prayed only where purity was certain.",
+        "url": "https://shamela.ws/book/1673/923"
+      },
+      {
+        "work": "al-Minhaj Sharh Sahih Muslim",
+        "author": "al-Nawawi",
+        "point": "On the spoils: earlier nations gathered theirs and fire from heaven consumed them, as the Sahihayn record in Abu Hurayrah's hadith of the prophet for whom the sun was held back. On \"tahur\": Malik and Abu Hanifah argued from this wording for tayammum with every part of the earth, al-Shafi'i and Ahmad from Hudhayfah's \"its soil\" for dust alone. On intercession: the universal intercession at the Gathering, since particular intercession was given to others too.",
+        "url": "https://shamela.ws/book/1711/946"
+      },
+      {
+        "work": "al-Minhaj Sharh Sahih Muslim",
+        "author": "al-Nawawi",
+        "point": "\"A place of prayer\" means those before us were permitted to pray only in specific places like synagogues and churches; al-Qadi Iyad adds the view that they prayed only on ground whose purity they were sure of, while this community may pray anywhere not known to be impure.",
+        "url": "https://shamela.ws/book/1711/947"
+      }
+    ],
+    "rulings": [
+      { "text": "God singled out His Prophet ﷺ with qualities no prophet before him had, and each of the five is his alone.", "source": "Ibn Hajar, Fath al-Bari 1/436–437" },
+      { "text": "Victory came by dread cast into the enemy at a month's distance, with or without an army.", "source": "Ibn Hajar, Fath al-Bari 1/437" },
+      { "text": "Prayer is valid anywhere on earth except where impurity is known or the law has excluded a place, such as graveyards.", "source": "al-Nawawi, Sharh Muslim 5/3 (on 520–521); Ibn Hajar, Fath al-Bari 1/437" },
+      { "text": "Tahur means that which purifies; tayammum with every part of the earth is the position of Malik and Abu Hanifah on this wording, while al-Shafi'i and Ahmad restrict it to dust on the strength of Hudhayfah's hadith.", "source": "al-Nawawi, Sharh Muslim 5/3–4" },
+      { "text": "The spoils of war are lawful for this community, where earlier nations' spoils were consumed by fire.", "source": "al-Nawawi, Sharh Muslim 5/3" },
+      { "text": "The Prophet's intercession is affirmed, the universal intercession of the Day of Gathering being his alone.", "source": "al-Nawawi, Sharh Muslim 5/4" },
+      { "text": "His message is to all people, from its origin, not by circumstance.", "source": "Ibn Hajar, Fath al-Bari 1/436–437" },
+      { "text": "Earlier communities had prayer and purification in principle, but confined to set places.", "source": "al-Khattabi as preferred by Ibn Hajar, Fath al-Bari 1/437; al-Nawawi, Sharh Muslim 5/4" }
+    ]
+  },
+  "context": "Al-Bukhari opens the Book of Tayammum with the verse of the Qur'an, then Aishah's story of the lost necklace at which the verse came down, then this hadith, placed here for its second clause: the earth made a place of prayer and a means of purification. He repeats it under Prayer (438), where the chapter heading is that very clause, and quotes only its third clause under the Fifth (3122). Muslim gives it in full in his Book of Mosques, with the five in a different order and \"every red and black\" for \"all people\". Ibn Hajar notes that Amr ibn Shu'ayb's version in Ahmad sets the words at Tabuk, the Prophet's last expedition, and that other hadith add to the five: Abu Hurayrah's \"six\" in Muslim, and in Ibn Hajar's own survey some seventeen distinctive qualities, with later writers counting far more.",
+  "vocabulary": [
+    { "term": "al-Ru'b", "ar": "الرُّعب", "meaning": "Dread, terror. Abu Umamah's version in Ahmad adds \"cast into the hearts of my enemies\"." },
+    { "term": "Masjid", "ar": "مسجد", "meaning": "A place of prostration; here the whole earth, as against the set places of earlier communities. Places the law excludes, such as graveyards, are not included." },
+    { "term": "Tahur", "ar": "طَهُور", "meaning": "With fathah on the ta': that which purifies others, not merely that which is pure; the word on which the law of tayammum rests." },
+    { "term": "Maghanim", "ar": "مغانم", "meaning": "Spoils taken in war; 438 and 3122 have the synonym ghana'im." },
+    { "term": "Shafa'ah", "ar": "شفاعة", "meaning": "Intercession; al-Nawawi takes it as the universal intercession at the Gathering, which is his alone." },
+    { "term": "Khassah / ammah", "ar": "خاصة / عامة", "meaning": "To one people alone, as against to all; Muslim's version has \"to every red and black\", al-Nasa'i's and 438 \"to all people (kaffah)\"." },
+    { "term": "Madar", "ar": "مدار", "meaning": "The pivot: the one narrator through whom every route of a hadith passes. Here Hushaym." },
+    { "term": "Tahwil (ح)", "ar": "تحويل", "meaning": "The letter ha' written alone in a chain to mark a switch from one route to another." }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 3,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    { "label": "Sahih al-Bukhari 335 (sunnah.com)", "url": "https://sunnah.com/bukhari:335" },
+    { "label": "Sahih al-Bukhari 438 (sunnah.com)", "url": "https://sunnah.com/bukhari:438" },
+    { "label": "Sahih al-Bukhari 3122 (sunnah.com)", "url": "https://sunnah.com/bukhari:3122" },
+    { "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (hadith-api)", "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json" },
+    { "label": "Sahih Muslim 521 (sunnah.com)", "url": "https://sunnah.com/muslim:521" },
+    { "label": "Sunan al-Nasa'i 432 (sunnah.com)", "url": "https://sunnah.com/nasai:432" },
+    { "label": "Ibn Hajar, Fath al-Bari 1/436–437 on hadith 335 (Shamela)", "url": "https://shamela.ws/book/1673/922" },
+    { "label": "al-Nawawi, al-Minhaj Sharh Sahih Muslim 5/3–4 on hadith 521 (Shamela)", "url": "https://shamela.ws/book/1711/946" },
+    { "label": "Ibn Hajar, Hady al-Sari, fasl 6 (al-Awqi, al-Sulami) (Wikisource)", "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السادس" },
+    { "label": "Ibn Hajar, Hady al-Sari, fasl 9, letter ha' (Hushaym) (Wikisource)", "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الهاء" },
+    { "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis, no. 111 (OpenITI transcription)", "url": "https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TacrifAhlTaqdis/0852IbnHajarCasqalani.TacrifAhlTaqdis.Shamela0001186BK1-ara1" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

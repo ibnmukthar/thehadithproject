@@ -1,0 +1,128 @@
+{
+  "id": "muhammad-ibn-sinan-al-awqi",
+  "name": "Muhammad ibn Sinan al-Awqi",
+  "nameAr": "محمد بن سنان الباهلي، أبو بكر البصري، المعروف بالعوقي",
+  "short": "Muhammad ibn Sinan al-Awqi",
+  "shortAr": "محمد بن سنان العوقي",
+  "kunya": "Abu Bakr",
+  "kunyaAr": "أبو بكر",
+  "nisbas": [
+    { "ar": "الباهلي", "en": "al-Bahili", "kind": "tribal" },
+    { "ar": "البصري", "en": "al-Basri", "kind": "geographic" },
+    { "ar": "العوقي", "en": "al-Awqi: after al-Awqah, the clan among whom he settled, not his lineage (al-Mizzi: a clan of al-Azd; Ibn Hajar, Hady al-Sari: of Abd al-Qays)", "kind": "other" }
+  ],
+  "fatherName": "Sinan",
+  "orthography": {
+    "spelled": "al-Awqi: fathah on the ayn and the waw, then qaf (Taqrib). Not to be confused with al-Awfi (sukun on the waw, then fa'), the nisba of the descendants of Abd al-Rahman ibn Awf.",
+    "homographs": ["al-Awfi"],
+    "source": "Taqrib al-Tahdhib 5935; Ibn Hajar, Hady al-Sari, fasl 6, letter ayn"
+  },
+  "died": 223,
+  "diedNote": "223 (Taqrib; al-Bukhari); 222 is also reported.",
+  "deathVariants": [
+    { "year": 223, "authority": "al-Bukhari; Ibn Hajar, Taqrib", "source": "Taqrib 5935; Tahdhib al-Tahdhib 3/581" },
+    { "year": 222, "authority": "another report", "source": "Shamela narrator record 5651" }
+  ],
+  "region": "Basra",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة ثبت من كبار العاشرة",
+    "en": "Reliable and firm; of the senior men of the tenth generation.",
+    "number": "5935",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari",
+  "rumuz": ["خ", "د", "ت", "ق"],
+  "external": { "shamela": "5651", "tahdhibKamal": "25/320 (no. 5267)" },
+  "teachers": [
+    { "id": "hushaym-ibn-bashir", "name": "Hushaym ibn Bashir", "nameAr": "هشيم بن بشير", "sigla": ["خ"], "source": "Tahdhib al-Kamal 25/321" },
+    { "name": "Fulayh ibn Sulayman", "nameAr": "فليح بن سليمان", "sigla": ["بخ"], "source": "Tahdhib al-Kamal 25/321" },
+    { "name": "Hammam ibn Yahya", "nameAr": "همام بن يحيى", "sigla": ["خ"], "source": "Tahdhib al-Kamal 25/321" },
+    { "name": "Sulaym ibn Hayyan", "nameAr": "سليم بن حيان", "sigla": ["خ", "ت"], "source": "Tahdhib al-Kamal 25/321" }
+  ],
+  "students": [
+    { "id": "al-bukhari", "name": "al-Bukhari", "nameAr": "البخاري", "source": "Tahdhib al-Kamal 25/321" },
+    { "name": "Abu Dawud", "nameAr": "أبو داود", "source": "Tahdhib al-Kamal 25/321" },
+    { "name": "Abu Muslim Ibrahim ibn Abdullah al-Kajji, the last to narrate from him", "nameAr": "أبو مسلم الكجي", "source": "Tahdhib al-Kamal 25/321" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ibrahim ibn al-Junayd",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 25/320; Tahdhib al-Tahdhib 3/581",
+      "url": "https://shamela.ws/narrator/5651"
+    },
+    {
+      "critic": "al-Daraqutni",
+      "criticDied": 385,
+      "ar": "ثقة حجة",
+      "en": "Reliable, a proof.",
+      "source": "Tahdhib al-Tahdhib 3/581",
+      "url": "https://shamela.ws/narrator/5651"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "al-Jarh wa al-Ta'dil 7/279 (Abu Hatim heard from him); Tahdhib al-Kamal 25/320",
+      "url": "https://shamela.ws/narrator/5651"
+    },
+    {
+      "critic": "Affan ibn Muslim",
+      "criticDied": 220,
+      "via": "Muhammad ibn Abdullah ibn Abi al-Thalj",
+      "ar": "ما رأيت عفان يثني على أحد إلا على محمد بن سنان العوقي، لما بلغه أنه حدث قال: عن مثله فاكتبوا",
+      "en": "\"I never saw Affan praise anyone except Muhammad ibn Sinan al-Awqi; when he heard he had begun to teach he said: from such a man, write.\"",
+      "source": "al-Jarh wa al-Ta'dil 7/279; Tahdhib al-Kamal 25/320",
+      "url": "https://shamela.ws/narrator/5651"
+    },
+    {
+      "critic": "Maslamah ibn Qasim",
+      "criticDied": 353,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Tahdhib 3/581",
+      "url": "https://shamela.ws/narrator/5651"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 25/320",
+      "url": "https://shamela.ws/narrator/5651"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة ثبت",
+      "en": "Reliable and firm.",
+      "source": "Taqrib al-Tahdhib, entry 5935",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم"
+    }
+  ],
+  "dhahabi": { "ar": "قال أبو حاتم: صدوق", "en": "Quotes Abu Hatim: truthful.", "source": "al-Kashif 4/121" },
+  "flags": [
+    { "label": "Attribution by residence", "detail": "al-Awqi is not a lineage. Al-Mizzi: \"al-Awqah is a quarter of al-Azd; he settled among them and was attributed to them\" (Tahdhib al-Kamal 25/320). Ibn Hajar makes al-Awqah a clan of Abd al-Qays (Hady al-Sari, fasl 6). The two differ on the tribe, agree on the point: the nisba records where he lived." },
+    { "label": "Homonym", "detail": "Not Muhammad ibn Sinan ibn Yazid al-Qazzaz, Abu Bakr al-Basri, resident of Baghdad, who is weak (Taqrib 5936, entered for distinction only)." }
+  ],
+  "bio": "A Basran shaykh of al-Bukhari and Abu Dawud, reliable by every critic's account, whose nisba al-Awqi comes from the quarter of Basra where he settled rather than from his tribe, which was Bahilah. Al-Bukhari heard the \"I have been given five\" hadith from him and from Sa'id ibn al-Nadr separately and joined the two routes with the ha' of transition.",
+  "provenance": [
+    { "field": "nameAr, nisbas (al-Awqah of al-Azd), teachers, students", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 25/320–321 (no. 5267), Shamela book 3722 pages 13414–13415" },
+    { "field": "taqrib, tabaqa, rumuz, died, orthography", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 5935–5936" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 3/581, as collected on the Shamela narrator record 5651" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 4/121" },
+    { "field": "al-Awqah of Abd al-Qays; al-Awfi homograph", "layer": "specialist", "ref": "Ibn Hajar, Hady al-Sari, fasl 6" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 5935 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/5651" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 25/320 (Shamela)", "url": "https://shamela.ws/book/3722/13414" },
+    { "label": "Ibn Hajar, Hady al-Sari, fasl 6 (Wikisource)", "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السادس" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

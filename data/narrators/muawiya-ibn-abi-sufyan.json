@@ -1,0 +1,155 @@
+{
+  "id": "muawiya-ibn-abi-sufyan",
+  "name": "Mu'awiya ibn Abi Sufyan",
+  "nameAr": "معاوية بن أبي سفيان صخر بن حرب بن أمية بن عبد شمس الأموي القرشي رضي الله عنه",
+  "short": "Mu'awiya ibn Abi Sufyan",
+  "shortAr": "معاوية بن أبي سفيان",
+  "kunya": "Abu Abd al-Rahman",
+  "kunyaAr": "أبو عبد الرحمن",
+  "nisbas": [
+    {
+      "ar": "الأموي",
+      "en": "al-Umawi, of Banu Umayya",
+      "kind": "tribal"
+    },
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi, of Quraysh",
+      "kind": "tribal"
+    }
+  ],
+  "fatherName": "Abu Sufyan",
+  "born": -18,
+  "bornNote": "Born five years before the Prophet's mission on the best-known report (others say six, or thirteen), so about 18 years before the hijra",
+  "died": 60,
+  "diedNote": "Rajab 60 AH in Damascus, approaching eighty; also said 59",
+  "deathVariants": [
+    {
+      "year": 60,
+      "authority": "Taqrib al-Tahdhib",
+      "source": "Taqrib al-Tahdhib 6758"
+    },
+    {
+      "year": 59,
+      "authority": "a minority report",
+      "source": "Shamela narrator record 6225"
+    }
+  ],
+  "region": "Damascus",
+  "tabaqa": 1,
+  "taqrib": {
+    "ar": "الخليفة، صحابي أسلم قبل الفتح وكتب الوحي، ومات في رجب سنة ستين وقد قارب الثمانين",
+    "en": "The caliph. A Companion who accepted Islam before the conquest of Makkah and served as a scribe of the revelation; he died in Rajab 60 AH approaching eighty.",
+    "number": "6758"
+  },
+  "band": "sahabi",
+  "role": "Companion; scribe of the revelation; governor of Syria for Umar and Uthman, then caliph (41–60 AH)",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "6225"
+  },
+  "students": [
+    {
+      "id": "humayd-ibn-abd-al-rahman",
+      "name": "Humayd ibn Abd al-Rahman ibn Awf",
+      "nameAr": "حميد بن عبد الرحمن بن عوف",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 71; al-Jarh wa al-Ta'dil 8/377"
+    },
+    {
+      "name": "Abu Salih Dhakwan",
+      "nameAr": "أبو صالح ذكوان",
+      "source": "al-Jarh wa al-Ta'dil 8/377"
+    },
+    {
+      "name": "Abdullah ibn Amir al-Yahsubi",
+      "nameAr": "عبد الله بن عامر اليحصبي",
+      "sigla": [
+        "م"
+      ],
+      "source": "al-Jarh wa al-Ta'dil 8/377; Sahih Muslim 1037"
+    },
+    {
+      "name": "Yazid ibn al-Asamm",
+      "nameAr": "يزيد بن الأصم",
+      "sigla": [
+        "م"
+      ],
+      "source": "al-Jarh wa al-Ta'dil 8/377; Sahih Muslim 1037"
+    },
+    {
+      "name": "Umayr ibn Hani",
+      "nameAr": "عمير بن هانئ",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 3641, 7460"
+    },
+    {
+      "name": "Jarir ibn Abdullah",
+      "nameAr": "جرير بن عبد الله",
+      "id": "jarir-ibn-abdullah-al-bajali",
+      "source": "reciprocal of the entry in jarir-ibn-abdullah-al-bajali's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "verdicts": [],
+  "flags": [
+    {
+      "label": "Date of his Islam",
+      "detail": "Al-Mizzi: he and his father were among those who accepted Islam at the conquest of Makkah; it is also said he accepted Islam at the time of al-Hudaybiya and concealed it. Ibn Hajar's Taqrib says 'before the conquest'."
+    }
+  ],
+  "bio": "Son of Abu Sufyan and Hind bint Utba, brother of the Prophet's wife Umm Habiba, and one of the scribes who wrote down the revelation. Umar appointed him over Syria after his brother Yazid, Uthman kept him there, and after the first civil war he became caliph and ruled from Damascus for twenty years. He delivered this hadith from the pulpit, which is how Humayd ibn Abd al-Rahman heard it.",
+  "provenance": [
+    {
+      "field": "name, kunya, family, offices, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 6225, drawing on Tahdhib al-Kamal 28/176 and Tahdhib al-Tahdhib 4/107"
+    },
+    {
+      "field": "taqrib, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 6758 (Wikisource)"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Abu Hatim in al-Jarh wa al-Ta'dil 8/377, as quoted on the Shamela record; chains of al-Bukhari 71, 3641 and Muslim 1037"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, Shamela book 5858, p. 381, https://shamela.ws/book/5858/381"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 6758 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_بقية_حرف_الميم_على_الترتيب"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6225"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 381 (Shamela)",
+      "url": "https://shamela.ws/book/5858/381"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  },
+  "companionCounts": {
+    "total": 130,
+    "agreed": 4,
+    "bukhariOnly": 4,
+    "muslimOnly": 5,
+    "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, Shamela book 5858, p. 381 (entry of Mu'awiya ibn Abi Sufyan), https://shamela.ws/book/5858/381 («له مائة وثلاثون حديثا، اتفقا على أربعة، وانفرد (خ) بأربعة و(م) بخمسة»)"
+  }
+}

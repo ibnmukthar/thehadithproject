@@ -3,7 +3,7 @@ import { Wordmark } from "./Wordmark";
 
 export function SiteFooter() {
   return (
-    <footer className="border-t border-hairline mt-24">
+    <footer className="border-t border-hairline mt-20">
       <div className="container py-12 grid gap-10 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
         <div>
           <Wordmark />
@@ -14,33 +14,34 @@ export function SiteFooter() {
           <p className="tiny text-muted">Sahih al-Bukhari 110, Sahih Muslim 3 (introduction). The warning that started the science.</p>
         </div>
         <FooterCol
-          title="Project"
+          title="Read"
           items={[
             ["/science/", "Why hadith is a science"],
-            ["/explore/", "Explore the demo"],
-            ["/blueprint/", "The blueprint"],
-            ["/contribute/", "Contribute"],
+            ["/studies/", "Studied hadith"],
+            ["/explore/", "Explore"],
+            ["/verify/", "Verify a quote"],
           ]}
         />
         <FooterCol
-          title="Demo hadith"
+          title="Project"
           items={[
-            ["/h/actions-by-intentions/", "Actions are by intentions"],
-            ["/h/leaving-what-does-not-concern/", "Leaving what does not concern you"],
-            ["/h/seek-knowledge-even-in-china/", "Seek knowledge even in China"],
+            ["/about/", "Mission, goals, principles"],
+            ["/blueprint/", "The blueprint"],
+            ["/contribute/", "Contribute"],
+            ["mailto:hello@thehadithproject.com", "Write to us"],
           ]}
         />
         <FooterCol
           title="Open"
           items={[
-            ["https://github.com/ibnmukthar/thehadithproject", "Source on GitHub"],
-            ["/api/v0/hadith/actions-by-intentions.json", "Example API response"],
-            ["/blueprint/#licensing", "Data licence"],
+            ["https://github.com/ibnmukthar/thehadithproject", "Source and data on GitHub"],
+            ["/api/v0/hadith.json", "API index"],
+            ["/blueprint/#licensing", "Licences"],
           ]}
         />
       </div>
       <div className="container pb-10 tiny text-muted">
-        Nothing on this site is a verdict of ours. Every grade shown is attributed to the scholar who gave it, with the source. Demo data is hand-checked but still a prototype; corrections welcome.
+        Nothing on this site is a verdict of ours. Every grade shown is attributed to the scholar who gave it, with the source. Machine-parsed chains are labelled as such until a person has checked them. Every line has a link to report a correction.
       </div>
     </footer>
   );
@@ -53,7 +54,7 @@ function FooterCol({ title, items }: { title: string; items: [string, string][] 
       <ul className="space-y-2">
         {items.map(([href, label]) => (
           <li key={href}>
-            {href.startsWith("http") ? (
+            {href.startsWith("http") || href.startsWith("mailto:") ? (
               <a href={href} className="text-ink-2 hover:text-ink" rel="noopener">{label}</a>
             ) : (
               <Link href={href} className="text-ink-2 hover:text-ink">{label}</Link>

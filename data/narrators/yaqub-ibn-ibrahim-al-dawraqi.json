@@ -1,0 +1,134 @@
+{
+  "id": "yaqub-ibn-ibrahim-al-dawraqi",
+  "name": "Ya'qub ibn Ibrahim al-Dawraqi",
+  "nameAr": "يعقوب بن إبراهيم بن كثير بن زيد بن أفلح العبدي مولاهم، أبو يوسف، الدورقي",
+  "short": "Ya'qub al-Dawraqi",
+  "shortAr": "يعقوب الدورقي",
+  "kunya": "Abu Yusuf",
+  "kunyaAr": "أبو يوسف",
+  "nisbas": [
+    {
+      "ar": "العبدي",
+      "en": "al-Abdi (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الدورقي",
+      "en": "al-Dawraqi",
+      "kind": "other"
+    },
+    {
+      "ar": "البغدادي",
+      "en": "al-Baghdadi",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Abd al-Qays (their client)",
+  "fatherName": "Ibrahim",
+  "born": 166,
+  "bornNote": "166 AH (Shamela record)",
+  "died": 252,
+  "diedNote": "252 AH, aged 86 (Taqrib)",
+  "region": "Baghdad",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة … وكان من الحفاظ",
+    "en": "Reliable; he was one of the hadith masters.",
+    "number": "7812",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Teacher of all six compilers; author of a Musnad",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/7150"
+  },
+  "teachers": [
+    {
+      "id": "ismail-ibn-ulayyah",
+      "name": "Isma'il ibn Ibrahim, Ibn Ulayyah",
+      "nameAr": "ابن علية",
+      "source": "Sahih al-Bukhari 15"
+    }
+  ],
+  "students": [
+    {
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "source": "Sahih al-Bukhari 15"
+    },
+    {
+      "name": "Ibn Khuzaymah",
+      "nameAr": "ابن خزيمة",
+      "source": "Sahih Ibn Khuzaymah, as cited in Fath al-Bari on hadith 15"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Khatib al-Baghdadi",
+      "criticDied": 463,
+      "ar": "كان ثقة حافظا متقنا، صنف المسند",
+      "en": "He was reliable, a hadith master, precise; he compiled the Musnad.",
+      "source": "Tahdhib al-Kamal 32/311",
+      "url": "https://shamela.ws/narrator/7150"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ",
+    "en": "The hadith master.",
+    "source": "al-Kashif, as given on the Shamela record"
+  },
+  "flags": [
+    {
+      "label": "The 252 AH cohort",
+      "detail": "He died in the same year as Muhammad ibn Bashshar (Bundar) and Muhammad ibn al-Muthanna (al-Zaman), both likewise born in the late 160s and likewise teachers of all six compilers (Taqrib, entries 5754, 6264, 7812)."
+    },
+    {
+      "label": "Nisba not explained here",
+      "detail": "The class notes derive al-Dawraqi from the caps (dawraqiyyah) worn by his circle rather than from the town of Dawraq, citing al-Maqdisi's al-Jam'. Not verified here; the nisba is entered without an explanation."
+    }
+  ],
+  "bio": "A Baghdadi hadith master and brother of Ahmad ibn Ibrahim al-Dawraqi, who compiled a Musnad and taught all six compilers. He opens hadith 15 and, in Ibn Khuzaymah's Sahih, carries the same chain with Abd al-Aziz's wording “than his family and his wealth”, which Ibn Hajar uses to show that al-Bukhari joined two routes on the basis of the report, not its exact words.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7812"
+    },
+    {
+      "field": "born",
+      "layer": "modern",
+      "ref": "Shamela narrator record 7150"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7812"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 32/311"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7812 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/7150"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 15 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/28/"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

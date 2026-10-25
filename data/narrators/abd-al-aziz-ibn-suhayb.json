@@ -1,0 +1,155 @@
+{
+  "id": "abd-al-aziz-ibn-suhayb",
+  "name": "Abd al-Aziz ibn Suhayb al-Bunani",
+  "nameAr": "عبد العزيز بن صهيب البناني مولاهم، أبو حمزة، البصري، الأعمى",
+  "short": "Abd al-Aziz ibn Suhayb",
+  "shortAr": "عبد العزيز بن صهيب",
+  "kunya": "Abu Hamza",
+  "kunyaAr": "أبو حمزة",
+  "nisbas": [
+    {
+      "ar": "البناني",
+      "en": "al-Bunani (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Bunanah (their client); Ahmad: Ma'mar erred in calling him a client of Anas",
+  "fatherName": "Suhayb",
+  "died": 130,
+  "region": "Basra",
+  "tabaqa": 4,
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "4102",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/3479"
+  },
+  "teachers": [
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Sahih al-Bukhari 15"
+    }
+  ],
+  "students": [
+    {
+      "id": "ismail-ibn-ulayyah",
+      "name": "Isma'il ibn Ibrahim, Ibn Ulayyah",
+      "nameAr": "ابن علية",
+      "source": "Sahih al-Bukhari 15"
+    },
+    {
+      "name": "Abd al-Warith ibn Sa'id",
+      "nameAr": "عبد الوارث بن سعيد",
+      "source": "Sahih Muslim 44a; Sunan al-Nasa'i 5014"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "his son Abdullah",
+      "ar": "ثقة ثقة … عبد العزيز أوثق من يحيى [بن أبي إسحاق]، عبد العزيز من الثقات",
+      "en": "Reliable, reliable; Abd al-Aziz is more trustworthy than Yahya ibn Abi Ishaq; he is one of the reliable.",
+      "source": "Tahdhib al-Kamal 18/147; al-Jarh wa al-Ta'dil 5/384",
+      "url": "https://shamela.ws/narrator/3479"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ishaq ibn Mansur",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 5/384",
+      "url": "https://shamela.ws/narrator/3479"
+    },
+    {
+      "critic": "Shu'bah ibn al-Hajjaj",
+      "criticDied": 160,
+      "via": "Yahya al-Qattan",
+      "ar": "عبد العزيز بن صهيب في أنس أحب إلي من قتادة، أو قال: أثبت من قتادة",
+      "en": "Abd al-Aziz ibn Suhayb in Anas is dearer to me than Qatadah, or he said: firmer than Qatadah.",
+      "source": "Tahdhib al-Kamal 18/147",
+      "url": "https://shamela.ws/narrator/3479"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صالح",
+      "en": "Acceptable.",
+      "source": "al-Jarh wa al-Ta'dil 5/384",
+      "url": "https://shamela.ws/narrator/3479"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable (so too al-Ijli).",
+      "source": "Tahdhib al-Tahdhib 2/587",
+      "url": "https://shamela.ws/narrator/3479"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة",
+      "en": "He was reliable.",
+      "source": "Tahdhib al-Tahdhib 2/587",
+      "url": "https://shamela.ws/narrator/3479"
+    }
+  ],
+  "dhahabi": {
+    "ar": "حجة",
+    "en": "A proof.",
+    "source": "al-Kashif 3/304"
+  },
+  "bio": "A blind Basran client of Bunanah and a reliable transmitter from Anas; Shu'bah preferred him in Anas even to Qatadah. He and his father had been slaves, and the judge Iyas ibn Mu'awiyah accepted his sole testimony. In hadith 15 he is the Successor of the first chain, and his wording of the hadith (“than his family and his wealth”, in Muslim and Ibn Khuzaymah) differs from Qatadah's.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 4102"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 4102"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 18/147; al-Jarh wa al-Ta'dil 5/384; Tahdhib al-Tahdhib 2/587"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 3/304"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 4102 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عبد_الرحيم_وما_بعده"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3479"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

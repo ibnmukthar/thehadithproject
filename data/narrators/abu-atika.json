@@ -1,0 +1,207 @@
+{
+  "id": "abu-atika",
+  "name": "Abu Atika Tarif ibn Salman",
+  "nameAr": "أبو عاتكة طَريف بن سَلْمان، ويقال ابن سليمان، ويقال سلمان بن طريف",
+  "short": "Abu Atika",
+  "shortAr": "أبو عاتكة",
+  "kunyaAr": "أبو عاتكة",
+  "nisbas": [
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi (Tahdhib al-Tahdhib: Kufan)",
+      "kind": "geographic"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri (so Ibn Abi Hatim and al-Bukhari; the Taqrib: \"Basran or Kufan\")",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Salman",
+  "died": null,
+  "diedNote": "second century; death year not securely recorded",
+  "region": "Kufa, or Basra",
+  "tabaqa": 5,
+  "band": "matruk",
+  "taqrib": {
+    "ar": "ضعيف، وبالغ السليماني فيه",
+    "en": "Weak; al-Sulaymani went further against him.",
+    "number": "8193 (kunya section)",
+    "rank": 8
+  },
+  "rumuz": [
+    "ت"
+  ],
+  "external": {
+    "shamela": "2984",
+    "sunnah": "4005"
+  },
+  "teachers": [
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (al-Hasan ibn Atiyya's entry; Jami' al-Tirmidhi 726)"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-hasan-ibn-atiyya",
+      "name": "al-Hasan ibn Atiyya ibn Najih",
+      "nameAr": "الحسن بن عطية",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (al-Hasan ibn Atiyya's entry; Jami' al-Tirmidhi 726)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Bukhari",
+      "criticDied": 256,
+      "ar": "منكر الحديث",
+      "en": "Objectionable in hadith. (One of al-Bukhari's severest formulae: he said that anyone he describes this way may not be narrated from.)",
+      "source": "al-Tarikh al-Kabir",
+      "url": "https://hadithtransmitters.hawramani.com/طريف-بن-سلمان-أبو-عاتكة/"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ليس بثقة",
+      "en": "Not reliable.",
+      "source": "al-Du'afa wa al-Matrukin",
+      "url": "https://hadithtransmitters.hawramani.com/طريف-بن-سلمان-أبو-عاتكة/"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "ذاهب الحديث، ضعيف الحديث",
+      "en": "His hadith is gone; weak in hadith.",
+      "source": "al-Jarh wa al-Ta'dil",
+      "url": "https://hadithtransmitters.hawramani.com/طريف-بن-سلمان-أبو-عاتكة/"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "منكر الحديث جدًا، يروي عن أنس ما لا يشبه حديثه",
+      "en": "Very objectionable in hadith; he transmits from Anas things that do not resemble Anas's hadith.",
+      "source": "al-Majruhin 1/489",
+      "url": "https://sunnah.com/narrator/4005"
+    },
+    {
+      "critic": "al-Uqayli",
+      "criticDied": 322,
+      "ar": "متروك الحديث",
+      "en": "Abandoned in hadith.",
+      "source": "al-Du'afa al-Kabir 2/230",
+      "url": "https://shamela.ws/book/1454/8"
+    },
+    {
+      "critic": "Ibn Adi",
+      "criticDied": 365,
+      "ar": "وعامة ما يرويه عن أنس لا يتابعه عليه أحد من الثقات",
+      "en": "Most of what he transmits from Anas, no reliable narrator corroborates him in.",
+      "source": "al-Kamil 4/118",
+      "url": "https://hadithtransmitters.hawramani.com/طريف-بن-سلمان-أبو-عاتكة/"
+    },
+    {
+      "critic": "al-Daraqutni",
+      "criticDied": 385,
+      "ar": "ضعيف",
+      "en": "Weak.",
+      "source": "listed in his al-Du'afa wa al-Matrukin; the word as reported in Tahdhib al-Kamal",
+      "url": "https://sunnah.com/narrator/4005"
+    },
+    {
+      "critic": "al-Bazzar",
+      "criticDied": 292,
+      "ar": "لا يعرف أبو العاتكة ولا يدرى من أين هو، فليس لهذا الحديث أصل",
+      "en": "Abu Atika is not known, nor where he is from; so this hadith has no basis.",
+      "source": "al-Bahr al-Zakhkhar 1/172–175, no. 95",
+      "url": "https://shamela.ws/book/12981/98"
+    },
+    {
+      "critic": "al-Dhahabi",
+      "criticDied": 748,
+      "ar": "مختلف في اسمه، مجمع على ضعفه",
+      "en": "His name is disputed; his weakness is agreed upon.",
+      "source": "al-Mughni fi al-Du'afa 2/793; al-Kashif: “they weakened him”",
+      "url": "https://shamela.ws/book/5836/783"
+    }
+  ],
+  "flags": [
+    {
+      "label": "The link on which the report fails",
+      "detail": "Every verdict on “even in China” is a verdict on this man. Al-Tirmidhi transmitted a single hadith from him; no major critic defended him."
+    }
+  ],
+  "bio": "A narrator from Anas ibn Malik whose name the sources could not even fix (Tarif ibn Salman, Tarif ibn Sulayman, or Salman ibn Tarif). Al-Dhahabi noted that he is “the author of the hadith ‘seek knowledge even in China’, and better known by his kunya”.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8193, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_العين_المهملة"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8193, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_العين_المهملة; Tahdhib al-Tahdhib (Hyderabad ed.) 12/141, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Shamela narrator record, https://shamela.ws/narrator/2984"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8193, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_العين_المهملة (طريف ابن سلمان أو بالعكس)"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8193, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_العين_المهملة"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8193, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_العين_المهملة (ضعيف = rank 8)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/2984"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 4005, linked from the isnad at https://sunnah.com/tirmidhi:726"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 2/294, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Entries from the biographical dictionaries (Hawramani)",
+      "url": "https://hadithtransmitters.hawramani.com/طريف-بن-سلمان-أبو-عاتكة/"
+    },
+    {
+      "label": "Mizan al-I'tidal 2/335 (Shamela)",
+      "url": "https://shamela.ws/book/1692/1002"
+    },
+    {
+      "label": "Narrator record (sunnah.com)",
+      "url": "https://sunnah.com/narrator/4005"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

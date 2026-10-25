@@ -1,0 +1,131 @@
+{
+  "id": "al-tarrazi",
+  "name": "Ali ibn Muhammad al-Tarrazi",
+  "nameAr": "أبو الحسن علي بن محمد بن محمد بن أحمد بن عثمان الطَّرَازي",
+  "short": "Ali al-Tarrazi",
+  "shortAr": "علي الطرازي",
+  "kunya": "Abu al-Hasan",
+  "kunyaAr": "أبو الحسن",
+  "nisbas": [
+    {
+      "ar": "البغدادي",
+      "en": "al-Baghdadi (so al-Dhahabi; a Baghdadi who settled among the great men of Nishapur)",
+      "kind": "geographic"
+    },
+    {
+      "ar": "الطرازي",
+      "en": "al-Tarrazi",
+      "kind": "other"
+    },
+    {
+      "ar": "الرقام",
+      "en": "al-Raqqam (a craft name)",
+      "kind": "other"
+    },
+    {
+      "ar": "النيسابوري",
+      "en": "al-Naysaburi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Muhammad",
+  "died": 422,
+  "deathVariants": [
+    {
+      "year": 422,
+      "authority": "al-Dhahabi (Siyar 17/409; Tarikh al-Islam 9/380): 24 Dhu al-Hijja 422; Ibn Nasir al-Din from Ibn Jahandar's Wafayat: 422",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    }
+  ],
+  "region": "Nishapur",
+  "band": "unknown",
+  "external": {
+    "sunnah": "24800"
+  },
+  "teachers": [
+    {
+      "id": "al-asamm",
+      "name": "Abu al-Abbas Muhammad ibn Ya'qub al-Asamm",
+      "nameAr": "أبو العباس الأصم",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (15/455 lists him among al-Asamm's students); al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342 («خاتمة أصحاب الأصم، وهو آخر من حدث عنه بالسماع»)"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-khatib-al-baghdadi",
+      "name": "Ahmad ibn Ali al-Khatib al-Baghdadi",
+      "nameAr": "الخطيب البغدادي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359 (18/272); al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "name": "Abu Bakr al-Bayhaqi",
+      "nameAr": "أبو بكر البيهقي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342 (narrates from him in al-Sunan al-Kubra)"
+    },
+    {
+      "name": "Abu Sa'd Ali ibn Abdullah al-Hiri",
+      "nameAr": "أبو سعد علي بن عبد الله الحيري",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    }
+  ],
+  "verdicts": [],
+  "flags": [
+    {
+      "label": "Not yet assessed in this record",
+      "detail": "A teacher of al-Khatib in Nishapur, son of the Qur'an reciter Abu Bakr Muhammad ibn Muhammad al-Tarrazi (d. 385), of whom al-Khatib himself wrote in Tarikh Baghdad that he transmitted objectionable and false reports and used to narrate much from memory. We have not yet entered a critic's assessment of the son, and we do not invent one. The verdicts on this hadith do not turn on him."
+    }
+  ],
+  "bio": "Al-Khatib heard this report from him in Nishapur with the formula “he informed us” (the manuscripts differ between two forms of it).",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "field": "nisbas",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342; al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (15/455: البغدادي الطرازي)"
+    },
+    {
+      "field": "fatherName",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator page, https://sunnah.com/narrator/24800 (d. 422; cites al-Dhahabi: الشيخ الكبير مسند خراسان)"
+    },
+    {
+      "field": "teachers",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731; al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "field": "students",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359; al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "field": "died",
+      "layer": "modern",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380 (24 Dhu al-Hijja 422), as quoted in Ithaf al-Murtaqi no. 120; entered 2026-10-25."
+    }
+  ],
+  "sources": [
+    {
+      "label": "The father's record (tarajm.com)",
+      "url": "https://www.tarajm.com/people/11784"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

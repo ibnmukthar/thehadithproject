@@ -1,0 +1,196 @@
+{
+  "id": "shuba-ibn-al-hajjaj",
+  "name": "Shu'bah ibn al-Hajjaj",
+  "nameAr": "شعبة بن الحجاج بن الورد العتكي مولاهم، أبو بسطام، الواسطي ثم البصري",
+  "short": "Shu'bah",
+  "shortAr": "شعبة",
+  "kunya": "Abu Bistam",
+  "kunyaAr": "أبو بسطام",
+  "nisbas": [
+    {
+      "ar": "العتكي",
+      "en": "al-Ataki (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الواسطي",
+      "en": "al-Wasiti",
+      "kind": "geographic"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "al-Atik of Azd (their client)",
+  "fatherName": "al-Hajjaj",
+  "born": 83,
+  "bornNote": "82 or 83 AH, at Nahrayan below Wasit (Ibn Hibban, al-Thiqat, as given on the Shamela record)",
+  "died": 160,
+  "region": "Wasit, then Basra",
+  "tabaqa": 7,
+  "taqrib": {
+    "ar": "ثقة حافظ متقن، كان الثوري يقول: هو أمير المؤمنين في الحديث، وهو أول من فتش بالعراق عن الرجال وذب عن السنة، وكان عابدا",
+    "en": "Reliable, a hadith master, precise. Al-Thawri used to say he was the Commander of the Faithful in hadith. He was the first in Iraq to investigate the narrators and to defend the Sunnah, and he was devout.",
+    "number": "2790",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Founder of narrator criticism in Iraq",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/2779"
+  },
+  "teachers": [
+    {
+      "id": "amr-ibn-murrah",
+      "name": "Amr ibn Murrah",
+      "nameAr": "عمرو بن مرة",
+      "source": "Sahih al-Bukhari 3126, 2810; Sunan al-Nasa'i 3136"
+    },
+    {
+      "id": "qatadah-ibn-diamah",
+      "name": "Qatadah ibn Di'amah",
+      "nameAr": "قتادة",
+      "source": "Sahih al-Bukhari 15 (second chain); Sahih Muslim 44b"
+    },
+    {
+      "id": "ismail-ibn-abi-khalid",
+      "name": "Isma'il ibn Abi Khalid",
+      "nameAr": "إسماعيل بن أبي خالد",
+      "source": "Sahih al-Bukhari 4387 (Shu'bah, from Isma'il ibn Abi Khalid)"
+    },
+    {
+      "id": "said-ibn-abi-burdah",
+      "name": "Sa'id ibn Abi Burdah",
+      "nameAr": "سعيد بن أبي بردة",
+      "source": "Sahih al-Bukhari 3038"
+    }
+  ],
+  "students": [
+    {
+      "id": "muhammad-ibn-jafar-ghundar",
+      "name": "Muhammad ibn Ja'far, Ghundar (his stepson)",
+      "nameAr": "غندر",
+      "source": "Sahih al-Bukhari 3126"
+    },
+    {
+      "id": "adam-ibn-abi-iyas",
+      "name": "Adam ibn Abi Iyas",
+      "nameAr": "آدم بن أبي إياس",
+      "source": "Sahih al-Bukhari 15 (second chain)"
+    },
+    {
+      "id": "sulayman-ibn-harb",
+      "name": "Sulayman ibn Harb",
+      "nameAr": "سليمان بن حرب",
+      "source": "Sahih al-Bukhari 2810 (the shorter route of the “word of Allah” hadith)"
+    },
+    {
+      "id": "yahya-ibn-said-al-qattan",
+      "name": "Yahya ibn Sa'id al-Qattan",
+      "nameAr": "يحيى بن سعيد القطان",
+      "source": "Sahih al-Bukhari 13 (Musaddad, from Yahya, from Shu'bah)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Sufyan al-Thawri",
+      "criticDied": 161,
+      "ar": "هو أمير المؤمنين في الحديث",
+      "en": "He is the Commander of the Faithful in hadith.",
+      "source": "Taqrib al-Tahdhib, entry 2790",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الشين_المعجمة"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "his son Abdullah",
+      "ar": "كان شعبة أمة وحده في هذا الشأن، يعني في الرجال وبصره بالحديث وتثبته وتنقيته للرجال",
+      "en": "Shu'bah was a nation unto himself in this matter, meaning in the narrators, his insight into hadith, his verification and his sifting of men.",
+      "source": "Tahdhib al-Tahdhib 2/166; Tahdhib al-Kamal 12/479",
+      "url": "https://shamela.ws/narrator/2779"
+    },
+    {
+      "critic": "Abu Zur'ah al-Razi",
+      "criticDied": 264,
+      "ar": "أثبت أصحاب أبي إسحاق: الثوري وشعبة وإسرائيل، وشعبة أحب إلي من إسرائيل",
+      "en": "The firmest of Abu Ishaq's students are al-Thawri, Shu'bah and Isra'il, and Shu'bah is dearer to me than Isra'il.",
+      "source": "al-Jarh wa al-Ta'dil 4/369",
+      "url": "https://shamela.ws/narrator/2779"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "كان من سادات أهل زمانه حفظا وإتقانا وورعا وفضلا، وهو أول من فتش بالعراق عن أمر المحدثين وجانب الضعفاء والمتروكين",
+      "en": "One of the masters of his age in memory, precision, scrupulousness and virtue; the first in Iraq to investigate the affairs of narrators and to shun the weak and the abandoned.",
+      "source": "al-Thiqat, as quoted in Ikmal Tahdhib al-Kamal 6/256",
+      "url": "https://shamela.ws/narrator/2779"
+    }
+  ],
+  "dhahabi": {
+    "ar": "أمير المؤمنين في الحديث، ثبت حجة، ويخطئ في الأسماء قليلا",
+    "en": "Commander of the Faithful in hadith, firm, a proof; he erred a little in names.",
+    "source": "al-Kashif 2/574"
+  },
+  "flags": [
+    {
+      "label": "His “from” over Qatadah counts as hearing",
+      "detail": "Shu'bah said: “I have spared you the tadlis of three: al-A'mash, Abu Ishaq and Qatadah.” Ibn Hajar draws the rule that a report from these three through Shu'bah indicates hearing even when phrased “from” (Tabaqat al-Mudallisin, closing section). This is why Qatadah's “from Anas” in the second chain of hadith 15 raises no question."
+    }
+  ],
+  "bio": "Born near Wasit and settled in Basra, Shu'bah was the first scholar of Iraq to examine narrators systematically, and the critics of the next century treated his judgements as foundational. Al-Thawri called him the Commander of the Faithful in hadith and Ahmad “a nation unto himself” in the knowledge of men. He appears here twice: as Ghundar's shaykh in hadith 3126 and as Adam's shaykh in the second chain of hadith 15, where his known care over Qatadah's transmission matters.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 2790"
+    },
+    {
+      "field": "born",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Ibn Hibban, al-Thiqat, via Ikmal Tahdhib al-Kamal (Shamela record)"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 2790"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 2/166; al-Jarh wa al-Ta'dil 4/369"
+    },
+    {
+      "field": "flags",
+      "layer": "specialist",
+      "ref": "Tabaqat al-Mudallisin, closing section (Shamela, p. 59)"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 2/574"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2790 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الشين_المعجمة"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2779"
+    },
+    {
+      "label": "Ibn Hajar, Tabaqat al-Mudallisin, closing section on Shu'bah's rule (Shamela)",
+      "url": "https://shamela.ws/book/1186/57"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

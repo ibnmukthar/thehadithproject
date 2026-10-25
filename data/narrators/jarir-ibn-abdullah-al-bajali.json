@@ -1,0 +1,266 @@
+{
+  "id": "jarir-ibn-abdullah-al-bajali",
+  "name": "Jarir ibn Abdullah al-Bajali",
+  "nameAr": "جرير بن عبد الله بن جابر البجلي القسري رضي الله عنه",
+  "short": "Jarir ibn Abdullah",
+  "shortAr": "جرير بن عبد الله",
+  "kunya": "Abu Amr",
+  "kunyaAr": "أبو عمرو",
+  "kunyaVariants": [
+    "Abu Abdullah"
+  ],
+  "laqab": {
+    "ar": "يوسف هذه الأمة",
+    "en": "'the Yusuf of this community', Umar's phrase for his beauty"
+  },
+  "nisbas": [
+    {
+      "ar": "البجلي",
+      "en": "al-Bajali (of Bajilah, a Yemeni tribe)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "القسري",
+      "en": "al-Qasri (of Qasr, a clan of Bajilah)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "اليماني",
+      "en": "al-Yamani",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abdullah",
+  "died": 51,
+  "diedNote": "51 AH (Khalifa and others; the Taqrib adds 'and it is said later'); Ibn al-Kalbi: 54.",
+  "deathVariants": [
+    {
+      "year": 51,
+      "authority": "Khalifa ibn Khayyat and others; Ibn Hajar, Taqrib",
+      "source": "Tahdhib al-Tahdhib, letter jim, entry 115; Taqrib al-Tahdhib 915"
+    },
+    {
+      "year": 54,
+      "authority": "Ibn al-Kalbi",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala'"
+    },
+    {
+      "year": 56,
+      "authority": "variant listed in the Shamela narrator record",
+      "source": "https://shamela.ws/narrator/1133"
+    }
+  ],
+  "region": "Kufa, then Qarqisiya",
+  "origin": "Yemen (Bajilah)",
+  "residence": [
+    "Kufa",
+    "Qarqisiya (on the Euphrates), after withdrawing from the conflict between Ali and Mu'awiyah"
+  ],
+  "tabaqa": 1,
+  "taqrib": {
+    "ar": "صحابي مشهور، مات سنة إحدى وخمسين وقيل بعدها",
+    "en": "A well-known Companion; died in 51, or, it is said, later.",
+    "number": "915",
+    "rank": 1
+  },
+  "band": "sahabi",
+  "role": "Chief of Bajilah; Companion",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/1133"
+  },
+  "teachers": [
+    {
+      "id": "umar-ibn-al-khattab",
+      "name": "Umar ibn al-Khattab",
+      "nameAr": "عمر بن الخطاب",
+      "source": "Tahdhib al-Tahdhib: 'he narrated from the Prophet ﷺ and from Umar and Mu'awiyah'"
+    },
+    {
+      "name": "Mu'awiyah ibn Abi Sufyan",
+      "nameAr": "معاوية",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "muawiya-ibn-abi-sufyan"
+    }
+  ],
+  "students": [
+    {
+      "id": "qays-ibn-abi-hazim",
+      "name": "Qays ibn Abi Hazim",
+      "nameAr": "قيس بن أبي حازم",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 57; Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Tahdhib al-Tahdhib; al-Dhahabi, Siyar"
+    },
+    {
+      "name": "his son al-Mundhir ibn Jarir",
+      "nameAr": "المنذر بن جرير",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "his son Ubaydullah ibn Jarir",
+      "nameAr": "عبيد الله بن جرير",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "his son Ayyub ibn Jarir",
+      "nameAr": "أيوب بن جرير",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "his son Ibrahim ibn Jarir",
+      "nameAr": "إبراهيم بن جرير",
+      "source": "Tahdhib al-Tahdhib (al-Dhahabi: 'he did not meet him')"
+    },
+    {
+      "name": "his grandson Abu Zur'ah ibn Amr ibn Jarir",
+      "nameAr": "أبو زرعة بن عمرو بن جرير",
+      "source": "Tahdhib al-Tahdhib; Sunan Abi Dawud 4945; Sunan al-Nasa'i 4157"
+    },
+    {
+      "name": "Abu Wa'il Shaqiq ibn Salamah",
+      "nameAr": "أبو وائل",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Zayd ibn Wahb",
+      "nameAr": "زيد بن وهب",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ziyad ibn Ilaqah",
+      "nameAr": "زياد بن علاقة",
+      "source": "Tahdhib al-Tahdhib; Sahih al-Bukhari 58, 2714"
+    },
+    {
+      "name": "Amir al-Sha'bi",
+      "nameAr": "الشعبي",
+      "source": "Tahdhib al-Tahdhib; Sahih al-Bukhari 7204"
+    },
+    {
+      "name": "Hammam ibn al-Harith",
+      "nameAr": "همام بن الحارث",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abu Dhabyan Husayn ibn Jundub",
+      "nameAr": "أبو ظبيان",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "له صحبة",
+      "en": "He has Companionship.",
+      "source": "al-Jarh wa al-Ta'dil 2/502",
+      "url": "https://shamela.ws/narrator/1133"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "الصحابي الشهير",
+      "en": "The famous Companion.",
+      "source": "al-Isaba fi Tamyiz al-Sahaba 2/190",
+      "url": "https://shamela.ws/narrator/1133"
+    },
+    {
+      "critic": "Umar ibn al-Khattab",
+      "criticDied": 23,
+      "ar": "يرحمك الله، نعم السيد كنت في الجاهلية، ونعم السيد أنت في الإسلام",
+      "en": "God have mercy on you: what a fine chief you were in the time of ignorance, and what a fine chief you are in Islam.",
+      "source": "Tahdhib al-Tahdhib, letter jim, entry 115",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الجيم"
+    },
+    {
+      "critic": "Umar ibn al-Khattab",
+      "criticDied": 23,
+      "via": "Abd al-Malik ibn Umayr, from Ibrahim ibn Jarir",
+      "ar": "جرير يوسف هذه الأمة",
+      "en": "Jarir is the Yusuf of this community.",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala'; the phrase is bracketed into the Taqrib entry in the Wikisource transcription",
+      "url": "https://ar.wikisource.org/wiki/سير_أعلام_النبلاء/جرير_بن_عبد_الله"
+    },
+    {
+      "critic": "Abd al-Malik ibn Umayr",
+      "criticDied": 136,
+      "ar": "رأيت جرير بن عبد الله وكان وجهه شقة قمر",
+      "en": "I saw Jarir ibn Abdullah, and his face was like a slice of the moon.",
+      "source": "Tahdhib al-Tahdhib, letter jim, entry 115",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الجيم"
+    }
+  ],
+  "companionCounts": {
+    "total": 100,
+    "agreed": 8,
+    "bukhariOnly": 2,
+    "muslimOnly": 6,
+    "inBukhari": 10,
+    "source": "al-Dhahabi, Siyar A'lam al-Nubala' ('his musnad is about a hundred hadith with repetition; the two shaykhs agree on eight, al-Bukhari alone has two and Muslim alone six'); Ibn Hajar, Hady al-Sari, fasl 10 ('Jarir ibn Abdullah al-Bajali: ten hadith'). The class notes, citing al-Khazraji's Khulasa, give one for al-Bukhari alone; not checked against the Khulasa."
+  },
+  "flags": [
+    {
+      "label": "When he embraced Islam",
+      "detail": "Ibn Sa'd: in the year the Prophet ﷺ died; al-Baghawi and Ibn Hibban: Ramadan of the year 10. Ibn Hajar rejects Ibn Abd al-Barr's 'forty days before the Prophet's death', since the Prophet told him at the Farewell Pilgrimage to bid the people be silent, and the Sahihayn report from Ibrahim al-Nakha'i that he became Muslim after Surat al-Ma'idah came down. Ibn Hajar also rejects al-Tabarani's report that he came to the Prophet at the very start of the mission, as its narrator Husayn ibn Umar al-Ahmasi is weak."
+    }
+  ],
+  "bio": "Chief of Bajilah in Yemen before and after his Islam, which he embraced in Ramadan of the year 10, arriving in Madinah with a hundred and fifty of his people. The Prophet ﷺ never saw him without smiling and sent him to demolish Dhu al-Khalasa, the 'Yemeni Ka'ba' of Khath'am. He settled in Kufa, commanded Bajilah in the Iraq campaigns under Umar, and was Ali's envoy to Mu'awiyah; he then withdrew from both sides to Qarqisiya, saying he would not live in a town where Uthman was reviled. He pledged to the Prophet ﷺ on sincere counsel to every Muslim, and kept it in his dealings. He died in 51, or 54.",
+  "provenance": [
+    {
+      "field": "nameAr, taqrib, died, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 915 (Wikisource)"
+    },
+    {
+      "field": "kunya, kunyaVariants, nisbas, teachers, students, verdicts, flags, bio",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter jim, entry 115 (Wikisource)"
+    },
+    {
+      "field": "laqab, companionCounts (musnad), deathVariants, bio",
+      "layer": "modern",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala', Jarir ibn Abdullah (Wikisource)"
+    },
+    {
+      "field": "companionCounts.inBukhari",
+      "layer": "isaba",
+      "ref": "Ibn Hajar, Hady al-Sari (Muqaddimat Fath al-Bari), fasl 10, the count of each Companion's hadith (Wikisource)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 915 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الجيم"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, letter jim, entry 115 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الجيم"
+    },
+    {
+      "label": "al-Dhahabi, Siyar A'lam al-Nubala', Jarir ibn Abdullah (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/سير_أعلام_النبلاء/جرير_بن_عبد_الله"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, fasl 10: the number of each Companion's hadith in al-Bukhari (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_العاشر/ذكر_عدة_ما_لكل_صحابي_في_صحيح_البخاري"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/1133"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "slug": "kissing-the-black-stone",
+  "title": "Umar kisses the Black Stone",
+  "titleAr": "إني أعلم أنك حجر لا تضر ولا تنفع",
+  "takeaway": "Umar came to the Black Stone, kissed it, and said aloud that he knew it was only a stone that could neither harm nor help, and that he kissed it only because he had seen the Prophet ﷺ do so. The report is a Companion's own act and words, yet it carries the Prophet's practice inside it, and it became the classic statement that ritual is obedience, not belief in the power of the object. It is the only hadith al-Bukhari placed under 'what is mentioned about the Black Stone'.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: recorded by al-Bukhari in three places and by Muslim through five chains from Umar, and by the four Sunan; al-Tirmidhi graded Umar's hadith hasan sahih."
+  },
+  "primary": {
+    "cite": "bukhari:1597",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "1597",
+    "bookChapter": "Book of Pilgrimage, chapter 50: what is mentioned about the Black Stone",
+    "chain": [
+      "al-bukhari",
+      "muhammad-ibn-kathir",
+      "sufyan-al-thawri",
+      "al-amash",
+      "ibrahim-al-nakhai",
+      "abis-ibn-rabia",
+      "umar-ibn-al-khattab"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "umar-ibn-al-khattab",
+        "sighaAr": "ولولا أني رأيت النبي ﷺ يقبلك ما قبلتك",
+        "sighaEn": "had I not seen the Prophet ﷺ kiss you, I would not have kissed you",
+        "kind": "qala",
+        "note": "Umar reports what he saw the Prophet ﷺ do. The report is a Companion's act and words in form (mawquf) but carries the Prophet's practice, so it is treated as a report of the Prophet's action."
+      },
+      {
+        "from": "umar-ibn-al-khattab",
+        "to": "abis-ibn-rabia",
+        "sighaAr": "عن عمر أنه جاء إلى الحجر الأسود",
+        "sighaEn": "from Umar, that he came to the Black Stone",
+        "kind": "an",
+        "note": "The opening words are Abis's description of what Umar did, not Umar's own speech. In Muslim 1270, al-Tirmidhi 860 and al-Nasa'i 2937 Abis says outright 'I saw Umar'; Abu Dawud called him 'a man of the pre-Islamic period who heard from Umar'."
+      },
+      {
+        "from": "abis-ibn-rabia",
+        "to": "ibrahim-al-nakhai",
+        "sighaAr": "عن عابس بن ربيعة",
+        "sighaEn": "from Abis ibn Rabi'a",
+        "kind": "an"
+      },
+      {
+        "from": "ibrahim-al-nakhai",
+        "to": "al-amash",
+        "sighaAr": "عن إبراهيم",
+        "sighaEn": "from Ibrahim",
+        "kind": "an",
+        "note": "Al-A'mash is in the second rank of the mudallisun, but Ibrahim al-Nakha'i is one of the teachers from whom al-Dhahabi says his 'from' is treated as connected. The class notes report that Musnad Ahmad has al-A'mash saying 'Ibrahim narrated to us' for this hadith; that route was not checked here."
+      },
+      {
+        "from": "al-amash",
+        "to": "sufyan-al-thawri",
+        "sighaAr": "عن الأعمش",
+        "sighaEn": "from al-A'mash",
+        "kind": "an",
+        "note": "Sufyan al-Thawri is also in the second rank of the mudallisun, and al-Bukhari remarked how rarely he used the formula. Ibn Hajar notes Sufyan carried Umar's words by a second chain as well (Muslim 1271)."
+      },
+      {
+        "from": "sufyan-al-thawri",
+        "to": "muhammad-ibn-kathir",
+        "sighaAr": "أخبرنا سفيان",
+        "sighaEn": "Sufyan informed us",
+        "kind": "ikhbar"
+      },
+      {
+        "from": "muhammad-ibn-kathir",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا محمد بن كثير",
+        "sighaEn": "Muhammad ibn Kathir narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَابِسِ بْنِ رَبِيعَةَ، عَنْ عُمَرَ رضى الله عنه",
+    "matnAr": "أَنَّهُ جَاءَ إِلَى الْحَجَرِ الأَسْوَدِ فَقَبَّلَهُ، فَقَالَ إِنِّي أَعْلَمُ أَنَّكَ حَجَرٌ لاَ تَضُرُّ وَلاَ تَنْفَعُ، وَلَوْلاَ أَنِّي رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُقَبِّلُكَ مَا قَبَّلْتُكَ",
+    "matnEn": "That he came to the Black Stone and kissed it, then said: I know that you are a stone that can neither harm nor benefit, and had I not seen the Prophet ﷺ kissing you, I would not have kissed you.",
+    "url": "https://sunnah.com/bukhari:1597"
+  },
+  "also": [
+    {
+      "cite": "bukhari:1605",
+      "label": "Sahih al-Bukhari 1605",
+      "note": "Book of Pilgrimage, chapter: the brisk walk (raml) in hajj and umra",
+      "url": "https://sunnah.com/bukhari:1605",
+      "chainNote": "Sa'id ibn Abi Maryam → Muhammad ibn Ja'far → Zayd ibn Aslam → his father Aslam, Umar's freedman: a second Companion-level witness, independent of the Kufan chain.",
+      "wordingNote": "Umar said to the Corner: 'By God, I surely know you are a stone that neither harms nor benefits, and had I not seen the Prophet ﷺ touch you I would not have touched you'; then he touched it and spoke of the brisk walk: 'we only did it to show the polytheists, and God has destroyed them; yet it is something the Prophet ﷺ did and we do not like to abandon it'."
+    },
+    {
+      "cite": "bukhari:1610",
+      "label": "Sahih al-Bukhari 1610",
+      "note": "Book of Pilgrimage, chapter: kissing the Stone",
+      "url": "https://sunnah.com/bukhari:1610",
+      "chainNote": "Ahmad ibn Sinan → Yazid ibn Harun → Warqa' → Zayd ibn Aslam → his father: the Aslam route again.",
+      "wordingNote": "'I saw Umar ibn al-Khattab kiss the Stone and say: had I not seen the Messenger of God ﷺ kiss you I would not have kissed you.'"
+    },
+    {
+      "cite": "muslim:1270",
+      "label": "Sahih Muslim 1270",
+      "note": "Book of Pilgrimage; four chains",
+      "url": "https://sunnah.com/muslim:1270",
+      "chainNote": "(a) Harmala ibn Yahya → Ibn Wahb → Yunus and Amr → Ibn Shihab → Salim → his father Ibn Umar; Harun ibn Sa'id's version adds that Zayd ibn Aslam told Amr the same from his father Aslam. (b) al-Muqaddami → Hammad ibn Zayd → Ayyub → Nafi' → Ibn Umar. (c) Khalaf ibn Hisham, al-Muqaddami, Abu Kamil and Qutayba → Hammad ibn Zayd → Asim al-Ahwal → Abdullah ibn Sarjis: 'I saw the bald one, meaning Umar'. (d) Yahya ibn Yahya, Abu Bakr ibn Abi Shayba, Zuhayr ibn Harb and Ibn Numayr → Abu Mu'awiya → al-A'mash → Ibrahim → Abis ibn Rabi'a: the Kufan chain of al-Bukhari with Abu Mu'awiya in place of Sufyan, a complete corroboration of Sufyan.",
+      "wordingNote": "(a) 'By God, I surely know you are a stone, and had I not seen the Messenger of God ﷺ kiss you I would not have kissed you.' (b) 'I kiss you knowing you are a stone, but I saw the Messenger of God ﷺ kiss you.' (c) 'By God, I kiss you knowing you are a stone that neither harms nor benefits.' (d) Abis: 'I saw Umar kiss the Stone and say: I kiss you knowing you are a stone; had I not seen the Messenger of God ﷺ kiss you I would not have kissed you.'"
+    },
+    {
+      "cite": "muslim:1271",
+      "label": "Sahih Muslim 1271",
+      "note": "Book of Pilgrimage",
+      "url": "https://sunnah.com/muslim:1271",
+      "chainNote": "Abu Bakr ibn Abi Shayba and Zuhayr ibn Harb → Waki' → Sufyan al-Thawri → Ibrahim ibn Abd al-A'la → Suwayd ibn Ghafla → Umar: Sufyan carrying the report by a second chain, through a different Ibrahim; Ibn Hajar points this out in Fath al-Bari.",
+      "wordingNote": "'I saw Umar kiss the Stone and embrace it, saying: I saw the Messenger of God ﷺ show you great affection.'"
+    },
+    {
+      "cite": "abudawud:1873",
+      "label": "Sunan Abi Dawud 1873",
+      "note": "Book of the Rites of Pilgrimage",
+      "url": "https://sunnah.com/abudawud:1873",
+      "chainNote": "Muhammad ibn Kathir → Sufyan → al-A'mash → Ibrahim → Abis ibn Rabi'a → Umar: the identical chain to al-Bukhari's, from the same teacher.",
+      "wordingNote": "'I know you are a stone that neither benefits nor harms' (the two verbs in the reverse order), 'and had I not seen the Messenger of God ﷺ kiss you I would not have kissed you'."
+    },
+    {
+      "cite": "tirmidhi:860",
+      "label": "Jami' al-Tirmidhi 860",
+      "note": "Book of Pilgrimage; al-Tirmidhi: Umar's hadith is hasan sahih, and there are reports on the subject from Abu Bakr and Ibn Umar",
+      "url": "https://sunnah.com/tirmidhi:860",
+      "chainNote": "Hannad → Abu Mu'awiya → al-A'mash → Ibrahim → Abis ibn Rabi'a.",
+      "wordingNote": "Abis: 'I saw Umar ibn al-Khattab kiss the Stone and say: I kiss you and know you are a stone; had I not seen the Messenger of God ﷺ kiss you I would not have kissed you.'"
+    },
+    {
+      "cite": "nasai:2937",
+      "label": "Sunan al-Nasa'i 2937",
+      "note": "Book of the Rites of Pilgrimage",
+      "url": "https://sunnah.com/nasai:2937",
+      "chainNote": "Ishaq ibn Ibrahim → Isa ibn Yunus and Jarir → al-A'mash → Ibrahim → Abis ibn Rabi'a: two more students of al-A'mash beside Sufyan and Abu Mu'awiya.",
+      "wordingNote": "Abis: 'I saw Umar come to the Stone and say: I surely know you are a stone, and had I not seen the Messenger of God ﷺ kiss you I would not have kissed you. Then he drew near and kissed it.'"
+    },
+    {
+      "cite": "nasai:2938",
+      "label": "Sunan al-Nasa'i 2938",
+      "note": "Book of the Rites of Pilgrimage; Ibn Hajar cites it as the route in which Umar traces his act to the Prophet ﷺ explicitly",
+      "url": "https://sunnah.com/nasai:2938",
+      "chainNote": "Amr ibn Uthman → al-Walid → Hanzala → Tawus → Ibn Abbas → Umar: a different Companion witnessing Umar.",
+      "wordingNote": "Tawus kissed the Corner three times when it was clear and said he saw Ibn Abbas do so; Ibn Abbas said he saw Umar do so, and Umar said: 'you are a stone that neither benefits nor harms; had I not seen the Messenger of God ﷺ kiss you I would not have kissed you'; then: 'I saw the Messenger of God ﷺ do exactly this'."
+    },
+    {
+      "cite": "ibnmajah:2943",
+      "label": "Sunan Ibn Majah 2943",
+      "note": "Book of the Rites of Pilgrimage",
+      "url": "https://sunnah.com/ibnmajah:2943",
+      "chainNote": "Abu Bakr ibn Abi Shayba and Ali ibn Muhammad → Abu Mu'awiya → Asim al-Ahwal → Abdullah ibn Sarjis.",
+      "wordingNote": "'I saw the little bald one, Umar ibn al-Khattab, kiss the Stone and say: I kiss you and I surely know you are a stone that neither harms nor benefits; had I not seen the Messenger of God ﷺ kiss you I would not have kissed you.'"
+    },
+    {
+      "cite": "malik:hajj",
+      "label": "Muwatta' Malik, Book of Pilgrimage",
+      "note": "Number not confirmed; the Yahya recension has it in the Book of Pilgrimage in the chapters on touching the Corners",
+      "chainNote": "Malik → Hisham ibn Urwa → his father Urwa → Umar, without a Companion between Urwa and Umar.",
+      "wordingNote": "Umar said to the Black Corner while circumambulating: 'you are only a stone, and had I not seen the Messenger of God ﷺ kiss you I would not have kissed you'; then he kissed it."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 1597, 1605, 1610",
+      "reason": "Recorded through the Kufan chain here and twice through Aslam, Umar's freedman. Ibn Hajar notes that he placed only this hadith under the Black Stone because nothing else on the subject met his conditions. Inclusion in the Sahih is itself a grade.",
+      "url": "https://sunnah.com/bukhari:1597"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 1270, 1271",
+      "reason": "Included in the Book of Pilgrimage through five chains from Umar, among them the Kufan chain with Abu Mu'awiya in place of Sufyan.",
+      "url": "https://sunnah.com/muslim:1270"
+    },
+    {
+      "scholar": "al-Tirmidhi",
+      "died": 279,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Hasan sahih",
+      "gradeAr": "حسن صحيح",
+      "source": "Jami' al-Tirmidhi 860",
+      "quoteAr": "وفي الباب عن أبي بكر وابن عمر. قال أبو عيسى: حديث عمر حديث حسن صحيح",
+      "reason": "Graded Umar's hadith sound, and noted reports on the subject from Abu Bakr and Ibn Umar.",
+      "url": "https://sunnah.com/tirmidhi:860"
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "Two of the five transmitters below Umar are listed among the mudallisun, Sufyan al-Thawri and al-A'mash, and both say 'from' here. The concern is answered from the records rather than the page: al-Dhahabi's rule is that al-A'mash's 'from' is treated as connected when the teacher is one he narrated from abundantly, and Ibrahim al-Nakha'i heads that list; and Sufyan is corroborated at his own level by Abu Mu'awiya (Muslim 1270, al-Tirmidhi 860), Isa ibn Yunus and Jarir (al-Nasa'i 2937), all from al-A'mash. The class notes add that Musnad Ahmad has al-A'mash saying 'Ibrahim narrated to us', and that no route was found in which Sufyan states hearing; neither was checked for this record.",
+      "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis, entries 51 and 55; al-Dhahabi's rule as quoted in Hammad al-Ansari's summary (Shamela 22949/12); the parallel chains in Muslim, al-Tirmidhi and al-Nasa'i"
+    },
+    {
+      "kind": "scholar",
+      "text": "Two men of al-Nakha' stand side by side: Ibrahim al-Nakha'i transmits from his tribesman Abis ibn Rabi'a al-Nakha'i. A shared tribal name in adjacent links is one of the things a reader notes, both as a sign of how local transmission was and as a check that the right Ibrahim and the right Abis are meant.",
+      "source": "Taqrib al-Tahdhib, entries 270 and 3052"
+    },
+    {
+      "kind": "scholar",
+      "text": "Abis ibn Rabi'a is a mukhadram: he lived in the pre-Islamic period and in Islam without meeting the Prophet ﷺ, and is counted among the senior Successors. Abu Dawud: 'a man of the pre-Islamic period who heard from Umar'. Some listed an Abis ibn Rabi'a among the Companions; Ibn Hajar treats that as a different man, al-Ghutayfi, and warns against merging them.",
+      "source": "Taqrib al-Tahdhib, entries 3052 and 3053; Tahdhib al-Kamal 13/472"
+    },
+    {
+      "kind": "scholar",
+      "text": "The words 'that he came to the Black Stone and kissed it' are Abis's account of what Umar did, not Umar's speech; Umar's own words begin at 'I know'. The parallels make the framing explicit: in Muslim, al-Tirmidhi and al-Nasa'i Abis says 'I saw Umar'. The teacher notes that al-Mundhiri's abridgement of Abu Dawud words it the same way.",
+      "source": "The Arabic texts of al-Bukhari 1597, Muslim 1270, al-Tirmidhi 860 and al-Nasa'i 2937; the al-Mundhiri point per the teacher's class notes"
+    },
+    {
+      "kind": "scholar",
+      "text": "In form this is a Companion's act and statement (mawquf), yet it carries the Prophet's own practice, 'I saw the Prophet ﷺ kiss you', and in al-Nasa'i's route through Ibn Abbas Umar adds 'I saw the Messenger of God ﷺ do exactly this'. Ibn Hajar cites that route as showing Umar traced the act to the Prophet ﷺ.",
+      "source": "Ibn Hajar, Fath al-Bari on hadith 1597 (Shamela 1673/2129); Sunan al-Nasa'i 2938"
+    },
+    {
+      "kind": "scholar",
+      "text": "Abu Dawud 1873 has exactly al-Bukhari's chain, from the same teacher Muhammad ibn Kathir: two compilers sitting before the same man and writing down the same isnad, with the two verbs 'harm' and 'benefit' in opposite order.",
+      "source": "The Arabic texts of al-Bukhari 1597 and Abu Dawud 1873"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "Points below are drawn from Ibn Hajar's Fath al-Bari on hadith 1597 and were checked in the commentary itself (Shamela edition, vol. 3 pp. 462–463). The teacher's longer list of lessons is not reproduced here pending review.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari, on hadith 1597",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Bukhari placed only Umar's hadith under 'what is mentioned about the Black Stone', as if nothing else on the subject met his conditions. Ibn Hajar then surveys what exists: Abdullah ibn Amr's 'the Stone and the Station are two rubies of Paradise' (Ahmad, al-Tirmidhi; Ibn Hibban graded it sahih, but it has Raja' Abu Yahya, who is weak, and Abu Hatim preferred it as Abdullah's own statement); Ibn Abbas's 'the Black Stone came down from Paradise whiter than milk and the sins of the children of Adam blackened it' (al-Tirmidhi, graded sahih; Ata' ibn al-Sa'ib became confused and Jarir heard from him afterwards, but a second route in Sahih Ibn Khuzayma strengthens it, and al-Nasa'i has an abridged form through Hammad ibn Salama, who heard Ata' before his confusion); and Ibn Abbas's 'this Stone has a tongue and two lips that will testify for whoever touched it' (Ibn Khuzayma; graded sahih by Ibn Hibban and al-Hakim, with a witness from Anas in al-Hakim).",
+        "url": "https://shamela.ws/book/1673/2129"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 1597",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "'From Ibrahim': this is Ibrahim ibn Yazid al-Nakha'i. Sufyan, that is al-Thawri, also transmitted the report by another chain, from Ibrahim ibn Abd al-A'la from Suwayd ibn Ghafla from Umar, recorded by Muslim. 'I know you are a stone': in Aslam's version two chapters on, 'By God, I surely know'.",
+        "url": "https://shamela.ws/book/1673/2129"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 1597",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "'Neither harms nor benefits' means except by God's permission. Al-Hakim records from Abu Sa'id that Ali answered Umar that it does harm and benefit, and spoke of God's covenant with the children of Adam being written and placed in the Stone, and of the Stone testifying with an eloquent tongue for whoever touched it; but its chain has Abu Harun al-Abdi, who is very weak. Al-Nasa'i has a route through Tawus from Ibn Abbas in which Umar, after his words, says 'I saw the Messenger of God ﷺ do exactly this'.",
+        "url": "https://shamela.ws/book/1673/2129"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 1597",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Tabari: Umar said this because people had only recently left the worship of idols, and he feared the ignorant would think touching the Stone was a way of venerating certain stones as the Arabs had done; he wanted to teach that touching it is following the Prophet ﷺ, not because the Stone benefits or harms of itself. Al-Muhallab adds that Umar's words refute those who take literally the saying that the Stone is 'God's right hand on earth'; al-Khattabi and al-Muhibb al-Tabari explain that phrase as a figure for the covenant made by clasping a king's hand.",
+        "url": "https://shamela.ws/book/1673/2130"
+      },
+      {
+        "work": "Fath al-Bari, on hadith 1597",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "In Umar's words is submission to the Lawgiver in matters of religion and proper following in what has not been explained, 'a great principle in following the Prophet ﷺ in what he did even if the wisdom in it is not known'; and a refutation of the ignorant notion that the Black Stone has something in itself.",
+        "url": "https://shamela.ws/book/1673/2130"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Kissing the Black Stone is prescribed because the Prophet ﷺ did it, and it is done in obedience to his practice.",
+        "source": "Fath al-Bari on hadith 1597, quoting al-Tabari"
+      },
+      {
+        "text": "The Prophet's actions are followed even when the wisdom behind them is not known; Ibn Hajar calls this a great principle of following him.",
+        "source": "Fath al-Bari on hadith 1597"
+      },
+      {
+        "text": "The Stone has no power of its own to benefit or harm; whatever is attributed to it is by God's permission.",
+        "source": "Fath al-Bari on hadith 1597"
+      },
+      {
+        "text": "A leader who fears that a prescribed act will be misunderstood should explain it publicly, as Umar did for people newly out of idolatry.",
+        "source": "Fath al-Bari on hadith 1597, quoting al-Tabari"
+      }
+    ]
+  },
+  "context": "Umar spoke these words at the Ka'ba as caliph, addressing the Stone so that the crowd would hear. Al-Tabari, quoted by Ibn Hajar, explains why: many present had worshipped stones a generation earlier, and the caliph wanted it understood that the Muslims kiss this one because the Prophet ﷺ did, not because it has power. Al-Bukhari gives the chapter on the Black Stone this single hadith, and returns to Umar's words in the chapters on the brisk walk and on kissing the Stone through Aslam, Umar's freedman.",
+  "vocabulary": [
+    {
+      "term": "al-Hajar al-aswad",
+      "ar": "الحجر الأسود",
+      "meaning": "The Black Stone, set in the eastern corner of the Ka'ba, from which each circuit of the circumambulation begins."
+    },
+    {
+      "term": "Istilam",
+      "ar": "استلام",
+      "meaning": "Touching the Stone with the hand (and kissing it, or kissing the hand). Aslam's version has Umar speak of touching; the Kufan version of kissing."
+    },
+    {
+      "term": "Mawquf",
+      "ar": "موقوف",
+      "meaning": "A report whose chain stops at a Companion: his own act or words. This one is mawquf in form but contains Umar's eyewitness report of the Prophet ﷺ."
+    },
+    {
+      "term": "Mukhadram",
+      "ar": "مخضرم",
+      "meaning": "One who lived both before Islam and under it without meeting the Prophet ﷺ; counted among the senior Successors. Abis ibn Rabi'a is one."
+    },
+    {
+      "term": "Mursal",
+      "ar": "مرسل",
+      "meaning": "A report in which a Successor skips the Companion and attributes directly to the Prophet ﷺ. Ibrahim al-Nakha'i did this often; here he names his source."
+    },
+    {
+      "term": "Tadlis",
+      "ar": "تدليس",
+      "meaning": "Using an ambiguous formula like 'from' that hides whether the narrator heard directly. Ibn Hajar ranks the narrators who did it; Sufyan al-Thawri and al-A'mash are in his tolerated second rank."
+    },
+    {
+      "term": "Amir al-Mu'minin fi al-hadith",
+      "ar": "أمير المؤمنين في الحديث",
+      "meaning": "Commander of the Faithful in hadith: the title his peers gave Sufyan al-Thawri, and later a handful of others, for mastery of the field."
+    }
+  ],
+  "lessons": [
+    {
+      "title": "A 'from' is a question, and the records answer it",
+      "body": "Two narrators here used ambiguous formulae often enough to be listed for it. The discipline's answer was not to reject them but to classify them: which rank, from which teachers, and whether other students of the same man carry the same report. Here every test comes back clean, and the record shows how."
+    },
+    {
+      "title": "Know who is speaking",
+      "body": "The first clause of the text is Abis describing Umar; Umar's voice begins at 'I know'. The versions in Muslim and al-Nasa'i say 'I saw Umar' outright. Separating the narrator's frame from the quoted words is basic to reading a report, and the parallel texts are how it is done."
+    },
+    {
+      "title": "A Companion's act can carry the Prophet's practice",
+      "body": "Formally this chain ends at Umar; nothing is attributed to the Prophet ﷺ as speech. But Umar says he kissed the Stone because he saw the Prophet do it, so the report transmits the Prophet's action through an eyewitness. The categories mawquf and marfu' describe the form; the content decides how the jurists use it."
+    },
+    {
+      "title": "The same chain in two books",
+      "body": "Abu Dawud records this hadith with exactly al-Bukhari's isnad from the same Basran teacher, differing only in the order of two verbs. Collectors who sat before the same man preserved slightly different words, and the comparison tells us how a sentence travelled."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 8,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 1597 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:1597"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (fawazahmed0 hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Arabic texts of Sahih Muslim, the four Sunan and the Muwatta' (fawazahmed0 hadith-api)",
+      "url": "https://github.com/fawazahmed0/hadith-api"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 1597, vol. 3 pp. 462–463 (Shamela)",
+      "url": "https://shamela.ws/book/1673/2129"
+    },
+    {
+      "label": "Sahih Muslim 1270 (sunnah.com)",
+      "url": "https://sunnah.com/muslim:1270"
+    },
+    {
+      "label": "Jami' al-Tirmidhi 860 (sunnah.com)",
+      "url": "https://sunnah.com/tirmidhi:860"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis bi-Maratib al-Mawsufin bi-l-Tadlis (Shamela)",
+      "url": "https://shamela.ws/book/1186"
+    },
+    {
+      "label": "Teacher's class notes, hadith 8 of the course (structured extract in this repository: docs/research/class-notes/bukhari-1597.md)"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

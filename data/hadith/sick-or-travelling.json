@@ -1,0 +1,332 @@
+{
+  "slug": "sick-or-travelling",
+  "title": "When a servant falls ill or travels",
+  "titleAr": "إذا مرض العبد أو سافر",
+  "takeaway": "Someone who keeps up a good practice and is then stopped by illness or by a journey is credited with what they used to do when well and at home. The reward follows the settled intention, not only the act. Al-Bukhari placed it in the Book of Jihad because jihad almost always means travel.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Recorded by al-Bukhari in one place and by Abu Dawud; not in Muslim. Al-Daraqutni objected that only al-Awwam gave it a connected chain to the Prophet ﷺ, and Ibn Hajar answered him; the exchange is set out under verdicts."
+  },
+  "primary": {
+    "cite": "bukhari:2996",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "2996",
+    "bookChapter": "Book of Jihad and Expeditions, chapter: A traveller is credited with what he used to do while resident",
+    "chain": [
+      "al-bukhari",
+      "matar-ibn-al-fadl",
+      "yazid-ibn-harun",
+      "al-awwam-ibn-hawshab",
+      "ibrahim-al-saksaki",
+      "abu-burdah-ibn-abi-musa",
+      "abu-musa-al-ashari"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "abu-musa-al-ashari",
+        "sighaAr": "قال رسول الله ﷺ",
+        "sighaEn": "the Messenger of God ﷺ said",
+        "kind": "qala"
+      },
+      {
+        "from": "abu-musa-al-ashari",
+        "to": "abu-burdah-ibn-abi-musa",
+        "sighaAr": "سمعتُ أبا موسى مرارًا يقول",
+        "sighaEn": "I heard Abu Musa say, many times",
+        "kind": "sama",
+        "note": "A son from his father. The remark is made to Yazid ibn Abi Kabshah, who was fasting on a journey they shared."
+      },
+      {
+        "from": "abu-burdah-ibn-abi-musa",
+        "to": "ibrahim-al-saksaki",
+        "sighaAr": "سمعتُ أبا بردة",
+        "sighaEn": "I heard Abu Burdah",
+        "kind": "sama"
+      },
+      {
+        "from": "ibrahim-al-saksaki",
+        "to": "al-awwam-ibn-hawshab",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "al-awwam-ibn-hawshab",
+        "to": "yazid-ibn-harun",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "yazid-ibn-harun",
+        "to": "matar-ibn-al-fadl",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "matar-ibn-al-fadl",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا مَطَرُ بْنُ الْفَضْلِ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا الْعَوَّامُ، حَدَّثَنَا إِبْرَاهِيمُ أَبُو إِسْمَاعِيلَ السَّكْسَكِيُّ، قَالَ سَمِعْتُ أَبَا بُرْدَةَ، وَاصْطَحَبَ، هُوَ وَيَزِيدُ بْنُ أَبِي كَبْشَةَ فِي سَفَرٍ، فَكَانَ يَزِيدُ يَصُومُ فِي السَّفَرِ فَقَالَ لَهُ أَبُو بُرْدَةَ سَمِعْتُ أَبَا مُوسَى مِرَارًا يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "matnAr": "إِذَا مَرِضَ الْعَبْدُ أَوْ سَافَرَ، كُتِبَ لَهُ مِثْلُ مَا كَانَ يَعْمَلُ مُقِيمًا صَحِيحًا",
+    "matnEn": "When a servant falls ill or travels, there is written for him the like of what he used to do while resident and in health.",
+    "url": "https://sunnah.com/bukhari:2996"
+  },
+  "also": [
+    {
+      "cite": "abudawud:3091",
+      "label": "Sunan Abi Dawud 3091",
+      "note": "Book of Funerals, chapter: when a man used to do a righteous deed and illness or travel kept him from it",
+      "url": "https://sunnah.com/abudawud:3091",
+      "chainNote": "Muhammad ibn Isa and Musaddad, from Hushaym, from al-Awwam ibn Hawshab, from Ibrahim ibn Abd al-Rahman al-Saksaki, from Abu Burdah, from Abu Musa: the same route from al-Awwam upward, through a second student of his.",
+      "wordingNote": "“I heard the Prophet ﷺ say, not once or twice: when the servant used to do a righteous deed and illness or travel kept him from it, there is written for him the like of the best of what he used to do when well and resident.” Ibn Hajar notes that this version states explicitly the condition the Bukhari wording implies: that the person had a practice they were prevented from (Fath al-Bari)."
+    },
+    {
+      "cite": "adab:500",
+      "label": "al-Adab al-Mufrad 500",
+      "note": "Chapter: what is written for the sick person",
+      "url": "https://sunnah.com/adab:500",
+      "chainNote": "A different Companion: Qabisah ibn Uqbah, from Sufyan, from Alqamah ibn Marthad, from al-Qasim ibn Mukhaymirah, from Abdullah ibn Amr, from the Prophet ﷺ. A witness (shahid) to the meaning, not a second route for Abu Musa's report.",
+      "wordingNote": "“No one falls ill without there being written for him the like of what he used to do while well.”"
+    },
+    {
+      "cite": "ahmad",
+      "label": "Musnad Ahmad",
+      "note": "Number not confirmed; the class notes list it without a number. Ibn Hajar also cites Ahmad for the Abdullah ibn Amr and Anas witnesses (Fath al-Bari).",
+      "chainNote": "Through al-Awwam ibn Hawshab, per the class notes."
+    },
+    {
+      "cite": "ismaili",
+      "label": "al-Isma'ili, al-Mustakhraj",
+      "note": "Number not confirmed; cited by Ibn Hajar in Fath al-Bari.",
+      "chainNote": "Through Hushaym from al-Awwam ibn Hawshab.",
+      "wordingNote": "“Yazid ibn Abi Kabshah used to fast continually” in place of “used to fast on the journey” (Fath al-Bari)."
+    },
+    {
+      "cite": "tabarani",
+      "label": "al-Tabarani",
+      "note": "Number not confirmed; cited by Ibn Hajar as a corroboration of al-Saksaki's report from Abu Burdah.",
+      "chainNote": "Sa'id ibn Abi Burdah, from his father Abu Burdah, from his grandfather Abu Musa: a second student of Abu Burdah, his own son.",
+      "wordingNote": "“Allah writes for the sick person the best of what he used to do in his health, as long as he is in His bonds” (Fath al-Bari)."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 2996",
+      "reason": "Recorded once, in the Book of Jihad, under a chapter heading that states the ruling. Inclusion in the Sahih is itself a grade: every narrator meets his conditions. Al-Bukhari also recorded a witness to the meaning from Abdullah ibn Amr in al-Adab al-Mufrad (500).",
+      "url": "https://sunnah.com/bukhari:2996"
+    },
+    {
+      "scholar": "al-Daraqutni",
+      "died": 385,
+      "era": "classical",
+      "band": "note",
+      "grade": "Criticised: only al-Awwam gave it a connected chain",
+      "gradeAr": "هذا لم يسنده غير العوام، وخالفه مسعر",
+      "scope": "The chain, not the meaning",
+      "source": "al-Ilzamat wa al-Tatabbu', as quoted by Ibn Hajar, Hady al-Sari, ch. 8, hadith 42",
+      "quoteAr": "وأخرج البخاري حديث العوام بن حوشب عن إبراهيم السكسكي عن أبي بردة عن أبي موسى عن النبي ﷺ قال: إذا مرض العبد أو سافر كتب الله له مثل ما كان يعمل صحيحا مقيما. وهذا لم يسنده غير العوام، وخالفه مسعر فقال: عن إبراهيم السكسكي عن أبي بردة قوله، لم يذكر أبا موسى ولا النبي ﷺ",
+      "reason": "One of the hadith of the Sahih al-Daraqutni singled out. His objection: al-Awwam alone carried it as a connected Prophetic report; Mis'ar ibn Kidam, a more precise narrator, had it from al-Saksaki from Abu Burdah as Abu Burdah's own words, naming neither Abu Musa nor the Prophet ﷺ.",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_الثامن"
+    },
+    {
+      "scholar": "Ibn Hajar al-Asqalani",
+      "died": 852,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "In the ruling of a Prophetic report; al-Awwam preserved it",
+      "gradeAr": "مثل هذا لا يقال من قبل الرأي فهو في حكم المرفوع، وفي السياق قصة تدل على أن العوام حفظه",
+      "scope": "Answer to al-Daraqutni",
+      "source": "Hady al-Sari, ch. 8, hadith 42",
+      "quoteAr": "قلت: مسعر أحفظ من العوام بلا شك، إلا أن مثل هذا لا يقال من قبل الرأي فهو في حكم المرفوع، وفي السياق قصة تدل على أن العوام حفظه، فإن فيه اصطحب يزيد بن أبي كبشة وأبو بردة في سفر فكان يزيد يصوم في السفر فقال له أبو بردة أفطر فإني سمعت أبا موسى مرارا يقول فذكره، وقد قال أحمد بن حنبل: إذا كان في الحديث قصة دل على أن راويه حفظه",
+      "reason": "Two answers. First, Mis'ar is without doubt the better memoriser, but a statement of this kind cannot come from personal opinion, so even as Abu Burdah's words it has the standing of a Prophetic report. Second, al-Awwam's version carries a story, the journey with Yazid ibn Abi Kabshah and the fasting, and Ahmad ibn Hanbal held that a story in a hadith shows its narrator preserved it.",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_الثامن"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "A connected chain against a shorter one",
+      "body": "Two students of al-Saksaki carried this report. Mis'ar stopped it at Abu Burdah; al-Awwam took it up to the Prophet ﷺ through Abu Musa. Whether the fuller version wins is the question the discipline calls ziyadat al-thiqa, the addition of a reliable narrator. Al-Daraqutni weighed Mis'ar's precision and doubted; Ibn Hajar weighed the content and the story and accepted. The record shows both sides so a reader can see what was being weighed."
+    },
+    {
+      "title": "Content can settle a chain question",
+      "body": "Ibn Hajar's first answer does not touch the narrators at all. A promise about what Allah writes for the sick is not something a Successor would invent from his own reasoning, so even in Mis'ar's shorter form it is treated as Prophetic. Critics used the matn as evidence about the isnad, not only the other way round."
+    },
+    {
+      "title": "A story is a memory aid",
+      "body": "Ahmad ibn Hanbal's principle, that a hadith told with its occasion is more likely to have been preserved, is applied here. Abu Burdah quoted his father because a travelling-companion was fasting on the road. The frame survived with the report, and that is counted in al-Awwam's favour."
+    },
+    {
+      "title": "One weak link, and how it is handled",
+      "body": "Al-Saksaki is the only narrator here below the top grade: truthful, weak in memory. Al-Bukhari used him twice, both times with support, and here the support is al-Tabarani's route through Abu Burdah's own son. The defence of the hadith rests on that corroboration and on the shape of the report, not on al-Saksaki alone."
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "Al-Daraqutni counted this among the hadith of the Sahih he criticised: al-Awwam alone made it a connected Prophetic report, while Mis'ar had it from al-Saksaki from Abu Burdah as Abu Burdah's own words. Ibn Hajar answered that such a statement cannot be opinion and so has the ruling of marfu', and that the travel story shows al-Awwam preserved it, citing Ahmad's principle that a story in a hadith indicates preservation.",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 8, hadith 42"
+    },
+    {
+      "kind": "scholar",
+      "text": "The class notes add two further answers: a connected Prophetic report to the same effect exists through another Companion (Abdullah ibn Amr, al-Adab al-Mufrad 500), and preferring the more precise narrator's shorter version is only one view; many hold that the connecting or raising version of a reliable narrator is accepted as his addition (ziyadat al-thiqa), a position they attribute to Ibn al-Salah, al-Nawawi, al-Suyuti and al-Iraqi. The Adab al-Mufrad route is verified here; the attributions to the usul works are the teacher's and were not checked.",
+      "source": "Class notes; al-Adab al-Mufrad 500"
+    },
+    {
+      "kind": "scholar",
+      "text": "“Al-Awwam” is written without a nasab. Ibn Hajar identifies him as Ibn Hawshab and gives the spelling of the father's name: ha' without a dot, then shin, on the pattern of Ja'far.",
+      "source": "Ibn Hajar, Fath al-Bari on 2996"
+    },
+    {
+      "kind": "scholar",
+      "text": "Yazid ibn Abi Kabshah, the fasting companion in the story, is a person named in the text, not a narrator. Ibn Hajar: a Syrian whose father's name was Haywil, reliable; he was set over the land-tax of Sind for Sulayman ibn Abd al-Malik and died in his caliphate; he is mentioned nowhere else in al-Bukhari.",
+      "source": "Ibn Hajar, Fath al-Bari on 2996"
+    },
+    {
+      "kind": "scholar",
+      "text": "Ibrahim al-Saksaki has two hadith in the Sahih: this one, and one from Abdullah ibn Abi Awfa on the revelation of Al Imran 3:77, which is a witness to Ibn Mas'ud's hadith. Muslim did not use him; al-Daraqutni told al-Hakim this was because Yahya ibn Sa'id had criticised him.",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 9, letter alif"
+    },
+    {
+      "kind": "scholar",
+      "text": "Al-Saksaki's report from Abu Burdah is corroborated: al-Tabarani has it through Sa'id ibn Abi Burdah from his father from his grandfather, and the Hushaym route in Abu Dawud and al-Isma'ili has Abu Musa say “I heard the Prophet ﷺ say, not once or twice”.",
+      "source": "Ibn Hajar, Fath al-Bari on 2996"
+    },
+    {
+      "kind": "check",
+      "text": "In the standard text the Companion's formula is “the Messenger of God ﷺ said”, reported by Abu Burdah as something he heard his father say repeatedly (mirar). In the Hushaym version it is Abu Musa's own “I heard the Prophet ﷺ say, not once or twice”.",
+      "source": "Sahih al-Bukhari 2996; Sunan Abi Dawud 3091"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The chapter heading applies to travel that is not for a sin. The wording “while resident and in health” answers “falls ill or travels” in reverse order (al-laff wa al-nashr al-maqlub): residence pairs with travel, health with illness. The promise concerns someone who had a practice of obedience and was kept from it while intending to continue, as Abu Dawud's version through Hushaym states outright. Ibn Hajar also collects the parallel reports (Abdullah ibn Amr in Abd al-Razzaq, Ahmad and al-Hakim; Anas in Ahmad; Aishah in al-Nasa'i on night prayer overcome by sleep or pain) and the corroboration of al-Saksaki's report in al-Tabarani.",
+        "url": "https://www.islamweb.net/ar/library/content/52/5450/"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Ibn Battal held that all this concerns supererogatory acts, since obligatory prayers are not dropped by travel or illness; Ibn al-Munayyir objected that someone unable to perform an obligation in its full form is also written its full reward, as the sick man praying seated earns the reward of standing. The hadith is used against those who say that valid excuses for missing the congregation merely remove the blame without earning the merit: Abu Hurayrah's hadith in Abu Dawud, al-Nasa'i and al-Hakim, with a strong chain, gives the man who finds the congregation finished the same reward as those who prayed.",
+        "url": "https://www.islamweb.net/ar/library/content/52/5450/"
+      },
+      {
+        "work": "Hady al-Sari (introduction to Fath al-Bari)",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Hadith 42 of the hadith al-Daraqutni criticised: the criticism and Ibn Hajar's two answers, including Ahmad's principle on stories in hadith.",
+        "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_الثامن"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Deeds are recorded, and someone kept from a settled practice by illness or travel is credited with it.",
+        "source": "Ibn Hajar, Fath al-Bari on 2996"
+      },
+      {
+        "text": "The promise applies to travel that is not for a sin.",
+        "source": "Ibn Hajar, Fath al-Bari on 2996 (on the chapter heading)"
+      },
+      {
+        "text": "A sick or travelling person who nonetheless takes the trouble to perform the deed does better than when well and at home.",
+        "source": "Ibn Hajar, Fath al-Bari on 2996 (“and it is used as evidence that…”)"
+      },
+      {
+        "text": "Valid excuses do not merely lift blame; the merit of the missed act is written, against those who held otherwise.",
+        "source": "Ibn Hajar, Fath al-Bari on 2996, with Abu Hurayrah's hadith in Abu Dawud and al-Nasa'i"
+      },
+      {
+        "text": "Whether the rule covers obligatory acts performed incompletely for an excuse is debated between Ibn Battal and Ibn al-Munayyir.",
+        "source": "Ibn Hajar, Fath al-Bari on 2996"
+      }
+    ]
+  },
+  "context": "The report comes framed by its occasion. Abu Burdah, Abu Musa's son, was travelling with a Syrian official, Yazid ibn Abi Kabshah, who kept his fast on the road; Abu Burdah told him what he had heard his father say many times. That frame is why Ibn Hajar accepts al-Awwam's version over Mis'ar's shorter one. The chapter sits in the Book of Jihad, Ibn Hajar says, because jihad is the travel the chapter has most in mind, and the heading restricts the promise to travel that is not for a sin.",
+  "vocabulary": [
+    {
+      "term": "Musnad",
+      "ar": "مسند",
+      "meaning": "Carried with a connected chain up to the Prophet ﷺ. Al-Daraqutni's complaint is that only al-Awwam made the report musnad."
+    },
+    {
+      "term": "Mawquf",
+      "ar": "موقوف",
+      "meaning": "Stopped at a Companion or Successor as his own words. In Mis'ar's version the report stops at Abu Burdah."
+    },
+    {
+      "term": "Ziyadat al-thiqa",
+      "ar": "زيادة الثقة",
+      "meaning": "An addition by a reliable narrator that his fellow students lack: here, the two upper links al-Awwam has and Mis'ar does not. Whether such additions are accepted is a classic question of method."
+    },
+    {
+      "term": "Fi hukm al-marfu'",
+      "ar": "في حكم المرفوع",
+      "meaning": "Treated as a Prophetic statement although phrased as someone else's words, because its content is not the kind of thing said from opinion."
+    },
+    {
+      "term": "al-Laff wa al-nashr al-maqlub",
+      "ar": "اللف والنشر المقلوب",
+      "meaning": "Naming several things and then answering them in reverse order: illness and travel, then residence and health."
+    },
+    {
+      "term": "Mutaba'ah",
+      "ar": "متابعة",
+      "meaning": "A second route that supports a narrator's report from the same shaykh: al-Tabarani's route through Abu Burdah's son supports al-Saksaki."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 5,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 2996 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:2996"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari with diacritics (hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 2996 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/5450/"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 8: the hadith criticised by al-Daraqutni (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_الثامن"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 9, letter alif: Ibrahim al-Saksaki (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الألف"
+    },
+    {
+      "label": "Sunan Abi Dawud 3091 (sunnah.com)",
+      "url": "https://sunnah.com/abudawud:3091"
+    },
+    {
+      "label": "al-Adab al-Mufrad 500 (sunnah.com)",
+      "url": "https://sunnah.com/adab:500"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

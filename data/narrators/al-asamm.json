@@ -1,0 +1,188 @@
+{
+  "id": "al-asamm",
+  "name": "Muhammad ibn Ya'qub al-Asamm",
+  "nameAr": "أبو العباس محمد بن يعقوب بن يوسف الأصمّ النيسابوري",
+  "short": "al-Asamm",
+  "shortAr": "الأصم",
+  "kunya": "Abu al-Abbas",
+  "kunyaAr": "أبو العباس",
+  "laqab": {
+    "ar": "الأصم",
+    "en": "al-Asamm (the deaf); he disliked the name, and Abu Bakr al-Sibghi called him al-Ma'qili instead"
+  },
+  "nisbas": [
+    {
+      "ar": "الأموي",
+      "en": "al-Umawi (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "السناني",
+      "en": "al-Sinani (to his ancestor Sinan)",
+      "kind": "other"
+    },
+    {
+      "ar": "المعقلي",
+      "en": "al-Ma'qili (to his ancestor Ma'qil)",
+      "kind": "other"
+    },
+    {
+      "ar": "النيسابوري",
+      "en": "al-Naysaburi",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Banu Umayya (al-Umawi mawlahum)",
+  "fatherName": "Ya'qub",
+  "born": 247,
+  "died": 346,
+  "region": "Nishapur",
+  "band": "thiqa",
+  "external": {
+    "sunnah": "31063"
+  },
+  "teachers": [
+    {
+      "id": "al-hasan-ibn-ali-ibn-affan",
+      "name": "al-Hasan ibn Ali ibn Affan al-Amiri",
+      "nameAr": "الحسن بن علي بن عفان العامري",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (15/454: heard from him at Kufa)"
+    },
+    {
+      "name": "al-Rabi' ibn Sulayman al-Muradi",
+      "nameAr": "الربيع بن سليمان المرادي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (transmitted al-Shafi'i's al-Umm from him)"
+    },
+    {
+      "name": "Muhammad ibn Abdullah ibn Abd al-Hakam",
+      "nameAr": "محمد بن عبد الله بن عبد الحكم",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Bahr ibn Nasr al-Khawlani",
+      "nameAr": "بحر بن نصر الخولاني",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "al-Abbas al-Duri",
+      "nameAr": "عباس الدوري",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Muhammad ibn Ishaq al-Saghani",
+      "nameAr": "محمد بن إسحاق الصغاني",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Yahya ibn Abi Talib",
+      "nameAr": "يحيى بن أبي طالب",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Ahmad ibn Abd al-Jabbar al-Utaridi",
+      "nameAr": "أحمد بن عبد الجبار العطاردي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-tarrazi",
+      "name": "Abu al-Hasan Ali ibn Muhammad al-Tarrazi",
+      "nameAr": "علي بن محمد بن أحمد بن عثمان البغدادي الطرازي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (15/455); al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "name": "Abu Abdullah al-Hakim",
+      "nameAr": "أبو عبد الله الحاكم",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Abu Abd al-Rahman al-Sulami",
+      "nameAr": "أبو عبد الرحمن السلمي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Abu Abdullah ibn Manda",
+      "nameAr": "أبو عبد الله بن مندة",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Abu Ahmad ibn Adi",
+      "nameAr": "أبو أحمد بن عدي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Abu Bakr al-Isma'ili",
+      "nameAr": "أبو بكر الإسماعيلي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "name": "Abu Ali al-Naysaburi",
+      "nameAr": "أبو علي النيسابوري",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Dhahabi",
+      "criticDied": 748,
+      "ar": "الإمام المحدث، مسند العصر",
+      "en": "The imam and hadith scholar, the great transmitter of his age.",
+      "source": "Siyar A'lam al-Nubala",
+      "url": "https://tarajm.com/people/34844"
+    }
+  ],
+  "bio": "Deafness struck him in his twenties, after he returned from his travels, and later became total (hence the name). He transmitted for seventy-six years, and students travelled to Nishapur from every country to hear him; al-Hakim was among them.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "field": "laqab",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (15/454-455)"
+    },
+    {
+      "field": "nisbas",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (15/453)"
+    },
+    {
+      "field": "mawla",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731 (15/453: الأموي مولاهم)"
+    },
+    {
+      "field": "fatherName",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator page, https://sunnah.com/narrator/31063"
+    },
+    {
+      "field": "teachers",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    },
+    {
+      "field": "students",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 15/452-460, https://shamela.ws/book/10906/9724 to /9731"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Biographical record (tarajm.com)",
+      "url": "https://tarajm.com/people/34844"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "note": "The editorial board. A change to this file is a pull request reviewed by an existing editor. Names are public.",
+  "members": [
+    {
+      "who": "Muhammad Mukthar",
+      "role": "editor",
+      "reviews": ["code", "docs", "narrators", "verdicts", "texts", "chains", "explanation"],
+      "since": "2026-10-23",
+      "note": "Founding maintainer. Approves everything until two reviewers have agreed to serve; the site says so."
+    }
+  ]
+}

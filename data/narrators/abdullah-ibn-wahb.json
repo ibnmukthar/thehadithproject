@@ -1,0 +1,213 @@
+{
+  "id": "abdullah-ibn-wahb",
+  "name": "Abdullah ibn Wahb",
+  "nameAr": "عبد الله بن وهب بن مسلم القرشي الفهري مولاهم المصري",
+  "short": "Ibn Wahb",
+  "shortAr": "ابن وهب",
+  "kunya": "Abu Muhammad",
+  "kunyaAr": "أبو محمد",
+  "nisbas": [
+    {
+      "ar": "القرشي مولاهم",
+      "en": "a client (mawla) of Banu Fihr, so counted with them by clientage, not descent",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المصري",
+      "en": "al-Misri, of Egypt",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Quraysh (Banu Fihr)",
+  "fatherName": "Wahb",
+  "born": 125,
+  "died": 197,
+  "diedNote": "died 197 AH aged 72 (Taqrib)",
+  "region": "Egypt",
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة حافظ عابد",
+    "en": "Reliable, a hadith master and devout worshipper.",
+    "number": "3694",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "Jurist of Egypt; Malik's student and the main carrier of Egyptian and Hijazi hadith",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "3976"
+  },
+  "teachers": [
+    {
+      "id": "yunus-ibn-yazid",
+      "name": "Yunus ibn Yazid al-Ayli",
+      "nameAr": "يونس بن يزيد الأيلي",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Sahih al-Bukhari 71; Sahih Muslim 1037"
+    },
+    {
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "id": "hammad-ibn-zayd",
+      "source": "reciprocal of the entry in hammad-ibn-zayd's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "students": [
+    {
+      "id": "said-ibn-ufayr",
+      "name": "Sa'id ibn Ufayr",
+      "nameAr": "سعيد بن عفير",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 71"
+    },
+    {
+      "name": "Isma'il ibn Abi Uways",
+      "nameAr": "إسماعيل بن أبي أويس",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 7312"
+    },
+    {
+      "name": "Harmala ibn Yahya",
+      "nameAr": "حرملة بن يحيى",
+      "sigla": [
+        "م"
+      ],
+      "source": "Sahih Muslim 1037"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Talib",
+      "ar": "عبد الله بن وهب صحيح الحديث، يفصل السماع من العرض والحديث من الحديث، ما أصح حديثه وأثبته",
+      "en": "Abdullah ibn Wahb is sound in hadith; he distinguishes what he heard from what was read to him, and one report from another. How sound and firm his hadith is! Told that he was lax in how he received, he said: he was, but when you examine his hadith and what he transmits from his teachers you find it sound.",
+      "source": "al-Jarh wa al-Ta'dil 5/189",
+      "url": "https://shamela.ws/narrator/3976"
+    },
+    {
+      "critic": "Abu Zur'a al-Razi",
+      "criticDied": 264,
+      "ar": "نظرت في نحو ثلاثين ألف حديث من حديث ابن وهب بمصر وغير مصر، لا أعلم أني رأيت له حديثا لا أصل له، وهو ثقة",
+      "en": "I examined about thirty thousand of Ibn Wahb's hadith, in Egypt and elsewhere, and I do not know that I saw one without a basis. He is reliable.",
+      "source": "Tahdhib al-Kamal 16/277",
+      "url": "https://shamela.ws/narrator/3976"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صالح الحديث، صدوق، أحب إلي من الوليد بن مسلم، وأصح حديثا منه بكثير",
+      "en": "Acceptable in hadith, truthful; dearer to me than al-Walid ibn Muslim and far sounder in hadith than he.",
+      "source": "al-Jarh wa al-Ta'dil 5/189",
+      "url": "https://shamela.ws/narrator/3976"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان كثير العلم، ثقة فيما قال: حدثنا، وكان يدلس",
+      "en": "He was of abundant learning, reliable in what he introduced with 'he narrated to us'; and he would use the ambiguous formula (tadlis).",
+      "source": "Tahdhib al-Tahdhib 2/453",
+      "url": "https://shamela.ws/narrator/3976"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "كان يتساهل في الأخذ، ولا بأس به. وقال في موضع آخر: ثقة، ما أعلمه روى عن الثقات حديثا منكرا",
+      "en": "He was lax in how he received hadith, but there is no harm in him. Elsewhere: reliable; I know of no objectionable hadith he transmitted from reliable narrators.",
+      "source": "Tahdhib al-Tahdhib 2/453",
+      "url": "https://shamela.ws/narrator/3976"
+    },
+    {
+      "critic": "Ibn Adi",
+      "criticDied": 365,
+      "ar": "عبد الله بن وهب من أجلة الناس ومن ثقاتهم، وحديث الحجاز ومصر وما والى تلك البلاد يدور على رواية ابن وهب",
+      "en": "Among the most eminent and reliable of people; the hadith of the Hijaz and Egypt and the lands adjoining them turns on Ibn Wahb's transmission.",
+      "source": "al-Kamil fi Du'afa' al-Rijal 5/336",
+      "url": "https://shamela.ws/narrator/3976"
+    },
+    {
+      "critic": "al-Khalili",
+      "criticDied": 446,
+      "ar": "ثقة متفق عليه",
+      "en": "Reliable by agreement.",
+      "source": "Tahdhib al-Tahdhib 2/453",
+      "url": "https://shamela.ws/narrator/3976"
+    }
+  ],
+  "dhahabi": {
+    "ar": "أحد الأعلام",
+    "en": "One of the leading authorities.",
+    "source": "al-Kashif, as quoted on the Shamela narrator record"
+  },
+  "tadlis": {
+    "rank": 1,
+    "type": "tadlis al-isnad",
+    "source": "Ibn Hajar, Ta'rif Ahl al-Taqdis bi-Maratib al-Mawsufin bi-l-Tadlis (Tabaqat al-Mudallisin), entry 17, first rank: described as a mudallis by Ibn Sa'd in the Tabaqat",
+    "note": "The first rank holds those found to have used the ambiguous formula only rarely. In al-Bukhari 71 his link to Yunus reads 'from' (عن يونس); in Muslim 1037, through Harmala, he says 'Yunus informed me' (أخبرني يونس)."
+  },
+  "flags": [
+    {
+      "label": "Lax in the manner of receiving",
+      "detail": "Ahmad and al-Nasa'i note that he was easy-going about how he received hadith (al-Saji explains that his countrymen accepted licence, ijaza, and would say 'he narrated to me' of it). Both nonetheless judged what he actually transmitted to be sound, and Ahmad praised him for distinguishing hearing from reading-back in his formulae."
+    }
+  ],
+  "bio": "The jurist of Egypt in the generation after al-Layth ibn Sa'd, a student of Malik and of the Egyptian and Hijazi masters, and the person through whom most of their hadith reached later collectors. Al-Bukhari and Muslim both rely on him heavily. Ibn Hajar places him in the first and lightest rank of those who used the ambiguous formula, so a bare 'from' in his chains is not held against him.",
+  "provenance": [
+    {
+      "field": "name, kunya, mawla status, dates",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3976, drawing on Tahdhib al-Kamal 16/277 and Tahdhib al-Tahdhib 2/453"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 3694 (Wikisource)"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Shamela narrator record 3976"
+    },
+    {
+      "field": "tadlis",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Ta'rif Ahl al-Taqdis, entry 17 (first rank)"
+    },
+    {
+      "field": "teachers, students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 71 and 7312 and Sahih Muslim 1037"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 3694 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_بقية_أسماء_الآباء_فيمن_اسمه_عبد_الله"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3976"
+    },
+    {
+      "label": "Ibn Hajar, Ta'rif Ahl al-Taqdis (Shamela)",
+      "url": "https://shamela.ws/book/1186"
+    },
+    {
+      "label": "Ibn Hajar's ranks of mudallisin, as summarised by Hammad al-Ansari (Shamela)",
+      "url": "https://shamela.ws/book/22949/15"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

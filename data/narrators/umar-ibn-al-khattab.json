@@ -1,0 +1,211 @@
+{
+  "id": "umar-ibn-al-khattab",
+  "name": "Umar ibn al-Khattab",
+  "nameAr": "عمر بن الخطاب رضي الله عنه",
+  "short": "Umar ibn al-Khattab",
+  "shortAr": "عمر بن الخطاب",
+  "kunya": "Abu Hafs",
+  "kunyaAr": "أبو حفص",
+  "laqab": {
+    "ar": "الفاروق، أمير المؤمنين",
+    "en": "al-Faruq; Amir al-Mu'minin (the first to bear the title)"
+  },
+  "nisbas": [
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "العدوي",
+      "en": "al-Adawi (Adi ibn Ka'b of Quraysh)",
+      "kind": "tribal"
+    }
+  ],
+  "fatherName": "al-Khattab",
+  "born": -40,
+  "died": 23,
+  "deathVariants": [
+    {
+      "year": 23,
+      "authority": "killed in Dhu al-Hijja 23 (Taqrib; Ibn Hajar: \"this is the soundest\"); al-Khazraji: martyred at the end of 23 and buried at the start of 24",
+      "source": "Taqrib al-Tahdhib, entry 4888, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمر_كل_من_لم_أذكر_كنيته_فهي_أبو_حفص; Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 282 (entry of Umar ibn al-Khattab), https://shamela.ws/book/5858/282"
+    },
+    {
+      "year": 24,
+      "authority": "\"it is said\", as recorded in Shamela's narrator record",
+      "source": "Shamela narrator record, https://shamela.ws/narrator/4677"
+    }
+  ],
+  "region": "Madinah",
+  "tabaqa": 1,
+  "band": "sahabi",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "4677",
+    "sunnah": "5913"
+  },
+  "teachers": [
+    {
+      "name": "Abu Bakr al-Siddiq",
+      "nameAr": "أبو بكر الصديق",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ubayy ibn Ka'b",
+      "nameAr": "أبي بن كعب",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "students": [
+    {
+      "id": "alqama-ibn-waqqas",
+      "name": "Alqama ibn Waqqas al-Laythi",
+      "nameAr": "علقمة بن وقاص الليثي",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "abu-hurayra",
+      "name": "Abu Hurayra",
+      "nameAr": "أبو هريرة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "his son Abdullah ibn Umar",
+      "nameAr": "عبد الله بن عمر",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "his daughter Hafsa",
+      "nameAr": "حفصة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Uthman ibn Affan",
+      "nameAr": "عثمان بن عفان",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Ali ibn Abi Talib",
+      "nameAr": "علي بن أبي طالب",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abdullah ibn Mas'ud",
+      "nameAr": "ابن مسعود",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abdullah ibn Abbas",
+      "nameAr": "ابن عباس",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abis ibn Rabi'a",
+      "nameAr": "عابس بن ربيعة",
+      "id": "abis-ibn-rabia",
+      "sigla": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س"
+      ],
+      "source": "reciprocal of the entry in abis-ibn-rabia's record (Sahih al-Bukhari 1597 and the parallels; Abu Dawud: 'a pre-Islamic man who heard from Umar' (Tahdhib al-Kamal 13/472))"
+    },
+    {
+      "name": "Jarir ibn Abdullah",
+      "nameAr": "جرير بن عبد الله",
+      "id": "jarir-ibn-abdullah-al-bajali",
+      "source": "reciprocal of the entry in jarir-ibn-abdullah-al-bajali's record (Tahdhib al-Tahdhib: 'he narrated from the Prophet ﷺ and from Umar and Mu'awiyah')"
+    },
+    {
+      "name": "Qays ibn Abi Hazim",
+      "nameAr": "قيس بن أبي حازم",
+      "id": "qays-ibn-abi-hazim",
+      "source": "reciprocal of the entry in qays-ibn-abi-hazim's record (Tahdhib al-Tahdhib)"
+    }
+  ],
+  "verdicts": [],
+  "companionCounts": {
+    "total": 539,
+    "agreed": 10,
+    "bukhariOnly": 9,
+    "muslimOnly": 15,
+    "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 282 (entry of Umar ibn al-Khattab), https://shamela.ws/book/5858/282 («له خمسمائة وتسعة وثلاثون حديثا، اتفقا على عشرة، وانفرد البخاري بتسعة ومسلم بخمسة عشر»)"
+  },
+  "bio": "The second caliph, born about forty years before the hijra by the usual estimate and assassinated in Dhu al-Hijja 23 AH. He delivered this hadith from the pulpit of the Prophet's mosque, which is where Alqama heard it.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4888, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمر_كل_من_لم_أذكر_كنيته_فهي_أبو_حفص"
+    },
+    {
+      "field": "laqab",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4888, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمر_كل_من_لم_أذكر_كنيته_فهي_أبو_حفص (أمير المؤمنين; الفاروق bracketed in the Wikisource text); Shamela narrator record, https://shamela.ws/narrator/4677"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4888, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمر_كل_من_لم_أذكر_كنيته_فهي_أبو_حفص"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4888, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمر_كل_من_لم_أذكر_كنيته_فهي_أبو_حفص"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Shamela narrator record, https://shamela.ws/narrator/4677"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4888, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/ذكر_من_اسمه_عمر_كل_من_لم_أذكر_كنيته_فهي_أبو_حفص"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/4677"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 5913, linked from the isnad at https://sunnah.com/bukhari:1"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/438-441, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 282 (entry of Umar ibn al-Khattab), https://shamela.ws/book/5858/282"
+    }
+  ],
+  "sources": [],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "al-bukhari",
+  "name": "Muhammad ibn Isma'il al-Bukhari",
+  "nameAr": "محمد بن إسماعيل بن إبراهيم البخاري",
+  "short": "al-Bukhari",
+  "shortAr": "البخاري",
+  "kunya": "Abu Abdullah",
+  "born": 194,
+  "died": 256,
+  "region": "Bukhara",
+  "tabaqa": 11,
+  "band": "thiqa",
+  "role": "Compiler of al-Jami' al-Sahih",
+  "taqrib": {
+    "ar": "جبل الحفظ، وإمام الدنيا في فقه الحديث",
+    "en": "A mountain of memory, and the world's leading authority on the understanding of hadith.",
+    "number": "5727"
+  },
+  "teachers": [
+    {
+      "id": "abu-asim-al-nabil",
+      "name": "Abu Asim al-Nabil, al-Dahhak ibn Makhlad",
+      "nameAr": "أبو عاصم النبيل",
+      "source": "Tahdhib al-Kamal 13/283 (al-Bukhari heads the list of those who narrated from him); Sahih al-Bukhari 2295"
+    },
+    {
+      "id": "muhammad-ibn-sinan-al-awqi",
+      "name": "Muhammad ibn Sinan al-Awqi",
+      "nameAr": "محمد بن سنان العوقي",
+      "source": "Tahdhib al-Kamal 25/321; Sahih al-Bukhari 335, 438, 3122"
+    },
+    {
+      "id": "said-ibn-al-nadr",
+      "name": "Sa'id ibn al-Nadr",
+      "nameAr": "سعيد بن النضر",
+      "source": "Tahdhib al-Kamal 11/88; Sahih al-Bukhari 335 (\"narrated to me\")"
+    },
+    {
+      "id": "amr-ibn-khalid",
+      "name": "Amr ibn Khalid al-Harrani",
+      "nameAr": "عمرو بن خالد الحراني",
+      "source": "Tahdhib al-Kamal 21/602; Sahih al-Bukhari 12"
+    },
+    {
+      "name": "Abdan",
+      "nameAr": "عبدان",
+      "id": "abdan",
+      "sigla": [
+        "خ"
+      ],
+      "source": "reciprocal of the entry in abdan's record (Sahih al-Bukhari 6, 3554)"
+    },
+    {
+      "name": "Ahmad ibn Nasr al-Naysaburi",
+      "nameAr": "أحمد بن نصر النيسابوري",
+      "id": "ahmad-ibn-nasr-al-naysaburi",
+      "source": "reciprocal of the entry in ahmad-ibn-nasr-al-naysaburi's record (Tahdhib al-Tahdhib (Hyderabad ed.) 1/85, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2)"
+    },
+    {
+      "name": "al-Humaydi",
+      "nameAr": "الحميدي",
+      "id": "al-humaydi",
+      "sigla": [
+        "خ"
+      ],
+      "source": "reciprocal of the entry in al-humaydi's record (Tahdhib al-Tahdhib (Hyderabad ed.) 5/215-216, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2)"
+    },
+    {
+      "name": "Bishr ibn Muhammad",
+      "nameAr": "بشر بن محمد",
+      "id": "bishr-ibn-muhammad",
+      "sigla": [
+        "خ"
+      ],
+      "source": "reciprocal of the entry in bishr-ibn-muhammad's record (Sahih al-Bukhari 6)"
+    },
+    {
+      "name": "Muhammad ibn Kathir",
+      "nameAr": "محمد بن كثير",
+      "id": "muhammad-ibn-kathir",
+      "sigla": [
+        "خ"
+      ],
+      "source": "reciprocal of the entry in muhammad-ibn-kathir's record (Sahih al-Bukhari 1597)"
+    },
+    {
+      "name": "Musaddad",
+      "nameAr": "مسدد",
+      "id": "musaddad",
+      "sigla": [
+        "خ"
+      ],
+      "source": "reciprocal of the entry in musaddad's record (Sahih al-Bukhari 57; Tahdhib al-Tahdhib)"
+    },
+    {
+      "name": "Sa'id ibn Ufayr",
+      "nameAr": "سعيد بن عفير",
+      "id": "said-ibn-ufayr",
+      "sigla": [
+        "خ"
+      ],
+      "source": "reciprocal of the entry in said-ibn-ufayr's record (Sahih al-Bukhari 71)"
+    },
+    {
+      "name": "Sulayman ibn Harb",
+      "nameAr": "سليمان بن حرب",
+      "id": "sulayman-ibn-harb",
+      "sigla": [
+        "خ"
+      ],
+      "source": "reciprocal of the entry in sulayman-ibn-harb's record (Sahih al-Bukhari 3688; al-Dhahabi, Siyar)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "en": "Devoted the introduction to Fath al-Bari (Hady al-Sari) to defending the book and documenting its narrators, chapter by chapter.",
+      "source": "Hady al-Sari"
+    }
+  ],
+  "bio": "Born in Bukhara, he studied across Khurasan, Iraq, the Hijaz, Syria and Egypt. Author of the collection Sunni scholarship ranks as the most rigorous book after the Qur'an. His conditions for inclusion, which later scholars inferred from the book itself, were stricter than any compiler's before him; he said he drew it from some six hundred thousand reports; Ibn Hajar counts 2,602 connected hadith in it without repetition (2,761 including the suspended reports).",
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari on sunnah.com",
+      "url": "https://sunnah.com/bukhari"
+    }
+  ],
+  "students": [
+    {
+      "name": "al-Tirmidhi",
+      "nameAr": "الترمذي",
+      "id": "al-tirmidhi",
+      "source": "reciprocal of the entry in al-tirmidhi's record (Tahdhib al-Tahdhib (Hyderabad ed.) 9/387-389, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (al-Bukhari also took a hadith from him))"
+    }
+  ]
+}

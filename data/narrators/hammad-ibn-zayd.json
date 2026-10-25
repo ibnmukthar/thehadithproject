@@ -1,0 +1,319 @@
+{
+  "id": "hammad-ibn-zayd",
+  "name": "Hammad ibn Zayd",
+  "nameAr": "حماد بن زيد بن درهم الأزدي الجهضمي البصري",
+  "short": "Hammad ibn Zayd",
+  "shortAr": "حماد بن زيد",
+  "kunya": "Abu Isma'il",
+  "kunyaAr": "أبو إسماعيل",
+  "laqab": {
+    "ar": "الأزرق",
+    "en": "al-Azraq (the blue-eyed); one of 'the two Hammads' with Hammad ibn Salamah"
+  },
+  "nisbas": [
+    {
+      "ar": "الأزدي",
+      "en": "al-Azdi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الجهضمي",
+      "en": "al-Jahdami",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "the family of Jarir ibn Hazim (Tahdhib al-Tahdhib)",
+  "fatherName": "Zayd",
+  "born": 98,
+  "bornNote": "98 AH according to Khalid ibn Khidash (Tahdhib al-Tahdhib); the Shamela record adds 'or in the time of Sulayman ibn Abd al-Malik or of Umar ibn Abd al-Aziz'.",
+  "died": 179,
+  "diedNote": "Ramadan 179 AH (Arim and others), aged eighty-one (Taqrib); the same year as Malik ibn Anas.",
+  "deathVariants": [
+    {
+      "year": 179,
+      "authority": "Arim and a group; Ibn Hajar, Taqrib",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha; Taqrib al-Tahdhib 1498"
+    },
+    {
+      "year": 177,
+      "authority": "variant listed in the Shamela narrator record",
+      "source": "https://shamela.ws/narrator/1619"
+    }
+  ],
+  "region": "Basra",
+  "tabaqa": 8,
+  "taqrib": {
+    "ar": "ثقة ثبت فقيه، قيل إنه كان ضريرا، ولعله طرأ عليه لأنه صح أنه كان يكتب، من كبار الثامنة، مات سنة تسع وسبعين وله إحدى وثمانون سنة",
+    "en": "Reliable, firm, a jurist. It is said he was blind; probably that came upon him later, since it is established that he used to write. Among the senior men of the eighth generation; died in 179 aged eighty-one.",
+    "number": "1498",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "role": "The imam of Basra in his generation (Ibn Mahdi)",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/1619"
+  },
+  "teachers": [
+    {
+      "id": "thabit-al-bunani",
+      "name": "Thabit al-Bunani",
+      "nameAr": "ثابت البناني",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 3688; Tahdhib al-Tahdhib (first teacher named)"
+    },
+    {
+      "name": "Ayyub al-Sakhtiyani",
+      "nameAr": "أيوب السختياني",
+      "source": "Tahdhib al-Tahdhib: Ibn Ma'in, 'no one is firmer in Ayyub than Hammad ibn Zayd'"
+    },
+    {
+      "name": "Anas ibn Sirin",
+      "nameAr": "أنس بن سيرين",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abd al-Aziz ibn Suhayb",
+      "nameAr": "عبد العزيز بن صهيب",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Asim al-Ahwal",
+      "nameAr": "عاصم الأحول",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Amr ibn Dinar",
+      "nameAr": "عمرو بن دينار",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Hisham ibn Urwah",
+      "nameAr": "هشام بن عروة",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ubaydullah ibn Umar",
+      "nameAr": "عبيد الله بن عمر",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "students": [
+    {
+      "id": "sulayman-ibn-harb",
+      "name": "Sulayman ibn Harb",
+      "nameAr": "سليمان بن حرب",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Sahih al-Bukhari 3688; Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "musaddad",
+      "name": "Musaddad ibn Musarhad",
+      "nameAr": "مسدد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "id": "yahya-ibn-said-al-qattan",
+      "name": "Yahya ibn Sa'id al-Qattan",
+      "nameAr": "يحيى بن سعيد القطان",
+      "source": "Tahdhib al-Tahdhib ('al-Qattan')"
+    },
+    {
+      "id": "sufyan-ibn-uyaynah",
+      "name": "Sufyan ibn Uyaynah",
+      "nameAr": "سفيان بن عيينة",
+      "source": "Tahdhib al-Tahdhib: 'and Ibn Uyaynah, who is of his generation'"
+    },
+    {
+      "name": "Sufyan al-Thawri",
+      "nameAr": "سفيان الثوري",
+      "source": "Tahdhib al-Tahdhib: 'and al-Thawri, who is older than he'",
+      "id": "sufyan-al-thawri"
+    },
+    {
+      "name": "Abdullah ibn al-Mubarak",
+      "nameAr": "عبد الله بن المبارك",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "abdullah-ibn-al-mubarak"
+    },
+    {
+      "name": "Abd al-Rahman ibn Mahdi",
+      "nameAr": "عبد الرحمن بن مهدي",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Abdullah ibn Wahb",
+      "nameAr": "عبد الله بن وهب",
+      "source": "Tahdhib al-Tahdhib",
+      "id": "abdullah-ibn-wahb"
+    },
+    {
+      "name": "Muslim ibn Ibrahim",
+      "nameAr": "مسلم بن إبراهيم",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Arim (Muhammad ibn al-Fadl)",
+      "nameAr": "عارم",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Qutaybah ibn Sa'id",
+      "nameAr": "قتيبة بن سعيد",
+      "source": "Tahdhib al-Tahdhib"
+    },
+    {
+      "name": "Ali ibn al-Madini",
+      "nameAr": "علي بن المديني",
+      "source": "Tahdhib al-Tahdhib"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "via": "Rustah",
+      "ar": "أئمة الناس في زمانهم أربعة: سفيان الثوري بالكوفة، ومالك بالحجاز، والأوزاعي بالشام، وحماد بن زيد بالبصرة",
+      "en": "The imams of the people in their time were four: Sufyan al-Thawri in Kufa, Malik in the Hijaz, al-Awza'i in Syria and Hammad ibn Zayd in Basra.",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha; Tahdhib al-Kamal 7/239",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "ar": "لم أر أحدا قط أعلم بالسنة ولا بالحديث الذي يدخل في السنة من حماد بن زيد",
+      "en": "I never saw anyone more knowledgeable of the Sunnah, or of the hadith that bears on the Sunnah, than Hammad ibn Zayd.",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Waki' ibn al-Jarrah",
+      "criticDied": 197,
+      "ar": "حماد بن زيد، ما كنا نشبهه إلا بمسعر",
+      "en": "Asked which of the two Hammads had the better memory: 'Hammad ibn Zayd; we used to compare him only to Mis'ar.'",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Yahya ibn Yahya al-Naysaburi",
+      "criticDied": 226,
+      "ar": "ما رأيت أحفظ منه",
+      "en": "I never saw anyone with a stronger memory than he.",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "حماد بن زيد أحب إلينا من عبد الوارث، حماد من أئمة المسلمين من أهل الدين والإسلام، وهو أحب إلي من حماد بن سلمة",
+      "en": "Hammad ibn Zayd is dearer to us than Abd al-Warith; Hammad is one of the imams of the Muslims, a man of religion and Islam; he is dearer to me than Hammad ibn Salamah.",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "ar": "ليس أحد في أيوب أثبت من حماد بن زيد",
+      "en": "No one is firmer in Ayyub than Hammad ibn Zayd.",
+      "source": "al-Jarh wa al-Ta'dil 3/137; Tahdhib al-Tahdhib",
+      "url": "https://shamela.ws/narrator/1619"
+    },
+    {
+      "critic": "Abu Zur'a al-Razi",
+      "criticDied": 264,
+      "ar": "حماد بن زيد أثبت من حماد بن سلمة بكثير، وأصح حديثا وأتقن",
+      "en": "Hammad ibn Zayd is far firmer than Hammad ibn Salamah, sounder in hadith and more precise.",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان عثمانيا، وكان ثقة ثبتا حجة كثير الحديث",
+      "en": "He was an Uthmani (in sympathy); he was reliable, firm, a proof, prolific.",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Ya'qub ibn Shaybah",
+      "criticDied": 262,
+      "ar": "حماد بن زيد أثبت من ابن سلمة وكل ثقة، غير أن ابن زيد معروف بأنه يقصر في الأسانيد ويوقف المرفوع، وكثير الشك بتوقيه، وكان جليلا لم يكن له كتاب يرجع إليه",
+      "en": "Hammad ibn Zayd is firmer than Ibn Salamah, and both are reliable; except that Ibn Zayd is known to shorten chains and to stop at a Companion what others raise to the Prophet, and to doubt often out of caution; he was eminent and had no book to refer back to.",
+      "source": "Tahdhib al-Tahdhib, entry 13 of the ha",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "كان ضريرا يحفظ حديثه كله",
+      "en": "He was blind and kept all his hadith in memory.",
+      "source": "Tahdhib al-Kamal 7/239; al-Thiqat 6/217",
+      "url": "https://shamela.ws/narrator/1619"
+    },
+    {
+      "critic": "al-Khalili",
+      "criticDied": 446,
+      "ar": "ثقة متفق عليه، رضيه الأئمة",
+      "en": "Reliable by agreement; the imams approved of him.",
+      "source": "Ikmal Tahdhib al-Kamal 4/139; Tahdhib al-Tahdhib",
+      "url": "https://shamela.ws/narrator/1619"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Blindness, and whether he wrote",
+      "detail": "Ibn Hibban and Ibn Manjuwayh say he was blind and kept his whole corpus in memory. Ibn Hajar reasons in the Taqrib that the blindness came late, since Ubaydullah ibn Umar saw him writing on a rainy day and blowing on the page to dry it, and Yahya al-Qattan said no one wrote in Ayyub's sessions except Hammad."
+    },
+    {
+      "label": "Caution that shortens chains",
+      "detail": "Ya'qub ibn Shaybah notes that he would sometimes stop at a Companion what others raised to the Prophet, and shorten chains, out of excessive caution; Ibn Hajar's Taqrib does not count this against his grade."
+    }
+  ],
+  "bio": "The imam of Basra in the generation after the senior Successors, placed by Ibn Mahdi beside al-Thawri, Malik and al-Awza'i as one of the four imams of their age. Born in 98, he was the firmest of all narrators from Ayyub al-Sakhtiyani and the most precise of 'the two Hammads', the other being Hammad ibn Salamah. He lost his sight late in life but had written in his youth. Sulayman ibn Harb sat with him for nineteen years; Musaddad, Yahya al-Qattan, Ibn Mahdi and Ibn al-Mubarak also narrate from him. He died in Ramadan 179, the year Malik died.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya, nisbas, tabaqa, taqrib, died, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 1498 (Wikisource)"
+    },
+    {
+      "field": "laqab, mawla, born, teachers, students, verdicts, flags",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib, letter ha, entry 13 (Wikisource)"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "modern",
+      "ref": "Shamela narrator record 1619"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 1498 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حكيم_بضم_أوله_وهم_أربعة"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, letter ha, entry 13 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب/حرف_الحاء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/1619"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

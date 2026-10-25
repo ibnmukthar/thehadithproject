@@ -1,0 +1,219 @@
+{
+  "id": "alqama-ibn-waqqas",
+  "name": "Alqama ibn Waqqas al-Laythi",
+  "nameAr": "علقمة بن وقّاص الليثي",
+  "short": "Alqama ibn Waqqas",
+  "shortAr": "علقمة بن وقاص",
+  "kunya": "Abu Yahya (or Abu Waqid)",
+  "kunyaAr": "أبو يحيى",
+  "kunyaVariants": [
+    "Abu Waqid"
+  ],
+  "nisbas": [
+    {
+      "ar": "الليثي",
+      "en": "al-Laythi (Layth ibn Bakr of Kinana)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "العتواري",
+      "en": "al-Utwari (Utwara of Layth)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المدني",
+      "en": "al-Madani",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Waqqas",
+  "died": null,
+  "diedNote": "died during the caliphate of Abd al-Malik (65–86 AH)",
+  "region": "Madinah",
+  "tabaqa": 2,
+  "band": "thiqa",
+  "taqrib": {
+    "ar": "ثقة ثبت، من الثانية، أخطأ من زعم أن له صحبة، وقيل إنه ولد في عهد النبي ﷺ",
+    "en": "Reliable and firm, of the second generation. Whoever claimed he was a Companion erred; it is said he was born in the Prophet's lifetime.",
+    "number": "4685",
+    "rank": 2
+  },
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "4494",
+    "sunnah": "5719"
+  },
+  "teachers": [
+    {
+      "id": "umar-ibn-al-khattab",
+      "name": "Umar ibn al-Khattab",
+      "nameAr": "عمر بن الخطاب",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abdullah ibn Umar",
+      "nameAr": "ابن عمر",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Bilal ibn al-Harith",
+      "nameAr": "بلال بن الحارث",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Mu'awiya ibn Abi Sufyan",
+      "nameAr": "معاوية",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Amr ibn al-As",
+      "nameAr": "عمرو بن العاص",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Aisha",
+      "nameAr": "عائشة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "students": [
+    {
+      "id": "muhammad-ibn-ibrahim-al-taymi",
+      "name": "Muhammad ibn Ibrahim al-Taymi",
+      "nameAr": "محمد بن إبراهيم التيمي",
+      "sigla": [
+        "خ"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "al-zuhri",
+      "name": "Muhammad ibn Muslim al-Zuhri",
+      "nameAr": "الزهري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "his son Abdullah ibn Alqama",
+      "nameAr": "ابنه عبد الله",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "his son Amr ibn Alqama",
+      "nameAr": "ابنه عمرو",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Amr ibn Yahya al-Mazini",
+      "nameAr": "عمرو بن يحيى المازني",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Yahya ibn al-Nadr al-Ansari",
+      "nameAr": "يحيى بن النضر الأنصاري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abdullah ibn Abi Mulayka",
+      "nameAr": "ابن أبي مليكة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 20/313",
+      "url": "https://shamela.ws/narrator/4494"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان قليل الحديث",
+      "en": "He transmitted little.",
+      "source": "al-Tabaqat",
+      "url": "https://shamela.ws/narrator/4494"
+    },
+    {
+      "critic": "Abu Nu'aym",
+      "criticDied": 430,
+      "ar": "هذا وهم",
+      "en": "On Ibn Manda counting him a Companion: “this is an error”.",
+      "source": "al-Isaba 8/94",
+      "url": "https://shamela.ws/narrator/4494"
+    }
+  ],
+  "bio": "A senior Successor of Madinah who heard Umar deliver this hadith from the pulpit, and is the only person known to have transmitted it from him. Whether he was a Companion was itself debated: Ibn Manda counted him one, Abu Nu'aym called that an error, and Ibn Hajar, who rules against it in the Taqrib and al-Isaba, still notes in Tahdhib al-Tahdhib a sound-looking report that would imply it and asks for the matter to be examined.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (Ali ibn al-Mufaddal: his kunya is Abu Yahya, and otherwise is said)"
+    },
+    {
+      "field": "kunyaVariants",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/4494 (الكنية: أبو يحيى، وقيل: أبو واقد)"
+    },
+    {
+      "field": "nisbas",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 4685, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/باب_ع_ل"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4685, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/باب_ع_ل"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4685, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/باب_ع_ل"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 4685, https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/باب_ع_ل (ثقة ثبت = rank 2)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/4494"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 5719, linked from the isnad at https://sunnah.com/bukhari:1"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 7/279-281, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 4685 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_العين/باب_ع_ل"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/4494"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

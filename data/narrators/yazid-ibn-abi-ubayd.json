@@ -1,0 +1,110 @@
+{
+  "id": "yazid-ibn-abi-ubayd",
+  "name": "Yazid ibn Abi Ubayd",
+  "nameAr": "يزيد بن أبي عبيد الأسلمي، أبو خالد، مولى سلمة بن الأكوع",
+  "short": "Yazid ibn Abi Ubayd",
+  "shortAr": "يزيد بن أبي عبيد",
+  "kunya": "Abu Khalid",
+  "kunyaAr": "أبو خالد",
+  "nisbas": [
+    { "ar": "الأسلمي", "en": "al-Aslami (by clientage to Aslam)", "kind": "tribal" },
+    { "ar": "الحجازي المدني", "en": "al-Hijazi, al-Madani", "kind": "geographic" }
+  ],
+  "mawla": "Salamah ibn al-Akwa' al-Aslami, his patron and his teacher",
+  "fatherName": "Abu Ubayd",
+  "died": 147,
+  "diedNote": "Taqrib: \"died in the hundred-and-forties\". Ibn Hibban and Ibn Manjuwayh: 146 or 147, in Madinah; Ibn Qani' and Khalifah: 147; al-Waqidi: two or three years after the rising of Muhammad al-Nafs al-Zakiyyah (145).",
+  "deathVariants": [
+    { "year": "146 or 147", "authority": "Ibn Hibban; Ibn Manjuwayh", "source": "Tahdhib al-Kamal 32/207" },
+    { "year": 147, "authority": "Ibn Qani'; Khalifah ibn Khayyat", "source": "Tahdhib al-Kamal 32/207, editor's note" }
+  ],
+  "region": "Madinah",
+  "tabaqa": 4,
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "7754",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "rumuz": ["ع"],
+  "external": { "shamela": "7044", "tahdhibKamal": "32/206 (no. 7028)" },
+  "teachers": [
+    { "id": "salamah-ibn-al-akwa", "name": "Salamah ibn al-Akwa', his patron", "nameAr": "سلمة بن الأكوع", "sigla": ["ع"], "source": "Tahdhib al-Kamal 32/206" },
+    { "name": "Umayr, mawla of Abi al-Lahm", "nameAr": "عمير مولى آبي اللحم", "sigla": ["م", "س"], "source": "Tahdhib al-Kamal 32/206" }
+  ],
+  "students": [
+    { "id": "abu-asim-al-nabil", "name": "Abu Asim al-Nabil, al-Dahhak ibn Makhlad", "nameAr": "أبو عاصم الضحاك بن مخلد", "sigla": ["خ", "م", "د"], "source": "Tahdhib al-Kamal 32/206" },
+    { "name": "al-Makki ibn Ibrahim al-Balkhi", "nameAr": "مكي بن إبراهيم البلخي", "sigla": ["خ", "م", "د"], "source": "Tahdhib al-Kamal 32/206" },
+    { "name": "Hatim ibn Isma'il", "nameAr": "حاتم بن إسماعيل", "sigla": ["خ", "م", "ت", "س"], "source": "Tahdhib al-Kamal 32/206" },
+    { "name": "Yahya ibn Sa'id al-Qattan", "nameAr": "يحيى بن سعيد القطان", "sigla": ["خ", "س"], "source": "Tahdhib al-Kamal 32/206" },
+    { "name": "Hammad ibn Mas'adah", "nameAr": "حماد بن مسعدة", "sigla": ["خ", "م"], "source": "Tahdhib al-Kamal 32/206" },
+    { "name": "Bukayr ibn Abdullah ibn al-Ashajj, who died before him", "nameAr": "بكير بن عبد الله بن الأشج", "sigla": ["خ", "م", "د", "ت", "س"], "source": "Tahdhib al-Kamal 32/206" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Abbas al-Duri; Ishaq ibn Mansur",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 9/280; Tahdhib al-Tahdhib 4/423",
+      "url": "https://shamela.ws/narrator/7044"
+    },
+    {
+      "critic": "Abu Dawud",
+      "criticDied": 275,
+      "via": "al-Ajurri",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 32/206",
+      "url": "https://shamela.ws/book/3722/17321"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "حجازي تابعي ثقة",
+      "en": "A Hijazi, a Successor, reliable.",
+      "source": "Tahdhib al-Tahdhib 4/423",
+      "url": "https://shamela.ws/narrator/7044"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "وكان ثقة كثير الحديث",
+      "en": "He was reliable and prolific.",
+      "source": "Tahdhib al-Tahdhib 4/423 (al-Tabaqat 9/227)",
+      "url": "https://shamela.ws/narrator/7044"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 32/207",
+      "url": "https://shamela.ws/book/3722/17322"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Taqrib al-Tahdhib, entry 7754",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء"
+    }
+  ],
+  "dhahabi": { "ar": "صدوق", "en": "Truthful.", "source": "al-Kashif 4/523" },
+  "bio": "The freed slave of the Companion Salamah ibn al-Akwa', a Madinan Successor whose whole importance lies in one link: he carried Salamah's hadith to the next generation, and because he lived into the 140s his students Abu Asim al-Nabil and al-Makki ibn Ibrahim lived long enough to teach al-Bukhari directly. That is why al-Bukhari's three-link chains from Salamah all pass through him; al-Nawawi notes it in his entry on Salamah. Known by his father's kunya; his own kunya was Abu Khalid.",
+  "provenance": [
+    { "field": "nameAr, kunya, mawla, teachers, students, deathVariants", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 32/206–207 (no. 7028), Shamela book 3722 pages 17321–17322" },
+    { "field": "taqrib, tabaqa, rumuz, died", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 7754" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 4/423, as collected on the Shamela narrator record 7044" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 4/523" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 7754 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/7044" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 32/206 (Shamela)", "url": "https://shamela.ws/book/3722/17321" },
+    { "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/229, entry on Salamah (Shamela)", "url": "https://shamela.ws/book/9702/229" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "habban-ibn-hilal",
+  "name": "Habban ibn Hilal",
+  "nameAr": "حبان بن هلال الباهلي، ويقال الكناني، أبو حبيب، البصري",
+  "short": "Habban ibn Hilal",
+  "shortAr": "حبان بن هلال",
+  "kunya": "Abu Habib",
+  "kunyaAr": "أبو حبيب",
+  "nisbas": [
+    {
+      "ar": "الباهلي",
+      "en": "al-Bahili",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكناني",
+      "en": "al-Kinani (alternative)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Hilal",
+  "orthography": {
+    "spelled": "Habban, with fathah on the ha' and a doubled ba'",
+    "homographs": [
+      "Hibban ibn Musa (with kasrah), who never met Hammam"
+    ],
+    "source": "Ibn Hajar, Hady al-Sari, ch. 7, on those named Habban; Taqrib al-Tahdhib, section on Habban with fathah"
+  },
+  "died": 216,
+  "diedNote": "216 AH (Taqrib); the Shamela record also gives 210",
+  "region": "Basra",
+  "tabaqa": 9,
+  "taqrib": {
+    "ar": "ثقة ثبت",
+    "en": "Reliable and firm.",
+    "number": "1069",
+    "rank": 2
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/1270"
+  },
+  "teachers": [
+    {
+      "id": "hammam-ibn-yahya",
+      "name": "Hammam ibn Yahya",
+      "nameAr": "همام بن يحيى",
+      "source": "Sahih al-Bukhari 4663; Sahih Muslim 2381"
+    }
+  ],
+  "students": [
+    {
+      "id": "abdullah-ibn-muhammad-al-musnadi",
+      "name": "Abdullah ibn Muhammad al-Musnadi",
+      "nameAr": "عبد الله بن محمد المسندي",
+      "source": "Sahih al-Bukhari 4663"
+    },
+    {
+      "name": "Zuhayr ibn Harb, Abd ibn Humayd and Abdullah ibn Abd al-Rahman al-Darimi",
+      "nameAr": "زهير بن حرب وعبد بن حميد والدارمي",
+      "source": "Sahih Muslim 2381"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Bakr Abdullah ibn Muhammad ibn al-Fadl al-Asadi",
+      "ar": "إليه المنتهى في التثبت بالبصرة",
+      "en": "With him ends the line of verification in Basra.",
+      "source": "Tahdhib al-Kamal 5/328",
+      "url": "https://shamela.ws/narrator/1270"
+    },
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ibn Abi Khaythamah",
+      "ar": "ثقة",
+      "en": "Reliable (so too al-Tirmidhi and al-Nasa'i).",
+      "source": "Tahdhib al-Kamal 5/328",
+      "url": "https://shamela.ws/narrator/1270"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة ثبتا حجة، وكان امتنع من التحديث قبل موته",
+      "en": "He was reliable, firm, a proof; he refrained from narrating before his death.",
+      "source": "Tahdhib al-Tahdhib 1/343",
+      "url": "https://shamela.ws/narrator/1270"
+    },
+    {
+      "critic": "al-Bazzar",
+      "criticDied": 292,
+      "ar": "ثقة مأمون على ما يحدث به",
+      "en": "Reliable, trustworthy in what he narrates.",
+      "source": "Tahdhib al-Tahdhib 1/343",
+      "url": "https://shamela.ws/narrator/1270"
+    },
+    {
+      "critic": "al-Khatib al-Baghdadi",
+      "criticDied": 463,
+      "ar": "وكان حبان ثقة ثبتا",
+      "en": "Habban was reliable and firm.",
+      "source": "al-Talkhis, as quoted in Ikmal Tahdhib al-Kamal 3/340",
+      "url": "https://shamela.ws/narrator/1270"
+    }
+  ],
+  "dhahabi": {
+    "ar": "حافظ",
+    "en": "A hadith master.",
+    "source": "al-Kashif, as given on the Shamela record"
+  },
+  "flags": [
+    {
+      "label": "Not Hibban ibn Musa",
+      "detail": "Ibn Hajar: “Habban narrated to us, Hammam narrated to us” is Habban with fathah, Ibn Hilal, not Hibban with kasrah, Ibn Musa, because the latter never met Hammam (Hady al-Sari, ch. 7). Muslim 2381 gives the full name."
+    }
+  ],
+  "bio": "The Basran whom Ahmad named as the end-point of verification in his city, and the most careful of the three students through whom al-Bukhari records the cave hadith from Hammam. His chain in 4663 says “narrated to us” at every link, where the other two routes say “from”. Muslim records the same hadith from him through three shaykhs.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 1069"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 1069"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 5/328; Tahdhib al-Tahdhib 1/343"
+    },
+    {
+      "field": "orthography",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 7"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 1069 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الحاء_المهملة/ذكر_من_اسمه_حبان_بالفتح_ثم_موحدة"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/1270"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 7: those named Habban (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/ذكر_من_اسمه_حبان_وغير_ذلك"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

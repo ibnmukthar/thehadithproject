@@ -1,0 +1,108 @@
+{
+  "id": "matar-ibn-al-fadl",
+  "name": "Matar ibn al-Fadl al-Marwazi",
+  "nameAr": "مطر بن الفضل المروزي",
+  "short": "Matar ibn al-Fadl",
+  "shortAr": "مطر بن الفضل",
+  "nisbas": [
+    {
+      "ar": "المروزي",
+      "en": "al-Marwazi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "al-Fadl",
+  "died": 250,
+  "diedNote": "after 250 AH: al-Firabri said “he died among us”, that is, in Firabr (Taqrib)",
+  "region": "Marw",
+  "tabaqa": 11,
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "6702",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Teacher of al-Bukhari",
+  "rumuz": [
+    "خ"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/6182"
+  },
+  "teachers": [
+    {
+      "id": "yazid-ibn-harun",
+      "name": "Yazid ibn Harun",
+      "nameAr": "يزيد بن هارون",
+      "source": "Sahih al-Bukhari 2996"
+    }
+  ],
+  "students": [
+    {
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "source": "Sahih al-Bukhari 2996"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "مستقيم الحديث",
+      "en": "Listed in al-Thiqat: his hadith is straight.",
+      "source": "al-Thiqat 9/189; Tahdhib al-Kamal 28/57",
+      "url": "https://shamela.ws/narrator/6182"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Taqrib al-Tahdhib, entry 6702",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_بقية_حرف_الميم_على_الترتيب"
+    }
+  ],
+  "dhahabi": {
+    "ar": "وثق",
+    "en": "Declared reliable.",
+    "source": "al-Kashif, as given on the Shamela record"
+  },
+  "bio": "A Marwazi shaykh of al-Bukhari used by no other compiler of the six books. He is one of the two Marwazis of the Sahih about whom little is recorded beyond Ibn Hibban's listing and al-Firabri's note on his death in Firabr, which places him in the last generation of al-Bukhari's teachers.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 6702"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 6702, quoting al-Firabri"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 28/57"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 6702 (خ)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 6702 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_بقية_حرف_الميم_على_الترتيب"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6182"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

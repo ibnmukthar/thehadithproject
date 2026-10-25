@@ -1,0 +1,164 @@
+{
+  "id": "thabit-al-bunani",
+  "name": "Thabit ibn Aslam al-Bunani",
+  "nameAr": "ثابت بن أسلم البناني، أبو محمد، البصري",
+  "short": "Thabit al-Bunani",
+  "shortAr": "ثابت البناني",
+  "kunya": "Abu Muhammad",
+  "kunyaAr": "أبو محمد",
+  "nisbas": [
+    {
+      "ar": "البناني",
+      "en": "al-Bunani",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Aslam",
+  "orthography": {
+    "spelled": "al-Bunani, with dammah on the ba' and two light nuns",
+    "source": "Taqrib al-Tahdhib, entry 810"
+  },
+  "died": 123,
+  "diedNote": "“twenty-odd” after 100 AH, aged 86 (Taqrib); 122, 123, 126, 127 and 129 are given (Shamela record)",
+  "region": "Basra",
+  "tabaqa": 4,
+  "taqrib": {
+    "ar": "ثقة عابد",
+    "en": "Reliable, devout.",
+    "number": "810",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/1041"
+  },
+  "teachers": [
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Sahih al-Bukhari 4663; Ibn Hibban: he kept Anas's company for forty years"
+    }
+  ],
+  "students": [
+    {
+      "id": "hammam-ibn-yahya",
+      "name": "Hammam ibn Yahya",
+      "nameAr": "همام بن يحيى",
+      "source": "Sahih al-Bukhari 4663"
+    },
+    {
+      "name": "Ja'far ibn Sulayman al-Duba'i",
+      "nameAr": "جعفر بن سليمان",
+      "source": "Ibn Shahin, al-Afrad, as cited in Fath al-Bari on 3653"
+    },
+    {
+      "id": "hammad-ibn-zayd",
+      "name": "Hammad ibn Zayd",
+      "nameAr": "حماد بن زيد",
+      "source": "Sahih al-Bukhari 200 (Hammad ibn Zayd, from Thabit, from Anas)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "via": "Abu Talib",
+      "ar": "ثابت يتثبت في الحديث",
+      "en": "Asked whether Thabit or Qatadah is firmer: Thabit is careful in hadith.",
+      "source": "Tahdhib al-Tahdhib 1/262",
+      "url": "https://shamela.ws/narrator/1041"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "أثبت أصحاب أنس الزهري، ثم ثابت، ثم قتادة",
+      "en": "The firmest of Anas's students is al-Zuhri, then Thabit, then Qatadah.",
+      "source": "Tahdhib al-Kamal 4/342",
+      "url": "https://shamela.ws/narrator/1041"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 4/342",
+      "url": "https://shamela.ws/narrator/1041"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "ثقة رجل صالح",
+      "en": "Reliable, a righteous man.",
+      "source": "Tahdhib al-Tahdhib 1/262",
+      "url": "https://shamela.ws/narrator/1041"
+    },
+    {
+      "critic": "Ibn Sa'd",
+      "criticDied": 230,
+      "ar": "كان ثقة مأمونا",
+      "en": "He was reliable and trustworthy.",
+      "source": "Tahdhib al-Tahdhib 1/262",
+      "url": "https://shamela.ws/narrator/1041"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "ar": "كان من أعبد أهل البصرة، وصحب أنسا أربعين سنة",
+      "en": "He was among the most devout of the people of Basra, and kept Anas's company for forty years.",
+      "source": "al-Thiqat, as quoted in Ikmal Tahdhib al-Kamal 3/63",
+      "url": "https://shamela.ws/narrator/1041"
+    }
+  ],
+  "dhahabi": {
+    "ar": "كان رأسا في العلم والعمل",
+    "en": "He was a leader in knowledge and in practice.",
+    "source": "al-Kashif, as given on the Shamela record"
+  },
+  "flags": [
+    {
+      "label": "Named only “Thabit” in hadith 4663",
+      "detail": "Other Successors named Thabit narrate from Anas, but the Basran who narrates from Anas to Hammam and whom Abu Hatim ranks second among Anas's students is al-Bunani, Anas's companion of forty years."
+    }
+  ],
+  "bio": "The Basran ascetic who sat with Anas for forty years and became, after al-Zuhri, the most trusted channel of his hadith. He is one of the four consecutive Basrans in the cave hadith, and the only link in it from whom the report's single transmitter, Hammam, took it.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 810"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 810"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 4/342; Tahdhib al-Tahdhib 1/262"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 810 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الثاء_المثلثة"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/1041"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

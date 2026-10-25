@@ -1,0 +1,203 @@
+{
+  "id": "salamah-ibn-al-akwa",
+  "name": "Salamah ibn al-Akwa'",
+  "nameAr": "سلمة بن عمرو بن الأكوع الأسلمي رضي الله عنه، واسم الأكوع سنان بن عبد الله",
+  "short": "Salamah ibn al-Akwa'",
+  "shortAr": "سلمة بن الأكوع",
+  "kunya": "Abu Muslim",
+  "kunyaAr": "أبو مسلم",
+  "kunyaVariants": [
+    "Abu Iyas",
+    "Abu Amir"
+  ],
+  "nisbas": [
+    {
+      "ar": "الأسلمي",
+      "en": "al-Aslami (of Aslam, of Khuza'ah)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المدني",
+      "en": "al-Madani",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Amr",
+  "died": 74,
+  "diedNote": "Died in Madinah in 74 AH aged eighty (Yahya ibn Bukayr and others; al-Nawawi). A report of 64 is rejected by Mughaltay because Salamah accepted a gift from al-Hajjaj, who governed later.",
+  "deathVariants": [
+    {
+      "year": 74,
+      "authority": "Yahya ibn Bukayr and others; Ibn Hajar, Taqrib; al-Nawawi",
+      "source": "Tahdhib al-Kamal 11/302; Taqrib 2503; Tahdhib al-Asma' 1/229"
+    },
+    {
+      "year": 64,
+      "authority": "a report Mughaltay rejects",
+      "source": "Ikmal Tahdhib al-Kamal 6/17 (via Shamela narrator record)"
+    }
+  ],
+  "region": "Madinah, then al-Rabadhah",
+  "residence": [
+    "Madinah",
+    "al-Rabadhah"
+  ],
+  "tabaqa": 1,
+  "taqrib": {
+    "ar": "شهد بيعة الرضوان، مات سنة أربع وسبعين",
+    "en": "Was present at the pledge of al-Ridwan; died in 74.",
+    "number": "2503"
+  },
+  "band": "sahabi",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "2534",
+    "tahdhibKamal": "11/301 (no. 2462)"
+  },
+  "teachers": [
+    {
+      "name": "the Prophet ﷺ",
+      "nameAr": "النبي صلى الله عليه وسلم",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 11/302"
+    },
+    {
+      "name": "Talhah ibn Ubaydullah",
+      "nameAr": "طلحة بن عبيد الله",
+      "source": "Tahdhib al-Kamal 11/302"
+    },
+    {
+      "name": "Abu Bakr al-Siddiq",
+      "nameAr": "أبو بكر الصديق",
+      "source": "Tahdhib al-Kamal 11/302"
+    },
+    {
+      "name": "Uthman ibn Affan",
+      "nameAr": "عثمان بن عفان",
+      "sigla": [
+        "تم"
+      ],
+      "source": "Tahdhib al-Kamal 11/302"
+    },
+    {
+      "name": "Umar ibn al-Khattab",
+      "nameAr": "عمر بن الخطاب",
+      "source": "Tahdhib al-Kamal 11/302"
+    }
+  ],
+  "students": [
+    {
+      "name": "Iyas ibn Salamah, his son",
+      "nameAr": "إياس بن سلمة",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 11/302"
+    },
+    {
+      "id": "yazid-ibn-abi-ubayd",
+      "name": "Yazid ibn Abi Ubayd, his freed slave",
+      "nameAr": "يزيد بن أبي عبيد",
+      "sigla": [
+        "ع"
+      ],
+      "source": "Tahdhib al-Kamal 11/302"
+    },
+    {
+      "name": "Yazid ibn Khusayfah",
+      "nameAr": "يزيد بن خصيفة",
+      "source": "Tahdhib al-Kamal 11/302; al-Jarh wa al-Ta'dil 4/166"
+    },
+    {
+      "name": "al-Hasan ibn Muhammad ibn al-Hanafiyyah",
+      "nameAr": "الحسن بن محمد بن الحنفية",
+      "sigla": [
+        "خ",
+        "م"
+      ],
+      "source": "Tahdhib al-Kamal 11/302"
+    },
+    {
+      "name": "Abu Salamah ibn Abd al-Rahman",
+      "nameAr": "أبو سلمة بن عبد الرحمن",
+      "source": "Tahdhib al-Kamal 11/302; al-Nawawi, Tahdhib al-Asma' 1/229"
+    }
+  ],
+  "verdicts": [],
+  "companionCounts": {
+    "total": 77,
+    "agreed": 16,
+    "bukhariOnly": 5,
+    "muslimOnly": 9,
+    "inBukhari": 20,
+    "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 148, and al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/229 (77 in all; 16 agreed; 5 al-Bukhari alone; 9 Muslim alone); Ibn Hajar, Hady al-Sari, fasl 10, the count for each Companion (20 in al-Bukhari, including repetitions)"
+  },
+  "flags": [
+    {
+      "label": "Kunya variants",
+      "detail": "Abu Muslim, or Abu Iyas, or Abu Amir (Taqrib; Tahdhib al-Kamal); al-Askari also gives Abu Abdullah (via Shamela)."
+    }
+  ],
+  "bio": "A Companion of Aslam who took the pledge of al-Ridwan at al-Hudaybiyah, pledging three times, at the front, the middle and the end of the people (al-Nawawi). He fought seven expeditions with the Prophet ﷺ, was a brave and skilled archer and is said to have outrun horses on foot; the Sahih records the Prophet's words at Dhu Qarad, \"the best of our foot-soldiers is Salamah ibn al-Akwa'\". He lived in Madinah, moved to al-Rabadhah after the killing of Uthman, married and had children there, and returned to Madinah a few nights before his death in 74 AH. He is the Companion of al-Bukhari's three-link chains: his freed slave Yazid ibn Abi Ubayd carried his hadith to al-Makki ibn Ibrahim and Abu Asim al-Nabil, both teachers of al-Bukhari.",
+  "provenance": [
+    {
+      "field": "nameAr, kunya, kunyaVariants, teachers, students, died",
+      "layer": "tahdhib-kamal",
+      "ref": "Tahdhib al-Kamal 11/301–302 (no. 2462), Shamela book 3722 pages 5622–5623"
+    },
+    {
+      "field": "taqrib, tabaqa, rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 2503"
+    },
+    {
+      "field": "companionCounts (total and Sahihayn split), bio",
+      "layer": "modern",
+      "ref": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/229"
+    },
+    {
+      "field": "companionCounts.inBukhari",
+      "layer": "specialist",
+      "ref": "Ibn Hajar, Hady al-Sari, fasl 10"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 148, Shamela book 5858 (also: Yazid ibn Abi Ubayd was the last to narrate from him)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2503 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_السين_المهملة/ذكر_من_اسمه_سعيد_(إلى_آخر_حرف_السين)"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2534"
+    },
+    {
+      "label": "al-Mizzi, Tahdhib al-Kamal 11/301 (Shamela)",
+      "url": "https://shamela.ws/book/3722/5622"
+    },
+    {
+      "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/229 (Shamela)",
+      "url": "https://shamela.ws/book/9702/229"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal p. 148 (Shamela)",
+      "url": "https://shamela.ws/book/5858/148"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, fasl 10: the count for each Companion (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_العاشر/ذكر_عدة_ما_لكل_صحابي_في_صحيح_البخاري"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

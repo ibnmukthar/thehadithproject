@@ -1,0 +1,169 @@
+{
+  "id": "muhammad-ibn-bashshar",
+  "name": "Muhammad ibn Bashshar, Bundar",
+  "nameAr": "محمد بن بشار بن عثمان العبدي البصري، أبو بكر، بندار",
+  "short": "Bundar",
+  "shortAr": "بندار",
+  "kunya": "Abu Bakr",
+  "kunyaAr": "أبو بكر",
+  "laqab": {
+    "ar": "بندار",
+    "en": "Bundar"
+  },
+  "nisbas": [
+    {
+      "ar": "العبدي",
+      "en": "al-Abdi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Bashshar",
+  "born": 167,
+  "bornNote": "167 AH (Shamela record)",
+  "died": 252,
+  "diedNote": "252 AH, aged eighty-odd (Taqrib)",
+  "region": "Basra",
+  "tabaqa": 10,
+  "taqrib": {
+    "ar": "ثقة",
+    "en": "Reliable.",
+    "number": "5754",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Teacher of all six compilers",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/5509"
+  },
+  "teachers": [
+    {
+      "id": "muhammad-ibn-jafar-ghundar",
+      "name": "Muhammad ibn Ja'far, Ghundar",
+      "nameAr": "غندر",
+      "source": "Sahih al-Bukhari 3126; Sahih Muslim 1904a"
+    }
+  ],
+  "students": [
+    {
+      "name": "al-Bukhari",
+      "nameAr": "البخاري",
+      "source": "Sahih al-Bukhari 3126"
+    },
+    {
+      "name": "Muslim ibn al-Hajjaj",
+      "nameAr": "مسلم",
+      "source": "Sahih Muslim 44b, 1904a"
+    },
+    {
+      "name": "Ibn Majah",
+      "nameAr": "ابن ماجه",
+      "source": "Sunan Ibn Majah 67"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "Tahdhib al-Tahdhib 3/519",
+      "url": "https://shamela.ws/narrator/5509"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "صالح لا بأس به",
+      "en": "Acceptable; there is no harm in him.",
+      "source": "Tahdhib al-Kamal 24/511",
+      "url": "https://shamela.ws/narrator/5509"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "بصري ثقة كثير الحديث",
+      "en": "A Basran, reliable, with many hadith.",
+      "source": "Tahdhib al-Tahdhib 3/519",
+      "url": "https://shamela.ws/narrator/5509"
+    },
+    {
+      "critic": "Ibn Khuzaymah",
+      "criticDied": 311,
+      "ar": "حدثنا إمام أهل زمانه محمد بن بشار",
+      "en": "“The imam of the people of his age, Muhammad ibn Bashshar, narrated to us” (in Kitab al-Tawhid).",
+      "source": "Tahdhib al-Tahdhib 3/519",
+      "url": "https://shamela.ws/narrator/5509"
+    },
+    {
+      "critic": "al-Dhahabi",
+      "criticDied": 748,
+      "ar": "لم يرحل ففاته كبار، واقتنع بعلماء البصرة، أرجو أنه لا بأس به",
+      "en": "He did not travel, so he missed the senior shaykhs and contented himself with the scholars of Basra; I hope there is no harm in him.",
+      "source": "Tahdhib al-Tahdhib 3/519",
+      "url": "https://shamela.ws/narrator/5509"
+    }
+  ],
+  "flags": [
+    {
+      "label": "Abu Dawud's reservation",
+      "detail": "Al-Dhahabi records Abu Dawud as saying “I wrote fifty thousand hadith from him, and were it not for his simplicity I would have left his hadith”, and answers: “more than one declared him reliable” (al-Kashif, as given on the Shamela record). All six compilers took directly from him."
+    },
+    {
+      "label": "The 252 AH cohort",
+      "detail": "Ibn Hajar writes of Muhammad ibn al-Muthanna al-Zaman and Bundar that “the two were like a pair of racehorses, and they died in the same year”, 252 AH (Taqrib, entry 6264). Ya'qub ibn Ibrahim al-Dawraqi, al-Bukhari's shaykh in hadith 15, also died in 252 and was also a teacher of all six."
+    }
+  ],
+  "bio": "The Basran who gathered the hadith of his city and taught it to every one of the six compilers; Ibn Khuzaymah called him the imam of his age. He never travelled, which al-Dhahabi notes cost him the senior shaykhs, but his Basran material, above all Ghundar's copy of Shu'bah, made him indispensable. Known everywhere by the laqab Bundar.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5754"
+    },
+    {
+      "field": "born",
+      "layer": "modern",
+      "ref": "Shamela narrator record 5509"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 5754"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 3/519; Tahdhib al-Kamal 24/511"
+    },
+    {
+      "field": "laqab",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 7, section on those mentioned by laqab"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 5754 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الميم/ذكر_من_اسمه_محمد_على_ترتيب_الحروف_في_آبائهم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/5509"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 7: those mentioned by a laqab (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/الفصل_الرابع_فيمن_يذكر_بلقب_ونحوه"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

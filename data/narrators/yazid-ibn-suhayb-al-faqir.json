@@ -1,0 +1,119 @@
+{
+  "id": "yazid-ibn-suhayb-al-faqir",
+  "name": "Yazid ibn Suhayb al-Faqir",
+  "nameAr": "يزيد بن صهيب الكوفي، أبو عثمان، المعروف بالفقير",
+  "short": "Yazid al-Faqir",
+  "shortAr": "يزيد الفقير",
+  "kunya": "Abu Uthman",
+  "kunyaAr": "أبو عثمان",
+  "laqab": { "ar": "الفقير", "en": "al-Faqir: so called because he complained of the vertebrae (faqar) of his back, not because he was poor" },
+  "nisbas": [
+    { "ar": "الكوفي", "en": "al-Kufi", "kind": "geographic" }
+  ],
+  "fatherName": "Suhayb",
+  "died": null,
+  "diedNote": "The Taqrib gives no year. The Shamela record places his death between 101 and 110 AH; not verified in a primary source here.",
+  "region": "Kufa",
+  "tabaqa": 4,
+  "taqrib": {
+    "ar": "المعروف بالفقير بفتح الفاء بعدها قاف، قيل له ذلك لأنه كان يشكو فقار ظهره، ثقة",
+    "en": "Known as al-Faqir, with fathah on the fa' then qaf, so called because he complained of the vertebrae of his back; reliable.",
+    "number": "7733",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "rumuz": ["خ", "م", "د", "س", "ق"],
+  "external": { "shamela": "7084", "tahdhibKamal": "32/163" },
+  "teachers": [
+    { "id": "jabir-ibn-abdullah", "name": "Jabir ibn Abdullah", "nameAr": "جابر بن عبد الله", "sigla": ["خ", "م", "د", "س", "ق"], "source": "Tahdhib al-Kamal 32/164" },
+    { "name": "Abdullah ibn Umar ibn al-Khattab", "nameAr": "عبد الله بن عمر", "source": "Tahdhib al-Kamal 32/164" },
+    { "name": "Abu Sa'id al-Khudri", "nameAr": "أبو سعيد الخدري", "source": "Tahdhib al-Kamal 32/164" }
+  ],
+  "students": [
+    { "id": "sayyar-abu-al-hakam", "name": "Sayyar Abu al-Hakam", "nameAr": "سيار أبو الحكم", "sigla": ["خ", "م", "س"], "source": "Tahdhib al-Kamal 32/164" },
+    { "name": "Sulayman al-A'mash", "nameAr": "سليمان الأعمش", "source": "Tahdhib al-Kamal 32/164" },
+    { "name": "al-Hakam ibn Utaybah", "nameAr": "الحكم بن عتيبة", "sigla": ["س"], "source": "Tahdhib al-Kamal 32/164" },
+    { "name": "Qays ibn Sulaym al-Anbari", "nameAr": "قيس بن سليم العنبري", "sigla": ["م"], "source": "Tahdhib al-Kamal 32/164" },
+    { "name": "Abu Asim Muhammad ibn Abi Ayyub al-Thaqafi", "nameAr": "محمد بن أبي أيوب الثقفي", "source": "Tahdhib al-Kamal 32/164" }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ishaq ibn Mansur",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil 9/272; Tahdhib al-Kamal 32/163",
+      "url": "https://shamela.ws/narrator/7084"
+    },
+    {
+      "critic": "Abu Zur'ah al-Razi",
+      "criticDied": 264,
+      "ar": "هو يزيد بن صهيب، كوفي ثقة",
+      "en": "He is Yazid ibn Suhayb, a Kufan, reliable.",
+      "source": "al-Jarh wa al-Ta'dil 9/272",
+      "url": "https://shamela.ws/narrator/7084"
+    },
+    {
+      "critic": "Abu Hatim al-Razi",
+      "criticDied": 277,
+      "ar": "صدوق",
+      "en": "Truthful.",
+      "source": "al-Jarh wa al-Ta'dil 9/272; Tahdhib al-Kamal 32/163",
+      "url": "https://shamela.ws/narrator/7084"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "Tahdhib al-Kamal 32/163; Tahdhib al-Tahdhib 4/418",
+      "url": "https://shamela.ws/narrator/7084"
+    },
+    {
+      "critic": "Ibn Khirash",
+      "criticDied": 283,
+      "ar": "جليل، صدوق، عزيز الحديث",
+      "en": "Eminent, truthful, his hadith scarce.",
+      "source": "Tahdhib al-Kamal 32/163; Tahdhib al-Tahdhib 4/418",
+      "url": "https://shamela.ws/narrator/7084"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Kamal 32/163",
+      "url": "https://shamela.ws/narrator/7084"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "هو ابن صهيب يكنى أبا عثمان، تابعي مشهور، قيل له الفقير لأنه كان يشكو فقار ظهره ولم يكن فقيرا من المال",
+      "en": "He is Ibn Suhayb, kunya Abu Uthman, a well-known Successor; called al-Faqir because he complained of the vertebrae of his back, not because he lacked money.",
+      "source": "Fath al-Bari 1/436, on hadith 335",
+      "url": "https://shamela.ws/book/1673/922"
+    }
+  ],
+  "dhahabi": { "ar": "ثقة", "en": "Reliable.", "source": "al-Kashif 4/517" },
+  "flags": [
+    { "label": "Misleading laqab", "detail": "Al-Faqir looks like \"the poor man\" but refers to a back complaint (faqar al-zahr), as Ibn Hajar explains from the Muhkam: a man whose back vertebrae are broken is called faqir (Fath 1/436; Taqrib 7733)." },
+    { "label": "Former Kharijite view, recanted", "detail": "The Shamela record notes that he held a Kharijite opinion and then abandoned it; the story is his own account in Sahih Muslim's hadith on intercession, where his meeting with Jabir changed his mind. Not re-verified against Muslim here." },
+    { "label": "Identified in the isnad", "detail": "Al-Bukhari (or his teacher) glosses the bare name in the chain of 335: \"Yazid, that is Ibn Suhayb al-Faqir\"; in 438 and 3122 he appears as Yazid al-Faqir." }
+  ],
+  "bio": "A Kufan Successor who heard Jabir ibn Abdullah, Ibn Umar and Abu Sa'id; his nickname al-Faqir has nothing to do with poverty and everything to do with a bad back. Few hadith are transmitted from him (Ibn Khirash: \"his hadith scarce\"), but the Jabir hadith of the five gifts passes through him to Sayyar and Hushaym in al-Bukhari, Muslim and al-Nasa'i. Al-Tirmidhi alone of the six did not use him.",
+  "provenance": [
+    { "field": "nameAr, teachers, students", "layer": "tahdhib-kamal", "ref": "Tahdhib al-Kamal 32/163–164, Shamela book 3722 pages 17278–17279" },
+    { "field": "taqrib, tabaqa, rumuz, laqab", "layer": "taqrib", "ref": "Taqrib al-Tahdhib 7733" },
+    { "field": "verdicts", "layer": "tahdhib-tahdhib", "ref": "Tahdhib al-Tahdhib 4/418 and al-Jarh wa al-Ta'dil 9/272, as collected on the Shamela narrator record 7084" },
+    { "field": "laqab explanation", "layer": "specialist", "ref": "Ibn Hajar, Fath al-Bari 1/436" },
+    { "field": "dhahabi", "layer": "kashif", "ref": "al-Kashif 4/517" },
+    { "field": "died (range), Kharijite note", "layer": "modern", "ref": "Shamela narrator record 7084 summary fields; unverified" }
+  ],
+  "sources": [
+    { "label": "Taqrib al-Tahdhib, entry 7733 (Wikisource)", "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الياء" },
+    { "label": "Narrator record (Shamela)", "url": "https://shamela.ws/narrator/7084" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 32/163 (Shamela)", "url": "https://shamela.ws/book/3722/17278" },
+    { "label": "Ibn Hajar, Fath al-Bari 1/436 on hadith 335 (Shamela)", "url": "https://shamela.ws/book/1673/922" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

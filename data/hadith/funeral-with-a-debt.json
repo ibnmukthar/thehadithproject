@@ -1,0 +1,321 @@
+{
+  "slug": "funeral-with-a-debt",
+  "title": "The funeral with a debt",
+  "titleAr": "هل عليه من دين؟ صلوا على صاحبكم",
+  "takeaway": "Two funerals are brought to the Prophet ﷺ. Before praying over each he asks one question: did the man die owing anything? The first did not, and he leads the prayer. The second did, and he tells the people to pray over their companion themselves, until Abu Qatadah takes the debt on himself; then the Prophet prays. A debt left unpaid is serious enough to change what the Prophet would do at a graveside, and a guarantee, once given, settles it.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Recorded by al-Bukhari in two places through two three-link chains; the Salamah narration is not in Muslim, who has the Abu Hurayrah version of the same practice. Al-Tirmidhi grades the Abu Qatadah version hasan sahih."
+  },
+  "primary": {
+    "cite": "bukhari:2295",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "2295",
+    "bookChapter": "Book of Guarantees (Kafalah), chapter 3: whoever guarantees a debt on behalf of a deceased person may not retract; al-Hasan held the same",
+    "chain": ["al-bukhari", "abu-asim-al-nabil", "yazid-ibn-abi-ubayd", "salamah-ibn-al-akwa"],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "salamah-ibn-al-akwa",
+        "sighaAr": "أن النبي ﷺ أُتي بجنازة",
+        "sighaEn": "that the Prophet ﷺ was brought a funeral",
+        "kind": "an",
+        "note": "A Companion reporting an event he witnessed; the form \"anna\" is treated like \"from\" and raises no question for a Companion. In 2289 Salamah says \"we were sitting with the Prophet ﷺ\"."
+      },
+      {
+        "from": "salamah-ibn-al-akwa",
+        "to": "yazid-ibn-abi-ubayd",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "Yazid was Salamah's freed slave and constant companion; in 2289 and in al-Nasa'i 1961 the same link reads \"narrated to us\"."
+      },
+      {
+        "from": "yazid-ibn-abi-ubayd",
+        "to": "abu-asim-al-nabil",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "Abu Asim swore he never once used \"from\" to hide a gap: \"everything I narrated to you they narrated to me\" (Tahdhib al-Kamal 13/286)."
+      },
+      {
+        "from": "abu-asim-al-nabil",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ ـ رضى الله عنه ـ",
+    "matnAr": "أَنَّ النَّبِيَّ صلى الله عليه وسلم أُتِيَ بِجَنَازَةٍ، لِيُصَلِّيَ عَلَيْهَا، فَقَالَ: هَلْ عَلَيْهِ مِنْ دَيْنٍ؟ قَالُوا: لاَ. فَصَلَّى عَلَيْهِ، ثُمَّ أُتِيَ بِجَنَازَةٍ أُخْرَى، فَقَالَ: هَلْ عَلَيْهِ مِنْ دَيْنٍ؟ قَالُوا: نَعَمْ. قَالَ: صَلُّوا عَلَى صَاحِبِكُمْ. قَالَ أَبُو قَتَادَةَ: عَلَيَّ دَيْنُهُ يَا رَسُولَ اللَّهِ. فَصَلَّى عَلَيْهِ",
+    "matnEn": "The Prophet ﷺ was brought a funeral to pray over. He asked, \"Does he owe any debt?\" They said no, and he prayed over him. Then another funeral was brought, and he asked, \"Does he owe any debt?\" They said yes. He said, \"Pray over your companion.\" Abu Qatadah said, \"His debt is on me, Messenger of God.\" So he prayed over him.",
+    "url": "https://sunnah.com/bukhari:2295"
+  },
+  "also": [
+    {
+      "cite": "bukhari:2289",
+      "label": "Sahih al-Bukhari 2289",
+      "note": "Book of Transference of Debt (Hawalah), chapter: if the debt of a deceased person is transferred to a man, it is valid. The fuller version of the same event.",
+      "url": "https://sunnah.com/bukhari:2289",
+      "chainNote": "al-Makki ibn Ibrahim (\"narrated to us\") → Yazid ibn Abi Ubayd (\"narrated to us\") → Salamah (\"from\"). Also a three-link chain, through al-Bukhari's other shaykh from Yazid.",
+      "wordingNote": "Salamah's own voice: \"we were sitting with the Prophet ﷺ when a funeral was brought\"; three funerals, not two; the added question \"did he leave anything?\"; \"three dinars\" for both the second man's estate and the third man's debt; and Abu Qatadah's words \"pray over him, Messenger of God, and his debt is on me\". Ibn Hajar: al-Bukhari's 2295 keeps two of the three dead men and al-Isma'ili carries it in full."
+    },
+    {
+      "cite": "nasai:1961",
+      "label": "Sunan al-Nasa'i 1961",
+      "note": "Book of Funerals: the prayer over one who owes a debt.",
+      "url": "https://sunnah.com/nasai:1961",
+      "chainNote": "Amr ibn Ali and Muhammad ibn al-Muthanna → Yahya (al-Qattan) → Yazid ibn Abi Ubayd (\"narrated to us\") → Salamah (\"narrated to us\"). Explicit hearing at every link below Yazid.",
+      "wordingNote": "\"O Prophet of God, pray over him\"; \"did he leave a debt?\" \"Yes.\" \"Did he leave anything?\" \"No.\"; and the guarantor is introduced as \"a man of the Ansar called Abu Qatadah\"."
+    },
+    {
+      "cite": "tirmidhi:1069",
+      "label": "Jami' al-Tirmidhi 1069",
+      "note": "Abu Qatadah's own narration of the event; al-Tirmidhi: hasan sahih, and \"on this subject there are reports from Jabir, Salamah ibn al-Akwa' and Asma' bint Yazid\".",
+      "url": "https://sunnah.com/tirmidhi:1069",
+      "chainNote": "Mahmud ibn Ghaylan → Abu Dawud al-Tayalisi → Shu'bah → Uthman ibn Abdullah ibn Mawhab → Abdullah ibn Abi Qatadah → his father. The same chain in al-Nasa'i 1960 and, through Bundar and Abu Amir, Ibn Majah 2407.",
+      "wordingNote": "\"Pray over your companion, for he owes a debt.\" Abu Qatadah: \"It is on me.\" The Prophet: \"With full payment?\" \"With full payment.\" Ibn Majah adds that the debt was eighteen or nineteen dirhams."
+    },
+    {
+      "cite": "nasai:1960",
+      "label": "Sunan al-Nasa'i 1960",
+      "note": "Abu Qatadah's narration; the deceased is \"a man of the Ansar\".",
+      "url": "https://sunnah.com/nasai:1960",
+      "chainNote": "Same chain as al-Tirmidhi 1069."
+    },
+    {
+      "cite": "ibnmajah:2407",
+      "label": "Sunan Ibn Majah 2407",
+      "note": "Abu Qatadah's narration; \"I will guarantee it\"; eighteen or nineteen dirhams.",
+      "url": "https://sunnah.com/ibnmajah:2407",
+      "chainNote": "Muhammad ibn Bashshar → Abu Amir al-Aqadi → Shu'bah, then as al-Tirmidhi."
+    },
+    {
+      "cite": "abudawud:3343",
+      "label": "Sunan Abi Dawud 3343",
+      "note": "Jabir's narration, with the later ruling.",
+      "url": "https://sunnah.com/abudawud:3343",
+      "chainNote": "Muhammad ibn al-Mutawakkil → Abd al-Razzaq → Ma'mar → al-Zuhri → Abu Salamah → Jabir. The same chain in al-Nasa'i 1962 through Nuh ibn Habib.",
+      "wordingNote": "The Prophet would not pray over a man who died in debt; here the debt is \"two dinars\" and Abu Qatadah al-Ansari takes both; then, after God granted the conquests: \"I am closer to every believer than his own self; whoever leaves a debt, its payment is on me, and whoever leaves wealth, it is for his heirs.\""
+    },
+    {
+      "cite": "nasai:1962",
+      "label": "Sunan al-Nasa'i 1962",
+      "note": "Jabir's narration, as Abu Dawud.",
+      "url": "https://sunnah.com/nasai:1962"
+    },
+    {
+      "cite": "bukhari:2298",
+      "label": "Sahih al-Bukhari 2298",
+      "note": "Abu Hurayrah's narration of the practice and of its abrogation, in the same Book of Guarantees four chapters on; repeated in 5371 and 6731.",
+      "url": "https://sunnah.com/bukhari:2298",
+      "chainNote": "Yahya ibn Bukayr → al-Layth → Uqayl → Ibn Shihab → Abu Salamah → Abu Hurayrah.",
+      "wordingNote": "\"When a dead man with a debt was brought he would ask: has he left enough to pay it? If told he had, he prayed; otherwise he told the Muslims: pray over your companion. When God granted him the conquests he said: I am closer to the believers than their own selves; whoever of the believers dies leaving a debt, its payment is on me.\" Ibn Hajar refers the reader here for the reason behind the question in Salamah's hadith."
+    },
+    {
+      "cite": "muslim:1619",
+      "label": "Sahih Muslim 1619",
+      "note": "Abu Hurayrah's narration, Book of Inheritance. Muslim does not have Salamah's narration.",
+      "url": "https://sunnah.com/muslim:1619"
+    },
+    {
+      "cite": "tirmidhi:1070",
+      "label": "Jami' al-Tirmidhi 1070",
+      "note": "Abu Hurayrah's narration; also al-Nasa'i 1963 and Ibn Majah 2415.",
+      "url": "https://sunnah.com/tirmidhi:1070"
+    },
+    {
+      "cite": "hakim:jabir",
+      "label": "al-Hakim, al-Mustadrak (Jabir)",
+      "note": "Number not confirmed. Cited by Ibn Hajar, Fath al-Bari 4/467–468: Jabir's fuller account, in which the Prophet asks Abu Qatadah \"they are on you and in your property, and the dead man is clear of them?\", then asks him whenever they meet \"what became of the two dinars?\" until he pays, and says \"now you have cooled his skin\".",
+      "wordingNote": "Two dinars; the dead man was washed, shrouded and laid where the funerals are laid by the station of Jibril."
+    },
+    {
+      "cite": "daraqutni:ali",
+      "label": "al-Daraqutni, al-Sunan (Ali)",
+      "note": "Number not confirmed. Cited by Ibn Hajar, Fath al-Bari 4/468, as a second occurrence of the same scene with Ali as the guarantor of two dinars: \"may God reward you and release your pledge.\""
+    },
+    {
+      "cite": "tabarani:asma",
+      "label": "al-Tabarani, al-Mu'jam al-Kabir (Asma' bint Yazid)",
+      "note": "Number not confirmed. Cited by Ibn Hajar, Fath al-Bari 4/467–468, with \"two dinars\"; al-Tirmidhi lists Asma' among the Companions who report the event. The class notes add al-Haythami's grading \"its narrators are trustworthy\" (Majma' al-Zawa'id); not verified here."
+    },
+    {
+      "cite": "ahmad:jabir",
+      "label": "Musnad Ahmad and al-Bazzar (Jabir)",
+      "note": "Numbers not confirmed. The class notes cite al-Mundhiri (al-Targhib) and al-Haythami (Majma' al-Zawa'id) for the longer Jabir narration and its grading; none of this was verified here and it awaits a reviewer."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 2289, 2295",
+      "reason": "Recorded twice, under Hawalah and under Kafalah, through two separate three-link chains from Yazid ibn Abi Ubayd (al-Makki ibn Ibrahim; Abu Asim al-Nabil). Inclusion in the Sahih is itself a grade: every narrator meets his conditions, and these are among the highest chains in the book.",
+      "url": "https://sunnah.com/bukhari:2295"
+    },
+    {
+      "scholar": "al-Tirmidhi",
+      "died": 279,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Hasan sahih",
+      "gradeAr": "حسن صحيح",
+      "scope": "the Abu Qatadah narration of the same event",
+      "source": "Jami' al-Tirmidhi 1069",
+      "quoteAr": "وفي الباب عن جابر وسلمة بن الأكوع وأسماء بنت يزيد. قال أبو عيسى: حديث أبي قتادة حديث حسن صحيح",
+      "reason": "Grades Abu Qatadah's own account hasan sahih and lists Jabir, Salamah ibn al-Akwa' and Asma' bint Yazid as the other Companions who report it.",
+      "url": "https://sunnah.com/tirmidhi:1069"
+    },
+    {
+      "scholar": "Ibn Hajar al-Asqalani",
+      "died": 852,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih; a three-link chain",
+      "source": "Fath al-Bari 1/202 (on hadith 109) and 4/467–474",
+      "quoteAr": "وهذا الحديث أول ثلاثي وقع في البخاري، وليس فيه أعلى من الثلاثيات، وقد أفردت فبلغت أكثر من عشرين حديثا",
+      "reason": "On the first three-link hadith of the Sahih (109, al-Makki → Yazid → Salamah) he writes that nothing in the book is higher than its three-link chains, and that he collected them separately and found more than twenty. He treats 2289 and 2295 as sound and draws the law of the chapter from them.",
+      "url": "https://shamela.ws/book/1673/688"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Short is high",
+      "body": "Three people stand between al-Bukhari and the Prophet ﷺ. Every link is a chance for error, so a chain this short is prized and given a name, thulathi. It is possible only because of long lives: Salamah died in 74 aged eighty, his freed slave Yazid lived into the 140s, and Abu Asim, born in 122, taught until 212. Al-Bukhari, born in 194, caught the end of that life."
+    },
+    {
+      "title": "A patron and his freed slave in one chain",
+      "body": "Salamah was Yazid's master and Yazid was Salamah's mawla. The relationship explains the transmission: Yazid asked him questions no stranger would, and al-Bukhari's three-link chains from Salamah all run through this one household. The site derives this from the mawla field; it is worth knowing why it matters."
+    },
+    {
+      "title": "The earlier and the later",
+      "body": "Two men narrated from Abu Asim: his own teacher Jarir ibn Hazim, who died in 170, and Muhammad ibn Hibban, who died in 301. One hundred and thirty-one years separate two students of one shaykh. Al-Khatib wrote a book on exactly this pattern, al-Sabiq wa al-Lahiq, and Abu Asim is in it; the lesson is that a late student is not a forger merely because his teacher's other students are long dead."
+    },
+    {
+      "title": "The abridged version stands beside the full one",
+      "body": "Al-Bukhari's 2295 keeps two funerals; his 2289 has three, with the question about what each man left. Neither contradicts the other: a compiler may shorten a report, and the second place in the book tells you what was cut. Reading the parallel is part of reading the hadith."
+    }
+  ],
+  "subtleties": [
+    {
+      "text": "A three-link chain (thulathi): Abu Asim, Yazid, Salamah. Ibn Hajar, on hadith 109, the first thulathi in the book (al-Makki → Yazid → Salamah): \"nothing in it is higher than the three-link chains, and when I collected them separately they came to more than twenty.\" The class notes give the fuller census, 22 in all, 16 without repetition, 17 of them from Salamah, 4 from Anas and 1 from Abdullah ibn Busr, through five shaykhs and four intermediaries; those figures were not verified here.",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 1/202 (Shamela 1673/688); the census from the class notes, unverified"
+    },
+    {
+      "text": "The earlier and the later (al-sabiq wa al-lahiq): Jarir ibn Hazim (d. 170) and Muhammad ibn Hibban ibn al-Azhar (d. 301) both narrated from Abu Asim, 131 years apart. Al-Mizzi lists both among his students, Jarir \"being one of his teachers\" and Ibn Hibban \"the last to narrate from him\", and cites al-Khatib's al-Sabiq wa al-Lahiq (p. 247) for Abu Asim.",
+      "kind": "scholar",
+      "source": "al-Khatib al-Baghdadi, al-Sabiq wa al-Lahiq, as cited in Tahdhib al-Kamal 13/281 n. 2 and 13/284–285; Taqrib 911 (Jarir d. 170); Tarikh Baghdad, entry on Muhammad ibn Hibban (d. 301)"
+    },
+    {
+      "text": "Abu Asim was born when his mother was twelve: \"my mother was born in 110 and I was born in 122\" (Amr ibn Ali, from Abu Asim).",
+      "kind": "check",
+      "source": "Tahdhib al-Kamal 13/287"
+    },
+    {
+      "text": "The two dead men are unnamed. Ibn Hajar: \"I have not found the name of the man of this funeral nor of the one after it.\"",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 4/467"
+    },
+    {
+      "text": "Al-Bukhari's 2295 is an abridgement: \"in these routes he confined himself to two of the three dead men, and the story came in full in the earlier route; al-Isma'ili carried it in full here.\"",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 4/474"
+    },
+    {
+      "text": "Two dinars or three? Jabir, Asma' and Ali say two, Salamah's 2289 says three, Ibn Majah's Abu Qatadah says eighteen or nineteen dirhams. Ibn Hajar offers two reconciliations (two and a half dinars, rounded differently; or three owed and one paid before death) and prefers the first; the dirham figure he takes as a separate occasion.",
+      "kind": "scholar",
+      "source": "Ibn Hajar, Fath al-Bari 4/468"
+    },
+    {
+      "text": "Why Hawalah? Ibn Battal explains that al-Bukhari placed Salamah's hadith, which is about a guarantee, under the transfer of debt because the two shift one man's liability to another and some jurists treated them as near-identical; al-Bukhari then placed it again under Kafalah on its plain sense.",
+      "kind": "scholar",
+      "source": "Ibn Battal, as quoted in Fath al-Bari 4/467"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "The thirteen lessons listed in the class notes were checked against Fath al-Bari; those confirmed there are entered below with their source. The remainder (that people of merit should attend funerals, that a leader should enquire into people's affairs, the Companions' compassion, delaying clarification until needed, recompense matching deeds, communal harm before individual benefit) are not located in the commentary and await a reviewer.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The chapter heading means the guarantor may not withdraw from the guarantee, which binds him once given; had Abu Qatadah been able to withdraw, the Prophet would not have prayed over the debtor until the debt was actually paid.",
+        "url": "https://shamela.ws/book/1673/2764"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The reason for the question \"does he owe a debt?\" is in Abu Hurayrah's hadith four chapters on: the Prophet would pray only if the dead man had left enough to pay, and he stopped the practice after the conquests, when he undertook the debts himself.",
+        "url": "https://shamela.ws/book/1673/2757"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The hadith covers three cases (no estate and no debt; a debt with an estate to cover it; a debt and nothing to cover it) and leaves out the fourth, an estate and no debt, not because it never happened but because it was the common case.",
+        "url": "https://shamela.ws/book/1673/2757"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "The hadith is the majority's proof that a debt of a dead man who left nothing may be guaranteed, against Abu Hanifah's view; Malik allowed the guarantor to reclaim if he said he guaranteed in order to reclaim and the estate had funds. It also signals the gravity of debt, \"which one should not take on except from necessity\", and the obligation of the funeral prayer.",
+        "url": "https://shamela.ws/book/1673/2758"
+      },
+      {
+        "work": "Fath al-Bari",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Hakim's Jabir narration adds the Prophet's follow-up with Abu Qatadah until the two dinars were paid, and his words \"now you have cooled his skin\"; the debtor is released only when the debt is actually settled.",
+        "url": "https://shamela.ws/book/1673/2758"
+      },
+      {
+        "work": "Sharh Sahih al-Bukhari",
+        "author": "Ibn Battal",
+        "point": "Explains the placement under Hawalah (transfer and guarantee both move liability from one person to another) and reports the majority view that the guarantee is valid with no recourse against the estate, against Malik's qualified view and Abu Hanifah's.",
+        "url": "https://shamela.ws/book/1673/2757"
+      }
+    ],
+    "rulings": [
+      { "text": "The funeral prayer is an obligation.", "source": "Ibn Hajar, Fath al-Bari 4/468: \"and in the hadith is the obligation of the prayer over the dead\"" },
+      { "text": "It is lawful to guarantee the debt of a dead person who left nothing to pay it; this is the majority view and the hadith is its proof.", "source": "Ibn Hajar, Fath al-Bari 4/468 and 4/474, with Ibn Battal" },
+      { "text": "A guarantee binds by the mere undertaking; the guarantor cannot retract.", "source": "al-Bukhari's chapter heading; Ibn Hajar, Fath al-Bari 4/474" },
+      { "text": "The guarantor has no recourse against the estate.", "source": "Ibn Battal, as quoted in Fath al-Bari 4/468 (the majority view)" },
+      { "text": "Debt is a grave matter and should not be taken on except from necessity.", "source": "Ibn Hajar, Fath al-Bari 4/468" },
+      { "text": "The dead man is cleared when another actually pays his debt, as the Prophet's words to Abu Qatadah show.", "source": "al-Hakim's narration of Jabir, as quoted in Fath al-Bari 4/468" }
+    ]
+  },
+  "context": "Al-Bukhari records the scene twice. Under the transfer of debt (2289) Salamah tells it in full, three funerals in a row, the Prophet asking each time about debt and estate; under guarantees (2295) the same event is cut to two funerals and placed beneath a heading drawn from it, that a guarantor of a dead man's debt may not retract. The practice of declining to lead the prayer over a debtor belonged to an early period: Abu Hurayrah's hadith, recorded four chapters later, says that after the conquests the Prophet ﷺ announced he was closer to the believers than their own selves and would himself pay the debts of those who left none. Abu Qatadah, the Ansari who stepped forward here, appears as the guarantor in every version of the story from Salamah, Jabir and Abu Qatadah himself; al-Daraqutni records a second occasion with Ali in the same role.",
+  "vocabulary": [
+    { "term": "Janazah", "ar": "جنازة", "meaning": "The dead body on its bier, or the bier itself; hence the funeral and its prayer. The feminine pronoun in \"to pray over it\" refers to the bier, the masculine in \"he prayed over him\" to the man." },
+    { "term": "Dayn", "ar": "دَيْن", "meaning": "A debt. The question \"hal alayhi min dayn\" uses the particle min with an indefinite noun, which makes it general: any debt at all, small or large." },
+    { "term": "Kafalah", "ar": "كفالة", "meaning": "A guarantee: one person's undertaking to answer for another's obligation. The chapter heading of 2295." },
+    { "term": "Hawalah", "ar": "حوالة", "meaning": "Transfer of a debt from one debtor to another. The chapter heading of 2289; Ibn Battal explains why a hadith about a guarantee sits under it." },
+    { "term": "Thulathi", "ar": "ثلاثي", "meaning": "A report with only three narrators between the compiler and the Prophet ﷺ; the highest chains in al-Bukhari, of which Ibn Hajar counted more than twenty." },
+    { "term": "al-Sabiq wa al-lahiq", "ar": "السابق واللاحق", "meaning": "\"The earlier and the later\": two narrators from one shaykh whose deaths lie far apart. Al-Khatib's book on the subject includes Abu Asim." }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 4,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    { "label": "Sahih al-Bukhari 2295 (sunnah.com)", "url": "https://sunnah.com/bukhari:2295" },
+    { "label": "Sahih al-Bukhari 2289 (sunnah.com)", "url": "https://sunnah.com/bukhari:2289" },
+    { "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (hadith-api)", "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json" },
+    { "label": "Ibn Hajar, Fath al-Bari 4/467–468 on hadith 2289 (Shamela)", "url": "https://shamela.ws/book/1673/2757" },
+    { "label": "Ibn Hajar, Fath al-Bari 4/474 on hadith 2295 (Shamela)", "url": "https://shamela.ws/book/1673/2764" },
+    { "label": "Ibn Hajar, Fath al-Bari 1/202 on hadith 109, the first thulathi (Shamela)", "url": "https://shamela.ws/book/1673/688" },
+    { "label": "al-Mizzi, Tahdhib al-Kamal 13/281–287, Abu Asim (Shamela)", "url": "https://shamela.ws/book/3722/6663" },
+    { "label": "al-Nawawi, Tahdhib al-Asma' wa al-Lughat 1/229, Salamah (Shamela)", "url": "https://shamela.ws/book/9702/229" },
+    { "label": "Jami' al-Tirmidhi 1069 (sunnah.com)", "url": "https://sunnah.com/tirmidhi:1069" },
+    { "label": "Sunan al-Nasa'i 1961 (sunnah.com)", "url": "https://sunnah.com/nasai:1961" },
+    { "label": "Sunan Abi Dawud 3343 (sunnah.com)", "url": "https://sunnah.com/abudawud:3343" }
+  ],
+  "review": { "status": "draft", "signoffs": [] }
+}

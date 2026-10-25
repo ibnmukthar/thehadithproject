@@ -1,0 +1,148 @@
+{
+  "id": "anas-ibn-malik",
+  "name": "Anas ibn Malik",
+  "nameAr": "أنس بن مالك رضي الله عنه",
+  "short": "Anas ibn Malik",
+  "shortAr": "أنس بن مالك",
+  "kunya": "Abu Hamza",
+  "died": 93,
+  "diedNote": "died 91–93 AH, the last Companion to die in Basra",
+  "region": "Madinah, then Basra",
+  "tabaqa": 1,
+  "band": "sahabi",
+  "verdicts": [],
+  "bio": "Served the Prophet ﷺ for ten years from boyhood and lived to be among the very last Companions. Because he lived so long and so many narrated from him, many weak and fabricating narrators later claimed to have heard him, which is why the critics checked reports “from Anas” with particular care.",
+  "sources": [
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/822"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 10: the count of each Companion's hadith (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_العاشر/ذكر_عدة_ما_لكل_صحابي_في_صحيح_البخاري"
+    },
+    {
+      "label": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 40 (Shamela)",
+      "url": "https://shamela.ws/book/5858/40"
+    }
+  ],
+  "kunyaAr": "أبو حمزة",
+  "fatherName": "Malik",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/822"
+  },
+  "teachers": [
+    {
+      "id": "abu-bakr-al-siddiq",
+      "name": "Abu Bakr al-Siddiq",
+      "nameAr": "أبو بكر الصديق",
+      "source": "Sahih al-Bukhari 4663 (“Abu Bakr narrated to me”); Sahih Muslim 2381"
+    },
+    {
+      "id": "umar-ibn-al-khattab",
+      "name": "Umar ibn al-Khattab",
+      "nameAr": "عمر بن الخطاب",
+      "source": "Sahih al-Bukhari 402 (Anas: Umar said…)"
+    },
+    {
+      "id": "jarir-ibn-abdullah-al-bajali",
+      "name": "Jarir ibn Abdullah al-Bajali",
+      "nameAr": "جرير بن عبد الله البجلي",
+      "source": "Tahdhib al-Tahdhib (as cited on the linked record)"
+    },
+    {
+      "id": "abu-hurayra",
+      "name": "Abu Hurayra",
+      "nameAr": "أبو هريرة",
+      "source": "al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, entry of Abu Hurayra (as cited on the linked record)"
+    }
+  ],
+  "students": [
+    {
+      "id": "thabit-al-bunani",
+      "name": "Thabit al-Bunani",
+      "nameAr": "ثابت البناني",
+      "source": "Sahih al-Bukhari 4663"
+    },
+    {
+      "id": "qatadah-ibn-diamah",
+      "name": "Qatadah ibn Di'amah",
+      "nameAr": "قتادة",
+      "source": "Sahih al-Bukhari 15 (second chain); Sunan al-Nasa'i 5013"
+    },
+    {
+      "id": "abd-al-aziz-ibn-suhayb",
+      "name": "Abd al-Aziz ibn Suhayb",
+      "nameAr": "عبد العزيز بن صهيب",
+      "source": "Sahih al-Bukhari 15"
+    },
+    {
+      "id": "al-zuhri",
+      "name": "Muhammad ibn Muslim al-Zuhri",
+      "nameAr": "الزهري",
+      "source": "Sahih al-Bukhari 349 (al-Zuhri, from Anas)"
+    },
+    {
+      "id": "yahya-ibn-said",
+      "name": "Yahya ibn Sa'id al-Ansari",
+      "nameAr": "يحيى بن سعيد الأنصاري",
+      "source": "Sahih al-Bukhari 2377; Tahdhib al-Tahdhib (as cited on the linked record)"
+    },
+    {
+      "id": "said-ibn-abi-burdah",
+      "name": "Sa'id ibn Abi Burdah",
+      "nameAr": "سعيد بن أبي بردة",
+      "source": "Tahdhib al-Tahdhib (as cited on the linked record)"
+    },
+    {
+      "id": "abu-salama",
+      "name": "Abu Salamah ibn Abd al-Rahman",
+      "nameAr": "أبو سلمة بن عبد الرحمن",
+      "source": "Tahdhib al-Tahdhib (as cited on the linked record)"
+    },
+    {
+      "id": "muhammad-ibn-ibrahim-al-taymi",
+      "name": "Muhammad ibn Ibrahim al-Taymi",
+      "nameAr": "محمد بن إبراهيم التيمي",
+      "source": "Tahdhib al-Tahdhib (as cited on the linked record)"
+    },
+    {
+      "id": "abu-atika",
+      "name": "Abu Atika",
+      "nameAr": "أبو عتيكة",
+      "source": "Tahdhib al-Tahdhib (as cited on the linked record); Jami' al-Tirmidhi 726"
+    }
+  ],
+  "companionCounts": {
+    "inBukhari": 268,
+    "source": "In al-Bukhari: Ibn Hajar, Hady al-Sari, ch. 10 (268). Agreed/al-Bukhari alone/Muslim alone: al-Khazraji, Khulasat Tadhhib Tahdhib al-Kamal, p. 40 (168; 83; 71). The grand total is not entered: the Shamela transcription of p. 40 reads 1,286 where the printed figure is usually given as 2,286, and this was not resolved.",
+    "agreed": 168,
+    "bukhariOnly": 83,
+    "muslimOnly": 71
+  },
+  "provenance": [
+    {
+      "field": "companionCounts",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 10"
+    },
+    {
+      "field": "teachers",
+      "layer": "class-notes",
+      "ref": "Chain of Sahih al-Bukhari 4663 (bukhari-4663.md)"
+    },
+    {
+      "field": "students",
+      "layer": "class-notes",
+      "ref": "Chains of Sahih al-Bukhari 15 and 4663 (bukhari-15.md, bukhari-4663.md)"
+    },
+    {
+      "field": "companionCounts",
+      "layer": "tahdhib-kamal",
+      "ref": "Khulasat Tadhhib Tahdhib al-Kamal, p. 40"
+    }
+  ]
+}

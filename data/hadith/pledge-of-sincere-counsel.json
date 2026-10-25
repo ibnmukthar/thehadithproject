@@ -1,0 +1,416 @@
+{
+  "slug": "pledge-of-sincere-counsel",
+  "title": "The pledge of sincere counsel",
+  "titleAr": "بايعت رسول الله ﷺ على النصح لكل مسلم",
+  "takeaway": "Jarir ibn Abdullah, chief of the Yemeni tribe of Bajilah, recalls the terms of his pledge to the Prophet ﷺ: to establish the prayer, to pay the zakah, and to give sincere counsel to every Muslim. Al-Bukhari places it at the end of the Book of Faith under the heading 'religion is sincere counsel', a hadith he cites without a chain because it did not meet his conditions, and lets Jarir's pledge carry the point.",
+  "status": {
+    "band": "sahih",
+    "label": "Sahih",
+    "line": "Agreed upon: al-Bukhari records Jarir's pledge in seven places and Muslim in three routes; al-Tirmidhi grades it hasan sahih."
+  },
+  "primary": {
+    "cite": "bukhari:57",
+    "collection": "Sahih al-Bukhari",
+    "collectionAr": "صحيح البخاري",
+    "numbering": "Muhammad Fu'ad Abd al-Baqi numbering, as used in Fath al-Bari and on sunnah.com",
+    "number": "57",
+    "bookChapter": "Book of Faith, chapter on the Prophet's ﷺ saying 'religion is sincere counsel to God, His Messenger, the leaders of the Muslims and their common people'",
+    "chain": [
+      "al-bukhari",
+      "musaddad",
+      "yahya-ibn-said-al-qattan",
+      "ismail-ibn-abi-khalid",
+      "qays-ibn-abi-hazim",
+      "jarir-ibn-abdullah-al-bajali"
+    ],
+    "links": [
+      {
+        "from": "prophet",
+        "to": "jarir-ibn-abdullah-al-bajali",
+        "sighaAr": "قال: بايعت رسول الله ﷺ",
+        "sighaEn": "he said: I pledged allegiance to the Messenger of God ﷺ",
+        "kind": "sama",
+        "note": "The Companion reports his own act in the Prophet's presence."
+      },
+      {
+        "from": "jarir-ibn-abdullah-al-bajali",
+        "to": "qays-ibn-abi-hazim",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "In 2157 Qays says 'I heard Jarir'; in 524 'Qays narrated to us'."
+      },
+      {
+        "from": "qays-ibn-abi-hazim",
+        "to": "ismail-ibn-abi-khalid",
+        "sighaAr": "قال حدثني",
+        "sighaEn": "he said: narrated to me",
+        "kind": "sama",
+        "note": "Isma'il's habitual formula for Qays, which matters because al-Nasa'i described Isma'il with tadlis."
+      },
+      {
+        "from": "ismail-ibn-abi-khalid",
+        "to": "yahya-ibn-said-al-qattan",
+        "sighaAr": "عن",
+        "sighaEn": "from",
+        "kind": "an",
+        "note": "In 524, the same route through Muhammad ibn al-Muthanna, Yahya says 'Isma'il narrated to us'."
+      },
+      {
+        "from": "yahya-ibn-said-al-qattan",
+        "to": "musaddad",
+        "sighaAr": "قال حدثنا",
+        "sighaEn": "he said: narrated to us",
+        "kind": "sama"
+      },
+      {
+        "from": "musaddad",
+        "to": "al-bukhari",
+        "sighaAr": "حدثنا",
+        "sighaEn": "narrated to us",
+        "kind": "sama"
+      }
+    ],
+    "isnadAr": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسُ بْنُ أَبِي حَازِمٍ، عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ، قَالَ",
+    "matnAr": "بَايَعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى إِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالنُّصْحِ لِكُلِّ مُسْلِمٍ",
+    "matnEn": "I pledged allegiance to the Messenger of God ﷺ to establish the prayer, to pay the zakah, and to give sincere counsel to every Muslim.",
+    "url": "https://sunnah.com/bukhari:57"
+  },
+  "also": [
+    {
+      "cite": "bukhari:524",
+      "label": "Sahih al-Bukhari 524",
+      "note": "Book of the Times of Prayer, chapter on pledging allegiance to establish the prayer",
+      "url": "https://sunnah.com/bukhari:524",
+      "chainNote": "Muhammad ibn al-Muthanna → Yahya al-Qattan ('Isma'il narrated to us') → Isma'il ('Qays narrated to us') → Jarir: the same chain from Yahya upward, with explicit hearing at every link.",
+      "wordingNote": "Same wording."
+    },
+    {
+      "cite": "bukhari:1401",
+      "label": "Sahih al-Bukhari 1401",
+      "note": "Book of Zakah, chapter on pledging allegiance to pay the zakah",
+      "url": "https://sunnah.com/bukhari:1401",
+      "chainNote": "Ibn Numayr → his father Abdullah ibn Numayr ('narrated to me') → Isma'il ('narrated to us') → Qays → 'Jarir ibn Abdullah said'.",
+      "wordingNote": "'I pledged allegiance to the Prophet ﷺ' in place of 'the Messenger of God'."
+    },
+    {
+      "cite": "bukhari:2157",
+      "label": "Sahih al-Bukhari 2157",
+      "note": "Book of Sales, chapter on whether a townsman may sell for a Bedouin without a fee, and help or counsel him",
+      "url": "https://sunnah.com/bukhari:2157",
+      "chainNote": "Ali ibn Abdullah al-Madini → Sufyan ibn Uyaynah → Isma'il → Qays: 'I heard Jarir'.",
+      "wordingNote": "Adds 'upon bearing witness that there is no god but God and that Muhammad is the Messenger of God' and 'hearing and obeying' before the counsel clause."
+    },
+    {
+      "cite": "bukhari:2714",
+      "label": "Sahih al-Bukhari 2714",
+      "note": "Book of Conditions, chapter on the conditions permitted in Islam, in judgements and in pledges",
+      "url": "https://sunnah.com/bukhari:2714",
+      "chainNote": "Abu Nu'aym → Sufyan → Ziyad ibn Ilaqah: 'I heard Jarir': a second Companion-level route independent of Qays.",
+      "wordingNote": "'I pledged allegiance to the Messenger of God ﷺ, and he stipulated to me sincere counsel to every Muslim'."
+    },
+    {
+      "cite": "bukhari:2715",
+      "label": "Sahih al-Bukhari 2715",
+      "note": "Book of Conditions, the same chapter: the hadith repeated with the identical chain and wording as 57",
+      "url": "https://sunnah.com/bukhari:2715",
+      "chainNote": "Musaddad → Yahya → Isma'il → Qays → Jarir, word for word as in the Book of Faith.",
+      "wordingNote": "Identical to 57 but for the honorific after Jarir's name."
+    },
+    {
+      "cite": "bukhari:7204",
+      "label": "Sahih al-Bukhari 7204",
+      "note": "Book of Judgements, chapter on how the leader takes the people's pledge",
+      "url": "https://sunnah.com/bukhari:7204",
+      "chainNote": "Ya'qub ibn Ibrahim → Hushaym ('Sayyar informed us') → al-Sha'bi → Jarir: a third route from Jarir.",
+      "wordingNote": "'I pledged allegiance to the Prophet ﷺ to hear and obey, and he prompted me: as far as I am able; and sincere counsel to every Muslim'."
+    },
+    {
+      "cite": "bukhari:58",
+      "label": "Sahih al-Bukhari 58",
+      "note": "The hadith that follows: Jarir's sermon on the day al-Mughira ibn Shu'bah died, recalling that he stipulated counsel to every Muslim",
+      "url": "https://sunnah.com/bukhari:58",
+      "chainNote": "Abu al-Nu'man → Abu Awanah → Ziyad ibn Ilaqah: 'I heard Jarir'."
+    },
+    {
+      "cite": "muslim:56a",
+      "label": "Sahih Muslim 56a",
+      "note": "Book of Faith",
+      "url": "https://sunnah.com/muslim:56a",
+      "chainNote": "Abu Bakr ibn Abi Shaybah → Abdullah ibn Numayr and Abu Usamah → Isma'il ibn Abi Khalid → Qays → Jarir: meets al-Bukhari's chain at Isma'il.",
+      "wordingNote": "Same wording as al-Bukhari's."
+    },
+    {
+      "cite": "muslim:56b",
+      "label": "Sahih Muslim 56b",
+      "note": "Book of Faith",
+      "url": "https://sunnah.com/muslim:56b",
+      "chainNote": "Abu Bakr ibn Abi Shaybah, Zuhayr ibn Harb and Ibn Numayr → Sufyan → Ziyad ibn Ilaqah, who heard Jarir.",
+      "wordingNote": "'I pledged allegiance to the Prophet ﷺ to give sincere counsel to every Muslim'."
+    },
+    {
+      "cite": "muslim:56c",
+      "label": "Sahih Muslim 56c",
+      "note": "Book of Faith",
+      "url": "https://sunnah.com/muslim:56c",
+      "chainNote": "Surayj ibn Yunus and Ya'qub al-Dawraqi → Hushaym → Sayyar → al-Sha'bi → Jarir; Muslim notes that Ya'qub's version has 'Sayyar narrated to us'.",
+      "wordingNote": "Hearing and obeying, 'as far as I am able', and counsel to every Muslim."
+    },
+    {
+      "cite": "tirmidhi:1925",
+      "label": "Jami' al-Tirmidhi 1925",
+      "note": "Book of Righteousness and Maintaining Good Relations; al-Tirmidhi: hasan sahih",
+      "url": "https://sunnah.com/tirmidhi:1925",
+      "chainNote": "Muhammad ibn Bashshar (Bundar) → Yahya ibn Sa'id al-Qattan → Isma'il → Qays → Jarir: shares al-Bukhari's chain from Yahya upward.",
+      "wordingNote": "Same wording."
+    },
+    {
+      "cite": "abudawud:4945",
+      "label": "Sunan Abi Dawud 4945",
+      "note": "Book of Manners, chapter on sincere counsel",
+      "url": "https://sunnah.com/abudawud:4945",
+      "chainNote": "Amr ibn Awn → Khalid → Yunus → Amr ibn Sa'id → Abu Zur'ah ibn Amr ibn Jarir → his grandfather Jarir.",
+      "wordingNote": "'To hear and obey and to counsel every Muslim'; adds that whenever Jarir bought or sold he would say: 'what we have taken from you is dearer to us than what we have given you, so choose'."
+    },
+    {
+      "cite": "nasai:4156",
+      "label": "Sunan al-Nasa'i 4156",
+      "note": "Book of the Pledge, chapter on pledging allegiance to give sincere counsel to every Muslim",
+      "url": "https://sunnah.com/nasai:4156",
+      "chainNote": "Muhammad ibn Abdullah ibn Yazid → Sufyan → Ziyad ibn Ilaqah → Jarir; 4157 adds Ya'qub ibn Ibrahim → Ibn Ulayyah → Yunus → Amr ibn Sa'id → Abu Zur'ah → Jarir."
+    },
+    {
+      "cite": "nasai:4175",
+      "label": "Sunan al-Nasa'i 4175",
+      "note": "Book of the Pledge",
+      "url": "https://sunnah.com/nasai:4175",
+      "chainNote": "Bishr ibn Khalid → Ghundar → Shu'bah → Sulayman al-A'mash → Abu Wa'il → Jarir.",
+      "wordingNote": "Adds 'and to part from the polytheist'."
+    },
+    {
+      "cite": "nasai:4189",
+      "label": "Sunan al-Nasa'i 4189",
+      "note": "Book of the Pledge, chapter on pledging allegiance according to one's ability",
+      "url": "https://sunnah.com/nasai:4189",
+      "chainNote": "Ya'qub ibn Ibrahim → Hushaym ('Sayyar narrated to us') → al-Sha'bi → Jarir."
+    }
+  ],
+  "verdicts": [
+    {
+      "scholar": "al-Bukhari",
+      "died": 256,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih al-Bukhari 57, 524, 1401, 2157, 2714, 2715, 7204",
+      "reason": "Recorded Jarir's pledge in seven places through three of Jarir's students (Qays ibn Abi Hazim, Ziyad ibn Ilaqah, al-Sha'bi), each under a chapter the wording serves; in the Book of Faith and the Book of Conditions he gives it with the identical chain and wording, which he rarely does.",
+      "url": "https://sunnah.com/bukhari:57"
+    },
+    {
+      "scholar": "Muslim ibn al-Hajjaj",
+      "died": 261,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Sahih",
+      "source": "Sahih Muslim 56",
+      "reason": "Included in the Book of Faith through Isma'il ibn Abi Khalid, Ziyad ibn Ilaqah and al-Sha'bi.",
+      "url": "https://sunnah.com/muslim:56a"
+    },
+    {
+      "scholar": "al-Tirmidhi",
+      "died": 279,
+      "era": "classical",
+      "band": "sahih",
+      "grade": "Hasan sahih",
+      "gradeAr": "حسن صحيح",
+      "source": "Jami' al-Tirmidhi 1925",
+      "quoteAr": "قال: هذا حديث حسن صحيح",
+      "reason": "Graded it through the same Yahya al-Qattan–Isma'il–Qays chain.",
+      "url": "https://sunnah.com/tirmidhi:1925"
+    }
+  ],
+  "subtleties": [
+    {
+      "kind": "scholar",
+      "text": "Ibn Hajar on the three lowest narrators: Jarir is al-Bajali; Qays, who narrates from him, and Isma'il, who narrates from Qays, are Bajalis too; every one of them bears the kunya Abu Abdullah; and all of them are Kufans.",
+      "source": "Ibn Hajar, Fath al-Bari, on 57: 'وقيس الراوي عنه وإسماعيل الراوي عن قيس بجليان أيضا، وكل منهم يكنى أبا عبد الله، وكلهم كوفيون'"
+    },
+    {
+      "kind": "scholar",
+      "text": "A sabiq and a lahiq: al-Khatib al-Baghdadi notes that two men who narrated from Isma'il ibn Abi Khalid, al-Hakam ibn Utaybah and Yahya ibn Hashim al-Simsar, died about a hundred and ten years apart. Ibn Hajar adds that Yahya ibn Hashim, an abandoned narrator, was the last of all to transmit from Isma'il, and Ubaydullah ibn Musa the last reliable one.",
+      "source": "al-Khatib al-Baghdadi, as quoted in Ibn Hajar, Tahdhib al-Tahdhib, entry on Isma'il ibn Abi Khalid"
+    },
+    {
+      "kind": "scholar",
+      "text": "Qays ibn Abi Hazim is the Successor said to have narrated from all ten promised Paradise, alone among the Successors according to Ibn Khirash. Abu Dawud and Ya'qub ibn Shaybah are more exact: nine of the ten, no narration from Abd al-Rahman ibn Awf being known. He was also a mukhadram who set out to pledge to the Prophet ﷺ and arrived after his death.",
+      "source": "Ibn Hajar, Taqrib al-Tahdhib 5566; Tahdhib al-Tahdhib, entry on Qays, quoting Ibn Khirash, Abu Dawud and Ya'qub ibn Shaybah"
+    },
+    {
+      "kind": "scholar",
+      "text": "Jarir was 'the Yusuf of this community' in Umar's phrase, for his beauty; Abd al-Malik ibn Umayr said his face was like a slice of the moon. Umar also said to him: 'what a fine chief you were in the time of ignorance, and what a fine chief you are in Islam.'",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala', Jarir ibn Abdullah; Ibn Hajar, Tahdhib al-Tahdhib, entry on Jarir"
+    },
+    {
+      "kind": "scholar",
+      "text": "Musaddad ibn Musarhad ibn Musarbal ibn Mustawrid: al-Ijli says Abu Nu'aym al-Fadl ibn Dukayn used to ask him to recite the genealogy and remark, 'Ahmad, this is a charm against the scorpion's sting.' Al-Bukhari named the great-grandfather Mar'abal.",
+      "source": "al-Ijli, as quoted in Ibn Hajar, Tahdhib al-Tahdhib, entry on Musaddad"
+    },
+    {
+      "kind": "scholar",
+      "text": "Al-Bukhari rarely gives a hadith twice in exactly the same form; Ibn Hajar says that on his method 'there is not found in his book a hadith in one and the same form in two or more places except rarely.' This is one of the rare cases: 57 in the Book of Faith and 2715 in the Book of Conditions have the identical chain and wording.",
+      "source": "Ibn Hajar, Fath al-Bari, on hadith 29 (chapter on ingratitude to husbands); Sahih al-Bukhari 57 and 2715 compared"
+    },
+    {
+      "kind": "scholar",
+      "text": "Seven placements: al-Bukhari files the pledge under faith (57), the pledge to pray (524), the pledge to pay zakah (1401), counselling a buyer (2157), permitted conditions (2714, 2715) and how a leader takes a pledge (7204), using each clause of the pledge as the thread of a different chapter.",
+      "source": "Sahih al-Bukhari, the seven places listed; chapter headings as on islamweb and sunnah.com"
+    }
+  ],
+  "explanation": {
+    "status": "sourced",
+    "note": "Drawn from Ibn Hajar's commentary on the chapter 'religion is sincere counsel' in the Book of Faith. The teacher's list of lessons is not reproduced until a reviewer has checked it; two points the notes attribute to the Fath (the Abd al-Qays delegation's pledge of the khums, and Jarir's being made to pledge counsel as a chief) were not found in the passage read and are left out.",
+    "commentaries": [
+      {
+        "work": "Fath al-Bari, Book of Faith, on the chapter heading",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Bukhari gives the hadith 'religion is sincere counsel' as a chapter heading without a chain because it did not meet his conditions: al-Bukhari said in his Tarikh that it is sound only from Tamim al-Dari, and the confusion in Suhayl ibn Abi Salih's transmission (from Ata' ibn Yazid from Tamim, or from his father from Abu Hurayra) kept it out of the Sahih. The verse and Jarir's hadith carry its content instead.",
+        "url": "https://www.islamweb.net/ar/library/content/52/107/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Faith, on 57",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Mazari derives nasiha from 'nasahtu al-asal', I purified the honey, so that counsel is speech made pure; or from sewing with a minsaha, a needle, so that the counsellor mends his brother's torn state as a needle mends cloth, whence 'tawba nasuh', repentance that stitches what sin has torn. Al-Khattabi calls nasiha a comprehensive word for wanting the good of the one counselled, with no single word in the language that renders it.",
+        "url": "https://www.islamweb.net/ar/library/content/52/107/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Faith, on 57",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Qadi Iyad: prayer and zakah are named because they are the best known of the duties; fasting and the rest fall under 'hearing and obeying', which the Sales and Judgements versions and Muslim's al-Sha'bi route add. Ibn Hibban's version through Abu Zur'ah adds that whenever Jarir bought or sold he told the other party that what he took was dearer to him than what he gave, so let him choose; al-Tabarani tells of his paying eight hundred for a horse bought for three hundred.",
+        "url": "https://www.islamweb.net/ar/library/content/52/107/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Faith, on 57",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Al-Qurtubi: the Prophet's ﷺ pledges with his Companions varied with what each needed by way of renewed covenant or emphasis, which is why their wordings differ. 'As far as I am able' in al-Sha'bi's version signals that only what is within capacity is binding, and hints at pardon for lapses.",
+        "url": "https://www.islamweb.net/ar/library/content/52/107/"
+      },
+      {
+        "work": "Fath al-Bari, Book of Faith, on the chapter heading",
+        "author": "Ibn Hajar al-Asqalani",
+        "point": "Following al-Nawawi: counsel to God is to describe Him as He deserves and submit to Him; to His Book, to learn, teach, recite and apply it; to His Messenger, to honour and defend him and revive his Sunnah; to the leaders, to help them in their charge, alert them when they slip and keep hearts united behind them; to the common Muslims, compassion, teaching them what benefits them, keeping harm from them and wanting for them what one wants for oneself.",
+        "url": "https://www.islamweb.net/ar/library/content/52/107/"
+      }
+    ],
+    "rulings": [
+      {
+        "text": "Prayer and zakah stand for the whole of obedience in the wording of the pledge because they are its best-known duties; the rest is covered by hearing and obeying.",
+        "source": "Qadi Iyad, as quoted in Ibn Hajar, Fath al-Bari, on 57"
+      },
+      {
+        "text": "Sincere counsel to every Muslim is a term of the pledge of Islam itself, and Jarir carried it into his trading by telling buyers and sellers the truth about what they were getting.",
+        "source": "Ibn Hajar, Fath al-Bari, on 57, citing Ibn Hibban and Abu Dawud 4945"
+      },
+      {
+        "text": "A pledge binds only within one's capacity: 'as far as I am able' was prompted by the Prophet ﷺ himself.",
+        "source": "Ibn Hajar, Fath al-Bari, on 57, with Bukhari 7204 and Muslim 56c"
+      }
+    ]
+  },
+  "context": "Jarir came to Madinah with a hundred and fifty of his tribe in Ramadan of the year 10 and gave his pledge then (Ibn Hibban and al-Baghawi; Ibn Sa'd: the year the Prophet ﷺ died). The clauses of the pledge appear in different combinations across his students: Qays gives prayer, zakah and counsel; in Ibn Uyaynah's version from Qays the two testimonies and hearing and obeying are added; al-Sha'bi gives hearing and obeying with 'as far as I am able'; Ziyad ibn Ilaqah remembers only that counsel was stipulated. Ibn Hajar, following al-Qurtubi, takes these as the Prophet's ﷺ adapting the pledge to the man before him, and Jarir, as a chief returning to teach his people, was the man for counsel.",
+  "vocabulary": [
+    {
+      "term": "Bay'a",
+      "ar": "بيعة",
+      "meaning": "The pledge of allegiance given to the Prophet ﷺ on entering Islam or on specific terms."
+    },
+    {
+      "term": "Nasiha",
+      "ar": "نصيحة",
+      "meaning": "Sincere counsel: speech made pure, or the stitching together of a brother's affairs, in al-Mazari's two etymologies."
+    },
+    {
+      "term": "Mukhadram",
+      "ar": "مخضرم",
+      "meaning": "One who lived in both the pre-Islamic era and Islam but did not meet the Prophet ﷺ as a Muslim; Qays ibn Abi Hazim is the type case."
+    },
+    {
+      "term": "Sabiq wa lahiq",
+      "ar": "السابق واللاحق",
+      "meaning": "Two students of one teacher whose deaths lie far apart; a mark of the teacher's long life and of how early and how late he was heard."
+    },
+    {
+      "term": "Ikhtilat",
+      "ar": "اختلاط",
+      "meaning": "A late change of memory; recorded for Qays, who lived past a hundred, so that what was heard from him when is a question the discipline asks."
+    }
+  ],
+  "lessons": [
+    {
+      "title": "When the formula settles a question before it is asked",
+      "body": "Al-Nasa'i described Isma'il ibn Abi Khalid as one who sometimes used the ambiguous 'from'. Here he says 'Qays narrated to me', and Yahya al-Qattan reports that this was his habit whenever he narrated from Qays. The record of a narrator's weakness and the record of his habits are kept together so that each chain can be read against both."
+    },
+    {
+      "title": "A long life is a question, not an answer",
+      "body": "Qays ibn Abi Hazim lived past a hundred and, his own student says, became senile at the end. The discipline does not therefore discard him; it asks who heard from him and when. Isma'il, his most prolific student and a man the imams called 'the Balance', heard him in his strength, and Ibn Ma'in rated Qays above al-Zuhri."
+    },
+    {
+      "title": "Count the doors",
+      "body": "Three of Jarir's students carry the pledge: Qays, Ziyad ibn Ilaqah and al-Sha'bi, each with his own wording. Below Qays the report fans out again to Isma'il's students, Yahya al-Qattan, Ibn Uyaynah, Ibn Numayr and Abu Usamah. A pledge remembered by three men in three ways, agreeing on the clause about counsel, is attested as the single sentence of one narrator could not be."
+    },
+    {
+      "title": "Repetition that is not repetition",
+      "body": "Al-Bukhari gives this pledge seven times but, with one exception, never twice the same way: a different student, a different wording, a different chapter. The exception, the identical text in the Book of Faith and the Book of Conditions, is itself a recorded fact about his method, because comparing the two is how the claim that he rarely repeats is tested."
+    }
+  ],
+  "study": {
+    "track": "bukhari-class",
+    "order": 9,
+    "credit": "Follows the class notes of a hadith teacher's course on Sahih al-Bukhari"
+  },
+  "sources": [
+    {
+      "label": "Sahih al-Bukhari 57 (sunnah.com)",
+      "url": "https://sunnah.com/bukhari:57"
+    },
+    {
+      "label": "Arabic text of Sahih al-Bukhari, sunnah.com numbering (hadith-api)",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari, Book of Faith, chapter 'religion is sincere counsel' (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/107/"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari, Book of Faith, chapter on ingratitude to husbands (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/56/"
+    },
+    {
+      "label": "Sahih Muslim 56 (sunnah.com)",
+      "url": "https://sunnah.com/muslim:56a"
+    },
+    {
+      "label": "Jami' al-Tirmidhi 1925 (sunnah.com)",
+      "url": "https://sunnah.com/tirmidhi:1925"
+    },
+    {
+      "label": "Sunan Abi Dawud 4945 (sunnah.com)",
+      "url": "https://sunnah.com/abudawud:4945"
+    },
+    {
+      "label": "Sunan al-Nasa'i 4156–4189 (sunnah.com)",
+      "url": "https://sunnah.com/nasai:4156"
+    },
+    {
+      "label": "Tahdhib al-Tahdhib, entries on Isma'il ibn Abi Khalid, Qays ibn Abi Hazim, Musaddad and Jarir (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تهذيب_التهذيب"
+    },
+    {
+      "label": "al-Dhahabi, Siyar A'lam al-Nubala', Jarir ibn Abdullah (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/سير_أعلام_النبلاء/جرير_بن_عبد_الله"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

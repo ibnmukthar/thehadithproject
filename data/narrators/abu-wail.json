@@ -1,0 +1,144 @@
+{
+  "id": "abu-wail",
+  "name": "Abu Wa'il Shaqiq ibn Salamah",
+  "nameAr": "شقيق بن سلمة الأسدي، أبو وائل، الكوفي",
+  "short": "Abu Wa'il",
+  "shortAr": "أبو وائل",
+  "kunya": "Abu Wa'il",
+  "kunyaAr": "أبو وائل",
+  "nisbas": [
+    {
+      "ar": "الأسدي",
+      "en": "al-Asadi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Salamah",
+  "died": 99,
+  "diedNote": "in the caliphate of Umar ibn Abd al-Aziz (99–101 AH), aged a hundred (Taqrib); Khalifah ibn Khayyat gives 82",
+  "deathVariants": [
+    {
+      "year": 82,
+      "authority": "Khalifah ibn Khayyat",
+      "source": "Shamela record"
+    },
+    {
+      "year": 99,
+      "authority": "Ibn Mandah",
+      "source": "Shamela record"
+    }
+  ],
+  "region": "Kufa",
+  "tabaqa": 2,
+  "taqrib": {
+    "ar": "ثقة مخضرم، مات في خلافة عمر بن عبد العزيز وله مائة سنة",
+    "en": "Reliable; a mukhadram (lived in both eras); died in the caliphate of Umar ibn Abd al-Aziz aged a hundred.",
+    "number": "2816",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "role": "Mukhadram; a leading Kufan Successor",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/2809"
+  },
+  "teachers": [
+    {
+      "id": "abu-musa-al-ashari",
+      "name": "Abu Musa al-Ash'ari",
+      "nameAr": "أبو موسى الأشعري",
+      "source": "Sahih al-Bukhari 3126"
+    }
+  ],
+  "students": [
+    {
+      "id": "amr-ibn-murrah",
+      "name": "Amr ibn Murrah",
+      "nameAr": "عمرو بن مرة",
+      "source": "Sahih al-Bukhari 3126"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Yahya ibn Ma'in",
+      "criticDied": 233,
+      "via": "Ishaq ibn Mansur",
+      "ar": "ثقة",
+      "en": "Reliable.",
+      "source": "al-Jarh wa al-Ta'dil",
+      "url": "https://shamela.ws/narrator/2809"
+    },
+    {
+      "critic": "Ibn Abd al-Barr",
+      "criticDied": 463,
+      "ar": "أجمعوا على أنه ثقة",
+      "en": "They agreed unanimously that he is reliable.",
+      "source": "Tahdhib al-Tahdhib 2/178",
+      "url": "https://shamela.ws/narrator/2809"
+    }
+  ],
+  "dhahabi": {
+    "ar": "مخضرم من العلماء العاملين",
+    "en": "A mukhadram, one of the scholars who acted on their knowledge.",
+    "source": "al-Kashif 2/581"
+  },
+  "flags": [
+    {
+      "label": "Named by kunya here, by name elsewhere",
+      "detail": "Al-Bukhari writes “Abu Wa'il” in 3126, 2810, 123 and 7458; Muslim's routes through al-A'mash (1904b, 1904c), al-Tirmidhi 1646 and Ibn Majah 2783 give his name, Shaqiq ibn Salamah. Ibn Hajar lists him in Hady al-Sari among those famous by kunya whose name recurs."
+    }
+  ],
+  "bio": "A Kufan who lived through the Prophet's lifetime without meeting him, and so is counted a mukhadram, and who lived to a hundred. A companion of Ibn Mas'ud and a narrator from Abu Musa, Umar, Uthman and Ali, he is the Successor through whom Abu Musa's report on fighting “so that the word of Allah is supreme” reached the Kufan school, by three different students: Amr ibn Murrah, Mansur and al-A'mash.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 2816"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 2816"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 2/178"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 2/581"
+    },
+    {
+      "field": "flags",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 7, those famous by kunya"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 2816 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الشين_المعجمة"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/2809"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 7: those famous by a kunya (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_السابع/فصل_في_تسمية_من_اشتهر_بالكنية_وتكرر_اسمه_غالبا"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

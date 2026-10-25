@@ -1,0 +1,173 @@
+{
+  "id": "ibrahim-al-saksaki",
+  "name": "Ibrahim ibn Abd al-Rahman al-Saksaki",
+  "nameAr": "إبراهيم بن عبد الرحمن السكسكي، أبو إسماعيل، الكوفي، مولى صخير",
+  "short": "Ibrahim al-Saksaki",
+  "shortAr": "إبراهيم السكسكي",
+  "kunya": "Abu Isma'il",
+  "kunyaAr": "أبو إسماعيل",
+  "nisbas": [
+    {
+      "ar": "السكسكي",
+      "en": "al-Saksaki",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الكوفي",
+      "en": "al-Kufi",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Sukhayr",
+  "fatherName": "Abd al-Rahman",
+  "diedNote": "no death year is recorded in the Taqrib; the Shamela record places it between 111 and 120 AH",
+  "region": "Kufa",
+  "tabaqa": 5,
+  "taqrib": {
+    "ar": "صدوق ضعيف الحفظ",
+    "en": "Truthful, weak in memory.",
+    "number": "204",
+    "rank": 5
+  },
+  "band": "saduq",
+  "rumuz": [
+    "خ",
+    "د",
+    "س"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/63"
+  },
+  "teachers": [
+    {
+      "id": "abu-burdah-ibn-abi-musa",
+      "name": "Abu Burdah ibn Abi Musa",
+      "nameAr": "أبو بردة بن أبي موسى",
+      "source": "Sahih al-Bukhari 2996"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-awwam-ibn-hawshab",
+      "name": "al-Awwam ibn Hawshab",
+      "nameAr": "العوام بن حوشب",
+      "source": "Sahih al-Bukhari 2996"
+    },
+    {
+      "name": "Mis'ar ibn Kidam",
+      "nameAr": "مسعر بن كدام",
+      "source": "al-Daraqutni as quoted in Hady al-Sari, ch. 8, hadith 42 (Mis'ar's route stops at Abu Burdah)"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "ضعيف",
+      "en": "Weak.",
+      "source": "Tahdhib al-Tahdhib 1/74",
+      "url": "https://shamela.ws/narrator/63"
+    },
+    {
+      "critic": "al-Nasa'i",
+      "criticDied": 303,
+      "ar": "يكتب حديثه وليس بذاك القوي",
+      "en": "His hadith is written down, though he is not that strong.",
+      "source": "Hady al-Sari, ch. 9, letter alif",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الألف"
+    },
+    {
+      "critic": "Ibn Adi",
+      "criticDied": 365,
+      "ar": "لم أجد له حديثا منكر المتن، وهو إلى الصدق أقرب منه إلى غيره، ويكتب حديثه كما قال النسائي",
+      "en": "I found no hadith of his with an objectionable text; he is closer to truthfulness than to anything else, and his hadith is written down, as al-Nasa'i said.",
+      "source": "al-Kamil fi al-Du'afa' 1/344; Tahdhib al-Kamal 2/132",
+      "url": "https://shamela.ws/narrator/63"
+    },
+    {
+      "critic": "al-Daraqutni",
+      "criticDied": 385,
+      "via": "al-Hakim",
+      "ar": "تكلم فيه يحيى بن سعيد … هو ضعيف",
+      "en": "Asked why Muslim left his hadith: Yahya ibn Sa'id criticised him. Asked whether with reason: he is weak.",
+      "source": "Tahdhib al-Tahdhib 1/74",
+      "url": "https://shamela.ws/narrator/63"
+    },
+    {
+      "critic": "Shu'bah ibn al-Hajjaj",
+      "criticDied": 160,
+      "via": "Yahya al-Qattan, through Ali ibn al-Madini",
+      "ar": "كان شعبة يضعفه",
+      "en": "Shu'bah used to weaken him.",
+      "source": "Tahdhib al-Tahdhib 1/74",
+      "url": "https://shamela.ws/narrator/63"
+    },
+    {
+      "critic": "Ibn Hibban",
+      "criticDied": 354,
+      "en": "Listed him in al-Thiqat.",
+      "source": "Tahdhib al-Tahdhib 1/74",
+      "url": "https://shamela.ws/narrator/63"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "له في الصحيح حديثان",
+      "en": "He has two hadith in the Sahih: one from Abdullah ibn Abi Awfa on the revelation of Al Imran 3:77, which is a corroboration of Ibn Mas'ud's hadith; and this one, from Abu Burdah from his father, discussed under al-Daraqutni's criticisms (hadith 42).",
+      "source": "Hady al-Sari, ch. 9, letter alif",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الألف"
+    }
+  ],
+  "dhahabi": {
+    "ar": "ضعفه أحمد",
+    "en": "Ahmad weakened him.",
+    "source": "al-Kashif, as given on the Shamela record"
+  },
+  "flags": [
+    {
+      "label": "Weakest link of hadith 2996",
+      "detail": "The only narrator of the chain below the top grade. Al-Bukhari has two hadith from him, both supported (Hady al-Sari, ch. 9); Muslim did not use him. Ibn Hajar's defence of hadith 2996 does not rest on him but on the shape of the report and on al-Awwam's preservation of the story."
+    }
+  ],
+  "bio": "A Kufan client of the fifth generation, placed by Ibn Hajar in the fifth rank of the Taqrib: truthful but weak in memory. Ahmad called him weak and Shu'bah had reservations, while Ibn Adi found nothing objectionable in his texts and Ibn Hibban listed him among the reliable. Al-Bukhari used him in two places only, each with support.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 204"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib 1/74"
+    },
+    {
+      "field": "verdicts",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 9, letter alif"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 204 (خ د س)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 204 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الألف/ذكر_من_اسمه_إبراهيم"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/63"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 9, letter alif (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الألف"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

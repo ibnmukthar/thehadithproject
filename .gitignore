@@ -42,3 +42,6 @@ next-env.d.ts
 
 # generated static API
 /public/api/
+
+# downloaded source texts (re-fetched by scripts/ingest-*.ts when absent)
+/sources/

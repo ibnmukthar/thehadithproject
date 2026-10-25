@@ -1,0 +1,225 @@
+{
+  "id": "abu-salama",
+  "name": "Abu Salama ibn Abd al-Rahman ibn Awf",
+  "nameAr": "أبو سلمة بن عبد الرحمن بن عوف الزهري",
+  "short": "Abu Salama ibn Abd al-Rahman",
+  "shortAr": "أبو سلمة بن عبد الرحمن",
+  "kunyaAr": "أبو سلمة",
+  "nisbas": [
+    {
+      "ar": "القرشي",
+      "en": "al-Qurashi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "الزهري",
+      "en": "al-Zuhri (Zuhra ibn Kilab of Quraysh)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المدني",
+      "en": "al-Madani",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Abd al-Rahman",
+  "died": 94,
+  "diedNote": "died 94 or 104 AH",
+  "deathVariants": [
+    {
+      "year": 94,
+      "authority": "Ibn Sa'd; Ibn Hibban (who adds \"or 104\")",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين"
+    },
+    {
+      "year": 104,
+      "authority": "al-Waqidi, aged 72",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين"
+    }
+  ],
+  "region": "Madinah",
+  "tabaqa": 3,
+  "band": "thiqa",
+  "taqrib": {
+    "ar": "ثقة مُكثِر",
+    "en": "Reliable and prolific.",
+    "number": "8142",
+    "rank": 3
+  },
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "3745",
+    "sunnah": "4903"
+  },
+  "teachers": [
+    {
+      "id": "abu-hurayra",
+      "name": "Abu Hurayra",
+      "nameAr": "أبو هريرة",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "anas-ibn-malik",
+      "name": "Anas ibn Malik",
+      "nameAr": "أنس بن مالك",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "his father Abd al-Rahman ibn Awf",
+      "nameAr": "أبوه عبد الرحمن بن عوف",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2 (mursal: Ahmad, Ibn Ma'in, Abu Hatim and others say he did not hear from him)"
+    },
+    {
+      "name": "Uthman ibn Affan",
+      "nameAr": "عثمان بن عفان",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Aisha",
+      "nameAr": "عائشة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Umm Salama",
+      "nameAr": "أم سلمة",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abdullah ibn Abbas",
+      "nameAr": "ابن عباس",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Abdullah ibn Umar",
+      "nameAr": "ابن عمر",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "students": [
+    {
+      "id": "al-zuhri",
+      "name": "Muhammad ibn Muslim al-Zuhri",
+      "nameAr": "الزهري",
+      "sigla": [
+        "ت"
+      ],
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "yahya-ibn-said",
+      "name": "Yahya ibn Sa'id al-Ansari",
+      "nameAr": "يحيى بن سعيد الأنصاري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "id": "muhammad-ibn-ibrahim-al-taymi",
+      "name": "Muhammad ibn Ibrahim al-Taymi",
+      "nameAr": "محمد بن إبراهيم التيمي",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "his son Umar ibn Abi Salama",
+      "nameAr": "ابنه عمر",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Sa'd ibn Ibrahim ibn Abd al-Rahman",
+      "nameAr": "سعد بن إبراهيم",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Urwa ibn al-Zubayr",
+      "nameAr": "عروة بن الزبير",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Yahya ibn Abi Kathir",
+      "nameAr": "يحيى بن أبي كثير",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Sa'id al-Maqburi",
+      "nameAr": "سعيد المقبري",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "name": "Amr ibn Dinar",
+      "nameAr": "عمرو بن دينار",
+      "source": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "verdicts": [],
+  "bio": "Son of the Companion Abd al-Rahman ibn Awf and one of the great Successors of Madinah.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين"
+    },
+    {
+      "field": "nisbas",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين; Shamela narrator record, https://shamela.ws/narrator/3745"
+    },
+    {
+      "field": "fatherName",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين"
+    },
+    {
+      "field": "deathVariants",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2; Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين"
+    },
+    {
+      "field": "rumuz",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين"
+    },
+    {
+      "field": "taqrib.number",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين"
+    },
+    {
+      "field": "taqrib.rank",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib, entry 8142, https://ar.wikisource.org/wiki/تقريب_التهذيب/باب_الكنى/حرف_السين (ثقة مكثر: a single ثقة = rank 3)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/3745"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator 4903, linked from the isnad at https://sunnah.com/tirmidhi:2317"
+    },
+    {
+      "field": "teachers",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    },
+    {
+      "field": "students",
+      "layer": "tahdhib-tahdhib",
+      "ref": "Tahdhib al-Tahdhib (Hyderabad ed.) 12/114-117, OpenITI transcription of Shamela 3310, https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TahdhibTahdhib/0852IbnHajarCasqalani.TahdhibTahdhib.Shamela0003310-ara2"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/3745"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

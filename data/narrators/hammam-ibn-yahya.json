@@ -1,0 +1,212 @@
+{
+  "id": "hammam-ibn-yahya",
+  "name": "Hammam ibn Yahya",
+  "nameAr": "همام بن يحيى بن دينار العوذي المحلمي مولاهم، أبو عبد الله، البصري",
+  "short": "Hammam ibn Yahya",
+  "shortAr": "همام بن يحيى",
+  "kunya": "Abu Abdullah",
+  "kunyaAr": "أبو عبد الله",
+  "kunyaVariants": [
+    "Abu Bakr"
+  ],
+  "nisbas": [
+    {
+      "ar": "الأزدي",
+      "en": "al-Azdi",
+      "kind": "tribal"
+    },
+    {
+      "ar": "العوذي",
+      "en": "al-Awdhi (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "المحلمي",
+      "en": "al-Muhallami (by clientage)",
+      "kind": "tribal"
+    },
+    {
+      "ar": "البصري",
+      "en": "al-Basri",
+      "kind": "geographic"
+    }
+  ],
+  "mawla": "Banu Awdh of Azd (their client)",
+  "fatherName": "Yahya",
+  "orthography": {
+    "spelled": "al-Awdhi: fathah on the ayn, sukun on the waw, kasrah on the dhal",
+    "source": "Taqrib al-Tahdhib, entry 7319"
+  },
+  "died": 164,
+  "diedNote": "164 or 165 AH (Taqrib); the Shamela record also gives 163",
+  "deathVariants": [
+    {
+      "year": 165,
+      "authority": "Taqrib al-Tahdhib (second date)"
+    },
+    {
+      "year": 163,
+      "authority": "as given on the Shamela record"
+    }
+  ],
+  "region": "Basra",
+  "tabaqa": 7,
+  "taqrib": {
+    "ar": "ثقة ربما وهم",
+    "en": "Reliable; he occasionally erred.",
+    "number": "7319",
+    "rank": 3
+  },
+  "band": "thiqa",
+  "rumuz": [
+    "ع"
+  ],
+  "external": {
+    "shamela": "https://shamela.ws/narrator/6739"
+  },
+  "teachers": [
+    {
+      "id": "thabit-al-bunani",
+      "name": "Thabit al-Bunani",
+      "nameAr": "ثابت البناني",
+      "source": "Sahih al-Bukhari 4663, 3653, 3922"
+    },
+    {
+      "id": "qatadah-ibn-diamah",
+      "name": "Qatadah ibn Di'amah",
+      "nameAr": "قتادة",
+      "source": "Ibn Hajar, Hady al-Sari, ch. 9, letter ha' (Hammam among the companions of Qatadah)"
+    }
+  ],
+  "students": [
+    {
+      "id": "habban-ibn-hilal",
+      "name": "Habban ibn Hilal",
+      "nameAr": "حبان بن هلال",
+      "source": "Sahih al-Bukhari 4663"
+    },
+    {
+      "name": "Muhammad ibn Sinan al-Awqi",
+      "nameAr": "محمد بن سنان",
+      "source": "Sahih al-Bukhari 3653"
+    },
+    {
+      "name": "Musa ibn Isma'il al-Tabudhaki",
+      "nameAr": "موسى بن إسماعيل",
+      "source": "Sahih al-Bukhari 3922"
+    },
+    {
+      "name": "Affan ibn Muslim",
+      "nameAr": "عفان بن مسلم",
+      "source": "Jami' al-Tirmidhi 3096"
+    }
+  ],
+  "verdicts": [
+    {
+      "critic": "Ahmad ibn Hanbal",
+      "criticDied": 241,
+      "ar": "همام ثبت في كل المشايخ",
+      "en": "Hammam is firm in all the shaykhs.",
+      "source": "al-Jarh wa al-Ta'dil 9/107",
+      "url": "https://shamela.ws/narrator/6739"
+    },
+    {
+      "critic": "Abd al-Rahman ibn Mahdi",
+      "criticDied": 198,
+      "via": "Ahmad ibn Hanbal",
+      "ar": "همام عندي في الصدق مثل ابن أبي عروبة",
+      "en": "To me Hammam is the equal of Ibn Abi Arubah in truthfulness.",
+      "source": "Tahdhib al-Kamal 30/302",
+      "url": "https://shamela.ws/narrator/6739"
+    },
+    {
+      "critic": "al-Ijli",
+      "criticDied": 261,
+      "ar": "بصري ثقة",
+      "en": "A Basran, reliable.",
+      "source": "Ikmal Tahdhib al-Kamal 12/165",
+      "url": "https://shamela.ws/narrator/6739"
+    },
+    {
+      "critic": "al-Hakim",
+      "criticDied": 405,
+      "ar": "ثقة حافظ",
+      "en": "Reliable, a hadith master.",
+      "source": "Tahdhib al-Tahdhib 4/284",
+      "url": "https://shamela.ws/narrator/6739"
+    },
+    {
+      "critic": "Ibn Hajar al-Asqalani",
+      "criticDied": 852,
+      "ar": "أحد الأثبات … وهذا يقتضي أن حديث همام بآخرة أصح ممن سمع منه قديما، وقد نص على ذلك أحمد بن حنبل، وقد اعتمده الأئمة الستة",
+      "en": "One of the firm narrators. Reviewing Yahya al-Qattan's reservations and Affan's report that Hammam later checked his books and corrected himself, he concludes that Hammam's hadith from his later period is sounder than what was heard from him early, as Ahmad stated, and that the six imams relied on him.",
+      "source": "Hady al-Sari, ch. 9, letter ha'",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الهاء"
+    }
+  ],
+  "dhahabi": {
+    "ar": "الحافظ",
+    "en": "The hadith master.",
+    "source": "al-Kashif 4/431"
+  },
+  "flags": [
+    {
+      "label": "Yahya al-Qattan's reservation",
+      "detail": "Al-Qattan paid little regard to Hammam and objected to much of his hadith; when Mu'adh ibn Hisham's books were checked they agreed with Hammam on many of the points Yahya had denied, and Yahya desisted. Hammam himself said that after returning to his books he found “we used to err a great deal” (Hady al-Sari, ch. 9). Ibn Sa'd: reliable, he sometimes erred in hadith."
+    },
+    {
+      "label": "Sole transmitter from Thabit, with support",
+      "detail": "Al-Tirmidhi and al-Bazzar said the cave hadith is known only through Hammam from Thabit. Ibn Hajar adds that Ibn Shahin's al-Afrad has it from Ja'far ibn Sulayman from Thabit as a corroboration, with witnesses from Habashi ibn Janadah (Ibn Asakir) and Ibn Abbas (al-Hakim, al-Iklil) (Fath al-Bari on 3653)."
+    }
+  ],
+  "bio": "A Basran client of the seventh generation and one of the chief transmitters of Qatadah and Yahya ibn Abi Kathir, used by all six compilers. Ahmad called him firm in every shaykh, and the hesitation of Yahya al-Qattan was answered in Yahya's own lifetime. In the cave hadith he is the pivot: three Basran students of his carry it to al-Bukhari.",
+  "provenance": [
+    {
+      "field": "taqrib",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7319"
+    },
+    {
+      "field": "died",
+      "layer": "taqrib",
+      "ref": "Taqrib al-Tahdhib 7319"
+    },
+    {
+      "field": "verdicts",
+      "layer": "tahdhib-kamal",
+      "ref": "al-Jarh wa al-Ta'dil 9/107; Tahdhib al-Kamal 30/302; Tahdhib al-Tahdhib 4/284"
+    },
+    {
+      "field": "flags",
+      "layer": "specialist",
+      "ref": "Hady al-Sari, ch. 9, letter ha'; Fath al-Bari on 3653"
+    },
+    {
+      "field": "dhahabi",
+      "layer": "kashif",
+      "ref": "al-Kashif 4/431"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Taqrib al-Tahdhib, entry 7319 (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/تقريب_التهذيب/حرف_الهاء"
+    },
+    {
+      "label": "Narrator record (Shamela)",
+      "url": "https://shamela.ws/narrator/6739"
+    },
+    {
+      "label": "Ibn Hajar, Hady al-Sari, ch. 9, letter ha' (Wikisource)",
+      "url": "https://ar.wikisource.org/wiki/مقدمة_فتح_الباري/الفصل_التاسع/حرف_الهاء"
+    },
+    {
+      "label": "Ibn Hajar, Fath al-Bari on hadith 3653 (islamweb)",
+      "url": "https://www.islamweb.net/ar/library/content/52/6636/"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}

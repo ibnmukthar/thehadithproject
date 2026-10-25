@@ -4,7 +4,7 @@ import { Wordmark } from "./Wordmark";
 const links = [
   { href: "/science/", label: "The science", short: "Science" },
   { href: "/explore/", label: "Explore" },
-  { href: "/blueprint/", label: "Blueprint" },
+  { href: "/about/", label: "About" },
   { href: "/contribute/", label: "Contribute" },
 ];
 

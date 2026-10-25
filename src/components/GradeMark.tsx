@@ -57,7 +57,7 @@ export function BandChip({ band, showAr = true, size = "md" }: { band: Band; sho
   return (
     <span
       className={`sans inline-flex items-center gap-1.5 rounded-full border ${size === "sm" ? "text-[0.74rem] px-2 py-[1px]" : "text-[0.82rem] px-2.5 py-[3px]"}`}
-      style={{ color: b.color, borderColor: "color-mix(in srgb, " + b.color + " 35%, transparent)", background: b.tint }}
+      style={{ color: `color-mix(in srgb, ${b.color} 72%, var(--ink))`, borderColor: "color-mix(in srgb, " + b.color + " 35%, transparent)", background: b.tint }}
     >
       <Glyph glyph={b.glyph} color={b.color} size={size === "sm" ? 11 : 13} />
       <span className="font-medium">{b.label}</span>
@@ -72,7 +72,7 @@ export function HadithChip({ band, label, size = "md" }: { band: HadithBand; lab
   return (
     <span
       className={`sans inline-flex items-center gap-1.5 rounded-full border ${cls}`}
-      style={{ color: b.color, borderColor: "color-mix(in srgb, " + b.color + " 35%, transparent)", background: b.tint }}
+      style={{ color: `color-mix(in srgb, ${b.color} 72%, var(--ink))`, borderColor: "color-mix(in srgb, " + b.color + " 35%, transparent)", background: b.tint }}
     >
       <Glyph glyph={b.glyph} color={b.color} size={size === "sm" ? 11 : size === "lg" ? 15 : 13} />
       <span className="font-medium">{label ?? b.label}</span>

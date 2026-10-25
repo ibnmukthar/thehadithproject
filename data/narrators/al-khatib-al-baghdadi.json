@@ -1,0 +1,159 @@
+{
+  "id": "al-khatib-al-baghdadi",
+  "name": "Ahmad ibn Ali al-Khatib al-Baghdadi",
+  "nameAr": "أحمد بن علي بن ثابت الخطيب البغدادي",
+  "short": "al-Khatib al-Baghdadi",
+  "shortAr": "الخطيب البغدادي",
+  "kunya": "Abu Bakr",
+  "kunyaAr": "أبو بكر",
+  "laqab": {
+    "ar": "الخطيب",
+    "en": "al-Khatib (the preacher)"
+  },
+  "nisbas": [
+    {
+      "ar": "البغدادي",
+      "en": "al-Baghdadi",
+      "kind": "geographic"
+    }
+  ],
+  "fatherName": "Ali",
+  "born": 392,
+  "died": 463,
+  "region": "Baghdad",
+  "band": "thiqa",
+  "role": "Compiler of al-Rihla fi Talab al-Hadith; author of Tarikh Baghdad",
+  "external": {
+    "shamela": "13975",
+    "sunnah": "10034"
+  },
+  "teachers": [
+    {
+      "id": "al-tarrazi",
+      "name": "Abu al-Hasan Ali ibn Muhammad al-Tarrazi",
+      "nameAr": "أبو الحسن علي بن محمد الطرازي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359 (18/272: heard from him in Nishapur); al-Dhahabi, Siyar A'lam al-Nubala 17/409 and Tarikh al-Islam 9/380, as quoted in Ithaf al-Murtaqi bi-Tarajim Shuyukh al-Bayhaqi, no. 120, pp. 349-350, https://shamela.ws/book/123666/341 and https://shamela.ws/book/123666/342"
+    },
+    {
+      "name": "Abu Bakr al-Barqani",
+      "nameAr": "أبو بكر البرقاني",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Abu Nu'aym al-Isbahani",
+      "nameAr": "أبو نعيم الحافظ",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "al-Qadi Abu Bakr al-Hiri",
+      "nameAr": "القاضي أبو بكر الحيري",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Abu Sa'id Muhammad ibn Musa al-Sayrafi",
+      "nameAr": "أبو سعيد الصيرفي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Abu al-Qasim Abd al-Rahman al-Sarraj",
+      "nameAr": "أبو القاسم عبد الرحمن السراج",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Abu Hazim al-Abdawi",
+      "nameAr": "أبو حازم العبدوي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    }
+  ],
+  "students": [
+    {
+      "name": "Abu Nasr ibn Makula",
+      "nameAr": "أبو نصر بن ماكولا",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Nasr al-Maqdisi",
+      "nameAr": "الفقيه نصر المقدسي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Muhammad ibn Futuh al-Humaydi",
+      "nameAr": "الحميدي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Abu al-Fadl ibn Khayrun",
+      "nameAr": "أبو الفضل بن خيرون",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "al-Mubarak ibn al-Tuyuri",
+      "nameAr": "المبارك بن الطيوري",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Abdullah ibn Ahmad al-Samarqandi",
+      "nameAr": "عبد الله بن أحمد السمرقندي",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "name": "Abu Bakr al-Barqani (his own teacher)",
+      "nameAr": "أبو بكر البرقاني",
+      "source": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    }
+  ],
+  "verdicts": [],
+  "bio": "The hadith master of Baghdad in the fifth century and author of the manuals that fixed the discipline's method (al-Kifaya, al-Jami' li-Akhlaq al-Rawi). He opened his short book on travelling in search of hadith with this report, as scholars often opened a chapter on virtues with a weak hadith on its theme; a report's presence in a master's book is not a grade.",
+  "provenance": [
+    {
+      "field": "kunyaAr",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "field": "laqab",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359; Shamela narrator record, https://shamela.ws/narrator/13975 (اللقب: الخطيب، الحافظ)"
+    },
+    {
+      "field": "nisbas",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "field": "fatherName",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359 (his father Abu al-Hasan Ali was khatib of the village of Darzijan)"
+    },
+    {
+      "field": "external.shamela",
+      "layer": "modern",
+      "ref": "Shamela narrator record, https://shamela.ws/narrator/13975"
+    },
+    {
+      "field": "external.sunnah",
+      "layer": "modern",
+      "ref": "sunnah.com narrator page, https://sunnah.com/narrator/10034"
+    },
+    {
+      "field": "teachers",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    },
+    {
+      "field": "students",
+      "layer": "specialist",
+      "ref": "al-Dhahabi, Siyar A'lam al-Nubala (Risala ed.) 18/270-280, https://shamela.ws/book/10906/11349 to /11359"
+    }
+  ],
+  "sources": [
+    {
+      "label": "al-Rihla fi Talab al-Hadith, hadith 1 (Shamela)",
+      "url": "https://shamela.ws/book/1454/8"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "signoffs": []
+  }
+}
